@@ -3,221 +3,195 @@
   "results": [
     {
       "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Board Games",
+      "question": "In Dungeons and Dragons (5th edition), what stat do you normally add onto your initiative die roll?",
+      "correct_answer": "Dexterity",
+      "incorrect_answers": [
+        "Speed",
+        "Strength",
+        "Wisdom"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Sports",
+      "question": "In Baseball, how many times does the ball have to be pitched outside of the strike zone before the batter is walked?",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Politics",
+      "question": "Which of the following Argentinian presidents was elected in 2015?",
+      "correct_answer": "Mauricio Macri",
+      "incorrect_answers": [
+        "Cristina Fernandez de Kirchner",
+        "Nestor Kirchner",
+        "Juan Domingo Peron"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "Which US state has the highest population?",
+      "correct_answer": "California",
+      "incorrect_answers": [
+        "New York",
+        "Texas",
+        "Florida"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Animals",
+      "question": "Which of these species is not extinct?",
+      "correct_answer": "Komodo dragon",
+      "incorrect_answers": [
+        "Japanese sea lion",
+        "Tasmanian tiger",
+        "Saudi gazelle"
+      ]
+    },
+    {
+      "type": "multiple",
       "difficulty": "medium",
       "category": "General Knowledge",
-      "question": "Which American manufactured submachine gun was informally known by the American soldiers that used it as &quot;Grease Gun&quot;?",
-      "correct_answer": "M3",
+      "question": "Frank Lloyd Wright was the architect behind what famous building?",
+      "correct_answer": "The Guggenheim",
       "incorrect_answers": [
-        "Colt 9mm",
-        "Thompson",
-        "MAC-10"
-      ]
-    },
-    {
-      "type": "boolean",
-      "difficulty": "medium",
-      "category": "Entertainment: Video Games",
-      "question": "In the Season One Championship of &quot;League of Legends&quot;, the highest achievable rank was Diamond.",
-      "correct_answer": "False",
-      "incorrect_answers": [
-        "True"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Entertainment: Television",
-      "question": "Who played the sun baby in the original run of Teletubbies?",
-      "correct_answer": "Jessica Smith",
-      "incorrect_answers": [
-        "Pui Fan Lee",
-        "Sue Monroe",
-        "Lisa Brockwell"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Entertainment: Video Games",
-      "question": "&quot;The Potato Sack&quot; was a collection of indie games released on Steam in 2011 as a promotion for which game?",
-      "correct_answer": "Portal 2",
-      "incorrect_answers": [
-        "Left 4 Dead 2",
-        "Half-Life 3",
-        "Dota 2"
+        "Villa Savoye",
+        "Sydney Opera House",
+        "The Space Needle"
       ]
     },
     {
       "type": "multiple",
       "difficulty": "medium",
-      "category": "Sports",
-      "question": "Which basketball team has attended the most NBA grand finals?",
-      "correct_answer": "Los Angeles Lakers",
-      "incorrect_answers": [
-        "Boston Celtics",
-        "Philadelphia 76ers",
-        "Golden State Warriors"
-      ]
-    },
-    {
-      "type": "boolean",
-      "difficulty": "easy",
-      "category": "Entertainment: Video Games",
-      "question": "In the &quot;S.T.A.L.K.E.R.&quot; series, the Freedom faction wishes to destroy the supernatural area known as  &quot;the Zone&quot;.",
-      "correct_answer": "False",
-      "incorrect_answers": [
-        "True"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Entertainment: Video Games",
-      "question": "What is the most expensive weapon in Counter-Strike: Global Offensive?",
-      "correct_answer": "Scar-20/G3SG1",
-      "incorrect_answers": [
-        "M4A1",
-        "AWP",
-        "R8 Revolver"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Entertainment: Video Games",
-      "question": "Which Crypt of the NecroDancer (2015) character has a soundtrack by Jake &quot;Virt&quot; Kaufman?",
-      "correct_answer": "Uncle Eli",
-      "incorrect_answers": [
-        "Cadence",
-        "Nocturna",
-        "Octavian (Bard)"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Entertainment: Video Games",
-      "question": "In &quot;Phoenix Wright: Ace Attorney&quot; which character is the District Chief of Police?",
-      "correct_answer": "Damon Gant",
-      "incorrect_answers": [
-        "Miles Edgeworth",
-        "Lana Skye",
-        "Mike Meekins"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
       "category": "Science: Computers",
-      "question": "Who invented the &quot;Spanning Tree Protocol&quot;?",
-      "correct_answer": "Radia Perlman",
+      "question": "In CSS, which of these values CANNOT be used with the &quot;position&quot; property?",
+      "correct_answer": "center",
       "incorrect_answers": [
-        "Paul Vixie",
-        "Vint Cerf",
-        "Michael Roberts"
+        "static",
+        "absolute",
+        "relative"
       ]
     },
     {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Entertainment: Board Games",
-      "question": "Which ability from the &quot;Magic: The Gathering&quot; Scars of Mirrodin expansion involves having at least three artifacts in play?",
-      "correct_answer": "Metalcraft",
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Books",
+      "question": "Shub-Niggurath is a creature that was created by J. R. R. Tolkien in his novel &quot;The Lord of The Rings&quot;.",
+      "correct_answer": "False",
       "incorrect_answers": [
-        "Affinity",
-        "Imprint",
-        "Living Weapon"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Entertainment: Video Games",
-      "question": "&quot;Rollercoaster Tycoon&quot; was programmed mostly entirely in...",
-      "correct_answer": "x86 Assembly",
-      "incorrect_answers": [
-        "C++",
-        "C",
-        "ALGOL"
+        "True"
       ]
     },
     {
       "type": "multiple",
       "difficulty": "medium",
       "category": "Entertainment: Video Games",
-      "question": "What is the name of the currency in the &quot;Animal Crossing&quot; series?",
-      "correct_answer": "Bells",
+      "question": "In the &quot;S.T.A.L.K.E.R.&quot; series, which of these items can&#039;t be used to lower the player&#039;s accumulated radiation?",
+      "correct_answer": "Radioprotectant",
       "incorrect_answers": [
-        "Sea Shells",
-        "Leaves",
-        "Bugs"
+        "Anti-rad",
+        "Medkit",
+        "Vodka"
+      ]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Books",
+      "question": "Stephen Chbosky wrote the book &#039;The Perks of Being A Wallflower&#039;.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "In Until Dawn, both characters Sam and Mike cannot be killed under any means until the final chapter of the game.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Geography",
+      "question": "How many timezones does Russia have?",
+      "correct_answer": "11",
+      "incorrect_answers": [
+        "6",
+        "24",
+        "16"
       ]
     },
     {
       "type": "multiple",
       "difficulty": "easy",
       "category": "Geography",
-      "question": "All of the following are classified as Finno-Ugric languages EXCEPT:",
-      "correct_answer": "Samoyedic",
+      "question": "Which UK country features a dragon on their flag?",
+      "correct_answer": "Wales",
       "incorrect_answers": [
-        "Hungarian",
-        "Finnish",
-        "Estonian"
+        "England",
+        "North Ireland",
+        "Scotland"
       ]
     },
     {
       "type": "multiple",
       "difficulty": "medium",
-      "category": "Geography",
-      "question": "What tiny principality lies between Spain and France?",
-      "correct_answer": "Andorra",
+      "category": "History",
+      "question": "Who was the main developer of the Suez Canal?",
+      "correct_answer": "Ferdinand de Lesseps",
       "incorrect_answers": [
-        "Liechtenstein",
-        "Monaco",
-        "San Marino"
+        "Louis-Eug&egrave;ne Cavaignac",
+        "John Milton",
+        "Johann Lukas von Hildebrandt"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "In what year were screenshots added to Steam?",
+      "correct_answer": "2011",
+      "incorrect_answers": [
+        "2010",
+        "2008",
+        "2009"
       ]
     },
     {
       "type": "multiple",
       "difficulty": "medium",
       "category": "Entertainment: Film",
-      "question": "In which 1955 film does Frank Sinatra play Nathan Detroit?",
-      "correct_answer": "Guys and Dolls",
+      "question": "Which animated film did Steven Lisberger direct in 1980 before going on to direct Tron?",
+      "correct_answer": "Animalympics",
       "incorrect_answers": [
-        "Anchors Aweigh",
-        "From Here to Eternity",
-        "High Society"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Entertainment: Music",
-      "question": "What is Pink Floyd&#039;s first album?",
-      "correct_answer": "The Piper at the Gates of Dawn",
-      "incorrect_answers": [
-        "The Dark Side of the Moon",
-        "Wish You Were Here",
-        "Meddle"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Entertainment: Board Games",
-      "question": "The board game, Nightmare was released in what year?",
-      "correct_answer": "1991",
-      "incorrect_answers": [
-        "1992",
-        "1989",
-        "1995"
+        "The Fox and the Hound",
+        "The Black Cauldron",
+        "The Great Mouse Detecive"
       ]
     },
     {
       "type": "boolean",
       "difficulty": "medium",
-      "category": "Geography",
-      "question": "There are no roads in/out of Juneau, Alaska.",
+      "category": "General Knowledge",
+      "question": "The British organisation CAMRA stands for The Campaign for Real Ale.",
       "correct_answer": "True",
       "incorrect_answers": [
         "False"
@@ -225,130 +199,152 @@
     },
     {
       "type": "multiple",
-      "difficulty": "easy",
-      "category": "Geography",
-      "question": "Which of the following European languages is classified as a &quot;language isolate?&quot;",
-      "correct_answer": "Basque",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "Who created Agent 47 in the game series &quot;Hitman&quot;?",
+      "correct_answer": "Dr. Otto Wolfgang Ort-Meyer",
       "incorrect_answers": [
-        "Galician",
-        "Maltese",
-        "Hungarian"
+        "Professor Hertz Amadeus Schneider",
+        "Dr. Josef Mengele",
+        "Professor Otto Rothwinkler"
       ]
     },
     {
       "type": "boolean",
       "difficulty": "easy",
+      "category": "Entertainment: Music",
+      "question": "The 2011 movie &quot;The Adventures of Tintin&quot; was directed by Steven Spielberg.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Television",
+      "question": "Prior to working at Wizards of the Coast, &quot;Mark Rosewater&quot; was a writer for which show?",
+      "correct_answer": "Roseanne",
+      "incorrect_answers": [
+        "Boy Meets World",
+        "The X-Files",
+        "NYPD Blue"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Geography",
+      "question": "Which of these island countries is located in the Caribbean?",
+      "correct_answer": "Barbados",
+      "incorrect_answers": [
+        "Fiji",
+        "Maldives",
+        "Seychelles"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
       "category": "Entertainment: Video Games",
-      "question": "In Team Fortress 2, being disguised as a scout or medic results in a speed boost.",
+      "question": "Which of these is NOT a terrorist faction in Counter-Strike (2000)?",
+      "correct_answer": "Midwest Militia",
+      "incorrect_answers": [
+        "Phoenix Connection",
+        "Elite Crew",
+        "Guerrilla Warfare"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "If someone said &quot;you are olid&quot;, what would they mean?",
+      "correct_answer": "You smell extremely unpleasant.",
+      "incorrect_answers": [
+        "You are out of shape/weak.",
+        "Your appearance is repulsive.",
+        "You are incomprehensible/an idiot."
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": " Which chemical element, number 11 in the Periodic table, has the symbol Na?",
+      "correct_answer": "Sodium",
+      "incorrect_answers": [
+        "Carbon",
+        "Lead",
+        "Nitrogen"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "Which Pok&eacute;mon and it&#039;s evolutions were banned from appearing in a main role after the Episode 38 Incident?",
+      "correct_answer": "The Porygon Line",
+      "incorrect_answers": [
+        "The Pikachu Line",
+        "The Elekid Line",
+        "The Magby Line"
+      ]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "category": "Science &amp; Nature",
+      "question": "Shrimp can swim backwards.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Animals",
+      "question": "A slug&rsquo;s blood is green.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "What is Solid Snake&#039;s real name?",
+      "correct_answer": "David",
+      "incorrect_answers": [
+        "Solid Snake",
+        "John",
+        "Huey"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science &amp; Nature",
+      "question": "What mineral has the lowest number on the Mohs scale?",
+      "correct_answer": "Talc",
+      "incorrect_answers": [
+        "Quartz",
+        "Diamond",
+        "Gypsum"
+      ]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Art",
+      "question": "Leonardo da Vinci was not the creator of the Mona Lisa.",
       "correct_answer": "False",
       "incorrect_answers": [
         "True"
       ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Geography",
-      "question": "What is the capital city of Slovenia?",
-      "correct_answer": "Ljubljana",
-      "incorrect_answers": [
-        "Maribor",
-        "Velenje",
-        "Trbovlje"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "General Knowledge",
-      "question": "What is the name of the company in Lethal Company?",
-      "correct_answer": "The Company",
-      "incorrect_answers": [
-        "Planet Scrap Co.",
-        "Lethal Robotics",
-        "Gordian Shipping Co."
-      ]
-    },
-    {
-      "type": "boolean",
-      "difficulty": "hard",
-      "category": "Entertainment: Video Games",
-      "question": "The names of Roxas&#039;s Keyblades in Kingdom Hearts are &quot;Oathkeeper&quot; and &quot;Oblivion&quot;.",
-      "correct_answer": "True",
-      "incorrect_answers": [
-        "False"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Entertainment: Video Games",
-      "question": "Which character is from &quot;Splatoon&quot;?",
-      "correct_answer": "Marie",
-      "incorrect_answers": [
-        "Cyrus",
-        "Palutena",
-        "Shulk"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "General Knowledge",
-      "question": "Which of these banks are NOT authorized to issue currency notes in Hong Kong?",
-      "correct_answer": "OCBC",
-      "incorrect_answers": [
-        "HSBC",
-        "Standard Chartered",
-        "Bank of China"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Entertainment: Video Games",
-      "question": "In the 2000 video game &quot;Crimson Skies,&quot; what was the name of the protagonists&#039; zeppelin?",
-      "correct_answer": "Pandora",
-      "incorrect_answers": [
-        "Helios",
-        "Icarus",
-        "Orion"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science &amp; Nature",
-      "question": "What is the name of the cognitive bias wherein a person with low ability in a particular skill mistake themselves as being superior?",
-      "correct_answer": "Dunning-Kruger effect",
-      "incorrect_answers": [
-        "Meyers-Briggs effect",
-        "M&uuml;ller-Lyer effect",
-        "Freud-Hall effect"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Vehicles",
-      "question": "Automobiles produced by Tesla Motors operate on which form of energy?",
-      "correct_answer": "Electricity",
-      "incorrect_answers": [
-        "Gasoline",
-        "Diesel",
-        "Nuclear"
-      ]
-    },
-    {
-      "type": "boolean",
-      "difficulty": "medium",
-      "category": "Science &amp; Nature",
-      "question": "Steel is an alloy of Iron and Carbon.",
-      "correct_answer": "True",
-      "incorrect_answers": [
-        "False"
-      ]
     }
   ],
-  "gameDate": "2025-12-24"
+  "gameDate": "2025-12-25"
 }
