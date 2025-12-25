@@ -16,10 +16,12 @@ jobs:
       - name: Fetch trivia JSON
         run: |
           DATE=$(date -u +%Y-%m-%d)
-          curl -s "https://opentdb.com/api.php?amount=30" \
-          | jq --arg date "$DATE" '. + { gameDate: $date }' \
+          curl -s "https://the-trivia-api.com/v2/questions?limit=30" \
+          | jq --arg date "$DATE" '{
+              gameDate: $date,
+              results: .
+            }' \
           > trivia.json
-
 
       - name: Commit & push
         run: |
