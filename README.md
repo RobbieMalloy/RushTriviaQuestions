@@ -1,6 +1,6 @@
 ## Trivia Questions
 
 Trivia questions are provided by the  
-[Open Trivia Database](https://opentdb.com).
+[The Trivia API]([https://the-trivia-api.com](https://the-trivia-api.com)).
 
-Used under the Open Trivia Database API terms.
+Used under The Trivia API terms.
