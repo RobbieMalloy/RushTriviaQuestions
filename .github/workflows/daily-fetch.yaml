@@ -16,12 +16,23 @@ jobs:
       - name: Fetch trivia JSON
         run: |
           DATE=$(date -u +%Y-%m-%d)
-          curl -s "https://the-trivia-api.com/v2/questions?limit=30" \
-          | jq --arg date "$DATE" '{
-              gameDate: $date,
-              results: .
-            }' \
-          > trivia.json
+
+          for LEVEL in easy medium hard random; do
+            if [ "$LEVEL" = "random" ]; then
+              URL="https://the-trivia-api.com/v2/questions?limit=30"
+            else
+              URL="https://the-trivia-api.com/v2/questions?limit=30&difficulties=$LEVEL"
+            fi
+
+            curl -s "$URL" \
+            | jq --arg date "$DATE" --arg level "$LEVEL" '{
+                gameDate: $date,
+                difficulty: $level,
+                results: .
+              }' \
+            > "trivia-$LEVEL.json"
+          done
+
 
       - name: Commit & push
         run: |
