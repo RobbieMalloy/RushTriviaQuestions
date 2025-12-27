@@ -1,321 +1,45 @@
 {
-  "gameDate": "2025-12-26",
+  "gameDate": "2025-12-27",
   "difficulty": "random",
   "results": [
     {
-      "category": "geography",
-      "id": "6499c2614e0e966accb0b978",
-      "correctAnswer": "Illinois",
-      "incorrectAnswers": [
-        "Iowa",
-        "Nebraska",
-        "Kansas"
-      ],
-      "question": {
-        "text": "Which state is directly west of Indiana?"
-      },
-      "tags": [
-        "usa",
-        "us_states",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "music",
-      "id": "622a1c387cc59eab6f950b7a",
-      "correctAnswer": "The Offspring",
+      "id": "62506429e12f6dec240bdf9e",
+      "correctAnswer": "Hot Child in the City",
       "incorrectAnswers": [
-        "Styx",
-        "Three 6 Mafia",
-        "The Velvet Underground"
+        "96 Tears",
+        "99 Luftballoons",
+        "I'm Gonna Be (500 Miles)"
       ],
       "question": {
-        "text": "Which punk band from the United States released the studio album 'Rise and Fall, Rage and Grace'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e4a",
-      "correctAnswer": "Douglas Adams",
-      "incorrectAnswers": [
-        "Neil Gaiman",
-        "H. G. Wells",
-        "Arthur C. Clarke"
-      ],
-      "question": {
-        "text": "Which author wrote 'The Hitchhiker's Guide to the Galaxy'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f95007e",
-      "correctAnswer": "Trampoline",
-      "incorrectAnswers": [
-        "Golf",
-        "Wrestling",
-        "Squash"
-      ],
-      "question": {
-        "text": "What sport was first introduced into the Olympics in 2000?"
-      },
-      "tags": [
-        "olympics",
-        "firsts",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c3a7cc59eab6f951044",
-      "correctAnswer": "Foal",
-      "incorrectAnswers": [
-        "Tiger",
-        "Kitten",
-        "Giraffe"
-      ],
-      "question": {
-        "text": "What is the meaning of the name of the constellation Equuleus?"
-      },
-      "tags": [
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "63dd25ca742e43ed64f1f01a",
-      "correctAnswer": "General Motors",
-      "incorrectAnswers": [
-        "Ford",
-        "Toyota",
-        "Daimler"
-      ],
-      "question": {
-        "text": "What company owns the brand 'Chevrolet'?"
-      },
-      "tags": [
-        "society_and_culture",
-        "business",
-        "motoring"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f950809",
-      "correctAnswer": "Asia",
-      "incorrectAnswers": [
-        "South America",
-        "Oceania",
-        "Europe"
-      ],
-      "question": {
-        "text": "The country of East Timor is on which continent?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "63adbd6204c68cc1e14b8e25",
-      "correctAnswer": "Treaties of Paris",
-      "incorrectAnswers": [
-        "Treaties of Vienna",
-        "Treaties of London",
-        "Treaties of Berlin"
-      ],
-      "question": {
-        "text": "What treaties ended the Napoleonic wars?"
-      },
-      "tags": [
-        "history",
-        "napoleonic_wars",
-        "wars"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6237421dcb85f7ce9e949dab",
-      "correctAnswer": "Samoa",
-      "incorrectAnswers": [
-        "Mauritius",
-        "Croatia",
-        "Djibouti"
-      ],
-      "question": {
-        "text": "Apia is the capital city of which country?"
-      },
-      "tags": [
-        "capital_cities",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "62ab32ba5202de619af28122",
-      "correctAnswer": "500",
-      "incorrectAnswers": [
-        "Camry",
-        "Phantom",
-        "Clio"
-      ],
-      "question": {
-        "text": "Which of these is a model of car made by Fiat?"
-      },
-      "tags": [
-        "motoring",
-        "business",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c3c7cc59eab6f9517b6",
-      "correctAnswer": "Ambrosia",
-      "incorrectAnswers": [
-        "Manna",
-        "Amrita",
-        "Soma"
-      ],
-      "question": {
-        "text": "In Ancient Greek mythology, which food of the gods was said to give humans immortality?"
-      },
-      "tags": [
-        "mythology",
-        "ancient_greece",
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62373fd0cb85f7ce9e949cbe",
-      "correctAnswer": "Ouagadougou",
-      "incorrectAnswers": [
-        "Monrovia",
-        "Manila",
-        "Dushanbe"
-      ],
-      "question": {
-        "text": "What is the capital city of Burkina Faso?"
-      },
-      "tags": [
-        "capital_cities",
-        "africa"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c3a7cc59eab6f9510e3",
-      "correctAnswer": "Oil",
-      "incorrectAnswers": [
-        "Blood",
-        "Sperm",
-        "Water"
-      ],
-      "question": {
-        "text": "A 42 foot sperm whale has about 7 tons of __________ in it."
-      },
-      "tags": [
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "645fcc91541c4d4fc8cf30a8",
-      "correctAnswer": "Biggie Smalls",
-      "incorrectAnswers": [
-        "Dr. Dre",
-        "Ice Cube",
-        "Tupac Shakur"
-      ],
-      "question": {
-        "text": "Which rapper had the hit song 'Big Poppa' in the 1990s?"
-      },
-      "tags": [
-        "hip_hop",
-        "music",
-        "rap_music",
-        "songs"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c347cc59eab6f94fbb2",
-      "correctAnswer": "\"Comfortably Numb\" by Pink Floyd",
-      "incorrectAnswers": [
-        "\"Rapper's Delight\" by Sugarhill Gang",
-        "\"Welcome to the Black Parade\" by My Chemical Romance",
-        "\"Baby Got Back\" by Sir Mix-a-Lot"
-      ],
-      "question": {
-        "text": "Which song begins with the lyrics: \"Hello? Is there anybody in there?\"?"
+        "text": "Nick Gilder had a one hit wonder in 1978 with which song?"
       },
       "tags": [
         "songs",
-        "lyrics",
+        "one_hit_wonders",
         "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "626030654b176d54800e3d21",
+      "correctAnswer": "Guimaraes",
+      "incorrectAnswers": [
+        "The Hague",
+        "Budapest",
+        "Milan"
+      ],
+      "question": {
+        "text": "Which of these cities is in Portugal?"
+      },
+      "tags": [
+        "cities",
+        "europe",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -324,41 +48,65 @@
     },
     {
       "category": "music",
-      "id": "622a1c357cc59eab6f94fdda",
-      "correctAnswer": "Tupac Shakur",
+      "id": "622a1c357cc59eab6f94ff4c",
+      "correctAnswer": "Michael Jackson",
       "incorrectAnswers": [
-        "Drake",
-        "Ludacris",
-        "Nas"
+        "Nicki Minaj",
+        "Neil Young",
+        "Eric Clapton"
       ],
       "question": {
-        "text": "Which American rapper released the album 'All Eyez on Me'?"
+        "text": "Who released the studio album 'Invincible'?"
       },
       "tags": [
-        "rap_music",
+        "general_knowledge",
         "music"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "science",
-      "id": "645a6490158db1bd1779f19b",
-      "correctAnswer": "Ivory",
+      "id": "622a1c3a7cc59eab6f9510d0",
+      "correctAnswer": "Mangrove",
       "incorrectAnswers": [
-        "Diamonds",
-        "Gold",
-        "Silver"
+        "Wetlands",
+        "Marsh",
+        "Everglades"
       ],
       "question": {
-        "text": "For what valuable material do some people hunt walruses?"
+        "text": "Dense seawater swamps along coasts of hot countries are called ________."
       },
       "tags": [
-        "animals",
-        "hunting",
-        "materials"
+        "names",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6293ec877f41d6338b96eef7",
+      "correctAnswer": "Julius Caesar",
+      "incorrectAnswers": [
+        "Augustus Caesar",
+        "Claudius",
+        "Nero"
+      ],
+      "question": {
+        "text": "Which Roman ruler oversaw the demise of the Roman Republic to be replaced with a Roman Empire?"
+      },
+      "tags": [
+        "people",
+        "history",
+        "society_and_culture",
+        "romans",
+        "classics",
+        "empires"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -367,20 +115,21 @@
     },
     {
       "category": "history",
-      "id": "622a1c357cc59eab6f94fde6",
-      "correctAnswer": "Peter I",
+      "id": "622a1c347cc59eab6f94f9ef",
+      "correctAnswer": "James Madison",
       "incorrectAnswers": [
-        "Nicholas III",
-        "Ivan IV",
-        "Alexei VI"
+        "Zachary Taylor",
+        "John Adams",
+        "Herbert Hoover"
       ],
       "question": {
-        "text": "Who is regarded as the most influential monarch of Russian Romanov Dynasty?"
+        "text": "Who was the 4th president of the USA, in term during the period 1809–1817?"
       },
       "tags": [
-        "people",
-        "russia",
+        "usa",
+        "presidents",
         "leaders",
+        "people",
         "history"
       ],
       "type": "text_choice",
@@ -389,21 +138,21 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "647a125b55463d5ce2994fdf",
-      "correctAnswer": "A groundhog",
+      "category": "history",
+      "id": "622a1c367cc59eab6f9503be",
+      "correctAnswer": "France",
       "incorrectAnswers": [
-        "A prairie dog",
-        "A mole",
-        "An armadillo"
+        "Italy",
+        "Russia",
+        "Spain"
       ],
       "question": {
-        "text": "Which animal supposedly predicts whether there will be 6 more weeks of winter or an early spring?"
+        "text": "Where did the bayonet originate?"
       },
       "tags": [
-        "traditions",
-        "society_and_culture",
-        "animals"
+        "inventions",
+        "wars",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -411,123 +160,62 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e7b",
-      "correctAnswer": "Kurt Vonnegut",
+      "category": "general_knowledge",
+      "id": "645b69d8f09106226db23569",
+      "correctAnswer": "Library of Congress",
       "incorrectAnswers": [
-        "Vladimir Nabokov",
-        "Edgar Allan Poe",
-        "Stanisław Lem"
+        "The British Library",
+        "The New York Public Library",
+        "The Vatican Library"
       ],
       "question": {
-        "text": "Which author wrote 'Slaughterhouse-Five'?"
+        "text": "What is the world's largest library, with over 115 million volumes on 532 miles of bookshelves?"
       },
       "tags": [
-        "arts_and_literature"
+        "buildings"
       ],
       "type": "text_choice",
       "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f8b0",
-      "correctAnswer": "Cycling",
-      "incorrectAnswers": [
-        "Skiing",
-        "Snooker",
-        "Tennis"
-      ],
-      "question": {
-        "text": "With which sport is Eddy Merckx associated?"
-      },
-      "tags": [
-        "people",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa1f",
-      "correctAnswer": "Pieter Bruegel the Elder",
-      "incorrectAnswers": [
-        "Georges Seurat",
-        "Pablo Picasso",
-        "Hokusai"
-      ],
-      "question": {
-        "text": "Which artist painted \"Landscape with the Fall of Icarus\""
-      },
-      "tags": [
-        "painting",
-        "art",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6233869d62eaad73716a8ce4",
-      "correctAnswer": "France & Spain ",
-      "incorrectAnswers": [
-        "Thailand & Myanmar",
-        "China & Vietnam",
-        "The USA & Mexico"
-      ],
-      "question": {
-        "text": "Which 2 Countries Have Coastlines On The Bay Of Biscay?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "science",
-      "id": "622a1c3f7cc59eab6f952397",
-      "correctAnswer": "Symbiosis",
+      "id": "622a1c3a7cc59eab6f95106c",
+      "correctAnswer": "Wether",
       "incorrectAnswers": [
-        "Parasitism",
-        "Syncronicity",
-        "Parallelism"
+        "Cuz",
+        "Wat",
+        "Ewe"
       ],
       "question": {
-        "text": "What is the word for a relationship between two different types of organism which live together for their mutual benefit?"
+        "text": "What is a word for a castrated ram?"
       },
       "tags": [
         "science"
       ],
       "type": "text_choice",
-      "difficulty": "easy",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "646089a9de964ebc39016c65",
-      "correctAnswer": "Comb",
+      "category": "society_and_culture",
+      "id": "6463394f01d576cfac3aa33a",
+      "correctAnswer": "Hit and run",
       "incorrectAnswers": [
-        "Pliers",
-        "Scissor",
-        "Razor"
+        "Crush and leave",
+        "Drive and go",
+        "Smack and flee"
       ],
       "question": {
-        "text": "What is the name of the toothed object commonly used to straighten hair?"
+        "text": "What is the term used to describe an accident in which the driver flees the scene?"
       },
       "tags": [
-        "tools",
-        "words"
+        "driving",
+        "law",
+        "society_and_culture",
+        "phrases"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -535,21 +223,44 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f9518d1",
-      "correctAnswer": "Guillotine",
+      "category": "general_knowledge",
+      "id": "645cb0ee602ff42ca52fb413",
+      "correctAnswer": "Cobra",
       "incorrectAnswers": [
-        "Firing Squad",
-        "Fire",
-        "Dogs"
+        "Mustang",
+        "Charger",
+        "Thunderbird"
       ],
       "question": {
-        "text": "What was the instrument of execution during the \"Reign of Terror\"?"
+        "text": "Which iconic sports car designed by Carroll Shelby was produced during the 1960s?"
       },
       "tags": [
-        "france",
-        "1700's",
-        "revolutions",
+        "cars",
+        "motoring",
+        "1960's"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951b72",
+      "correctAnswer": "War of the Roses",
+      "incorrectAnswers": [
+        "The House War",
+        "The Game of Thrones",
+        "The Happy War"
+      ],
+      "question": {
+        "text": "In the 15th century, what was the war between the houses of Lancaster and York?"
+      },
+      "tags": [
+        "wars",
+        "uk",
+        "middle_ages",
+        "medieval",
         "history"
       ],
       "type": "text_choice",
@@ -558,16 +269,172 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "6257403c9da29df7b05f73ce",
-      "correctAnswer": "The Batman",
+      "category": "society_and_culture",
+      "id": "65056f9b7a97013de78b5484",
+      "correctAnswer": "Ramadan",
       "incorrectAnswers": [
-        "Rocky",
-        "Die Hard",
-        "The Good, the Bad and the Ugly"
+        "Eid al-Adha",
+        "Yom Kippur",
+        "Uposatha"
       ],
       "question": {
-        "text": "Name the movie that matches the following plot summary: 'When a serial killer murders key political figures, a vigilante is forced to intervene.'"
+        "text": "During which religious festival are Muslims forbidden to eat, drink or have sex between sunrise and sunset?"
+      },
+      "tags": [
+        "society_and_culture",
+        "islam",
+        "religion"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f5f",
+      "correctAnswer": "Isaac Asimov",
+      "incorrectAnswers": [
+        "Ursula K. Le Guin",
+        "Philip K. Dick",
+        "Stephen King"
+      ],
+      "question": {
+        "text": "Which author wrote 'Robot short stories'?"
+      },
+      "tags": [
+        "science_fiction",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63b0693b4799123c67712f69",
+      "correctAnswer": "Katajjaq",
+      "incorrectAnswers": [
+        "Hula",
+        "Yodelling",
+        "Crooning"
+      ],
+      "question": {
+        "text": "What is the name of the traditional throat singing of the Inuit people of the Arctic?"
+      },
+      "tags": [
+        "society_and_culture",
+        "traditions"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f95191b",
+      "correctAnswer": "Treaty of Utrecht",
+      "incorrectAnswers": [
+        "Treaty of Versailles",
+        "Treaty of Yalta",
+        "Treaty of Geneva"
+      ],
+      "question": {
+        "text": "What treaty, signed in 1713, ended the War of the Spanish Succession?"
+      },
+      "tags": [
+        "wars",
+        "spain",
+        "1700's",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6476390bf05ea6d6f587a17a",
+      "correctAnswer": "Kilobyte",
+      "incorrectAnswers": [
+        "Gigabyte",
+        "Megabyte",
+        "Terabyte"
+      ],
+      "question": {
+        "text": "What is a unit of computer memory equal to 1024 bytes?"
+      },
+      "tags": [
+        "computing",
+        "science",
+        "technology",
+        "numbers"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f95031e",
+      "correctAnswer": "Mary Queen Of Scots",
+      "incorrectAnswers": [
+        "Elizabeth I",
+        "Victoria",
+        "Jane Seymour"
+      ],
+      "question": {
+        "text": "Who was the mother of James I of England?"
+      },
+      "tags": [
+        "people",
+        "uk",
+        "kings",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "62611f414b176d54800e3d4c",
+      "correctAnswer": "1960",
+      "incorrectAnswers": [
+        "1941",
+        "1980",
+        "1971"
+      ],
+      "question": {
+        "text": "In which year did Sirimavo Bandaranaike make history as the first woman elected head of a government?"
+      },
+      "tags": [
+        "events",
+        "firsts",
+        "politics",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "62573f223d2f5c16bfb8832d",
+      "correctAnswer": "A New York City mob boss transfers control of his empire to his reluctant son.",
+      "incorrectAnswers": [
+        "A leader tries to expand his empire while a poor barber tries to avoid persecution.",
+        "A gang leader is imprisoned and volunteers for a conduct-aversion experiment.",
+        "After his father goes missing, a professor finds himself in a search for the Holy Grail."
+      ],
+      "question": {
+        "text": "What is the plot of the movie The Godfather?"
       },
       "tags": [
         "film",
@@ -579,21 +446,42 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f3d",
-      "correctAnswer": "J. R. R. Tolkien",
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94ff9b",
+      "correctAnswer": "Mali",
       "incorrectAnswers": [
-        "G. K. Chesterton",
-        "Philip Pullman",
-        "C. S. Lewis"
+        "Burkina Faso",
+        "Mauritania",
+        "Ivory Coast"
       ],
       "question": {
-        "text": "Which author wrote 'The Return of the King'?"
+        "text": "The City Of Timbuktu Is In Which African Country?"
       },
       "tags": [
-        "literature",
-        "fantasy",
-        "arts_and_literature"
+        "cities",
+        "africa",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625740139da29df7b05f73c2",
+      "correctAnswer": "To Kill a Mockingbird",
+      "incorrectAnswers": [
+        "Cool Hand Luke",
+        "The Elephant Man",
+        "The Lion King"
+      ],
+      "question": {
+        "text": "Name the movie that matches the following plot summary: 'A lawyer in Depression-era Alabama defends a black man against an undeserved rape charge.'"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -601,39 +489,170 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "622a1c3a7cc59eab6f950fe1",
-      "correctAnswer": "Colorado",
+      "category": "society_and_culture",
+      "id": "637162381bf863c45ca6c35f",
+      "correctAnswer": "Family over everything",
       "incorrectAnswers": [
-        "Mississippi",
-        "Hudson",
-        "Rio Grande"
+        "To each his own",
+        "Familiarity breeds contempt",
+        "Farming is the backbone"
       ],
       "question": {
-        "text": "Which river made The Grand Canyon?"
+        "text": "How does that Latin phrase 'Familia supra omnia' translate into English?"
+      },
+      "tags": [
+        "society_and_culture",
+        "language",
+        "the_romans",
+        "classics"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623742afcb85f7ce9e949de6",
+      "correctAnswer": "Tunis",
+      "incorrectAnswers": [
+        "Ankara",
+        "Algiers",
+        "Dakar"
+      ],
+      "question": {
+        "text": "What is the capital city of Tunisia?"
       },
       "tags": [
         "geography"
       ],
       "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fd54",
+      "correctAnswer": "The Fugees",
+      "incorrectAnswers": [
+        "N.E.R.D",
+        "No Doubt",
+        "All Saints"
+      ],
+      "question": {
+        "text": "With Which Band Did Wyclef Jean & Lauryn Hill First Make Their Name?"
+      },
+      "tags": [
+        "people",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "645aba5e158db1bd1779f1cf",
+      "correctAnswer": "University of Michigan",
+      "incorrectAnswers": [
+        "Ohio State University",
+        "University of Notre Dame",
+        "Harvard University"
+      ],
+      "question": {
+        "text": "In which university was Gerald Ford voted MVP of the football team in 1934?"
+      },
+      "tags": [
+        "sport",
+        "presidents",
+        "american_football",
+        "football",
+        "usa",
+        "universities"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "62443731746187c5e7be933a",
+      "correctAnswer": "NaHCO3",
+      "incorrectAnswers": [
+        "NaOCI",
+        "Hg",
+        "KNO3"
+      ],
+      "question": {
+        "text": "What is the chemical formula for sodium bicarbonate?"
+      },
+      "tags": [],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "637162531bf863c45ca6c36b",
+      "correctAnswer": "Hodie mihi, cras tibi",
+      "incorrectAnswers": [
+        "Cras es, noster",
+        "Tendit in, ardua virtus",
+        "Vincit, qui patitur"
+      ],
+      "question": {
+        "text": "Which of these Latin phrases translates to 'Today it's me, tomorrow it will be you'?"
+      },
+      "tags": [
+        "society_and_culture",
+        "language",
+        "the_romans",
+        "classics"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "63e4c35c106de6ffa7d4a7df",
+      "correctAnswer": "Stegosaurus",
+      "incorrectAnswers": [
+        "Tyrannosaurus Rex",
+        "Diplodocus",
+        "Ankylosaurus"
+      ],
+      "question": {
+        "text": "Which dinosaur had a long, spiked tail?"
+      },
+      "tags": [
+        "science",
+        "dinosaurs",
+        "nature"
+      ],
+      "type": "text_choice",
       "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "geography",
-      "id": "622a1c387cc59eab6f9508ae",
-      "correctAnswer": "South Africa",
+      "id": "62374077cb85f7ce9e949d01",
+      "correctAnswer": "Gambia",
       "incorrectAnswers": [
-        "Lesotho",
-        "Eswatini",
-        "Angola"
+        "Palau",
+        "South Korea",
+        "Oman"
       ],
       "question": {
-        "text": "Which of these countries borders Botswana?"
+        "text": "Banjul is the capital city of which country?"
       },
       "tags": [
-        "africa",
         "geography"
       ],
       "type": "text_choice",

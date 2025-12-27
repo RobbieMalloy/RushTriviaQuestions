@@ -1,25 +1,23 @@
 {
-  "gameDate": "2025-12-26",
+  "gameDate": "2025-12-27",
   "difficulty": "easy",
   "results": [
     {
       "category": "society_and_culture",
-      "id": "63adbd5d04c68cc1e14b8e1d",
-      "correctAnswer": "Maple Tree",
+      "id": "6477ba9d550bc819ad646ae8",
+      "correctAnswer": "Manscaping",
       "incorrectAnswers": [
-        "Oak Tree",
-        "Birch Tree",
-        "Elm Tree"
+        "Bodyculture",
+        "Topihairy",
+        "Guydening"
       ],
       "question": {
-        "text": "Which type of tree is known for its association with Canada and its bright red foliage in autumn?"
+        "text": "What is the slang term for removing body hair from men?"
       },
       "tags": [
-        "science",
-        "trees",
-        "canada",
-        "plants",
-        "society_and_culture"
+        "words",
+        "society_and_culture",
+        "slang"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -28,21 +26,41 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f95139a",
-      "correctAnswer": "Harry Potter",
+      "id": "63a03984c7d86251f9b65c72",
+      "correctAnswer": "Humpty Dumpty",
       "incorrectAnswers": [
-        "The Lord of the Rings",
-        "A Song of Ice and Fire",
-        "Twilight"
+        "Hey Diddle Diddle",
+        "Mary Had a Little Lamb",
+        "Baa Baa Black Sheep"
       ],
       "question": {
-        "text": "In which book series does 'Albus Dumbledore' appear?"
+        "text": "What nursery rhyme is about a man who falls off a wall?"
       },
       "tags": [
-        "young_adult",
-        "literature",
         "arts_and_literature",
-        "fictitious_characters"
+        "nursery_rhymes"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "649b45ba828109028d23623d",
+      "correctAnswer": "Celsius",
+      "incorrectAnswers": [
+        "Fahrenheit",
+        "Kelvin",
+        "Rankine"
+      ],
+      "question": {
+        "text": "On which scale is normal human body temperature approximately 37 degrees?"
+      },
+      "tags": [
+        "medicine",
+        "science",
+        "biology"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -51,214 +69,22 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c367cc59eab6f9501fe",
-      "correctAnswer": "Quentin Tarantino",
+      "id": "622a1c347cc59eab6f94fadd",
+      "correctAnswer": "Tom Hanks",
       "incorrectAnswers": [
-        "Steven Spielberg",
-        "Woody Allen",
-        "Martin Scorsese"
+        "Morgan Freeman",
+        "Nigel Hawthorne",
+        "Paul Newman"
       ],
       "question": {
-        "text": "Which director directed Pulp Fiction?"
+        "text": "Who won the 1994 Academy Award for Best Leading Actor for playing the role of Forrest Gump in Forrest Gump?"
       },
       "tags": [
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950ba5",
-      "correctAnswer": "Toto",
-      "incorrectAnswers": [
-        "Styx",
-        "The Pussycat Dolls",
-        "Three 6 Mafia"
-      ],
-      "question": {
-        "text": "Which American rock band released the song 'Africa'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "65056f847a97013de78b5465",
-      "correctAnswer": "Puck",
-      "incorrectAnswers": [
-        "Jack",
-        "Duck",
-        "Chuck"
-      ],
-      "question": {
-        "text": "What is hit by ice hockey players?"
-      },
-      "tags": [
-        "sport_and_leisure"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "65056ef77a97013de78b539f",
-      "correctAnswer": "Adverb",
-      "incorrectAnswers": [
-        "Adjective",
-        "Noun",
-        "Conjunction"
-      ],
-      "question": {
-        "text": "Which part of speech is 'hastily'?"
-      },
-      "tags": [
-        "language",
-        "grammar",
-        "vocabulary"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f9517fa",
-      "correctAnswer": "Pompeii",
-      "incorrectAnswers": [
-        "Genoa",
-        "Capua",
-        "Ostia"
-      ],
-      "question": {
-        "text": "Which Roman city was buried under volcanic ash from Mount Vesuvius In 79A.D.?"
-      },
-      "tags": [
-        "romans",
-        "volcanoes",
-        "italy",
-        "classics",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623741a0cb85f7ce9e949d79",
-      "correctAnswer": "Netherlands",
-      "incorrectAnswers": [
-        "Saint Lucia",
-        "Malaysia",
-        "Benin"
-      ],
-      "question": {
-        "text": "Amsterdam is the capital city of which country?"
-      },
-      "tags": [
-        "cities",
-        "capital_cities",
-        "europe",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "625e9e33796f721e95543f46",
-      "correctAnswer": "Red",
-      "incorrectAnswers": [
-        "Black",
-        "Blue",
-        "Green"
-      ],
-      "question": {
-        "text": "Which of these colors is included on the flag of China?"
-      },
-      "tags": [
-        "flags",
-        "china",
-        "asia",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "63a03974c7d86251f9b65c5e",
-      "correctAnswer": "Ariel",
-      "incorrectAnswers": [
-        "Belle",
-        "Jasmine",
-        "Elsa"
-      ],
-      "question": {
-        "text": "What is the name of the mermaid in the Disney film The Little Mermaid?"
-      },
-      "tags": [
-        "film_and_tv",
-        "disney",
+        "academy_awards",
+        "acting",
         "film",
-        "fictitious_characters"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950ea8",
-      "correctAnswer": "J. K. Rowling",
-      "incorrectAnswers": [
-        "Christopher Tolkien",
-        "Philip Pullman",
-        "C. S. Lewis"
-      ],
-      "question": {
-        "text": "Which author wrote 'Fantastic Beasts and Where to Find Them'?"
-      },
-      "tags": [
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950d2b",
-      "correctAnswer": "The Beatles",
-      "incorrectAnswers": [
-        "Deep Purple",
-        "Feeder",
-        "Uriah Heep"
-      ],
-      "question": {
-        "text": "Which English rock band released the song 'I Want to Hold Your Hand'?"
-      },
-      "tags": [
-        "music"
+        "general_knowledge",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -288,23 +114,41 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "6396ecaa6017b1e8e09020cf",
-      "correctAnswer": "Khao Soi",
+      "category": "arts_and_literature",
+      "id": "65056e967a97013de78b5318",
+      "correctAnswer": "Vincent van Gogh",
       "incorrectAnswers": [
-        "Toad in the Hole",
-        "Kentucky Fried Chicken",
-        "Chicken Tikka Masala"
+        "Claude Monet",
+        "Johannes Vermeer",
+        "Egon Schiele"
       ],
       "question": {
-        "text": "Which of these dishes is most commonly found in Northern regions of Thailand?"
+        "text": "Who painted \"The Starry Night\" in 1889?"
       },
       "tags": [
-        "food_and_drink",
-        "food",
-        "geography ",
-        "thailand",
-        "southeast_asia"
+        "arts_and_literature",
+        "painting",
+        "post-impressionism"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f95031c",
+      "correctAnswer": "Boudica",
+      "incorrectAnswers": [
+        "Joan of Arc",
+        "Zenobia",
+        "Fulvia"
+      ],
+      "question": {
+        "text": "Who Was the Queen Of The Iceni Tribe Of England Who Led An Uprising Against The Romans?"
+      },
+      "tags": [
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -313,19 +157,19 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c3d7cc59eab6f951c51",
-      "correctAnswer": "Mistletoe",
+      "id": "622a1c367cc59eab6f950120",
+      "correctAnswer": "Allah",
       "incorrectAnswers": [
-        "Holly",
-        "Mimosa",
-        "Lavender"
+        "Mohammed",
+        "Yaweh",
+        "Jehovah"
       ],
       "question": {
-        "text": "At Christmas, it is customary to exchange kisses beneath a sprig of which plant?"
+        "text": "What is God called in the Muslim faith?"
       },
       "tags": [
-        "christmas",
-        "plants",
+        "religion",
+        "islam",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -334,21 +178,221 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502f2",
-      "correctAnswer": "Deer ",
+      "category": "geography",
+      "id": "62602d284b176d54800e3c83",
+      "correctAnswer": "Munich",
       "incorrectAnswers": [
-        "Sheep",
-        "Pig",
-        "Goat"
+        "Valencia",
+        "Budapest",
+        "Milan"
       ],
       "question": {
-        "text": "From what animal do we get venison?"
+        "text": "Which of these cities is in Germany?"
       },
       "tags": [
-        "animals",
-        "food",
-        "food_and_drink"
+        "cities",
+        "europe",
+        "germany",
+        "general_knowledge",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "625063b1e12f6dec240bdf7b",
+      "correctAnswer": "Ice Ice Baby",
+      "incorrectAnswers": [
+        "I Want Candy",
+        "Baby Got Back",
+        "We're Not Gonna Take It"
+      ],
+      "question": {
+        "text": "Vanilla Ice had a one hit wonder in 1990 with which song?"
+      },
+      "tags": [
+        "songs",
+        "one_hit_wonders",
+        "1990's",
+        "general_knowledge",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f95011d",
+      "correctAnswer": "Quran",
+      "incorrectAnswers": [
+        "Torah",
+        "Dead Sea Scrolls",
+        "Bolah"
+      ],
+      "question": {
+        "text": "What is the holy book of Islam?"
+      },
+      "tags": [
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625741379da29df7b05f740e",
+      "correctAnswer": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "incorrectAnswers": [
+        "Die Hard",
+        "The Departed",
+        "The Truman Show"
+      ],
+      "question": {
+        "text": "Name the movie that matches the following plot summary: 'A blacksmith teams up with an eccentric pirate to save his love.'"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "65056fdf7a97013de78b54e0",
+      "correctAnswer": "Physicist",
+      "incorrectAnswers": [
+        "Physician",
+        "Physiatrist",
+        "Physicalist"
+      ],
+      "question": {
+        "text": "What term is used for someone who studies physics?"
+      },
+      "tags": [
+        "science",
+        "occupations"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625698849da29df7b05f728c",
+      "correctAnswer": "Spiderman",
+      "incorrectAnswers": [
+        "Obadiah Stane",
+        "Iron Man",
+        "Hawkeye"
+      ],
+      "question": {
+        "text": "In the Marvel Cinematic Universe, which character is played by Tom Holland?"
+      },
+      "tags": [
+        "mcu",
+        "film",
+        "acting",
+        "marvel",
+        "comics",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "639ae873929b90846f2fc8df",
+      "correctAnswer": "Red",
+      "incorrectAnswers": [
+        "Blue",
+        "Green",
+        "Purple"
+      ],
+      "question": {
+        "text": "In Star Wars, what color is Darth Vader's lightsaber?"
+      },
+      "tags": [
+        "star_wars",
+        "film_and_tv",
+        "cult_films",
+        "film",
+        "science_fiction"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "63e13a18106de6ffa7d4a792",
+      "correctAnswer": "Triangle",
+      "incorrectAnswers": [
+        "Square",
+        "Parallelogram",
+        "Trapezoid"
+      ],
+      "question": {
+        "text": "What is the name of a shape with three sides?"
+      },
+      "tags": [
+        "science",
+        "mathematics",
+        "shapes"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "645c9f5442ea81e2554c5f19",
+      "correctAnswer": "Rocky",
+      "incorrectAnswers": [
+        "The Godfather",
+        "Jaws",
+        "Star Wars"
+      ],
+      "question": {
+        "text": "Which 1970s movie, featuring Sylvester Stallone, was re-released under the rhyming title \"The Italian Stallion\"?"
+      },
+      "tags": [
+        "film_and_tv",
+        "film"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c3d7cc59eab6f951cad",
+      "correctAnswer": "Winter Wonderland",
+      "incorrectAnswers": [
+        "Jingle Bells",
+        "Driving Home For Christmas",
+        "Silent Night"
+      ],
+      "question": {
+        "text": "In which famous Christmas Song is a snowman pretended to be \"Parsons Brown\"?"
+      },
+      "tags": [
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -357,15 +401,188 @@
     },
     {
       "category": "geography",
-      "id": "622a1c357cc59eab6f950008",
-      "correctAnswer": "Rome",
+      "id": "623742c5cb85f7ce9e949def",
+      "correctAnswer": "Ukraine",
       "incorrectAnswers": [
-        "Milan",
-        "Naples",
-        "Florence"
+        "Tajikistan",
+        "Poland",
+        "Lithuania"
       ],
       "question": {
-        "text": "In which city is the colosseum located?"
+        "text": "Kyiv is the capital city of which country?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b20",
+      "correctAnswer": "Spice Girls",
+      "incorrectAnswers": [
+        "The Supremes",
+        "TLC",
+        "All Saints"
+      ],
+      "question": {
+        "text": "Which band was Geri Halliwell a member of?"
+      },
+      "tags": [
+        "people",
+        "music",
+        "pop_music",
+        "bands"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "64626214ab138b829b81e9bb",
+      "correctAnswer": "Apples",
+      "incorrectAnswers": [
+        "Bananas",
+        "Cherries",
+        "Oranges"
+      ],
+      "question": {
+        "text": "What fruit allegedly keeps the doctor away if you eat one per day?"
+      },
+      "tags": [
+        "food",
+        "fruit",
+        "food_and_drink",
+        "sayings",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950bd7",
+      "correctAnswer": "Guns N' Roses",
+      "incorrectAnswers": [
+        "MercyMe",
+        "The Pussycat Dolls",
+        "Three 6 Mafia"
+      ],
+      "question": {
+        "text": "Which American hard rock band released the song 'Welcome to the Jungle'?"
+      },
+      "tags": [
+        "general_knowledge",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "65056e1d7a97013de78b526f",
+      "correctAnswer": "Athens",
+      "incorrectAnswers": [
+        "Rome",
+        "Istanbul",
+        "Cairo"
+      ],
+      "question": {
+        "text": "In which city is the Parthenon located?"
+      },
+      "tags": [
+        "architecture",
+        "ancient_greece",
+        "parthenon"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "646140374d46e537ca8cd981",
+      "correctAnswer": "Diapers",
+      "incorrectAnswers": [
+        "Formula Milk",
+        "Medicine",
+        "Food"
+      ],
+      "question": {
+        "text": "What type of baby product is Huggies?"
+      },
+      "tags": [
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c347cc59eab6f94f9eb",
+      "correctAnswer": "George Washington ",
+      "incorrectAnswers": [
+        "Chester Arthur",
+        "Ulysses S. Grant",
+        "Millard Fillmore"
+      ],
+      "question": {
+        "text": "Who was the 1st president of the USA, in term during the period 1789–1797?"
+      },
+      "tags": [
+        "presidents",
+        "usa",
+        "firsts",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "65056e867a97013de78b5301",
+      "correctAnswer": "Jesus",
+      "incorrectAnswers": [
+        "Muhammad",
+        "Buddha",
+        "Moses"
+      ],
+      "question": {
+        "text": "Who did the Twelve Apostles follow?"
+      },
+      "tags": [
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623b577afd6c701a9211835e",
+      "correctAnswer": "India",
+      "incorrectAnswers": [
+        "Egypt",
+        "Italy",
+        "China"
+      ],
+      "question": {
+        "text": "In which country would you find the Taj Mahal?"
       },
       "tags": [
         "tourist_attractions",
@@ -378,172 +595,19 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "6266bc4ab0e62e469cf43e90",
-      "correctAnswer": "Stringed",
-      "incorrectAnswers": [
-        "Woodwind",
-        "Brass",
-        "Percussion"
-      ],
-      "question": {
-        "text": "What type of instrument is a banjo?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c3c7cc59eab6f95196a",
-      "correctAnswer": "Silent Night",
-      "incorrectAnswers": [
-        "The Holly and the Ivy",
-        "Oh, Holy Night",
-        "We Three Kings"
-      ],
-      "question": {
-        "text": "What is the English title of the Christmas carol written by the Austrian Josef Mohr, originally called 'Stille Nacht'?"
-      },
-      "tags": [
-        "christmas",
-        "songs",
-        "language",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "65056f637a97013de78b5436",
-      "correctAnswer": "Calligraphy",
-      "incorrectAnswers": [
-        "Graphology",
-        "Fontacy",
-        "Pantology"
-      ],
-      "question": {
-        "text": "What is the art of beautiful handwriting?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd4f",
-      "correctAnswer": "Guitar",
-      "incorrectAnswers": [
-        "Piano",
-        "Drums",
-        "Saxophone"
-      ],
-      "question": {
-        "text": "With Which Instrument Is Les Paul Associated?"
-      },
-      "tags": [
-        "people",
-        "general_knowledge",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c347cc59eab6f94fb8c",
-      "correctAnswer": "\"In da Club\" by 50 Cent",
-      "incorrectAnswers": [
-        "\"All Star\" by Smash Mouth",
-        "\"Gimme More\" by Britney Spears",
-        "\"I Write Sins Not Tragedies\" by Panic! at the Disco"
-      ],
-      "question": {
-        "text": "Which song begins with the lyrics: \"Go shawty, it's your birthday, we gon' party like it's yo birthday.\"?"
-      },
-      "tags": [
-        "songs",
-        "lyrics",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c608650d1a5e051325a61",
-      "correctAnswer": "France",
-      "incorrectAnswers": [
-        "Austria",
-        "Benin",
-        "North Africa"
-      ],
-      "question": {
-        "text": "Crêpes are most associated with which part of the world?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3c7cc59eab6f951797",
-      "correctAnswer": "Lord Voldemort",
-      "incorrectAnswers": [
-        "Lord Darkmoor",
-        "Lord Moribund",
-        "Lord Doit Chagrin"
-      ],
-      "question": {
-        "text": "Which is the name of the villain in the Harry Potter series?"
-      },
-      "tags": [
-        "harry_potter",
-        "fictitious_characters",
-        "literature",
-        "young_adult",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "geography",
-      "id": "6233853962eaad73716a8c59",
-      "correctAnswer": "The Richter Scale ",
+      "id": "6237353fcfe13103f55eb512",
+      "correctAnswer": "India",
       "incorrectAnswers": [
-        "The Geiger Scale",
-        "The Scoville Scale",
-        "The Bristol Scale"
+        "United Kingdom",
+        "Indonesia",
+        "Ireland"
       ],
       "question": {
-        "text": "What Scale Is Used To Measure The Intensity Of An Earthquake"
+        "text": "Which region of the world uses '.in' at the end of its web addresses?"
       },
       "tags": [
-        "geology",
-        "words",
+        "the_internet",
         "geography"
       ],
       "type": "text_choice",
@@ -553,18 +617,20 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f95012c",
-      "correctAnswer": "December",
+      "id": "622a1c367cc59eab6f95012a",
+      "correctAnswer": "Olympus",
       "incorrectAnswers": [
-        "September",
-        "April",
-        "November"
+        "Sinai",
+        "Everest",
+        "Marathon"
       ],
       "question": {
-        "text": "In what month is Christmas observed?"
+        "text": "Which Greek mountain was known as the home of the gods?"
       },
       "tags": [
-        "christmas",
+        "mythology",
+        "ancient_greece",
+        "classics",
         "general_knowledge",
         "society_and_culture"
       ],
@@ -575,85 +641,22 @@
     },
     {
       "category": "music",
-      "id": "622a1c357cc59eab6f94ff3c",
-      "correctAnswer": "Michael Jackson",
+      "id": "622a1c347cc59eab6f94fb85",
+      "correctAnswer": "\"All I Want For Christmas Is You\" by Mariah Carey",
       "incorrectAnswers": [
-        "Nicki Minaj",
-        "Neil Young",
-        "Eric Clapton"
+        "\"Jumpin', Jumpin'\" by Destiny's Child",
+        "\"American Pie\" by Don McLean",
+        "\"Let it Be\" by the Beatles"
       ],
       "question": {
-        "text": "Which American singer, songwriter and dancer released the song 'Don't Stop 'Til You Get Enough'?"
+        "text": "Which song begins with the lyrics: \"I don't want a lot for Christmas, there is just one thing I need.\"?"
       },
       "tags": [
         "songs",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "64af1025deeef534fb54ad0d",
-      "correctAnswer": "Marvel",
-      "incorrectAnswers": [
-        "Wonder",
-        "DC",
-        "Image"
-      ],
-      "question": {
-        "text": "What is the name of the comic book company whose comics feature Spiderman?"
-      },
-      "tags": [
-        "comics",
-        "arts_and_literature",
-        "superheroes"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3e7cc59eab6f952312",
-      "correctAnswer": "Stethoscope",
-      "incorrectAnswers": [
-        "MRI Scanner",
-        "Forceps",
-        "Insulin Pen"
-      ],
-      "question": {
-        "text": "What instrument do doctors often have around their necks?"
-      },
-      "tags": [
-        "medicine",
+        "lyrics",
+        "christmas",
         "general_knowledge",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "650570327a97013de78b5553",
-      "correctAnswer": "10",
-      "incorrectAnswers": [
-        "8",
-        "12",
-        "11"
-      ],
-      "question": {
-        "text": "What decimal number does the binary number \"1010\" represent?"
-      },
-      "tags": [
-        "math",
-        "binary",
-        "science"
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "easy",

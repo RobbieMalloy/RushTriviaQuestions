@@ -1,129 +1,20 @@
 {
-  "gameDate": "2025-12-26",
+  "gameDate": "2025-12-27",
   "difficulty": "hard",
   "results": [
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94ff57",
-      "correctAnswer": "Bob Dylan",
-      "incorrectAnswers": [
-        "Neil Young",
-        "Eric Clapton",
-        "Alanis Morissette"
-      ],
-      "question": {
-        "text": "Which American musician released the song 'Hurricane'?"
-      },
-      "tags": [
-        "songs",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62417d190f96c4efe8d773a4",
-      "correctAnswer": "Detroit Red Wings",
-      "incorrectAnswers": [
-        "Detroit Football",
-        "Detroit Bucks",
-        "Detroit Canucks"
-      ],
-      "question": {
-        "text": "Which of these is a hockey team based in Detroit?"
-      },
-      "tags": [
-        "nhl",
-        "hockey",
-        "nicknames",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f95105a",
-      "correctAnswer": "Silicon Chip",
-      "incorrectAnswers": [
-        "Semiconductor",
-        "Solid State Drive",
-        "Universal Serial Bus"
-      ],
-      "question": {
-        "text": "What Fundamental Part Of Computer Technology Was Pantented In The Us In 1961?"
-      },
-      "tags": [],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c6176badf21197f98f77e",
-      "correctAnswer": "Pepperpot",
-      "incorrectAnswers": [
-        "Plov",
-        "Cou Cou and Flying Fish",
-        "Shawarma"
-      ],
-      "question": {
-        "text": "Which of these dishes would you most expect to find in Guyana?"
-      },
-      "tags": [
-        "food",
-        "south_america",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62417d070f96c4efe8d7739d",
-      "correctAnswer": "Dallas Stars",
-      "incorrectAnswers": [
-        "Dallas Tigers",
-        "Dallas Football",
-        "Dallas Predators"
-      ],
-      "question": {
-        "text": "Which of these is a hockey team based in Dallas?"
-      },
-      "tags": [
-        "nhl",
-        "hockey",
-        "dallas",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "geography",
-      "id": "6260307d4b176d54800e3d28",
-      "correctAnswer": "Albania",
+      "id": "62374129cb85f7ce9e949d49",
+      "correctAnswer": "Liechtenstein",
       "incorrectAnswers": [
-        "Latvia",
-        "Denmark",
-        "Sweden"
+        "Argentina",
+        "Suriname",
+        "Philippines"
       ],
       "question": {
-        "text": "In which country is the city of Tirana?"
+        "text": "Vaduz is the capital city of which country?"
       },
       "tags": [
-        "cities",
-        "europe",
         "geography"
       ],
       "type": "text_choice",
@@ -132,92 +23,19 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "649fcf8eebb41911d4cbd6dc",
-      "correctAnswer": "Wolf",
+      "category": "geography",
+      "id": "62373fc8cb85f7ce9e949cbb",
+      "correctAnswer": "Bulgaria",
       "incorrectAnswers": [
-        "Tiger",
-        "Lion",
-        "Bear"
+        "Brunei",
+        "Israel",
+        "Andorra"
       ],
       "question": {
-        "text": "In the play Macbeth, the witches' cauldron contains the tooth of which animal?"
+        "text": "Sofia is the capital city of which country?"
       },
       "tags": [
-        "arts_and_literature",
-        "theater",
-        "shakespeare",
-        "literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c3c7cc59eab6f9517b6",
-      "correctAnswer": "Ambrosia",
-      "incorrectAnswers": [
-        "Manna",
-        "Amrita",
-        "Soma"
-      ],
-      "question": {
-        "text": "In Ancient Greek mythology, which food of the gods was said to give humans immortality?"
-      },
-      "tags": [
-        "mythology",
-        "ancient_greece",
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "64f6d9bd660c3a8d960101f4",
-      "correctAnswer": "Rodney King",
-      "incorrectAnswers": [
-        "O.J. Simpson",
-        "Reginald Denny",
-        "Michael Brown"
-      ],
-      "question": {
-        "text": "In 1991, there was outrage after the LAPD's notorious encounter with which man was caught on video?"
-      },
-      "tags": [
-        "usa",
-        "history",
-        "1990's",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "63b069534799123c67712f7d",
-      "correctAnswer": "Kebaya",
-      "incorrectAnswers": [
-        "Kaftan",
-        "Dashiki",
-        "Thobe"
-      ],
-      "question": {
-        "text": "Which of these is a form of clothing worn by women in Malaysia and Indonesia?"
-      },
-      "tags": [
-        "society_and_culture",
-        "fashion",
-        "southeast_asia",
-        "malaysia",
-        "indonesia"
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -226,19 +44,18 @@
     },
     {
       "category": "science",
-      "id": "622a1c377cc59eab6f95058c",
-      "correctAnswer": "The thereputic effects of bathing",
+      "id": "622a1c397cc59eab6f950fbd",
+      "correctAnswer": "Elisha Otis",
       "incorrectAnswers": [
-        "Plasma",
-        "Balinese culture",
-        "Victims of crime"
+        "Marshall Rivet",
+        "Thomas Edison",
+        "Maxwell Hoff"
       ],
       "question": {
-        "text": "What is balneology the study of?"
+        "text": "Who Invented The Elevator?"
       },
       "tags": [
-        "science",
-        "words"
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -246,81 +63,21 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f7c",
-      "correctAnswer": "Stephen King",
+      "category": "geography",
+      "id": "64a481cddb01fd81937c97bf",
+      "correctAnswer": "California",
       "incorrectAnswers": [
-        "H. P. Lovecraft",
-        "Edgar Allan Poe",
-        "Jack Vance"
+        "Oregon",
+        "Florida",
+        "Idaho"
       ],
       "question": {
-        "text": "Which author wrote 'Just After Sunset'?"
+        "text": "Which US state is home to the Sequoia National Forest?"
       },
       "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f950148",
-      "correctAnswer": "Ernest Hemmingway",
-      "incorrectAnswers": [
-        "Joseph Conrad",
-        "Anthony Burgess",
-        "George Orwell"
-      ],
-      "question": {
-        "text": "Whose first collection of short stories entitled \"In Our Time\" was published in 1925?"
-      },
-      "tags": [
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c80",
-      "correctAnswer": "U2",
-      "incorrectAnswers": [
-        "Public Image Ltd.",
-        "The Script",
-        "The Cure"
-      ],
-      "question": {
-        "text": "Which Irish rock band released the song 'Beautiful Day'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f950157",
-      "correctAnswer": "Three Times",
-      "incorrectAnswers": [
-        "Once",
-        "No Times",
-        "Five Times"
-      ],
-      "question": {
-        "text": "How many times did Peter deny Jesus?"
-      },
-      "tags": [
-        "christianity",
-        "society_and_culture"
+        "us_states",
+        "geography",
+        "trees"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -329,62 +86,21 @@
     },
     {
       "category": "film_and_tv",
-      "id": "625fd744dc0dd3b72da64d2f",
-      "correctAnswer": "1993",
+      "id": "649d6d6de3aef0a3c23f6429",
+      "correctAnswer": "George Clooney",
       "incorrectAnswers": [
-        "1989",
-        "1997",
-        "2001"
+        "Brad Pitt",
+        "Leonardo DiCaprio",
+        "Tom Hanks"
       ],
       "question": {
-        "text": "In which year was Groundhog Day released?"
+        "text": "Which actor received 3 Oscar nominations in one year, winning for his supporting role in \"Syriana\"?"
       },
       "tags": [
+        "film_and_tv",
         "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c347cc59eab6f94f9c7",
-      "correctAnswer": "Jimmy Carter",
-      "incorrectAnswers": [
-        "George W. Bush",
-        "Ronald Reagan",
-        "Grover Cleveland"
-      ],
-      "question": {
-        "text": "Who was the 39th president of the USA, in term during the period 1977–1981?"
-      },
-      "tags": [
-        "usa",
-        "presidents",
-        "leaders",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b1c",
-      "correctAnswer": "Rage Against the Machine",
-      "incorrectAnswers": [
-        "MercyMe",
-        "Three 6 Mafia",
-        "The Velvet Underground"
-      ],
-      "question": {
-        "text": "Which American band released the studio album 'Evil Empire'?"
-      },
-      "tags": [
-        "music"
+        "acting",
+        "academy_awards"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -393,18 +109,19 @@
     },
     {
       "category": "geography",
-      "id": "623b57a6fd6c701a9211836f",
-      "correctAnswer": "Mexico",
+      "id": "622a1c357cc59eab6f94fe50",
+      "correctAnswer": "Asia",
       "incorrectAnswers": [
-        "Israel",
-        "Indonesia",
-        "Greece"
+        "Europe",
+        "Africa",
+        "Autralasia"
       ],
       "question": {
-        "text": "In which country would you find Chichen Itza?"
+        "text": "In which continent would you find the Ob river?"
       },
       "tags": [
-        "tourist_attractions",
+        "rivers",
+        "bodies_of_water",
         "geography"
       ],
       "type": "text_choice",
@@ -413,22 +130,19 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c367cc59eab6f95034b",
-      "correctAnswer": "Rommel",
+      "category": "geography",
+      "id": "623b5813fd6c701a92118397",
+      "correctAnswer": "Greece",
       "incorrectAnswers": [
-        "MacArthur",
-        "Montgomery",
-        "Zhukov"
+        "Thailand",
+        "Bulgaria",
+        "Libya"
       ],
       "question": {
-        "text": "Which WWII general was nicknamed 'The Desert Fox'?"
+        "text": "In which country would you find the UNESCO World Heritage site of Meteora?"
       },
       "tags": [
-        "world_war_2",
-        "people",
-        "wars",
-        "history"
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -436,19 +150,42 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "647129af64c916f9c84814b7",
-      "correctAnswer": "Figure skating",
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fcff",
+      "correctAnswer": "Anaxagoras",
       "incorrectAnswers": [
-        "Ice hockey",
-        "Gymnastics",
-        "Tennis"
+        "Denis Diderot",
+        "Ludwig Wittgenstein",
+        "Socrates"
       ],
       "question": {
-        "text": "Which sport saw athletes like John Curry and Peggy Fleming rise to prominence as proteges of coach Carlo Fassi?"
+        "text": "Which philosopher famously said 'In everything, there is a share of everything'?"
       },
       "tags": [
-        "sport"
+        "philosophy",
+        "quotes",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "63bc3fb50e893d6e5a6a0fe4",
+      "correctAnswer": "The Divan",
+      "incorrectAnswers": [
+        "The Ottoman",
+        "The Futon",
+        "The Chaise Lounge"
+      ],
+      "question": {
+        "text": "What was the name of the Ottoman Empire's governing body?"
+      },
+      "tags": [
+        "history",
+        "ottoman_empire"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -457,18 +194,19 @@
     },
     {
       "category": "geography",
-      "id": "622a1c357cc59eab6f94fe26",
-      "correctAnswer": "Cape Town ",
+      "id": "622a1c357cc59eab6f94fe5f",
+      "correctAnswer": "Wyoming",
       "incorrectAnswers": [
-        "Freetown",
-        "Johannesburg",
-        "Port Elizabeth"
+        "Dakota",
+        "Idaho",
+        "Utah"
       ],
       "question": {
-        "text": "What was The First Town Founded By Europeans In Southern Africa?"
+        "text": "Of which US state is Cheyenne is the capital?"
       },
       "tags": [
-        "africa",
+        "usa",
+        "us_states",
         "cities",
         "geography"
       ],
@@ -478,126 +216,19 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f989",
-      "correctAnswer": "The Power and the Glory",
+      "category": "geography",
+      "id": "6237401acb85f7ce9e949cdc",
+      "correctAnswer": "Yamoussoukro",
       "incorrectAnswers": [
-        "The Remains of the Day",
-        "Post Office",
-        "Nine Stories"
+        "Male",
+        "Bamako",
+        "Moroni"
       ],
       "question": {
-        "text": "Which book contains the character 'The Whiskey Priest'?"
+        "text": "What is the capital city of Cote d'Ivoire?"
       },
       "tags": [
-        "literature",
-        "fictitious_characters",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f72",
-      "correctAnswer": "Stephen King",
-      "incorrectAnswers": [
-        "H. P. Lovecraft",
-        "Edgar Allan Poe",
-        "Jack Vance"
-      ],
-      "question": {
-        "text": "Which author wrote 'Full Dark, No Stars'?"
-      },
-      "tags": [
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f9501b5",
-      "correctAnswer": "Wuthering Heights",
-      "incorrectAnswers": [
-        "The Shining",
-        "The Phantom of the Opera",
-        "Coraline"
-      ],
-      "question": {
-        "text": "Which piece of written work starts with the line '1801—I have just returned from a visit to my landlord—the solitary neighbour that I shall be troubled with.'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "64909c4d58265893a0c86da5",
-      "correctAnswer": "Pierre",
-      "incorrectAnswers": [
-        "Jacques",
-        "Jean",
-        "Francois"
-      ],
-      "question": {
-        "text": "What is the first name shared by fashion designer Cardin and furniture designer Boulle?"
-      },
-      "tags": [
-        "designers",
-        "fashion",
-        "people",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f9501b2",
-      "correctAnswer": "Frankenstein",
-      "incorrectAnswers": [
-        "Cloud Atlas",
-        "Coraline",
-        "Strange Case of Dr Jekyll and Mr Hyde"
-      ],
-      "question": {
-        "text": "Which piece of written work starts with the line 'You will rejoice to hear that no disaster has accompanied the commencement of an enterprise which you have regarded with such evil forebodings.'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950ddb",
-      "correctAnswer": "Queen",
-      "incorrectAnswers": [
-        "Level 42",
-        "Deep Purple",
-        "Feeder"
-      ],
-      "question": {
-        "text": "Of which band is 'Roger Taylor' a member?"
-      },
-      "tags": [
-        "music",
-        "bands"
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -606,18 +237,17 @@
     },
     {
       "category": "geography",
-      "id": "62374184cb85f7ce9e949d6e",
-      "correctAnswer": "Rabat",
+      "id": "623742aacb85f7ce9e949de4",
+      "correctAnswer": "Port of Spain",
       "incorrectAnswers": [
-        "Islamabad",
-        "Kigali",
-        "Damascus"
+        "Mogadishu",
+        "Dili",
+        "Maseru"
       ],
       "question": {
-        "text": "What is the capital city of Morocco?"
+        "text": "What is the capital city of Trinidad and Tobago?"
       },
       "tags": [
-        "africa",
         "capital_cities",
         "geography"
       ],
@@ -627,19 +257,383 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "623742a5cb85f7ce9e949de2",
-      "correctAnswer": "Nuku'alofa",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e64",
+      "correctAnswer": "Ivan Turgenev",
       "incorrectAnswers": [
-        "Dhaka",
-        "Vaduz",
-        "Saint George's"
+        "Leo Tolstoy",
+        "Henryk Sienkiewicz",
+        "Alphonse Daudet"
       ],
       "question": {
-        "text": "What is the capital city of Tonga?"
+        "text": "Which author wrote 'Fathers and Sons'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f950fc6",
+      "correctAnswer": "Wilhelm Roentgen",
+      "incorrectAnswers": [
+        "Ernst Roentgen",
+        "Friedrich Roentgen",
+        "Joseph Roentgen"
+      ],
+      "question": {
+        "text": "Who discovered X-rays?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6266e68aff2394bd44dee052",
+      "correctAnswer": "Seven",
+      "incorrectAnswers": [
+        "Two",
+        "Green",
+        "Ten"
+      ],
+      "question": {
+        "text": "In Italian, what is the meaning of the word 'sette'?"
+      },
+      "tags": [
+        "language",
+        "translations",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f90",
+      "correctAnswer": "Stephen King",
+      "incorrectAnswers": [
+        "H. P. Lovecraft",
+        "Edgar Allan Poe",
+        "Jack Vance"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Dead Zone'?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94fa40",
+      "correctAnswer": "Realism",
+      "incorrectAnswers": [
+        "Mannerism",
+        "Northern Renaissance",
+        "Dutch and Flemish Renaissance"
+      ],
+      "question": {
+        "text": "The painting \"Whistler’s Mother\" by James Abbott McNeill Whistler is a part of which art movement?"
+      },
+      "tags": [
+        "painting",
+        "art",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "6486be6759bc33d1c362f342",
+      "correctAnswer": "Zendaya",
+      "incorrectAnswers": [
+        "Emma Stone",
+        "Kirsten Dunst",
+        "Tobey Maguire"
+      ],
+      "question": {
+        "text": "Which actress has played MJ in Tom Holland's Spider-Man films?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv",
+        "marvel",
+        "acting",
+        "superheroes"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f34",
+      "correctAnswer": "Alice Munro",
+      "incorrectAnswers": [
+        "Ivan Turgenev",
+        "E. T. A. Hoffmann",
+        "Alphonse Daudet"
+      ],
+      "question": {
+        "text": "Which author wrote 'Dance of the Happy Shades And Other Stories'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "64a728e5a94f308c21c3c54d",
+      "correctAnswer": "Led Zeppelin",
+      "incorrectAnswers": [
+        "The Beatles",
+        "The Rolling Stones",
+        "Pink Floyd"
+      ],
+      "question": {
+        "text": "Which rock band's fourth album had no title or name on the cover, but sold millions of copies?"
+      },
+      "tags": [
+        "music_albums",
+        "music",
+        "bands"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94feef",
+      "correctAnswer": "David Bowie",
+      "incorrectAnswers": [
+        "Eric Clapton",
+        "Madonna",
+        "Mika"
+      ],
+      "question": {
+        "text": "Which British musician released the album 'Station to Station'?"
+      },
+      "tags": [
+        "musicians",
+        "music_albums",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f950749",
+      "correctAnswer": "Gérard Depardieu",
+      "incorrectAnswers": [
+        "Kevin Costner",
+        "Shah Rukh Khan",
+        "Jack Nicholson"
+      ],
+      "question": {
+        "text": "Which actor has starred in films including Life of Pi and La Vie en Rose?"
+      },
+      "tags": [
+        "film",
+        "acting",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fcba",
+      "correctAnswer": "Austronesian",
+      "incorrectAnswers": [
+        "Turkic",
+        "Koreanic",
+        "Austroasiatic"
+      ],
+      "question": {
+        "text": "The language 'Malaysian' belongs to which language family?"
+      },
+      "tags": [
+        "language",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623735d8cfe13103f55eb575",
+      "correctAnswer": "Somalia",
+      "incorrectAnswers": [
+        "Burkina Faso",
+        "Lesotho",
+        "Solomon Islands"
+      ],
+      "question": {
+        "text": "Which region of the world uses '.so' at the end of its web addresses?"
       },
       "tags": [
         "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f95013d",
+      "correctAnswer": "Isis",
+      "incorrectAnswers": [
+        "Set",
+        "Ammit",
+        "Horus"
+      ],
+      "question": {
+        "text": "In Egyptian mythology, who was Horus' mother?"
+      },
+      "tags": [
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f950397",
+      "correctAnswer": "Oklahoma",
+      "incorrectAnswers": [
+        "Kansas",
+        "Missouri",
+        "California"
+      ],
+      "question": {
+        "text": "Which US state in 1907 was the last to declare Christmas a legal holiday?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f9510db",
+      "correctAnswer": "Grist",
+      "incorrectAnswers": [
+        "Havok",
+        "Dazzle",
+        "Murmur"
+      ],
+      "question": {
+        "text": "A group of bees can be called either a hive, a swarm, or a __________"
+      },
+      "tags": [
+        "animals",
+        "biology",
+        "words",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f9500c7",
+      "correctAnswer": "10",
+      "incorrectAnswers": [
+        "7",
+        "5",
+        "13"
+      ],
+      "question": {
+        "text": "How Many Cards Are You Dealt In A Game Of Gin Rummy? "
+      },
+      "tags": [
+        "games"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623735dbcfe13103f55eb577",
+      "correctAnswer": "South Africa",
+      "incorrectAnswers": [
+        "Tanzania",
+        "Zambia",
+        "Zimbabwe"
+      ],
+      "question": {
+        "text": "Which region of the world uses '.za' at the end of its web addresses?"
+      },
+      "tags": [
+        "the_internet",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "64974e400752843c0d8aada7",
+      "correctAnswer": "Bonn",
+      "incorrectAnswers": [
+        "Munich",
+        "Berlin",
+        "Frankfurt"
+      ],
+      "question": {
+        "text": "Which German city served as the capital of West Germany from 1949 until reunification in 1990?"
+      },
+      "tags": [
+        "germany",
+        "history",
+        "geography",
+        "capital_cities",
+        "cities"
       ],
       "type": "text_choice",
       "difficulty": "hard",

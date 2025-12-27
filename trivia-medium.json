@@ -1,22 +1,24 @@
 {
-  "gameDate": "2025-12-26",
+  "gameDate": "2025-12-27",
   "difficulty": "medium",
   "results": [
     {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950cab",
-      "correctAnswer": "Pink Floyd",
+      "category": "geography",
+      "id": "645fcc90541c4d4fc8cf3099",
+      "correctAnswer": "Singapore",
       "incorrectAnswers": [
-        "Wings",
-        "Rudimental",
-        "The Alan Parsons Project"
+        "Indonesia",
+        "Malaysia",
+        "Philippines"
       ],
       "question": {
-        "text": "Which English rock band released the song 'Comfortably Numb'?"
+        "text": "Which country at the tip of the Malay Peninsula has the busiest port in Southeast Asia?"
       },
       "tags": [
-        "rock_music",
-        "music"
+        "countries",
+        "ports",
+        "trade",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -24,20 +26,92 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fe96",
-      "correctAnswer": "Rihanna",
+      "category": "society_and_culture",
+      "id": "62ab32f75202de619af28134",
+      "correctAnswer": "Ford",
       "incorrectAnswers": [
-        "Drake",
-        "Nicki Minaj",
-        "Ricky Martin"
+        "Volkswagen",
+        "Opel",
+        "Land Rover"
       ],
       "question": {
-        "text": "Which singer released the single 'Break It Off'?"
+        "text": "Which car manufacturer makes the Fiesta?"
       },
       "tags": [
-        "songs",
-        "music"
+        "motoring",
+        "business",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94fe1d",
+      "correctAnswer": "The Strait Of Gibralter ",
+      "incorrectAnswers": [
+        "The Bering Strait",
+        "The Strait Of Casablanca",
+        "The North African Strait"
+      ],
+      "question": {
+        "text": "What Separates Spain From Morocco?"
+      },
+      "tags": [
+        "bodies_of_water",
+        "europe",
+        "africa",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f95138d",
+      "correctAnswer": "Les Misérables",
+      "incorrectAnswers": [
+        "The Boy in the Striped Pyjamas",
+        "Romance of the Three Kingdoms",
+        "The Count of Monte Cristo"
+      ],
+      "question": {
+        "text": "In which book does the character 'Gavroche' appear?"
+      },
+      "tags": [
+        "classic_novels",
+        "arts_and_literature",
+        "literature",
+        "fictitious_characters"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "62611f784b176d54800e3d5b",
+      "correctAnswer": "1969",
+      "incorrectAnswers": [
+        "1948",
+        "1955",
+        "1962"
+      ],
+      "question": {
+        "text": "In which year did the first human set foot on the moon?"
+      },
+      "tags": [
+        "events",
+        "firsts",
+        "space_exploration",
+        "space",
+        "cold_war",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -46,15 +120,58 @@
     },
     {
       "category": "science",
-      "id": "64fb5b33717513cb79190402",
-      "correctAnswer": "Control",
+      "id": "6505702f7a97013de78b554f",
+      "correctAnswer": "Myopia",
       "incorrectAnswers": [
-        "Test",
-        "Experimental",
-        "Base"
+        "Hyperopia",
+        "Astigmatism",
+        "Presbyopia"
       ],
       "question": {
-        "text": "In experiments, what is the name of the group that does not receive the treatment?"
+        "text": "What is another term for shortsightedness?"
+      },
+      "tags": [
+        "science",
+        "health"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "647f9deb3a4302a719271663",
+      "correctAnswer": "Julius Caesar",
+      "incorrectAnswers": [
+        "Augustus",
+        "Nero",
+        "Caligula"
+      ],
+      "question": {
+        "text": "Which Roman figure's name is used to refer to the calendar system we use?"
+      },
+      "tags": [
+        "history",
+        "society_and_culture",
+        "romans"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "62433584cfaae40c129614b0",
+      "correctAnswer": "A Joey",
+      "incorrectAnswers": [
+        "A Cygnet",
+        "A Kid",
+        "A Gosling"
+      ],
+      "question": {
+        "text": "What is the word for a young wallaby?"
       },
       "tags": [
         "science"
@@ -65,22 +182,220 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "6293ec8d7f41d6338b96eef9",
-      "correctAnswer": "Sigmund Freud",
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f950227",
+      "correctAnswer": "Arborio",
       "incorrectAnswers": [
-        "Francis Bacon",
-        "George Washington",
-        "Francisco Pizarro"
+        "Pialini",
+        "Rissorio",
+        "Basmati"
       ],
       "question": {
-        "text": "Which influential neurologist founded psychoanalysis, which involved the investigation of the subconscious, dreams and human mind?"
+        "text": "Which type of rice should be used to make risotto?"
       },
       "tags": [
-        "people",
-        "history",
-        "society_and_culture",
-        "psychology"
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f911",
+      "correctAnswer": "To Kill a Mockingbird",
+      "incorrectAnswers": [
+        "Mad Max",
+        "Pirates of the Caribbean",
+        "Gone with the Wind"
+      ],
+      "question": {
+        "text": "Which film contains the character 'Atticus Finch'?"
+      },
+      "tags": [
+        "fictitious_characters",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "63d9531d168979b94b2e4f9d",
+      "correctAnswer": "Jonas Salk",
+      "incorrectAnswers": [
+        "Edward Jenner",
+        "Alexander Fleming",
+        "Louis Pasteur"
+      ],
+      "question": {
+        "text": "Who developed the polio vaccine?"
+      },
+      "tags": [
+        "science",
+        "medicine",
+        "scientific_discoveries",
+        "people"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f95054c",
+      "correctAnswer": "Internal secretory glands",
+      "incorrectAnswers": [
+        "Bees",
+        "Fresh water environments",
+        "Japanese people"
+      ],
+      "question": {
+        "text": "What is Endocrinology the study of?"
+      },
+      "tags": [
+        "words",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "6266bc3bff2394bd44dee000",
+      "correctAnswer": "Stringed",
+      "incorrectAnswers": [
+        "Percussion",
+        "Woodwind",
+        "Brass"
+      ],
+      "question": {
+        "text": "What type of instrument is a double bass?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951b3f",
+      "correctAnswer": "1914",
+      "incorrectAnswers": [
+        "1938",
+        "1923",
+        "1919"
+      ],
+      "question": {
+        "text": "In What Year Did World War I Begin?"
+      },
+      "tags": [
+        "wars",
+        "world_war_1",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6462624dab138b829b81e9e5",
+      "correctAnswer": "Martha's Vineyard",
+      "incorrectAnswers": [
+        "Long Island",
+        "Block Island",
+        "Cape Cod"
+      ],
+      "question": {
+        "text": "What is the name of the largest island in Massachusetts, famous for its lush scenery, beaches and celebrity sightings?"
+      },
+      "tags": [
+        "islands",
+        "massachusetts",
+        "usa",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f95052e",
+      "correctAnswer": "the age of the Earth",
+      "incorrectAnswers": [
+        "the biosphere and its relations to the lithosphere and atmosphere",
+        "the functions of the nervous system",
+        "the preparation of books and manuscripts"
+      ],
+      "question": {
+        "text": "What is Geochronology the study of?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "648ee4224fe93387161138ae",
+      "correctAnswer": "Thumper",
+      "incorrectAnswers": [
+        "Flower",
+        "Faline",
+        "Ronno"
+      ],
+      "question": {
+        "text": "What is the name of Bambi's rabbit friend?"
+      },
+      "tags": [
+        "disney",
+        "film",
+        "film_and_tv",
+        "fictitious_characters"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6477bad7550bc819ad646b40",
+      "correctAnswer": "The Louvre",
+      "incorrectAnswers": [
+        "The Hermitage",
+        "The Prado",
+        "The Uffizi"
+      ],
+      "question": {
+        "text": "What is the name of the famous museum in Paris which features The Mona Lisa?"
+      },
+      "tags": [
+        "museums",
+        "paris",
+        "art",
+        "painting",
+        "geography",
+        "tourist_attractions",
+        "france",
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -89,15 +404,15 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950ec1",
-      "correctAnswer": "Mark Twain",
+      "id": "622a1c397cc59eab6f950e22",
+      "correctAnswer": "Frank Herbert",
       "incorrectAnswers": [
-        "Cassandra Clare",
-        "Isabel Allende",
-        "George R. R. Martin"
+        "Ursula K. Le Guin",
+        "H. P. Lovecraft",
+        "Edgar Rice Burroughs"
       ],
       "question": {
-        "text": "Which author wrote 'The Adventures of Tom Sawyer'?"
+        "text": "Which author wrote 'Dune'?"
       },
       "tags": [
         "arts_and_literature"
@@ -108,100 +423,16 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "6239f8149129041bf3925cc4",
-      "correctAnswer": "Hotel",
-      "incorrectAnswers": [
-        "Heart",
-        "Honey",
-        "Hill"
-      ],
-      "question": {
-        "text": "What word is used in the NATO Phonetic Alphabet for the letter H?"
-      },
-      "tags": [
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c3d7cc59eab6f951c2d",
-      "correctAnswer": "Saint Stephen",
-      "incorrectAnswers": [
-        "Saint Francis",
-        "Saint Paul",
-        "Saint Benedict"
-      ],
-      "question": {
-        "text": "December 26th is traditionally known as Boxing Day but it is also which Saint's Holy Day"
-      },
-      "tags": [
-        "christmas",
-        "uk",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f950813",
-      "correctAnswer": "Asia",
-      "incorrectAnswers": [
-        "South America",
-        "Oceania",
-        "Europe"
-      ],
-      "question": {
-        "text": "The country of Laos is on which continent?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6233846462eaad73716a8c06",
-      "correctAnswer": "Hebrew ",
-      "incorrectAnswers": [
-        "Aramaic",
-        "Arabic",
-        "Gujarati"
-      ],
-      "question": {
-        "text": "What Is The Official Language Of Israel?"
-      },
-      "tags": [
-        "language",
-        "the_middle_east",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "history",
-      "id": "622a1c3d7cc59eab6f951bbc",
-      "correctAnswer": "43",
+      "id": "622a1c3d7cc59eab6f951c14",
+      "correctAnswer": "Charlemagne",
       "incorrectAnswers": [
-        "48",
-        "51",
-        "57"
+        "Charles the Bald",
+        "Charlione",
+        "Charity Charles"
       ],
       "question": {
-        "text": "How old was John F. Kennedy when he became president?"
+        "text": "As what is the Frankish ruler Charles the Great better known?"
       },
       "tags": [
         "history"
@@ -212,289 +443,22 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "64dfa27da6681754ea052bae",
-      "correctAnswer": "The Scoville scale",
-      "incorrectAnswers": [
-        "The Heat index",
-        "The Shearer Factor",
-        "The Spiciness Gauge"
-      ],
-      "question": {
-        "text": "What is the name of the scale used to measure the heat level of chili peppers?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink",
-        "units",
-        "measurements"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f9512f0",
-      "correctAnswer": "Macbeth",
-      "incorrectAnswers": [
-        "Richard III",
-        "Hamlet",
-        "Romeo & Juliet"
-      ],
-      "question": {
-        "text": "Name the Shakespeare play from this plot summary: \"Urged on by his wife, a man murders his king in order to take his place\"."
-      },
-      "tags": [
-        "arts_and_literature",
-        "theater",
-        "shakespeare"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "63989c145c9a75021f31047e",
-      "correctAnswer": "17th century",
-      "incorrectAnswers": [
-        "18th century",
-        "19th century",
-        "20th century"
-      ],
-      "question": {
-        "text": "In which century did the Thirty Years' War take place?"
-      },
-      "tags": [
-        "history",
-        "wars",
-        "europe"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950d29",
-      "correctAnswer": "The Beatles",
-      "incorrectAnswers": [
-        "Deep Purple",
-        "Feeder",
-        "Uriah Heep"
-      ],
-      "question": {
-        "text": "Which English rock band released the song 'Let It Be'?"
-      },
-      "tags": [
-        "songs",
-        "general_knowledge",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd4a",
-      "correctAnswer": "Guns N Roses",
-      "incorrectAnswers": [
-        "Sex Pistols",
-        "The Ramones",
-        "The Clash"
-      ],
-      "question": {
-        "text": "With Which Rock Band Does \"Slash\" Play Guitar?"
-      },
-      "tags": [
-        "people",
-        "general_knowledge",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c3c7cc59eab6f951972",
-      "correctAnswer": "Hogmanay",
-      "incorrectAnswers": [
-        "Bangui",
-        "Burns Night",
-        "Candlemas Day"
-      ],
-      "question": {
-        "text": "What is New Year's Eve called in Scotland?"
-      },
-      "tags": [
-        "traditions",
-        "uk",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "65056ed17a97013de78b536a",
-      "correctAnswer": "Mississippi",
-      "incorrectAnswers": [
-        "Hudson",
-        "Ohio",
-        "Rio Grande"
-      ],
-      "question": {
-        "text": "Along which river do the adventures of Tom Sawyer take place?"
-      },
-      "tags": [
-        "arts_and_literature",
-        "literature",
-        "rivers"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "6257407c9da29df7b05f73e1",
-      "correctAnswer": "The Truman Show",
-      "incorrectAnswers": [
-        "Indiana Jones and the Last Crusade",
-        "The Matrix",
-        "The Batman"
-      ],
-      "question": {
-        "text": "Name the movie that matches the following plot summary: 'An insurance salesman discovers his whole life is actually a reality TV show.'"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f9512f3",
-      "correctAnswer": "Charlotte, Emily, Anne",
-      "incorrectAnswers": [
-        "Ashley, Charlotte Margaret",
-        "Charlotte, Emily, Mary",
-        "Anne, Emily, Margaret"
-      ],
-      "question": {
-        "text": "What are the names of the three Brontë sisters?"
-      },
-      "tags": [
-        "people",
-        "literature",
-        "arts_and_literature",
-        "classic_novels"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "63bc3f9b0e893d6e5a6a0fc4",
-      "correctAnswer": "Doughnut",
-      "incorrectAnswers": [
-        "Strudel",
-        "Kringle",
-        "Cannoli"
-      ],
-      "question": {
-        "text": "What is the name of a pastry made of dough shaped into a ring and often filled with jam or custard?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink",
-        "pastry",
-        "baking"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "6256988c9da29df7b05f728e",
-      "correctAnswer": "Jeremy Renner",
-      "incorrectAnswers": [
-        "Don Cheadle",
-        "Benedict Wong",
-        "Chris Hemsworth"
-      ],
-      "question": {
-        "text": "Who plays the role of Hawkeye in the Marvel Cinematic Universe?"
-      },
-      "tags": [
-        "mcu",
-        "film",
-        "acting",
-        "marvel",
-        "comics",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "645c9fc842ea81e2554c5f8f",
-      "correctAnswer": "A Fistful of Dollars",
-      "incorrectAnswers": [
-        "The Good, the Bad and the Ugly",
-        "Hang 'Em High",
-        "High Plains Drifter"
-      ],
-      "question": {
-        "text": "What is the name of the 1964 Spaghetti Western Clint Eastwood starred in, the first of an iconic trilogy?"
-      },
-      "tags": [
-        "westerns",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "geography",
-      "id": "64746b6f5a4c31088dd9d058",
-      "correctAnswer": "Sweden",
+      "id": "645bc75b4638d58091b1b9eb",
+      "correctAnswer": "San Diego",
       "incorrectAnswers": [
-        "Greece",
-        "Peru",
-        "Colombia"
+        "San Francisco",
+        "Los Angeles",
+        "Sacramento"
       ],
       "question": {
-        "text": "Which of these countries shares the same first letter as its capital city?"
+        "text": "Which California city was a whaling port in the mid-1800s and is located 12 miles north of Mexico?"
       },
       "tags": [
-        "countries",
-        "capital_cities",
+        "cities",
+        "history",
+        "california",
+        "usa",
         "geography"
       ],
       "type": "text_choice",
@@ -503,127 +467,19 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "63f39514989356ef48370c09",
-      "correctAnswer": "Cantaloupe",
-      "incorrectAnswers": [
-        "Mango",
-        "Kiwi",
-        "Banana"
-      ],
-      "question": {
-        "text": "Which of these fruits is a type of  melon?"
-      },
-      "tags": [
-        "food_and_drink",
-        "food",
-        "fruit"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "6488deed50a27f7378a91de9",
-      "correctAnswer": "An ace",
-      "incorrectAnswers": [
-        "A king",
-        "A two",
-        "A jack"
-      ],
-      "question": {
-        "text": "In the game of blackjack, if you are dealt a natural blackjack with only 2 cards, one of them always has to be what?"
-      },
-      "tags": [
-        "card_games",
-        "gambling",
-        "casinos"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "science",
-      "id": "62443772746187c5e7be9353",
-      "correctAnswer": "D2O",
+      "id": "622a1c377cc59eab6f95056e",
+      "correctAnswer": "Very low temperatures",
       "incorrectAnswers": [
-        "N2O",
-        "KNO3",
-        "Fe2O3"
+        "Lightning",
+        "Measurement",
+        "Victorian literature"
       ],
       "question": {
-        "text": "What is the chemical formula for deuterium oxide?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951a5f",
-      "correctAnswer": "The Sherman Tank",
-      "incorrectAnswers": [
-        "The Herman Tank",
-        "The Berman Tank",
-        "The German Tank"
-      ],
-      "question": {
-        "text": "The American M4 tank is better known as what?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6293ecd27f41d6338b96ef0d",
-      "correctAnswer": "Francis Bacon",
-      "incorrectAnswers": [
-        "Johann Sebastian Bach",
-        "Shih Huang Ti",
-        "Charles Darwin"
-      ],
-      "question": {
-        "text": "Which influential historical person created the scientific method and was a key figure in the scientific revolution of the enlightenment?"
-      },
-      "tags": [
-        "people",
-        "history",
-        "society_and_culture",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6242cb14d543524f1b19c90a",
-      "correctAnswer": "A litter",
-      "incorrectAnswers": [
-        "A flight",
-        "A barren",
-        "A bevy"
-      ],
-      "question": {
-        "text": "What is the word for a group of cubs?"
+        "text": "What is Cryology the study of?"
       },
       "tags": [
         "words",
-        "animals",
         "science"
       ],
       "type": "text_choice",
@@ -632,19 +488,170 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c377cc59eab6f95052a",
-      "correctAnswer": "Disgusting things",
+      "category": "history",
+      "id": "622a1c367cc59eab6f9503ce",
+      "correctAnswer": "Falkland Islands",
       "incorrectAnswers": [
-        "Crayfish",
-        "Plant nutrition",
-        "Earthquakes"
+        "Gold",
+        "Nuclear Weapons",
+        "Industrial Sabotage"
       ],
       "question": {
-        "text": "What is Grossology the study of?"
+        "text": "What was the war between Argentina and Great Britan over?"
       },
       "tags": [
-        "science"
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94feb9",
+      "correctAnswer": "Beyoncé",
+      "incorrectAnswers": [
+        "Madonna",
+        "Drake",
+        "Nicki Minaj"
+      ],
+      "question": {
+        "text": "Which American singer, actress and record producer released the song 'Me, Myself and I'?"
+      },
+      "tags": [
+        "songs",
+        "musicians",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f950241",
+      "correctAnswer": "Parma ",
+      "incorrectAnswers": [
+        "Genoa",
+        "Venice",
+        "Florence"
+      ],
+      "question": {
+        "text": "Which Italian city gave its name to a cheese and a type of ham?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "62573fc29da29df7b05f73aa",
+      "correctAnswer": "Joker",
+      "incorrectAnswers": [
+        "1917",
+        "Mad Max: Fury Road",
+        "Grave of the Fireflies"
+      ],
+      "question": {
+        "text": "Name the movie that matches the following plot summary: 'A stand-up comedian embarks on a downward spiral that leads to the creation of an iconic villain.'"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623741facb85f7ce9e949d9d",
+      "correctAnswer": "Qatar",
+      "incorrectAnswers": [
+        "Mauritius",
+        "Peru",
+        "Cambodia"
+      ],
+      "question": {
+        "text": "Doha is the capital city of which country?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "645c9f8f42ea81e2554c5f4d",
+      "correctAnswer": "regression",
+      "incorrectAnswers": [
+        "repression",
+        "dissociation",
+        "projection"
+      ],
+      "question": {
+        "text": "Which term in psychology refers to the process of reverting to an earlier, childlike form of behavior?"
+      },
+      "tags": [
+        "psychology",
+        "science",
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c357cc59eab6f94fc44",
+      "correctAnswer": "\"A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.\"",
+      "incorrectAnswers": [
+        "\"Attica! Attica!\"",
+        "\"Chewie, we’re home.\"",
+        "\"What is this? A center for ants? How can we be expected to teach children to learn how to read…if they can’t even fit inside the building?\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'The Silence of the Lambs'?"
+      },
+      "tags": [
+        "film",
+        "quotes",
+        "general_knowledge",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f950409",
+      "correctAnswer": "Hiroshima",
+      "incorrectAnswers": [
+        "Tokyo",
+        "Osaka",
+        "Nagasaki"
+      ],
+      "question": {
+        "text": "On What Japanese City Was The First Atomic Bomb Dropped?"
+      },
+      "tags": [
+        "wars",
+        "japan",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "medium",
