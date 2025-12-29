@@ -1,18 +1,18 @@
 {
-  "gameDate": "2025-12-28",
+  "gameDate": "2025-12-29",
   "difficulty": "hard",
   "results": [
     {
       "category": "film_and_tv",
-      "id": "622a1c3c7cc59eab6f951a2a",
-      "correctAnswer": "Joe Pesci",
+      "id": "622a1c347cc59eab6f94f8eb",
+      "correctAnswer": "Anne Bancroft",
       "incorrectAnswers": [
-        "John Belushi",
-        "Robert De Niro",
-        "Al Pacino"
+        "Gloria Swanson",
+        "Shirley MacLaine",
+        "Glenn Close"
       ],
       "question": {
-        "text": "The two crooks in the 1990 film 'Home Alone'', one was played by Daniel Stern, who was the other?"
+        "text": "Which actress played the role of Mrs. Robinson in The Graduate?"
       },
       "tags": [
         "acting",
@@ -25,171 +25,19 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951b11",
-      "correctAnswer": "The Crimean War",
+      "category": "science",
+      "id": "622a1c3f7cc59eab6f952354",
+      "correctAnswer": "Vitamin C",
       "incorrectAnswers": [
-        "World War II",
-        "The Vietnam War",
-        "The Hundred Years War"
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin B"
       ],
       "question": {
-        "text": "In which war did Florence Nightingale earn her reputation?"
+        "text": "Ascorbic acid is commonly referred to as which vitamin?"
       },
       "tags": [
-        "people",
-        "wars",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "63d9530f168979b94b2e4f8b",
-      "correctAnswer": "Liaquat Ali Khan",
-      "incorrectAnswers": [
-        "Benazir Bhutto",
-        "Nawaz Sharif",
-        "Zulfikar Ali Bhutto"
-      ],
-      "question": {
-        "text": "Who was the first Prime Minister of Pakistan?"
-      },
-      "tags": [
-        "history",
-        "leaders",
-        "pakistan"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fc07",
-      "correctAnswer": "\"Is it safe?\"",
-      "incorrectAnswers": [
-        "\"Wait a minute, wait a minute. You ain't heard nothin' yet!\"",
-        "\"Tell 'em to go out there with all they got and win just one for the Gipper.\"",
-        "\"That’s a bingo!\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'Marathon Man'?"
-      },
-      "tags": [
-        "quotes",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "6461403b4d46e537ca8cd99e",
-      "correctAnswer": "The Netherlands",
-      "incorrectAnswers": [
-        "Poland",
-        "Portugal",
-        "Greece"
-      ],
-      "question": {
-        "text": "From 1795-1806, which country was briefly known as the Batavian Republic?"
-      },
-      "tags": [
-        "europe",
-        "history",
-        "countries"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f862",
-      "correctAnswer": "Athletics",
-      "incorrectAnswers": [
-        "Motor Racing",
-        "Ice Hockey",
-        "Figure skating"
-      ],
-      "question": {
-        "text": "With which sport is Tegla Laroupe associated?"
-      },
-      "tags": [
-        "people",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "63dd25cf742e43ed64f1f023",
-      "correctAnswer": "Real Madrid",
-      "incorrectAnswers": [
-        "Manchester United",
-        "AC Milan",
-        "Liverpool"
-      ],
-      "question": {
-        "text": "Which club was the first to win two consecutive Champions League titles?"
-      },
-      "tags": [
-        "sport",
-        "soccer",
-        "football"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62417cf50f96c4efe8d77396",
-      "correctAnswer": "Cleveland Indians",
-      "incorrectAnswers": [
-        "Cleveland Celtics",
-        "Cleveland Hornets",
-        "Cleveland Blackhawks"
-      ],
-      "question": {
-        "text": "Which of these is a baseball team based in Cleveland?"
-      },
-      "tags": [
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f950a51",
-      "correctAnswer": "Chile",
-      "incorrectAnswers": [
-        "Peru",
-        "Ecuador",
-        "Suriname"
-      ],
-      "question": {
-        "text": "Which of these countries borders Argentina?"
-      },
-      "tags": [
-        "south_america",
-        "geography"
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -198,18 +46,40 @@
     },
     {
       "category": "science",
-      "id": "6243330ecfaae40c129613ba",
-      "correctAnswer": "A Doe",
+      "id": "64dfa27da6681754ea052bac",
+      "correctAnswer": "The eyeball",
       "incorrectAnswers": [
-        "A Gander",
-        "A Jill",
-        "A Hen"
+        "The ear",
+        "The brain",
+        "The skeleton"
       ],
       "question": {
-        "text": "What would you call a female antelope?"
+        "text": "What part of the body is the sclera a part of?"
       },
       "tags": [
+        "anatomy",
+        "biology",
         "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f4b",
+      "correctAnswer": "Jules Verne",
+      "incorrectAnswers": [
+        "Victor Hugo",
+        "Alphonse Daudet",
+        "Edgar Rice Burroughs"
+      ],
+      "question": {
+        "text": "Which author wrote 'From the Earth to the Moon'?"
+      },
+      "tags": [
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -218,19 +88,19 @@
     },
     {
       "category": "society_and_culture",
-      "id": "6463398e01d576cfac3aa392",
-      "correctAnswer": "16",
+      "id": "622a1c357cc59eab6f94fd10",
+      "correctAnswer": "Jean-Paul Sartre",
       "incorrectAnswers": [
-        "18",
-        "21",
-        "25"
+        "Thomas Hobbes",
+        "Ludwig Wittgenstein",
+        "G. W. F. Hegel"
       ],
       "question": {
-        "text": "What is the legal drinking age in Belgium?"
+        "text": "Which philosopher famously said 'Man is condemned to be free'?"
       },
       "tags": [
-        "drinking",
-        "belgium",
+        "philosophy",
+        "quotes",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -239,146 +109,21 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "625006600d86c8f685d80ee6",
-      "correctAnswer": "Tubular pasta",
+      "category": "society_and_culture",
+      "id": "645ba87ff09106226db23588",
+      "correctAnswer": "Chirac",
       "incorrectAnswers": [
-        "Ribbon pasta",
-        "Shaped pasta",
-        "Soup pasta"
+        "Macron",
+        "Hollande",
+        "Sarkozy"
       ],
       "question": {
-        "text": "What type of pasta is calamarata?"
+        "text": "Which Pompidou protege and recent French president organized talks with trade unions after France's 1968 mass demonstrations?"
       },
       "tags": [
-        "food",
-        "italy",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6243357fcfaae40c129614ae",
-      "correctAnswer": "A Jack",
-      "incorrectAnswers": [
-        "A Billy",
-        "A Macho",
-        "A Rooster"
-      ],
-      "question": {
-        "text": "What is a male wallaby known as?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502c4",
-      "correctAnswer": "Tayberry",
-      "incorrectAnswers": [
-        "Rackberry",
-        "Basberry",
-        "Marberry"
-      ],
-      "question": {
-        "text": "What is a cross between a blackberry and a raspberry?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "625006d20d86c8f685d80eff",
-      "correctAnswer": "Shaped pasta",
-      "incorrectAnswers": [
-        "Strand pasta",
-        "Ribbon pasta",
-        "Stuffed pasta"
-      ],
-      "question": {
-        "text": "What type of pasta is orecchiette?"
-      },
-      "tags": [
-        "food",
-        "italy",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "6473075ccf09068746f63770",
-      "correctAnswer": "Aqueducts",
-      "incorrectAnswers": [
-        "Canals",
-        "Pipelines",
-        "Trenches"
-      ],
-      "question": {
-        "text": "What type of structures are used to conduct a water stream across a valley?"
-      },
-      "tags": [
-        "architecture",
-        "civil_engineering",
-        "engineering"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "626030154b176d54800e3d0b",
-      "correctAnswer": "Almaty",
-      "incorrectAnswers": [
-        "Karachi",
-        "Zaporozhye",
-        "Kharkov"
-      ],
-      "question": {
-        "text": "Which of these cities is in Kazakhstan?"
-      },
-      "tags": [
-        "cities",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f9515fe",
-      "correctAnswer": "Burgundy ",
-      "incorrectAnswers": [
-        "Bordeaux",
-        "Alsace",
-        "Loire Valley"
-      ],
-      "question": {
-        "text": "Chablis comes from which French wine region?"
-      },
-      "tags": [
-        "food_and_drink"
+        "world_leaders",
+        "france",
+        "europe"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -387,19 +132,20 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f8f6",
-      "correctAnswer": "Humphrey Bogart",
+      "id": "624db9e4de6018633d31f6a9",
+      "correctAnswer": "Sam Smith",
       "incorrectAnswers": [
-        "James Stewart",
-        "John Belushi",
-        "Kevin Spacey"
+        "Madonna",
+        "Sheena Easton",
+        "Duran Duran"
       ],
       "question": {
-        "text": "Which actor played the role of Sam Spade in The Maltese Falcon?"
+        "text": "Who performed the theme song to the James Bond film Spectre?"
       },
       "tags": [
-        "acting",
+        "james_bond",
         "film",
+        "soundtracks",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -408,19 +154,84 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd8f",
-      "correctAnswer": "Janet Jackson",
+      "category": "geography",
+      "id": "6463391301d576cfac3aa306",
+      "correctAnswer": "Scotland",
       "incorrectAnswers": [
-        "Celine Dion",
-        "Kylie Minogue",
-        "Sinead O'Connor"
+        "England",
+        "Wales",
+        "Northern Ireland"
       ],
       "question": {
-        "text": "Who had her first UK top 10 hit with What Have You Done For Me Lately? in 1986 at the age of nineteen?"
+        "text": "In which U.K. country is the British royal residence and castle known as Balmoral located?"
       },
       "tags": [
-        "1980's",
+        "uk",
+        "castles",
+        "geography",
+        "buildings"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94fa09",
+      "correctAnswer": "Pierre-Auguste Renoir",
+      "incorrectAnswers": [
+        "‎‎Edvard Munch",
+        "Pablo Picasso",
+        "Jackson Pollock"
+      ],
+      "question": {
+        "text": "Which artist painted \"Bal du Moulin de la Galette\""
+      },
+      "tags": [
+        "art",
+        "painting",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f20",
+      "correctAnswer": "Leo Tolstoy",
+      "incorrectAnswers": [
+        "Ivan Turgenev",
+        "Henryk Sienkiewicz",
+        "Alphonse Daudet"
+      ],
+      "question": {
+        "text": "Which author wrote 'Resurrection'?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c6f",
+      "correctAnswer": "Linkin Park",
+      "incorrectAnswers": [
+        "Alice in Chains",
+        "Hollywood Undead",
+        "System of a Down"
+      ],
+      "question": {
+        "text": "Which American rock band released the studio album 'Living Things'?"
+      },
+      "tags": [
         "music"
       ],
       "type": "text_choice",
@@ -430,20 +241,20 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f943",
-      "correctAnswer": "Terms of Endearment",
+      "id": "622a1c377cc59eab6f950751",
+      "correctAnswer": "Susan Sarandon",
       "incorrectAnswers": [
-        "Pirates of the Caribbean",
-        "Grease",
-        "The Night of the Hunter"
+        "Kate Winslet",
+        "Helen Mirren",
+        "Maggie Smith"
       ],
       "question": {
-        "text": "Which film contains the character 'Aurora Greenway'?"
+        "text": "Which actress has featured in films including Fame and Enchanted?"
       },
       "tags": [
-        "film",
-        "fictitious_characters",
-        "film_and_tv"
+        "film_and_tv",
+        "acting",
+        "film"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -451,40 +262,20 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "622a1c357cc59eab6f94fc92",
-      "correctAnswer": "Borborygmus",
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f950024",
+      "correctAnswer": "Tennis",
       "incorrectAnswers": [
-        "Taradiddle",
-        "Ill-willie",
-        "Quomodocunquizing"
+        "Soccer",
+        "Badminton",
+        "Volleyball"
       ],
       "question": {
-        "text": "Which word is defined as 'a rumbling or gurgling noise in the intestines'?"
+        "text": "With which sport is Chris Evert Lloyd identified?"
       },
       "tags": [
-        "words",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f9501ab",
-      "correctAnswer": "The Hobbit",
-      "incorrectAnswers": [
-        "Alice's Adventures in Wonderland",
-        "Bluebeard",
-        "Jonathan Livingston Seagull"
-      ],
-      "question": {
-        "text": "In which book does 'Thorin' appear?"
-      },
-      "tags": [
-        "arts_and_literature"
+        "people",
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -493,18 +284,19 @@
     },
     {
       "category": "science",
-      "id": "6244374e746187c5e7be9345",
-      "correctAnswer": "Potassium hydrogen tartrate",
+      "id": "622a1c377cc59eab6f9505ae",
+      "correctAnswer": "Ticks and mites",
       "incorrectAnswers": [
-        "Sodium hydroxide",
-        "Trichloromethane",
-        "Methane"
+        "The mouth and its diseases",
+        "Cosmetics",
+        "Schematic layouts"
       ],
       "question": {
-        "text": "What chemical compound makes cream of tartar?"
+        "text": "What is Acarology the study of?"
       },
       "tags": [
-        "science"
+        "science",
+        "words"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -512,19 +304,21 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e3c",
-      "correctAnswer": "Charles Perrault",
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fd47",
+      "correctAnswer": "Mariah Carey",
       "incorrectAnswers": [
-        "Hans Christian Andersen",
-        "André Gide",
-        "Prosper Mérimée"
+        "Rihanna",
+        "Beyonce",
+        "Christina Aguilera"
       ],
       "question": {
-        "text": "Which author wrote 'Bluebeard'?"
+        "text": "With Whom Did Boyz 2 Men Record The Single \"One Sweet Day\" In 1995\""
       },
       "tags": [
-        "arts_and_literature"
+        "musicians",
+        "songs",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -533,20 +327,17 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94facd",
-      "correctAnswer": "Jamie Foxx",
+      "id": "622a1c3c7cc59eab6f951a40",
+      "correctAnswer": "The Godfather",
       "incorrectAnswers": [
-        "Don Cheadle",
-        "Johnny Depp",
-        "Leonardo DiCaprio"
+        "Seabiscuit",
+        "Live and Let Die",
+        "Alien"
       ],
       "question": {
-        "text": "Who won the 2004 Academy Award for Best Leading Actor for playing the role of Ray Charles in Ray?"
+        "text": "The horse Khartoum plays a role in which film?"
       },
       "tags": [
-        "acting",
-        "film",
-        "academy_awards",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -555,19 +346,85 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951af6",
-      "correctAnswer": "The American War Of Independence",
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fbf0",
+      "correctAnswer": "\"Snap out of it!\"",
       "incorrectAnswers": [
-        "World War II",
-        "The Korean War",
-        "The Chinese Civil War"
+        "\"I drink your milkshake. I drink it up.\"",
+        "\"Go ahead, make my day.\"",
+        "\"You're gonna need a bigger boat.\""
       ],
       "question": {
-        "text": "In which war was Bunker Hill a major battle?"
+        "text": "Which of these quotes is from the film 'Moonstruck'?"
       },
       "tags": [
-        "history"
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "62399ee3716fcbbce627660f",
+      "correctAnswer": "South Korea & Japan",
+      "incorrectAnswers": [
+        "Brazil",
+        "South Africa",
+        "France"
+      ],
+      "question": {
+        "text": "Which country hosted the 2002 FIFA World Cup?"
+      },
+      "tags": [
+        "world_cup",
+        "football",
+        "soccer",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94f983",
+      "correctAnswer": "Portnoy's Complaint",
+      "incorrectAnswers": [
+        "One Hundred Years of Solitude",
+        "Heart of Darkness",
+        "The Big Sleep"
+      ],
+      "question": {
+        "text": "Which book contains the character 'Alex Portnoy'?"
+      },
+      "tags": [
+        "literature",
+        "fictitious_characters",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950bd3",
+      "correctAnswer": "Bon Jovi",
+      "incorrectAnswers": [
+        "Incubus",
+        "The Pussycat Dolls",
+        "Three 6 Mafia"
+      ],
+      "question": {
+        "text": "Which rock band from the United States released the song 'It's My Life'?"
+      },
+      "tags": [
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -576,20 +433,36 @@
     },
     {
       "category": "science",
-      "id": "6243350ecfaae40c12961481",
-      "correctAnswer": "A Doe",
+      "id": "622a1c3a7cc59eab6f95105a",
+      "correctAnswer": "Silicon Chip",
       "incorrectAnswers": [
-        "A Jenny",
-        "A Soar",
-        "A Vixen"
+        "Semiconductor",
+        "Solid State Drive",
+        "Universal Serial Bus"
       ],
       "question": {
-        "text": "What is a female rabbit known as?"
+        "text": "What Fundamental Part Of Computer Technology Was Pantented In The Us In 1961?"
+      },
+      "tags": [],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c367cc59eab6f950374",
+      "correctAnswer": "Cat Stevens",
+      "incorrectAnswers": [
+        "Joni Mitchell",
+        "Patti Smith",
+        "The Ramones"
+      ],
+      "question": {
+        "text": "Who Released The 70's Album Entitled 'Tea for the Tillerman'?"
       },
       "tags": [
-        "names",
-        "animals",
-        "science"
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -597,19 +470,21 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f9503ed",
-      "correctAnswer": "March 17th",
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f950637",
+      "correctAnswer": "Terry Crews",
       "incorrectAnswers": [
-        "March 14th",
-        "February 15th",
-        "February 16th"
+        "Richard Harris",
+        "Anthony Quinn",
+        "Hugo Weaving"
       ],
       "question": {
-        "text": "What date is St. Patrick's Day? "
+        "text": "Which actor has featured in films including Deadpool 2 and Terminator Salvation?"
       },
       "tags": [
-        "society_and_culture"
+        "film_and_tv",
+        "film",
+        "acting"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -617,21 +492,142 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "6266e67dff2394bd44dee04e",
-      "correctAnswer": "Six",
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94f962",
+      "correctAnswer": "The Member of the Wedding",
       "incorrectAnswers": [
-        "Ten",
-        "Eight",
-        "Black"
+        "Howards End",
+        "Wise Blood",
+        "All the King's Men"
       ],
       "question": {
-        "text": "What does the word 'zes' mean in Dutch?"
+        "text": "Which book contains the character 'Frankie Addams'?"
       },
       "tags": [
-        "language",
-        "translations",
-        "society_and_culture"
+        "literature",
+        "fictitious_characters",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "6233880f0161109f922aac62",
+      "correctAnswer": "Singapore Sling ",
+      "incorrectAnswers": [
+        "Mojito",
+        "Daiqiri",
+        "Manhattan"
+      ],
+      "question": {
+        "text": "Which Cocktail Was Invented At The Raffles Hotel?"
+      },
+      "tags": [],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c387cc59eab6f9508ae",
+      "correctAnswer": "South Africa",
+      "incorrectAnswers": [
+        "Lesotho",
+        "Eswatini",
+        "Angola"
+      ],
+      "question": {
+        "text": "Which of these countries borders Botswana?"
+      },
+      "tags": [
+        "africa",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f950244",
+      "correctAnswer": "Apples ",
+      "incorrectAnswers": [
+        "Bananas",
+        "Cherries",
+        "Limes"
+      ],
+      "question": {
+        "text": "Which fruit is used to make Calvados?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "62417d2a0f96c4efe8d773ab",
+      "correctAnswer": "Indianapolis Colts",
+      "incorrectAnswers": [
+        "Indianapolis Kings",
+        "Indianapolis Ravens",
+        "Indianapolis Bucks"
+      ],
+      "question": {
+        "text": "Which of these is an American Football team based in Indianapolis?"
+      },
+      "tags": [
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94fa41",
+      "correctAnswer": "Neoclassicism",
+      "incorrectAnswers": [
+        "Baroque",
+        "Dutch Golden Age",
+        "High Renaissance"
+      ],
+      "question": {
+        "text": "The painting \"The Grand Odalisque\" by Jean Auguste Dominique Ingres is a part of which art movement?"
+      },
+      "tags": [
+        "painting",
+        "art",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f95023a",
+      "correctAnswer": "Bordeaux ",
+      "incorrectAnswers": [
+        "Toulouse",
+        "Lyon",
+        "Champagne"
+      ],
+      "question": {
+        "text": "Which region of France does claret come from?"
+      },
+      "tags": [
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "hard",

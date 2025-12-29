@@ -1,47 +1,345 @@
 {
-  "gameDate": "2025-12-28",
+  "gameDate": "2025-12-29",
   "difficulty": "random",
   "results": [
     {
-      "category": "music",
-      "id": "622a1c347cc59eab6f94fb85",
-      "correctAnswer": "\"All I Want For Christmas Is You\" by Mariah Carey",
+      "category": "food_and_drink",
+      "id": "625006670d86c8f685d80ee7",
+      "correctAnswer": "Shaped pasta",
       "incorrectAnswers": [
-        "\"Jumpin', Jumpin'\" by Destiny's Child",
-        "\"American Pie\" by Don McLean",
-        "\"Let it Be\" by the Beatles"
+        "Strand pasta",
+        "Tubular pasta",
+        "Ribbon pasta"
       ],
       "question": {
-        "text": "Which song begins with the lyrics: \"I don't want a lot for Christmas, there is just one thing I need.\"?"
+        "text": "What type of pasta is campanelle?"
       },
       "tags": [
-        "songs",
-        "lyrics",
-        "christmas",
-        "general_knowledge",
+        "food",
+        "italy",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f9500bb",
+      "correctAnswer": "6",
+      "incorrectAnswers": [
+        "3",
+        "10",
+        "8"
+      ],
+      "question": {
+        "text": "How Many Players Are There In A Volleyball Team?"
+      },
+      "tags": [
+        "olympics",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950d36",
+      "correctAnswer": "The Beatles",
+      "incorrectAnswers": [
+        "The Rolling Stones",
+        "Blur",
+        "Black Sabbath"
+      ],
+      "question": {
+        "text": "Which English rock band released the album 'Abbey Road'?"
+      },
+      "tags": [
         "music"
       ],
       "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "64fadc3c717513cb79190387",
+      "correctAnswer": "Aioli",
+      "incorrectAnswers": [
+        "Hollandaise",
+        "Béarnaise",
+        "Tartar"
+      ],
+      "question": {
+        "text": "Which sauce is an emulsion of garlic and olive oil?"
+      },
+      "tags": [
+        "sauces",
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "6271649d1ba117625baac969",
+      "correctAnswer": "Jenever",
+      "incorrectAnswers": [
+        "Brennivín",
+        "Akevitt",
+        "Gin"
+      ],
+      "question": {
+        "text": "Which of these drinks would you associate with Belgium?"
+      },
+      "tags": [
+        "drink",
+        "alcohol"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "645bc4634638d58091b1b9d2",
+      "correctAnswer": "Mamma Mia!",
+      "incorrectAnswers": [
+        "Grease",
+        "West Side Story",
+        "Les Misérables"
+      ],
+      "question": {
+        "text": "Which popular musical features the music of ABBA?"
+      },
+      "tags": [
+        "musicals",
+        "music",
+        "abba",
+        "theater"
+      ],
+      "type": "text_choice",
       "difficulty": "easy",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c357cc59eab6f94fc46",
-      "correctAnswer": "\"You talking to me?\"",
+      "id": "645c9f5342ea81e2554c5f05",
+      "correctAnswer": "The Truman Show",
       "incorrectAnswers": [
-        "\"It's alive! It's alive!\"",
-        "\"Attica! Attica!\"",
-        "\"After all, tomorrow is another day!\""
+        "Eternal Sunshine of the Spotless Mind",
+        "Dead Poet's Society",
+        "The Shawshank Redemption"
       ],
       "question": {
-        "text": "Which of these quotes is from the film 'Taxi Driver'?"
+        "text": "Which movie features the quote 'Good morning! And in case I don't see you, good afternoon, good evening, and good night!'?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv",
+        "quotes",
+        "film_quotes"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94ffff",
+      "correctAnswer": "Canada",
+      "incorrectAnswers": [
+        "United States of America",
+        "Mexico",
+        "Russia"
+      ],
+      "question": {
+        "text": "The world's biggest meteor crater is located in which country?"
+      },
+      "tags": [
+        "records",
+        "places",
+        "astronomy",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f3b",
+      "correctAnswer": "J. R. R. Tolkien",
+      "incorrectAnswers": [
+        "G. K. Chesterton",
+        "Philip Pullman",
+        "C. S. Lewis"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Silmarillion'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "627164321ba117625baac94e",
+      "correctAnswer": "China",
+      "incorrectAnswers": [
+        "Brazil",
+        "England",
+        "Ukraine"
+      ],
+      "question": {
+        "text": "In which country is maotai a popular drink?"
+      },
+      "tags": [
+        "drink",
+        "alcohol"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c7b",
+      "correctAnswer": "U2",
+      "incorrectAnswers": [
+        "Public Image Ltd.",
+        "The Script",
+        "The Cure"
+      ],
+      "question": {
+        "text": "Which Irish rock band released the studio album 'No Line on the Horizon'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f950244",
+      "correctAnswer": "Apples ",
+      "incorrectAnswers": [
+        "Bananas",
+        "Cherries",
+        "Limes"
+      ],
+      "question": {
+        "text": "Which fruit is used to make Calvados?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fbcd",
+      "correctAnswer": "\"With great power comes great responsiblity.\"",
+      "incorrectAnswers": [
+        "\"I love lamp.\"",
+        "\"Which would be worse, to live a monster or die as a good man?\"",
+        "\"La-dee-da, la-dee-da.\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'Spider-Man'?"
       },
       "tags": [
         "quotes",
         "film",
+        "marvel",
         "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "62399f03af96521963a08711",
+      "correctAnswer": "Argentina",
+      "incorrectAnswers": [
+        "South Africa",
+        "Italy",
+        "Mexico"
+      ],
+      "question": {
+        "text": "Which country hosted the 1978 FIFA World Cup?"
+      },
+      "tags": [
+        "world_cup",
+        "football",
+        "soccer",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623384b462eaad73716a8c26",
+      "correctAnswer": "Lake Baikal",
+      "incorrectAnswers": [
+        "Lake Superior",
+        "Lake Victoria",
+        "Loch Ness"
+      ],
+      "question": {
+        "text": "What is the world's deepest lake?"
+      },
+      "tags": [
+        "bodies_of_water",
+        "records",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623741b4cb85f7ce9e949d81",
+      "correctAnswer": "Nigeria",
+      "incorrectAnswers": [
+        "Oman",
+        "Uruguay",
+        "Lesotho"
+      ],
+      "question": {
+        "text": "Abuja is the capital city of which country?"
+      },
+      "tags": [
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -50,437 +348,65 @@
     },
     {
       "category": "history",
-      "id": "65056f477a97013de78b540f",
-      "correctAnswer": "1933",
+      "id": "6471e4297206d7c314606f79",
+      "correctAnswer": "Attila the Huns",
       "incorrectAnswers": [
-        "1945",
-        "1919",
-        "1955"
+        "Vlad the Impaler",
+        "Ivan the Terrible",
+        "Xerxes"
       ],
       "question": {
-        "text": "When did the Weimar Republic of Germany get replaced by the Third Reich?"
+        "text": "Which ancient ruler was known as the \"Scourge of God\"?"
       },
       "tags": [
         "history",
-        "germany"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6242cbaad543524f1b19c945",
-      "correctAnswer": "A pack",
-      "incorrectAnswers": [
-        "A kindle",
-        "A flight",
-        "A plump"
-      ],
-      "question": {
-        "text": "What is the word for a group of wolves?"
-      },
-      "tags": [
-        "animals",
-        "biology",
-        "general_knowledge",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "645ab47d158db1bd1779f1bd",
-      "correctAnswer": "Safety",
-      "incorrectAnswers": [
-        "Sharp",
-        "Smooth",
-        "Bright"
-      ],
-      "question": {
-        "text": "What adjective is attached to both Gustave Pasch's match and Walter Hunt's pin?"
-      },
-      "tags": [
-        "inventions",
-        "chemistry",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f9501cc",
-      "correctAnswer": "Neuromancer",
-      "incorrectAnswers": [
-        "Altered Carbon",
-        "We",
-        "The Handmaid's Tale"
-      ],
-      "question": {
-        "text": "Which piece of written work starts with the line 'The sky above the port was the color of television, tuned to a dead channel.'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94faff",
-      "correctAnswer": "Kate Winslet",
-      "incorrectAnswers": [
-        "Anne Hathaway",
-        "Angelina Jolie",
-        "Melissa Leo"
-      ],
-      "question": {
-        "text": "Who won the 2008 Academy Award for Best Leading Actress for playing the role of Hanna Schmitz in The Reader?"
-      },
-      "tags": [
-        "acting",
-        "academy_awards",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "62611fd8014f58b5fc1a3fd1",
-      "correctAnswer": "1996",
-      "incorrectAnswers": [
-        "1986",
-        "1991",
-        "2001"
-      ],
-      "question": {
-        "text": "In which year was a mammal first cloned?"
-      },
-      "tags": [
-        "events",
-        "firsts",
-        "animals",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c377cc59eab6f950410",
-      "correctAnswer": "Ethiopia",
-      "incorrectAnswers": [
-        "Somalia",
-        "Eritrea",
-        "Uganda"
-      ],
-      "question": {
-        "text": "The first Live Aid was to benefit which starving country?"
-      },
-      "tags": [
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62374109cb85f7ce9e949d3c",
-      "correctAnswer": "Bishkek",
-      "incorrectAnswers": [
-        "Thimphu",
-        "Tbilisi",
-        "Managua"
-      ],
-      "question": {
-        "text": "What is the capital city of Kyrgyzstan?"
-      },
-      "tags": [
-        "capital_cities",
-        "cities",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbe3",
-      "correctAnswer": "\"I’m going to have to science the s*** out of this.\"",
-      "incorrectAnswers": [
-        "\"Here's looking at you, kid.\"",
-        "\"Show me the money!\"",
-        "\"Soylent Green is people!\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'The Martian'?"
-      },
-      "tags": [
-        "quotes",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e28",
-      "correctAnswer": "Philip Pullman",
-      "incorrectAnswers": [
-        "J. R. R. Tolkien",
-        "Christopher Tolkien",
-        "Neil Gaiman"
-      ],
-      "question": {
-        "text": "Which author wrote 'His Dark Materials trilogy'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c3c7cc59eab6f95195a",
-      "correctAnswer": "Camp Crystal Lake",
-      "incorrectAnswers": [
-        "Camp Fear",
-        "Camp Last Retreat",
-        "Camp Snowy Peaks"
-      ],
-      "question": {
-        "text": "What Is The Name Of The Summer Camp In The Friday The 13th Movies?"
-      },
-      "tags": [
-        "film",
-        "horror",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "64824df37778562fd76a95ea",
-      "correctAnswer": "Caramelization",
-      "incorrectAnswers": [
-        "Frying",
-        "Boiling",
-        "Blanching"
-      ],
-      "question": {
-        "text": "What cooking process involves cooking ingredients containing sugar on a low heat to alter the flavour and color?"
-      },
-      "tags": [
-        "food",
-        "cooking",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94fe4b",
-      "correctAnswer": "Mojave",
-      "incorrectAnswers": [
-        "Sonoran",
-        "Arizonan",
-        "Baja"
-      ],
-      "question": {
-        "text": "Name the desert located in South East California."
-      },
-      "tags": [
-        "deserts",
-        "usa",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "647f9def3a4302a71927168e",
-      "correctAnswer": "Walrus",
-      "incorrectAnswers": [
-        "Narwhal",
-        "Beluga",
-        "Manatee"
-      ],
-      "question": {
-        "text": "Which of these marine mammals has 2 tusks?"
-      },
-      "tags": [
-        "animals",
-        "nature",
-        "marine_life",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6502100c2b411b896c984b21",
-      "correctAnswer": "Vicks",
-      "incorrectAnswers": [
-        "Pfizer",
-        "Johnson & Johnson",
-        "Bayer"
-      ],
-      "question": {
-        "text": "What company produces a topical ointment called VapoRub to help with coughs?"
-      },
-      "tags": [
-        "medicine",
-        "society_and_culture",
-        "brands"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "649dee4e615f8db40f5422d5",
-      "correctAnswer": "Cherry",
-      "incorrectAnswers": [
-        "Apple",
-        "Peach",
-        "Plum"
-      ],
-      "question": {
-        "text": "What fruit is associated with the spirit called Kirschwasser?"
-      },
-      "tags": [
-        "alcohol",
-        "spirits",
-        "liquor",
-        "drink",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "647f9dec3a4302a719271668",
-      "correctAnswer": "Insulin",
-      "incorrectAnswers": [
-        "Oxytocin",
-        "Adrenaline",
-        "Testosterone"
-      ],
-      "question": {
-        "text": "Which pancreatic hormone works to lower glucose levels in the blood?"
-      },
-      "tags": [
-        "biology",
-        "endocrinology",
-        "medicine",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "646140784d46e537ca8cd9ca",
-      "correctAnswer": "Inauguration",
-      "incorrectAnswers": [
-        "Coronation",
-        "Installation",
-        "Ordination"
-      ],
-      "question": {
-        "text": "Which word refers to the ceremony in which a new President of the United States is formally introduced?"
-      },
-      "tags": [
-        "politics",
-        "presidents",
-        "society_and_culture",
-        "usa"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f950812",
-      "correctAnswer": "South America",
-      "incorrectAnswers": [
-        "Oceania",
-        "Europe",
-        "Asia"
-      ],
-      "question": {
-        "text": "The country of Suriname is on which continent?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "62611fbc4b176d54800e3d6d",
-      "correctAnswer": "1963",
-      "incorrectAnswers": [
-        "1942",
-        "1949",
-        "1956"
-      ],
-      "question": {
-        "text": "When did Martin Luther King give his “I Have a Dream” speech?"
-      },
-      "tags": [
-        "events",
+        "europe",
         "people",
-        "civil_rights",
+        "nicknames"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f95197e",
+      "correctAnswer": "Dunkirk",
+      "incorrectAnswers": [
+        "Calais",
+        "La Havre",
+        "Dieppe"
+      ],
+      "question": {
+        "text": "From which French port did 200,000 British troops flee in 1940?"
+      },
+      "tags": [
+        "world_war_2",
+        "wars",
+        "france",
+        "uk",
+        "1940's",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951a11",
+      "correctAnswer": "James Garfield",
+      "incorrectAnswers": [
+        "John F Kennedy",
+        "Abraham Lincoln",
+        "Bill Buchanan"
+      ],
+      "question": {
+        "text": "Which U.S. president was fatally shot in 1881?"
+      },
+      "tags": [
         "history"
       ],
       "type": "text_choice",
@@ -489,85 +415,21 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "639c9db0929b90846f2fc992",
-      "correctAnswer": "Karma",
-      "incorrectAnswers": [
-        "Hajj",
-        "Salat",
-        "Zakat"
-      ],
-      "question": {
-        "text": "Which of the following is not a pillar of Islam?"
-      },
-      "tags": [
-        "islam",
-        "religion",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624ab072c64ce21c11f06e9c",
-      "correctAnswer": "Central America",
-      "incorrectAnswers": [
-        "India",
-        "Central Asia",
-        "Europe"
-      ],
-      "question": {
-        "text": "Where in the world are green beans originally from?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "64746b075a4c31088dd9d01d",
-      "correctAnswer": "Oysters",
-      "incorrectAnswers": [
-        "Lobsters",
-        "Crabs",
-        "Shrimps"
-      ],
-      "question": {
-        "text": "Which shellfish is said to be an aphrodisiac?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink",
-        "seafood",
-        "love"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "science",
-      "id": "6243333acfaae40c129613cb",
-      "correctAnswer": "A Cock",
+      "id": "648891c14cd3f064f443dc54",
+      "correctAnswer": "Spark plugs",
       "incorrectAnswers": [
-        "A Rooster",
-        "A Cob",
-        "A Ram"
+        "Valves",
+        "Pistons",
+        "Gaskets"
       ],
       "question": {
-        "text": "A male bird is known as what?"
+        "text": "In a gas engine, what device ignites the fuel-air mixture?"
       },
       "tags": [
-        "animals",
-        "names",
+        "engineering",
+        "cars",
+        "motoring",
         "science"
       ],
       "type": "text_choice",
@@ -576,21 +438,63 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "622a1c3e7cc59eab6f9522a2",
-      "correctAnswer": "24",
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fcb7",
+      "correctAnswer": "Indo-European",
       "incorrectAnswers": [
-        "12",
-        "30",
-        "365"
+        "Sino-Tibetan",
+        "Turkic",
+        "Niger–Congo"
       ],
       "question": {
-        "text": "How many days will it be before an analogue clock losing 30 minutes a day shows the right time again?"
+        "text": "The language 'Greek' belongs to which language family?"
       },
       "tags": [
-        "mathematics",
-        "numbers",
-        "general_knowledge"
+        "language",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fcfa",
+      "correctAnswer": "Dravidian",
+      "incorrectAnswers": [
+        "Turkic",
+        "Niger–Congo",
+        "Afroasiatic"
+      ],
+      "question": {
+        "text": "The language 'Telugu' belongs to which language family?"
+      },
+      "tags": [
+        "language",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "62ab33395202de619af28147",
+      "correctAnswer": "Tesla",
+      "incorrectAnswers": [
+        "Ford",
+        "Aston Martin",
+        "Bugatti"
+      ],
+      "question": {
+        "text": "The Model 3 is a model of car made by which manufacturer?"
+      },
+      "tags": [
+        "motoring",
+        "business",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -599,19 +503,62 @@
     },
     {
       "category": "geography",
-      "id": "62602d554b176d54800e3c90",
-      "correctAnswer": "Taipei",
+      "id": "623742cdcb85f7ce9e949df2",
+      "correctAnswer": "Abu Dhabi",
       "incorrectAnswers": [
-        "Adelaide",
-        "Fukuoka",
-        "Brisbane"
+        "Rabat",
+        "Meccah",
+        "Islamabad"
       ],
       "question": {
-        "text": "Which of these cities is in Taiwan?"
+        "text": "What is the capital city of United Arab Emirates?"
       },
       "tags": [
-        "cities",
-        "asia"
+        "the_middle_east",
+        "capital_cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f95018d",
+      "correctAnswer": "Joanne Kathleen",
+      "incorrectAnswers": [
+        "Julia Kathleen",
+        "Joanne Katherine",
+        "Julia Katherine"
+      ],
+      "question": {
+        "text": "What do the initials \"JK\" stand for in the name \"JK Rowling\", Author of the \"Harry Potter\" books?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f8a8",
+      "correctAnswer": "Golf",
+      "incorrectAnswers": [
+        "Table tennis",
+        "Swimming",
+        "Rowing"
+      ],
+      "question": {
+        "text": "With which sport is Tiger Woods associated?"
+      },
+      "tags": [
+        "people",
+        "general_knowledge",
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -620,42 +567,88 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f8e2",
-      "correctAnswer": "James Cagney",
+      "id": "63a03997c7d86251f9b65c88",
+      "correctAnswer": "Gaston",
       "incorrectAnswers": [
-        "Robert Mitchum",
-        "Bruce Willis",
-        "Mel Gibson"
+        "The Evil Queen",
+        "Ursula",
+        "Maleficent"
       ],
       "question": {
-        "text": "Which actor played the role of Tom Powers in The Public Enemy?"
+        "text": "What is the name of the villain in Beauty and the Beast?"
       },
       "tags": [
-        "acting",
+        "film_and_tv",
+        "disney",
         "film",
-        "film_and_tv"
+        "fictitious_characters"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fb72",
-      "correctAnswer": "Casablanca",
+      "category": "society_and_culture",
+      "id": "64d6a3149d5b369223eefd19",
+      "correctAnswer": "Ghosting",
       "incorrectAnswers": [
-        "For Whom the Bell Tolls",
-        "Heaven Can Wait",
-        "The Human Comedy"
+        "Dropping",
+        "Vanishing",
+        "Negging"
       ],
       "question": {
-        "text": "Which film won the Academy Award for Best Picture in 1943?"
+        "text": "In modern slang, what is the term for abruptly cutting off all communication, especially with a romantic partner?"
       },
       "tags": [
-        "academy_awards",
-        "film",
-        "film_and_tv"
+        "society_and_culture",
+        "slang",
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623b578afd6c701a92118364",
+      "correctAnswer": "Egypt",
+      "incorrectAnswers": [
+        "Indonesia",
+        "Peru",
+        "Mexico"
+      ],
+      "question": {
+        "text": "In which country would you find the Pyramids of Giza?"
+      },
+      "tags": [
+        "tourist_attractions",
+        "classics",
+        "general_knowledge",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c3b7cc59eab6f95174d",
+      "correctAnswer": "Charles and Diana",
+      "incorrectAnswers": [
+        "Elizabeth and Philip",
+        "William and Kate",
+        "Harry and Megan"
+      ],
+      "question": {
+        "text": "Which British royal couple were married on the 29th July 1981?"
+      },
+      "tags": [
+        "uk",
+        "society_and_culture",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "medium",

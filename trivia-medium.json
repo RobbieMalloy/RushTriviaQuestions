@@ -1,23 +1,43 @@
 {
-  "gameDate": "2025-12-28",
+  "gameDate": "2025-12-29",
   "difficulty": "medium",
   "results": [
     {
-      "category": "music",
-      "id": "622a1c3b7cc59eab6f9516f6",
-      "correctAnswer": "Alice Cooper",
+      "category": "sport_and_leisure",
+      "id": "62417da50f96c4efe8d773db",
+      "correctAnswer": "San Francisco 49ers",
       "incorrectAnswers": [
-        "Thin Lizzy",
-        "Aerosmith",
-        "Fleetwood Mac"
+        "San Francisco Jaguars",
+        "San Francisco Pistons",
+        "San Francisco Predators"
       ],
       "question": {
-        "text": "Who had a hit with School's Out in 1972?"
+        "text": "Which of these is an American Football team based in San Francisco?"
+      },
+      "tags": [
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "647f9de83a4302a719271649",
+      "correctAnswer": "The Jackson 5",
+      "incorrectAnswers": [
+        "The Osmonds",
+        "The Temptations",
+        "The Supremes"
+      ],
+      "question": {
+        "text": "Which family group had four No. 1 hits in 1970, including 'ABC'?"
       },
       "tags": [
         "music",
-        "songs",
-        "1970's"
+        "bands",
+        "siblings"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -26,86 +46,21 @@
     },
     {
       "category": "society_and_culture",
-      "id": "64860e82113d76c6b63179f4",
-      "correctAnswer": "Alma Mater",
+      "id": "6496a83ce831b1ab5aa11134",
+      "correctAnswer": "iPod",
       "incorrectAnswers": [
-        "Maxima Cum Laude",
-        "Curriculum Vitae",
-        "Magna Cum Laude"
+        "PlayStation",
+        "Blackberry",
+        "Game Boy"
       ],
       "question": {
-        "text": "What Latin term is used to refer to the university that someone attended?"
+        "text": "What device had a model called the 'Nano' released in 2005?"
       },
       "tags": [
-        "education",
-        "latin",
-        "universities",
+        "technology",
         "society_and_culture",
-        "language"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6260305b4b176d54800e3d1f",
-      "correctAnswer": "Santo Domingo",
-      "incorrectAnswers": [
-        "San Juan",
-        "Valparaíso",
-        "Cartagena"
-      ],
-      "question": {
-        "text": "Which of these cities is in Dominican Republic?"
-      },
-      "tags": [
-        "cities",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950dd8",
-      "correctAnswer": "Emily Brontë",
-      "incorrectAnswers": [
-        "Oscar Wilde",
-        "H. Rider Haggard",
-        "Percy Bysshe Shelley"
-      ],
-      "question": {
-        "text": "Which author wrote 'Wuthering Heights'?"
-      },
-      "tags": [
-        "literature",
-        "classic_novels",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "64fb150b717513cb79190393",
-      "correctAnswer": "Neurotoxins",
-      "incorrectAnswers": [
-        "Neurovenoms",
-        "Endotoxins",
-        "Endovenoms"
-      ],
-      "question": {
-        "text": "What is the name given to a poison that acts on the nervous system?"
-      },
-      "tags": [
-        "biology",
-        "science"
+        "brands",
+        "00's"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -114,19 +69,20 @@
     },
     {
       "category": "film_and_tv",
-      "id": "6488deec50a27f7378a91ddf",
-      "correctAnswer": "Who Wants To Be A Millionaire?",
+      "id": "622a1c3c7cc59eab6f951b5f",
+      "correctAnswer": "Brad Pitt",
       "incorrectAnswers": [
-        "Jeopardy!",
-        "Wheel of Fortune",
-        "The Price Is Right"
+        "Nicholas Cage",
+        "John Travolta",
+        "Edward Norton"
       ],
       "question": {
-        "text": "What TV game show had a 'Phone-a-Friend' lifeline?"
+        "text": "In The Movie 'Interview With The Vampire' Who Played The Vampire Being Interviewed?"
       },
       "tags": [
-        "film_and_tv",
-        "tv"
+        "acting",
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -134,46 +90,19 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951b3f",
-      "correctAnswer": "1914",
+      "category": "sport_and_leisure",
+      "id": "6384b42e83dddfb71ee5e362",
+      "correctAnswer": "Golf",
       "incorrectAnswers": [
-        "1938",
-        "1923",
-        "1919"
+        "Ice Hockey",
+        "Cricket",
+        "Sailing"
       ],
       "question": {
-        "text": "In What Year Did World War I Begin?"
+        "text": "Which sport is played at The Ryder Cup?"
       },
       "tags": [
-        "wars",
-        "world_war_1",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "649fe02bebb41911d4cbd6f0",
-      "correctAnswer": "South Dakota",
-      "incorrectAnswers": [
-        "Missouri",
-        "Wyoming",
-        "California"
-      ],
-      "question": {
-        "text": "Mount Rushmore is located in which state?"
-      },
-      "tags": [
-        "usa",
-        "presidents",
-        "mountains",
-        "tourist_attractions",
-        "geography",
-        "us_states"
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -182,44 +111,20 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c3c7cc59eab6f9517d9",
-      "correctAnswer": "Thalidomide",
+      "id": "64cfa1637f0714b9a0ca5e87",
+      "correctAnswer": "A consulate",
       "incorrectAnswers": [
-        "Bextra",
-        "Penicillin",
-        "Actos"
+        "An embargo",
+        "A missionary",
+        "A delegation"
       ],
       "question": {
-        "text": "Which drug, later found to have devastating side effects, was launched in 1958 to help pregnant women overcome morning sickness?"
+        "text": "What is the term for an office established by one country inside another to support and protect its citizens and aid commerce?"
       },
       "tags": [
-        "medicine",
-        "history",
         "society_and_culture",
-        "1950's"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "645b69d8f09106226db23568",
-      "correctAnswer": "Moby Dick",
-      "incorrectAnswers": [
-        "The Old Man and the Sea",
-        "20,000 Leagues Under the Sea",
-        "The Sea-Wolf"
-      ],
-      "question": {
-        "text": "Which novel tells the story of Ishmael, who goes to work on a whaler after feeling 'a damp, drizzly November' in his soul?"
-      },
-      "tags": [
-        "novels",
-        "literature",
-        "arts_and_literature",
-        "classic_novels"
+        "government",
+        "politics"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -228,15 +133,15 @@
     },
     {
       "category": "music",
-      "id": "62506425e12f6dec240bdf9d",
-      "correctAnswer": "Frankie Goes to Hollywood",
+      "id": "62506433e12f6dec240bdfa1",
+      "correctAnswer": "The Cardigans",
       "incorrectAnswers": [
-        "Quiet Riot",
-        "Divinyls",
-        "Jeannie C. Riley"
+        "New Radicals",
+        "Big Country",
+        "David Naughton"
       ],
       "question": {
-        "text": "'Relax' was a one hit wonder in 1985 by which artist?"
+        "text": "Who had a hit in 1996 with Lovefool?"
       },
       "tags": [
         "songs",
@@ -249,218 +154,21 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "64cf43067f0714b9a0ca5e79",
-      "correctAnswer": "Paradise Lost",
+      "category": "history",
+      "id": "64746b3e5a4c31088dd9d03e",
+      "correctAnswer": "Alaska",
       "incorrectAnswers": [
-        "The Odyssey",
-        "Beowulf",
-        "The Divine Comedy"
+        "Hawaii",
+        "Arizona",
+        "New Mexico"
       ],
       "question": {
-        "text": "In which epic poem by John Milton does Satan plot against Adam and Eve?"
+        "text": "Which US state was the second-to-last to join the Union?"
       },
       "tags": [
-        "poetry",
-        "literature",
-        "mythology",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "645c9f8742ea81e2554c5f4b",
-      "correctAnswer": "Alfred Hitchcock",
-      "incorrectAnswers": [
-        "Orson Welles",
-        "Christopher Nolan",
-        "Martin Scorsese"
-      ],
-      "question": {
-        "text": "Who was the British-born film director who died in Los Angeles in 1980?"
-      },
-      "tags": [
-        "directors",
-        "film_and_tv",
-        "people"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "645ab413158db1bd1779f1b8",
-      "correctAnswer": "Moo Shoo",
-      "incorrectAnswers": [
-        "Kung Pao",
-        "General Tso's Chicken",
-        "Lo Mein"
-      ],
-      "question": {
-        "text": "What Chinese dish is traditionally made of shredded pork stir-fried with eggs, bamboo shoots, other vegetables, and served in thin pancakes?"
-      },
-      "tags": [
-        "food",
-        "recipes",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6260303f4b176d54800e3d17",
-      "correctAnswer": "Dubrovnik",
-      "incorrectAnswers": [
-        "Lisbon",
-        "Geneva",
-        "Amsterdam"
-      ],
-      "question": {
-        "text": "Which of these cities is in Croatia?"
-      },
-      "tags": [
-        "cities",
-        "europe",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f950611",
-      "correctAnswer": "Joaquin Phoenix",
-      "incorrectAnswers": [
-        "Peter O'Toole",
-        "Roger Moore",
-        "Alan Cumming"
-      ],
-      "question": {
-        "text": "Which actor has played iconic roles in both Gladiator and Joker?"
-      },
-      "tags": [
-        "film_and_tv",
-        "acting",
-        "film"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f9510a9",
-      "correctAnswer": "Andromeda",
-      "incorrectAnswers": [
-        "Hercules",
-        "Ursa",
-        "Orion"
-      ],
-      "question": {
-        "text": "What is the name of the closest large spiral galaxy to our galaxy?"
-      },
-      "tags": [
-        "astronomy",
-        "science",
-        "physics",
-        "space"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f95066c",
-      "correctAnswer": "Elijah Wood",
-      "incorrectAnswers": [
-        "Tim Roth",
-        "Timothy Spall",
-        "Hugo Weaving"
-      ],
-      "question": {
-        "text": "Which actor has featured in films including The Lord of the Rings and Sin City?"
-      },
-      "tags": [
-        "film_and_tv",
-        "film",
-        "acting"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "645cb12a602ff42ca52fb425",
-      "correctAnswer": "Hawaii",
-      "incorrectAnswers": [
-        "California",
-        "Alaska",
-        "Washington"
-      ],
-      "question": {
-        "text": "Which U.S. state has a Volcanoes National Park that includes the summit of a 13,677-foot high volcano?"
-      },
-      "tags": [
-        "volcanoes",
+        "usa",
         "us_states",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "65056f537a97013de78b5420",
-      "correctAnswer": "Verb",
-      "incorrectAnswers": [
-        "Adjective",
-        "Noun",
-        "Preposition"
-      ],
-      "question": {
-        "text": "What type of word indicates an action?"
-      },
-      "tags": [
-        "language",
-        "words"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623387770161109f922aac27",
-      "correctAnswer": "Canada ",
-      "incorrectAnswers": [
-        "Russia",
-        "Australia",
-        "Japan"
-      ],
-      "question": {
-        "text": "Which Country Has The Longest Coastline?"
-      },
-      "tags": [
-        "geography"
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -469,66 +177,20 @@
     },
     {
       "category": "society_and_culture",
-      "id": "62c2f9f7b3eadb0437fda6b5",
-      "correctAnswer": "Slazenger",
+      "id": "6293ec057f41d6338b96eed1",
+      "correctAnswer": "German Communist philosopher.",
       "incorrectAnswers": [
-        "Giorgio Armani",
-        "Mustang",
-        "World Wildlife Fund"
+        "Leader of Soviet Communist Party who pursued reform to open Eastern Europe to democracy.",
+        "Diplomat and Renaissance writer considered the father of political science.",
+        "Theoretical physicist and one of the pioneers of quantum mechanics."
       ],
       "question": {
-        "text": "Which of these brands has a panther on its logo?"
+        "text": "Which of the following describes Karl Marx?"
       },
       "tags": [
-        "society_and_culture",
-        "business",
-        "marketing",
-        "animals",
-        "logos",
-        "symbols"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f951307",
-      "correctAnswer": "2001, A Space Odyssey",
-      "incorrectAnswers": [
-        "Star Wars",
-        "Alien",
-        "E.T."
-      ],
-      "question": {
-        "text": "In what film does the HAL 9000 appear?"
-      },
-      "tags": [
-        "arts_and_literature",
-        "film",
-        "fictitious_characters",
-        "science_fiction"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502cb",
-      "correctAnswer": "Alcohol By Volume ",
-      "incorrectAnswers": [
-        "Alcohol Bucahol Variance",
-        "Alcoholic Barrier Vitality",
-        "Alcoholic Barometric Vice"
-      ],
-      "question": {
-        "text": "What does the abbreviation A.B.V. Stand for in alcoholic drinks?"
-      },
-      "tags": [
-        "food_and_drink"
+        "people",
+        "history",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -537,39 +199,18 @@
     },
     {
       "category": "film_and_tv",
-      "id": "62573f909da29df7b05f73a2",
-      "correctAnswer": "In the future, a small waste-collecting robot inadvertently embarks on a space journey.",
+      "id": "622a1c347cc59eab6f94fbc8",
+      "correctAnswer": "\"That is so fetch.\"",
       "incorrectAnswers": [
-        "On a journey to find the cure for a curse, a boy finds himself in the middle of a war.",
-        "After a mathematician accepts secret work in cryptography, his life takes a turn for the nightmarish.",
-        "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler."
+        "\"Round up the usual suspects.\"",
+        "\"Of all the gin joints in all the towns in all the world, she walks into mine.\"",
+        "\"We rob banks.\""
       ],
       "question": {
-        "text": "What is the plot of the movie WALL·E?"
+        "text": "Which of these quotes is from the film 'Mean Girls'?"
       },
       "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f8d0",
-      "correctAnswer": "Audrey Hepburn",
-      "incorrectAnswers": [
-        "Tippi Hedren",
-        "Barbara Stanwyck",
-        "Sigourney Weaver"
-      ],
-      "question": {
-        "text": "Which actress played the role of Holly Golightly in Breakfast at Tiffany's?"
-      },
-      "tags": [
-        "acting",
+        "quotes",
         "film",
         "cult_films",
         "film_and_tv"
@@ -580,64 +221,23 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "637162841bf863c45ca6c381",
-      "correctAnswer": "Barba non facit philosophum",
+      "category": "science",
+      "id": "645cb0ac7d263fd509704372",
+      "correctAnswer": "The tibia and fibula",
       "incorrectAnswers": [
-        "Ad victoriam philos",
-        "Una philos non facit ver",
-        "Philosophum ad meliora"
+        "The femur and tibia",
+        "The humerus and ulna",
+        "The radius and ulna"
       ],
       "question": {
-        "text": "Which of these Latin phrases means 'A beard doesn't make one a philosopher'?"
+        "text": "Which two bones form the ankle joint that the talus fits between?"
       },
       "tags": [
-        "society_and_culture",
-        "language",
-        "the_romans",
-        "classics"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "625e9f9d796f721e95543faa",
-      "correctAnswer": "Green",
-      "incorrectAnswers": [
-        "Orange",
-        "Gold",
-        "Red"
-      ],
-      "question": {
-        "text": "Which of these colors is included on the flag of Pakistan?"
-      },
-      "tags": [
-        "flags",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "625e9de7796f721e95543f32",
-      "correctAnswer": "Red",
-      "incorrectAnswers": [
-        "Orange",
-        "Blue",
-        "White"
-      ],
-      "question": {
-        "text": "Which of these colors is included on the flag of Belgium?"
-      },
-      "tags": [
-        "flags",
-        "geography"
+        "anatomy",
+        "biology",
+        "medicine",
+        "bones",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -646,18 +246,418 @@
     },
     {
       "category": "science",
-      "id": "622a1c3a7cc59eab6f951037",
-      "correctAnswer": "Shoulder blade",
+      "id": "650570367a97013de78b5559",
+      "correctAnswer": "Voyager 2",
       "incorrectAnswers": [
-        "Ribs",
-        "Collar Bone",
-        "Kneecap"
+        "Mariner 2",
+        "Phobos 2",
+        "Huygens"
       ],
       "question": {
-        "text": "What is the common name for the scapula?"
+        "text": "Which space probe was the first to visit both Uranus and Neptune and to take detailed images of those planets?"
       },
       "tags": [
         "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fe94",
+      "correctAnswer": "Rihanna",
+      "incorrectAnswers": [
+        "Drake",
+        "Nicki Minaj",
+        "Ricky Martin"
+      ],
+      "question": {
+        "text": "Which singer released the song 'Pon de Replay'?"
+      },
+      "tags": [
+        "songs",
+        "musicians",
+        "00's",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "646262b8ab138b829b81ea4c",
+      "correctAnswer": "Polka",
+      "incorrectAnswers": [
+        "Bolka",
+        "Molka",
+        "Tolka"
+      ],
+      "question": {
+        "text": "What word could refer to a dance or a dot?"
+      },
+      "tags": [
+        "words",
+        "dance"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "6477baa2550bc819ad646b06",
+      "correctAnswer": "The Roman Empire",
+      "incorrectAnswers": [
+        "The Byzantine Empire",
+        "The Greek Empire",
+        "The Ottoman Empire"
+      ],
+      "question": {
+        "text": "Which Republic, which later turned full-blown empire, gained dominance over Italy around 274 B.C.?"
+      },
+      "tags": [
+        "history",
+        "empires",
+        "europe",
+        "italy"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3e7cc59eab6f9522e0",
+      "correctAnswer": "Lightning",
+      "incorrectAnswers": [
+        "Waves",
+        "Galaxies",
+        "Clouds"
+      ],
+      "question": {
+        "text": "Forked, Sheet, and Ball are types of what?"
+      },
+      "tags": [
+        "science",
+        "meteorology"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "6477ba9e550bc819ad646af3",
+      "correctAnswer": "Raiders of the Lost Ark",
+      "incorrectAnswers": [
+        "Jaws",
+        "Star Wars",
+        "E.T. the Extra-Terrestrial"
+      ],
+      "question": {
+        "text": "Which film contains a memorable scene where Harrison Ford retrieves a golden idol?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "645cb0ee602ff42ca52fb41c",
+      "correctAnswer": "Ghana",
+      "incorrectAnswers": [
+        "Egypt",
+        "Kenya",
+        "Gabon"
+      ],
+      "question": {
+        "text": "Which African country was once known as the Gold Coast and is located adjacent to the Ivory Coast?"
+      },
+      "tags": [
+        "africa",
+        "countries",
+        "history",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6293ebd27f41d6338b96eec2",
+      "correctAnswer": "Confirmed the theory that Earth revolves around The Sun.",
+      "incorrectAnswers": [
+        "Roman ruler who overthrew Caesar Augustus",
+        "Physicist who made major discoveries in quantum theory.",
+        "38th President of the US."
+      ],
+      "question": {
+        "text": "Which of the following describes Galileo Galilei?"
+      },
+      "tags": [
+        "people",
+        "history",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "645f9526541c4d4fc8cf2ead",
+      "correctAnswer": "Italy",
+      "incorrectAnswers": [
+        "Spain",
+        "Portugal",
+        "Greece"
+      ],
+      "question": {
+        "text": "Which country is home to the cities of Taranto, Anzio, and Padua?"
+      },
+      "tags": [
+        "cities",
+        "europe",
+        "countries",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "646262b8ab138b829b81ea58",
+      "correctAnswer": "The Aztecs",
+      "incorrectAnswers": [
+        "The Incas",
+        "The Mayans",
+        "The Moche"
+      ],
+      "question": {
+        "text": "Which empire of 30 million people was crushed by Cortez and his few hundred men in 1521?"
+      },
+      "tags": [
+        "conquest",
+        "empires",
+        "mexico",
+        "colonialism",
+        "1500s",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "648888605dba6c873ef65032",
+      "correctAnswer": "Huevos Rancheros",
+      "incorrectAnswers": [
+        "Enchiladas",
+        "Tacos",
+        "Burritos"
+      ],
+      "question": {
+        "text": "What famous Mexican dish consists of eggs served on tortillas and topped with salsa?"
+      },
+      "tags": [
+        "mexican_cuisine",
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "628d54b2a5a57ff6c2ad2bf3",
+      "correctAnswer": "Romanov",
+      "incorrectAnswers": [
+        "Nikolevsky",
+        "Napoleon",
+        "Lenin"
+      ],
+      "question": {
+        "text": "What was the name of the reigning imperial house of Russia from the 17th century until the 1917 revolution?"
+      },
+      "tags": [
+        "russia",
+        "leaders",
+        "revolutions",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6498aef29acaa77d9ad7c50a",
+      "correctAnswer": "Pharaoh",
+      "incorrectAnswers": [
+        "King Herod",
+        "Pontius Pilate",
+        "Caesar Augustus"
+      ],
+      "question": {
+        "text": "In the biblical story of Exodus, who tells Moses 'I know not the Lord, neither will I let Israel go'?"
+      },
+      "tags": [
+        "bible",
+        "society_and_culture",
+        "religion"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f9503f8",
+      "correctAnswer": "Hoover",
+      "incorrectAnswers": [
+        "Franklin",
+        "Roosevelt",
+        "Johnson"
+      ],
+      "question": {
+        "text": "U.S. President, Herbert C. _________."
+      },
+      "tags": [
+        "usa",
+        "presidents",
+        "people",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c387cc59eab6f9507fd",
+      "correctAnswer": "Africa",
+      "incorrectAnswers": [
+        "South America",
+        "Oceania",
+        "Europe"
+      ],
+      "question": {
+        "text": "The country of Cape Verde is on which continent?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "64824eb57778562fd76a9692",
+      "correctAnswer": "Christina Aguilera",
+      "incorrectAnswers": [
+        "Britney Spears",
+        "Mariah Carey",
+        "Whitney Houston"
+      ],
+      "question": {
+        "text": "Who sung the 1999 pop song 'Genie in a Bottle'?"
+      },
+      "tags": [
+        "pop_music",
+        "music",
+        "1990's"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "63f394f6989356ef48370bca",
+      "correctAnswer": "Percussion",
+      "incorrectAnswers": [
+        "String",
+        "Wind",
+        "Keyboard"
+      ],
+      "question": {
+        "text": "What type of instrument is a glockenspiel?"
+      },
+      "tags": [
+        "music",
+        "musical_instruments"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6463395701d576cfac3aa360",
+      "correctAnswer": "The flamingo",
+      "incorrectAnswers": [
+        "The pelican",
+        "The stork",
+        "The heron"
+      ],
+      "question": {
+        "text": "What is the name of the bird whose scientific name is Phoenicopterus ruber roseus?"
+      },
+      "tags": [
+        "birds",
+        "zoology",
+        "nature",
+        "animals",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94fd4d",
+      "correctAnswer": "Kazakhstan",
+      "incorrectAnswers": [
+        "Mongolia",
+        "Saudi Arabia",
+        "Afghanistan"
+      ],
+      "question": {
+        "text": "What is the largest landlocked country in the world?"
+      },
+      "tags": [
+        "records",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "medium",
