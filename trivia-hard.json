@@ -1,23 +1,42 @@
 {
-  "gameDate": "2025-12-29",
+  "gameDate": "2025-12-30",
   "difficulty": "hard",
   "results": [
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f8eb",
-      "correctAnswer": "Anne Bancroft",
+      "category": "geography",
+      "id": "62603062014f58b5fc1a3fca",
+      "correctAnswer": "Caracas",
       "incorrectAnswers": [
-        "Gloria Swanson",
-        "Shirley MacLaine",
-        "Glenn Close"
+        "Panama City",
+        "Recife",
+        "Cali"
       ],
       "question": {
-        "text": "Which actress played the role of Mrs. Robinson in The Graduate?"
+        "text": "Which of these cities is in Venezuela?"
       },
       "tags": [
-        "acting",
-        "film",
-        "film_and_tv"
+        "cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c3b7cc59eab6f9515ac",
+      "correctAnswer": "Liver",
+      "incorrectAnswers": [
+        "Goose",
+        "Fat",
+        "Force"
+      ],
+      "question": {
+        "text": "What does the 'foie' mean in 'foie gras'? "
+      },
+      "tags": [
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -26,38 +45,18 @@
     },
     {
       "category": "science",
-      "id": "622a1c3f7cc59eab6f952354",
-      "correctAnswer": "Vitamin C",
+      "id": "62433475cfaae40c12961445",
+      "correctAnswer": "A Farrow",
       "incorrectAnswers": [
-        "Vitamin D",
-        "Vitamin A",
-        "Vitamin B"
+        "A Larva",
+        "A Caterpillar",
+        "A Codling"
       ],
       "question": {
-        "text": "Ascorbic acid is commonly referred to as which vitamin?"
+        "text": "A young hog is known as what?"
       },
       "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "64dfa27da6681754ea052bac",
-      "correctAnswer": "The eyeball",
-      "incorrectAnswers": [
-        "The ear",
-        "The brain",
-        "The skeleton"
-      ],
-      "question": {
-        "text": "What part of the body is the sclera a part of?"
-      },
-      "tags": [
-        "anatomy",
+        "animals",
         "biology",
         "science"
       ],
@@ -67,63 +66,19 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f4b",
-      "correctAnswer": "Jules Verne",
+      "category": "geography",
+      "id": "6237421fcb85f7ce9e949dac",
+      "correctAnswer": "Apia",
       "incorrectAnswers": [
-        "Victor Hugo",
-        "Alphonse Daudet",
-        "Edgar Rice Burroughs"
+        "Lomé",
+        "Maputo",
+        "Podgorica"
       ],
       "question": {
-        "text": "Which author wrote 'From the Earth to the Moon'?"
+        "text": "What is the capital city of Samoa?"
       },
       "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd10",
-      "correctAnswer": "Jean-Paul Sartre",
-      "incorrectAnswers": [
-        "Thomas Hobbes",
-        "Ludwig Wittgenstein",
-        "G. W. F. Hegel"
-      ],
-      "question": {
-        "text": "Which philosopher famously said 'Man is condemned to be free'?"
-      },
-      "tags": [
-        "philosophy",
-        "quotes",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "645ba87ff09106226db23588",
-      "correctAnswer": "Chirac",
-      "incorrectAnswers": [
-        "Macron",
-        "Hollande",
-        "Sarkozy"
-      ],
-      "question": {
-        "text": "Which Pompidou protege and recent French president organized talks with trade unions after France's 1968 mass demonstrations?"
-      },
-      "tags": [
-        "world_leaders",
-        "france",
-        "europe"
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -132,20 +87,21 @@
     },
     {
       "category": "film_and_tv",
-      "id": "624db9e4de6018633d31f6a9",
-      "correctAnswer": "Sam Smith",
+      "id": "625fd651dc0dd3b72da64ce7",
+      "correctAnswer": "2008",
       "incorrectAnswers": [
-        "Madonna",
-        "Sheena Easton",
-        "Duran Duran"
+        "2006",
+        "2010",
+        "2012"
       ],
       "question": {
-        "text": "Who performed the theme song to the James Bond film Spectre?"
+        "text": "In which year was The Dark Knight first released in the cinema?"
       },
       "tags": [
-        "james_bond",
         "film",
-        "soundtracks",
+        "dc",
+        "batman",
+        "comics",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -155,21 +111,59 @@
     },
     {
       "category": "geography",
-      "id": "6463391301d576cfac3aa306",
-      "correctAnswer": "Scotland",
+      "id": "623741b4cb85f7ce9e949d81",
+      "correctAnswer": "Nigeria",
       "incorrectAnswers": [
-        "England",
-        "Wales",
-        "Northern Ireland"
+        "Oman",
+        "Uruguay",
+        "Lesotho"
       ],
       "question": {
-        "text": "In which U.K. country is the British royal residence and castle known as Balmoral located?"
+        "text": "Abuja is the capital city of which country?"
       },
       "tags": [
-        "uk",
-        "castles",
-        "geography",
-        "buildings"
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6237407ecb85f7ce9e949d04",
+      "correctAnswer": "Tbilisi",
+      "incorrectAnswers": [
+        "Beirut",
+        "Bratislava",
+        "Gitega"
+      ],
+      "question": {
+        "text": "What is the capital city of Georgia?"
+      },
+      "tags": [
+        "capital_cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951925",
+      "correctAnswer": "The California Gold Rush",
+      "incorrectAnswers": [
+        "The American Civil War",
+        "The Cuban Revolution",
+        "The Louisiana Purchase"
+      ],
+      "question": {
+        "text": "What started in 1849 when gold was discovered at Sutter's Mill?"
+      },
+      "tags": [
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -178,19 +172,17 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa09",
-      "correctAnswer": "Pierre-Auguste Renoir",
+      "id": "622a1c397cc59eab6f950dcd",
+      "correctAnswer": "Frances Hodgson Burnett",
       "incorrectAnswers": [
-        "‎‎Edvard Munch",
-        "Pablo Picasso",
-        "Jackson Pollock"
+        "Robert Louis Stevenson",
+        "Arthur Conan Doyle",
+        "Joseph Conrad"
       ],
       "question": {
-        "text": "Which artist painted \"Bal du Moulin de la Galette\""
+        "text": "Which author wrote 'Little Lord Fauntleroy'?"
       },
       "tags": [
-        "art",
-        "painting",
         "arts_and_literature"
       ],
       "type": "text_choice",
@@ -199,20 +191,21 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f20",
-      "correctAnswer": "Leo Tolstoy",
+      "category": "geography",
+      "id": "6237426ecb85f7ce9e949dcc",
+      "correctAnswer": "Khartoum",
       "incorrectAnswers": [
-        "Ivan Turgenev",
-        "Henryk Sienkiewicz",
-        "Alphonse Daudet"
+        "Nur-Sultan",
+        "Bratislava",
+        "Rabat"
       ],
       "question": {
-        "text": "Which author wrote 'Resurrection'?"
+        "text": "What is the capital city of Sudan?"
       },
       "tags": [
-        "literature",
-        "arts_and_literature"
+        "africa",
+        "capital_cities",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -221,15 +214,15 @@
     },
     {
       "category": "music",
-      "id": "622a1c397cc59eab6f950c6f",
-      "correctAnswer": "Linkin Park",
+      "id": "622a1c397cc59eab6f950c7d",
+      "correctAnswer": "U2",
       "incorrectAnswers": [
-        "Alice in Chains",
-        "Hollywood Undead",
-        "System of a Down"
+        "Public Image Ltd.",
+        "The Script",
+        "The Cure"
       ],
       "question": {
-        "text": "Which American rock band released the studio album 'Living Things'?"
+        "text": "Which Irish rock band released the song 'Walk On'?"
       },
       "tags": [
         "music"
@@ -241,20 +234,102 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f950751",
-      "correctAnswer": "Susan Sarandon",
+      "id": "62573f9d9da29df7b05f73a6",
+      "correctAnswer": "Paths of Glory",
       "incorrectAnswers": [
-        "Kate Winslet",
-        "Helen Mirren",
-        "Maggie Smith"
+        "Double Indemnity",
+        "North by Northwest",
+        "Scarface"
       ],
       "question": {
-        "text": "Which actress has featured in films including Fame and Enchanted?"
+        "text": "Name the movie that matches the following plot summary: 'A general accuses soldiers of cowardice and their commanding officer must defend them.'"
       },
       "tags": [
-        "film_and_tv",
-        "acting",
-        "film"
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "625064b8e12f6dec240bdfc8",
+      "correctAnswer": "Des'ree",
+      "incorrectAnswers": [
+        "Gary Numan",
+        "Edwyn Collins",
+        "Brownsville Station"
+      ],
+      "question": {
+        "text": "'You Gotta Be' was a one hit wonder in 1995 by which artist?"
+      },
+      "tags": [
+        "songs",
+        "one_hit_wonders",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6237426ccb85f7ce9e949dcb",
+      "correctAnswer": "Sudan",
+      "incorrectAnswers": [
+        "Ecuador",
+        "Nepal",
+        "Malaysia"
+      ],
+      "question": {
+        "text": "Khartoum is the capital city of which country?"
+      },
+      "tags": [
+        "capital_cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c98",
+      "correctAnswer": "The Rolling Stones",
+      "incorrectAnswers": [
+        "McFly",
+        "Delirious?",
+        "Depeche Mode"
+      ],
+      "question": {
+        "text": "Which English rock band released the studio album 'Aftermath'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950db5",
+      "correctAnswer": "The Rolling Stones",
+      "incorrectAnswers": [
+        "McFly",
+        "Led Zeppelin",
+        "Depeche Mode"
+      ],
+      "question": {
+        "text": "Which band was Bill Wyman a member of?"
+      },
+      "tags": [
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -263,15 +338,15 @@
     },
     {
       "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950024",
-      "correctAnswer": "Tennis",
+      "id": "622a1c347cc59eab6f94f873",
+      "correctAnswer": "Athletics",
       "incorrectAnswers": [
-        "Soccer",
-        "Badminton",
-        "Volleyball"
+        "Motor racing",
+        "Tennis",
+        "Figure skating"
       ],
       "question": {
-        "text": "With which sport is Chris Evert Lloyd identified?"
+        "text": "With which sport is Haile Gebreselassie associated?"
       },
       "tags": [
         "people",
@@ -284,248 +359,20 @@
     },
     {
       "category": "science",
-      "id": "622a1c377cc59eab6f9505ae",
-      "correctAnswer": "Ticks and mites",
+      "id": "62443774746187c5e7be9354",
+      "correctAnswer": "It is used in nuclear reactors, as a neutron moderator.",
       "incorrectAnswers": [
-        "The mouth and its diseases",
-        "Cosmetics",
-        "Schematic layouts"
+        "It is commonly used as a condiment and food preservative.",
+        "It is used for surface purification, bleaching, odour removal and water disinfection.",
+        "It us used in baking to stabilize egg whites."
       ],
       "question": {
-        "text": "What is Acarology the study of?"
+        "text": "What is the chemical deuterium oxide often used for?"
       },
       "tags": [
-        "science",
-        "words"
+        "chemistry",
+        "science"
       ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd47",
-      "correctAnswer": "Mariah Carey",
-      "incorrectAnswers": [
-        "Rihanna",
-        "Beyonce",
-        "Christina Aguilera"
-      ],
-      "question": {
-        "text": "With Whom Did Boyz 2 Men Record The Single \"One Sweet Day\" In 1995\""
-      },
-      "tags": [
-        "musicians",
-        "songs",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c3c7cc59eab6f951a40",
-      "correctAnswer": "The Godfather",
-      "incorrectAnswers": [
-        "Seabiscuit",
-        "Live and Let Die",
-        "Alien"
-      ],
-      "question": {
-        "text": "The horse Khartoum plays a role in which film?"
-      },
-      "tags": [
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbf0",
-      "correctAnswer": "\"Snap out of it!\"",
-      "incorrectAnswers": [
-        "\"I drink your milkshake. I drink it up.\"",
-        "\"Go ahead, make my day.\"",
-        "\"You're gonna need a bigger boat.\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'Moonstruck'?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62399ee3716fcbbce627660f",
-      "correctAnswer": "South Korea & Japan",
-      "incorrectAnswers": [
-        "Brazil",
-        "South Africa",
-        "France"
-      ],
-      "question": {
-        "text": "Which country hosted the 2002 FIFA World Cup?"
-      },
-      "tags": [
-        "world_cup",
-        "football",
-        "soccer",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f983",
-      "correctAnswer": "Portnoy's Complaint",
-      "incorrectAnswers": [
-        "One Hundred Years of Solitude",
-        "Heart of Darkness",
-        "The Big Sleep"
-      ],
-      "question": {
-        "text": "Which book contains the character 'Alex Portnoy'?"
-      },
-      "tags": [
-        "literature",
-        "fictitious_characters",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950bd3",
-      "correctAnswer": "Bon Jovi",
-      "incorrectAnswers": [
-        "Incubus",
-        "The Pussycat Dolls",
-        "Three 6 Mafia"
-      ],
-      "question": {
-        "text": "Which rock band from the United States released the song 'It's My Life'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f95105a",
-      "correctAnswer": "Silicon Chip",
-      "incorrectAnswers": [
-        "Semiconductor",
-        "Solid State Drive",
-        "Universal Serial Bus"
-      ],
-      "question": {
-        "text": "What Fundamental Part Of Computer Technology Was Pantented In The Us In 1961?"
-      },
-      "tags": [],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c367cc59eab6f950374",
-      "correctAnswer": "Cat Stevens",
-      "incorrectAnswers": [
-        "Joni Mitchell",
-        "Patti Smith",
-        "The Ramones"
-      ],
-      "question": {
-        "text": "Who Released The 70's Album Entitled 'Tea for the Tillerman'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f950637",
-      "correctAnswer": "Terry Crews",
-      "incorrectAnswers": [
-        "Richard Harris",
-        "Anthony Quinn",
-        "Hugo Weaving"
-      ],
-      "question": {
-        "text": "Which actor has featured in films including Deadpool 2 and Terminator Salvation?"
-      },
-      "tags": [
-        "film_and_tv",
-        "film",
-        "acting"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f962",
-      "correctAnswer": "The Member of the Wedding",
-      "incorrectAnswers": [
-        "Howards End",
-        "Wise Blood",
-        "All the King's Men"
-      ],
-      "question": {
-        "text": "Which book contains the character 'Frankie Addams'?"
-      },
-      "tags": [
-        "literature",
-        "fictitious_characters",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "6233880f0161109f922aac62",
-      "correctAnswer": "Singapore Sling ",
-      "incorrectAnswers": [
-        "Mojito",
-        "Daiqiri",
-        "Manhattan"
-      ],
-      "question": {
-        "text": "Which Cocktail Was Invented At The Raffles Hotel?"
-      },
-      "tags": [],
       "type": "text_choice",
       "difficulty": "hard",
       "regions": [],
@@ -533,18 +380,17 @@
     },
     {
       "category": "geography",
-      "id": "622a1c387cc59eab6f9508ae",
-      "correctAnswer": "South Africa",
+      "id": "623385f162eaad73716a8ca2",
+      "correctAnswer": "Peru",
       "incorrectAnswers": [
-        "Lesotho",
-        "Eswatini",
-        "Angola"
+        "Algeria",
+        "Papua New Guinea",
+        "Finland"
       ],
       "question": {
-        "text": "Which of these countries borders Botswana?"
+        "text": "Where are the Nazca Lines?"
       },
       "tags": [
-        "africa",
         "geography"
       ],
       "type": "text_choice",
@@ -553,19 +399,19 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f950244",
-      "correctAnswer": "Apples ",
+      "category": "history",
+      "id": "622a1c3d7cc59eab6f951c68",
+      "correctAnswer": "Princess Margaret",
       "incorrectAnswers": [
-        "Bananas",
-        "Cherries",
-        "Limes"
+        "Prince Charles",
+        "Elizabeth",
+        "James III"
       ],
       "question": {
-        "text": "Which fruit is used to make Calvados?"
+        "text": "After Henry VIII, Who Was The Next Member Of British Royalty To Get Divorced?"
       },
       "tags": [
-        "food_and_drink"
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -573,19 +419,21 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "62417d2a0f96c4efe8d773ab",
-      "correctAnswer": "Indianapolis Colts",
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f94b",
+      "correctAnswer": "The Manchurian Candidate",
       "incorrectAnswers": [
-        "Indianapolis Kings",
-        "Indianapolis Ravens",
-        "Indianapolis Bucks"
+        "The Shining",
+        "M",
+        "The Silence of the Lambs"
       ],
       "question": {
-        "text": "Which of these is an American Football team based in Indianapolis?"
+        "text": "Which film contains the character 'Mrs. Iselin'?"
       },
       "tags": [
-        "sport"
+        "film",
+        "fictitious_characters",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -593,21 +441,21 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa41",
-      "correctAnswer": "Neoclassicism",
+      "category": "science",
+      "id": "6242cb20d543524f1b19c90f",
+      "correctAnswer": "A gang",
       "incorrectAnswers": [
-        "Baroque",
-        "Dutch Golden Age",
-        "High Renaissance"
+        "A watch",
+        "A muster",
+        "A bevy"
       ],
       "question": {
-        "text": "The painting \"The Grand Odalisque\" by Jean Auguste Dominique Ingres is a part of which art movement?"
+        "text": "What is the word for a group of elk?"
       },
       "tags": [
-        "painting",
-        "art",
-        "arts_and_literature"
+        "words",
+        "animals",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -615,19 +463,169 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f95023a",
-      "correctAnswer": "Bordeaux ",
+      "category": "geography",
+      "id": "62373fc6cb85f7ce9e949cba",
+      "correctAnswer": "Bandar Seri Begawan",
       "incorrectAnswers": [
-        "Toulouse",
-        "Lyon",
-        "Champagne"
+        "Beirut",
+        "Apia",
+        "Lilongwe"
       ],
       "question": {
-        "text": "Which region of France does claret come from?"
+        "text": "What is the capital city of Brunei?"
       },
       "tags": [
-        "food_and_drink"
+        "capital_cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62373f9ecb85f7ce9e949caa",
+      "correctAnswer": "Minsk",
+      "incorrectAnswers": [
+        "Budapest",
+        "Vienna",
+        "Vaduz"
+      ],
+      "question": {
+        "text": "What is the capital city of Belarus?"
+      },
+      "tags": [
+        "capital_cities",
+        "cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f950330",
+      "correctAnswer": "Rober Peary",
+      "incorrectAnswers": [
+        "Mungo Park",
+        "Henry Hudson",
+        "Kit Carson"
+      ],
+      "question": {
+        "text": "Who was the first person to reach the North Pole?"
+      },
+      "tags": [
+        "people",
+        "firsts",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "625064c2e12f6dec240bdfcb",
+      "correctAnswer": "Don't Leave Me This Way",
+      "incorrectAnswers": [
+        "Ice Ice Baby",
+        "In-A-Gadda-Da-Vida",
+        "Rebirth of Slick (Cool Like Dat)"
+      ],
+      "question": {
+        "text": "What song did Thelma Houston have a hit with in 1976?"
+      },
+      "tags": [
+        "songs",
+        "one_hit_wonders",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c15",
+      "correctAnswer": "Nirvana",
+      "incorrectAnswers": [
+        "Counting Crows",
+        "Three 6 Mafia",
+        "The Velvet Underground"
+      ],
+      "question": {
+        "text": "Which American rock band released the song 'About a Girl'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6462624dab138b829b81e9ee",
+      "correctAnswer": "Sound bites",
+      "incorrectAnswers": [
+        "Catch phrases",
+        "Taglines",
+        "Mottos"
+      ],
+      "question": {
+        "text": "What is the name for the quotable, snappy snippets that politicians often use in news broadcasts and speeches?"
+      },
+      "tags": [
+        "media",
+        "communication",
+        "society_and_culture",
+        "phrases"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62374068cb85f7ce9e949cfb",
+      "correctAnswer": "Finland",
+      "incorrectAnswers": [
+        "Japan",
+        "Guinea-Bissau",
+        "Mongolia"
+      ],
+      "question": {
+        "text": "Helsinki is the capital city of which country?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c397cc59eab6f950fb1",
+      "correctAnswer": "Marie Curie",
+      "incorrectAnswers": [
+        "Albert Einstein",
+        "Stephen Hawking",
+        "Francis Crick"
+      ],
+      "question": {
+        "text": "Who is the only person two win two nobel prizes?"
+      },
+      "tags": [
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",

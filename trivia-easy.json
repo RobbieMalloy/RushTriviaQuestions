@@ -1,128 +1,20 @@
 {
-  "gameDate": "2025-12-29",
+  "gameDate": "2025-12-30",
   "difficulty": "easy",
   "results": [
     {
-      "category": "history",
-      "id": "62611fe54b176d54800e3d78",
-      "correctAnswer": "1945",
-      "incorrectAnswers": [
-        "1921",
-        "1880",
-        "1972"
-      ],
-      "question": {
-        "text": "When did Alan Turing break the Enigma code?"
-      },
-      "tags": [
-        "events",
-        "technology",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "624333a2cfaae40c129613f4",
-      "correctAnswer": "A Doe",
-      "incorrectAnswers": [
-        "A Pen",
-        "A Mare",
-        "A Nanny"
-      ],
-      "question": {
-        "text": "A female deer is known as what?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f95139c",
-      "correctAnswer": "Harry Potter",
-      "incorrectAnswers": [
-        "A Song of Ice and Fire",
-        "The Lord of the Rings",
-        "Twilight"
-      ],
-      "question": {
-        "text": "In which book series does Draco Malfoy appear?"
-      },
-      "tags": [
-        "arts_and_literature",
-        "literature",
-        "fictitious_characters",
-        "young_adult"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6505702b7a97013de78b5549",
-      "correctAnswer": "Neutrino",
-      "incorrectAnswers": [
-        "Electron",
-        "Muon",
-        "Tau"
-      ],
-      "question": {
-        "text": "Which of the following particles does NOT carry electric charge?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fec8",
-      "correctAnswer": "Beyoncé",
-      "incorrectAnswers": [
-        "Madonna",
-        "Drake",
-        "Nicki Minaj"
-      ],
-      "question": {
-        "text": "Which American singer, actress and record producer released the studio album 'Dangerously in Love'?"
-      },
-      "tags": [
-        "general_knowledge",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "geography",
-      "id": "623b578cfd6c701a92118365",
-      "correctAnswer": "Israel",
+      "id": "623b57d1fd6c701a92118380",
+      "correctAnswer": "USA",
       "incorrectAnswers": [
-        "Indonesia",
-        "Brazil",
-        "Egypt"
+        "Israel",
+        "England",
+        "Australia"
       ],
       "question": {
-        "text": "In which country would you find the City of Jerusalem?"
+        "text": "In which country would you find the Grand Canyon National Park?"
       },
       "tags": [
-        "cities",
-        "general_knowledge",
         "geography"
       ],
       "type": "text_choice",
@@ -132,20 +24,21 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "65056eaf7a97013de78b533b",
-      "correctAnswer": "Bible",
+      "id": "622a1c3a7cc59eab6f95139f",
+      "correctAnswer": "Harry Potter",
       "incorrectAnswers": [
-        "The Odyssey",
-        "Hamlet",
-        "The Decameron"
+        "Voyages Extraordinaires",
+        "Percy Jackson & the Olympians",
+        "Twilight"
       ],
       "question": {
-        "text": "The 'New King James Version' (NKJV) is a modern translation of which religious text?"
+        "text": "In which book series does Lord Voldemort appear?"
       },
       "tags": [
-        "religion",
-        "translation",
-        "bible"
+        "fictitious_characters",
+        "childrens_literature",
+        "literature",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -153,24 +46,19 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "645f9526541c4d4fc8cf2eb7",
-      "correctAnswer": "Mars",
+      "category": "geography",
+      "id": "623740e7cb85f7ce9e949d2e",
+      "correctAnswer": "Tokyo",
       "incorrectAnswers": [
-        "Venus",
-        "Jupiter",
-        "Saturn"
+        "Osaka",
+        "Okinawa",
+        "Shanghai"
       ],
       "question": {
-        "text": "What is the name of the planet in our solar system given the nickname \"The Red Planet\"?"
+        "text": "What is the capital city of Japan?"
       },
       "tags": [
-        "astronomy",
-        "space",
-        "planets",
-        "the_solar_system",
-        "nicknames",
-        "science"
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -178,195 +66,23 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "65056fa27a97013de78b548d",
-      "correctAnswer": "Kiwi",
+      "category": "arts_and_literature",
+      "id": "6463391401d576cfac3aa316",
+      "correctAnswer": "Curds & Whey",
       "incorrectAnswers": [
-        "Tui",
-        "Bellbird",
-        "Moa"
+        "Bread & Butter",
+        "Neaps & Tatties",
+        "Apples & Pears"
       ],
       "question": {
-        "text": "What is the national bird of New Zealand?"
+        "text": "In \"Little Miss Muffet\", what are the two foods being consumed by Miss Muffet when the spider frightens her?"
       },
       "tags": [
-        "national_symbols",
-        "New Zealand",
-        "birds"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c3c7cc59eab6f95197f",
-      "correctAnswer": "You turned to stone",
-      "incorrectAnswers": [
-        "You fell in love",
-        "You became a ghost",
-        "You saw your own death"
-      ],
-      "question": {
-        "text": "What Happened If You Looked A Gorgon In The Eye?"
-      },
-      "tags": [
-        "mythology",
-        "ancient_greece",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "648888d35dba6c873ef65088",
-      "correctAnswer": "Filly",
-      "incorrectAnswers": [
-        "Pony",
-        "Stallion",
-        "Mare"
-      ],
-      "question": {
-        "text": "What term is used for a female horse that is aged four years or under?"
-      },
-      "tags": [
-        "horses",
-        "animals",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6496a83ce831b1ab5aa1113b",
-      "correctAnswer": "Your uncle",
-      "incorrectAnswers": [
-        "Your cousin",
-        "Your brother-in-law",
-        "Your stepfather"
-      ],
-      "question": {
-        "text": "What term refers to the husband of your mom's sister?"
-      },
-      "tags": [
+        "food",
+        "food_and_drink",
+        "nursery_rhymes",
         "society_and_culture",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "64fb5b33717513cb79190406",
-      "correctAnswer": "Loitering",
-      "incorrectAnswers": [
-        "Shoplifting",
-        "Jaywalking",
-        "Vandalism"
-      ],
-      "question": {
-        "text": "What crime could be considered if someone is hanging out in public for no good reason?"
-      },
-      "tags": [
-        "crime",
-        "law",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3f7cc59eab6f9523ac",
-      "correctAnswer": "Amnesia",
-      "incorrectAnswers": [
-        "Insomnia",
-        "Coma",
-        "Kleptomania"
-      ],
-      "question": {
-        "text": "A loss of memory is known as what?"
-      },
-      "tags": [
-        "medicine",
-        "words",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "6271643d1ba117625baac951",
-      "correctAnswer": "Ireland",
-      "incorrectAnswers": [
-        "Romania",
-        "Mongolia",
-        "Finland"
-      ],
-      "question": {
-        "text": "In which country is guinness a popular drink?"
-      },
-      "tags": [
-        "drink",
-        "alcohol"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "63e13a32106de6ffa7d4a7b2",
-      "correctAnswer": "Bladder",
-      "incorrectAnswers": [
-        "Stomach",
-        "Kidney",
-        "Liver"
-      ],
-      "question": {
-        "text": "Which organ stores urine?\n"
-      },
-      "tags": [
-        "science",
-        "biology",
-        "anatomy"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "645b9ebcf09106226db23576",
-      "correctAnswer": "Mobile",
-      "incorrectAnswers": [
-        "Chandelier",
-        "Lampshade",
-        "Pendant"
-      ],
-      "question": {
-        "text": "What is a word refers to a decorative structure that can hang above a baby's crib?"
-      },
-      "tags": [
-        "babies",
-        "general_knowledge",
-        "words"
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -375,18 +91,18 @@
     },
     {
       "category": "music",
-      "id": "622a1c397cc59eab6f950d48",
-      "correctAnswer": "One Direction",
+      "id": "622a1c397cc59eab6f950cef",
+      "correctAnswer": "Queen",
       "incorrectAnswers": [
-        "Blur",
-        "The Beatles",
-        "U2"
+        "Level 42",
+        "Deep Purple",
+        "Feeder"
       ],
       "question": {
-        "text": "Which band did Liam Payne belong to?"
+        "text": "Which British rock band released the song 'Bohemian Rhapsody'?"
       },
       "tags": [
-        "people",
+        "rock_music",
         "music"
       ],
       "type": "text_choice",
@@ -395,21 +111,20 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "647f9def3a4302a71927168a",
-      "correctAnswer": "Dreadlocks",
+      "category": "film_and_tv",
+      "id": "62573fa49da29df7b05f73a8",
+      "correctAnswer": "An archaeologist is hired by the government to find the Ark of the Covenant.",
       "incorrectAnswers": [
-        "Buzz cut",
-        "Mullet",
-        "Comb over"
+        "On a journey to find the cure for a curse, a boy finds himself in the middle of a war.",
+        "A Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
+        "A 12-year-old is taken in by a professional assassin after her family is murdered."
       ],
       "question": {
-        "text": "Which hairstyle, characterized by long, matted or coiled strands of hair, was sported by Lennox Lewis, Lenny Kravitz, and Bob Marley?"
+        "text": "What is the plot of the movie Raiders of the Lost Ark?"
       },
       "tags": [
-        "hair",
-        "people",
-        "society_and_culture"
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -417,21 +132,89 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "64746b6f5a4c31088dd9d05b",
-      "correctAnswer": "Bell-bottoms",
+      "category": "science",
+      "id": "63f39503989356ef48370be5",
+      "correctAnswer": "The Moon",
       "incorrectAnswers": [
-        "Cargo pants",
-        "Three-quarter lengths",
-        "Trumpet pants"
+        "Mars",
+        "Jupiter",
+        "Mercury"
       ],
       "question": {
-        "text": "What type of flared pants were popular during the era of disco music?"
+        "text": "Which of the following is not a planet?"
       },
       "tags": [
-        "fashion",
-        "society_and_culture",
-        "clothing"
+        "science",
+        "space",
+        "the_solar_system",
+        "astrophysics"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "645cb12a602ff42ca52fb428",
+      "correctAnswer": "Embryology",
+      "incorrectAnswers": [
+        "Endocrinology",
+        "Pathology",
+        "Radiology"
+      ],
+      "question": {
+        "text": "What is the name of the process that is concerned with the development of the fertilized egg and the growth of the fetus?"
+      },
+      "tags": [
+        "biology",
+        "medicine",
+        "anatomy",
+        "science",
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62602d884b176d54800e3c9f",
+      "correctAnswer": "Brazil",
+      "incorrectAnswers": [
+        "Panama",
+        "Mexico",
+        "Ecuador"
+      ],
+      "question": {
+        "text": "Where would you find the city of São Paulo?"
+      },
+      "tags": [
+        "cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f9507ad",
+      "correctAnswer": "Tom Hanks",
+      "incorrectAnswers": [
+        "Ewan McGregor",
+        "Will Smith",
+        "Tom Cruise"
+      ],
+      "question": {
+        "text": "Which actor has featured in films including Forrest Gump and Apollo 13?"
+      },
+      "tags": [
+        "film",
+        "acting",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -440,15 +223,256 @@
     },
     {
       "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f950298",
-      "correctAnswer": "Michelin Star",
+      "id": "624c60b150d1a5e051325a6d",
+      "correctAnswer": "Pizza",
       "incorrectAnswers": [
-        "North Star",
-        "Flavour Star",
-        "Prestige Star"
+        "Dim Sum",
+        "Cou Cou and Flying Fish",
+        "Kabuli Pulao"
       ],
       "question": {
-        "text": "What Type Of Star Is Awarded To Restaurants Where The food Is Of Exceptional Quality?"
+        "text": "Which of these dishes would you most expect to find in Italy?"
+      },
+      "tags": [
+        "food",
+        "general_knowledge",
+        "italy",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f8ae",
+      "correctAnswer": "Swimming",
+      "incorrectAnswers": [
+        "Figure skating",
+        "Track and field",
+        "Boxing"
+      ],
+      "question": {
+        "text": "With which sport is Michael Phelps associated?"
+      },
+      "tags": [
+        "olympics",
+        "people",
+        "general_knowledge",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "636a52a3990390307063f3af",
+      "correctAnswer": "Nirvana",
+      "incorrectAnswers": [
+        "The Isley Brothers",
+        "Van Halen",
+        "Devo"
+      ],
+      "question": {
+        "text": "The song 'Smells Like Teen Spirit' had a well-known cover by Tori Amos, but who recorded the original?"
+      },
+      "tags": [
+        "music",
+        "cover_song",
+        "songs",
+        "musicians"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623b583bfd6c701a921183a7",
+      "correctAnswer": "France",
+      "incorrectAnswers": [
+        "Mexico",
+        "England",
+        "Greece"
+      ],
+      "question": {
+        "text": "In which country would you find the Palace of Versailles?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "648888605dba6c873ef6503d",
+      "correctAnswer": "French toast",
+      "incorrectAnswers": [
+        "Melba toast",
+        "Flatbread",
+        "Egg bathed toast"
+      ],
+      "question": {
+        "text": "What is the name of the dish made by dipping bread in a mixture of eggs and milk and frying until golden brown?"
+      },
+      "tags": [
+        "breakfast",
+        "cooking",
+        "recipes",
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "645b431a067ef798d1455082",
+      "correctAnswer": "Romeo",
+      "incorrectAnswers": [
+        "Tybalt",
+        "Mercutio",
+        "Paris"
+      ],
+      "question": {
+        "text": "Which character in Romeo & Juliet totally forgets about his crush on Rosaline and falls in love with Juliet?"
+      },
+      "tags": [
+        "shakespeare",
+        "theater",
+        "romeo_and_juliet",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f9503fe",
+      "correctAnswer": "Aqueduct",
+      "incorrectAnswers": [
+        "Canal",
+        "Forum",
+        "Arena"
+      ],
+      "question": {
+        "text": "What did the Romans build to convey water? "
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94f953",
+      "correctAnswer": "Winnie the Pooh",
+      "incorrectAnswers": [
+        "In Our Time",
+        "Nine Stories",
+        "1984"
+      ],
+      "question": {
+        "text": "Which book contains the character 'Eeyore'?"
+      },
+      "tags": [
+        "literature",
+        "fictitious_characters",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c347cc59eab6f94fba1",
+      "correctAnswer": "\"Circle of Life\" by Elton John",
+      "incorrectAnswers": [
+        "\"SpongeBob SquarePants Theme\" by Painty the Pirate",
+        "\"Let's Go Crazy\" by Prince and The Revolution",
+        "\"What I Got\" by Sublime"
+      ],
+      "question": {
+        "text": "Which song begins with the lyrics: \"Nants ingonyama bagithi Baba / Sithi uhm ingonyama...\"?"
+      },
+      "tags": [
+        "songs",
+        "lyrics",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f95139b",
+      "correctAnswer": "Harry Potter",
+      "incorrectAnswers": [
+        "Voyages Extraordinaires",
+        "Percy Jackson & the Olympians",
+        "Twilight"
+      ],
+      "question": {
+        "text": "In which book series does 'Ginny Weasley' appear?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "64824eb57778562fd76a9690",
+      "correctAnswer": "GPS",
+      "incorrectAnswers": [
+        "BPS",
+        "LPS",
+        "TPS"
+      ],
+      "question": {
+        "text": "Which technology was first developed for the U.S. military and is now used for navigation?"
+      },
+      "tags": [
+        "technology",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624c60bc50d1a5e051325a70",
+      "correctAnswer": "Japan",
+      "incorrectAnswers": [
+        "Turkey",
+        "Spain",
+        "Estonia"
+      ],
+      "question": {
+        "text": "Where in the world would you most expect to be served Sushi?"
       },
       "tags": [
         "food",
@@ -461,18 +485,62 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "646262c1ab138b829b81ea67",
-      "correctAnswer": "The Irish",
+      "category": "science",
+      "id": "622a1c377cc59eab6f950598",
+      "correctAnswer": "The influences of celestial bodies on earthly affairs",
       "incorrectAnswers": [
-        "The Scots",
-        "The Welsh",
-        "The English"
+        "Friction at very small scale",
+        "The Sun",
+        "Men"
       ],
       "question": {
-        "text": "Which cultural group has the stereotype of being lucky?"
+        "text": "What is astrology the study of?"
       },
       "tags": [
+        "words",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f950467",
+      "correctAnswer": "Viruses",
+      "incorrectAnswers": [
+        "Wine",
+        "Parasites",
+        "The therapeutic use of plants"
+      ],
+      "question": {
+        "text": "What is Virology the study of?"
+      },
+      "tags": [
+        "words",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6266e610ff2394bd44dee02e",
+      "correctAnswer": "One",
+      "incorrectAnswers": [
+        "Yellow",
+        "Eight",
+        "Ten"
+      ],
+      "question": {
+        "text": "In Spanish, what is the meaning of the word 'uno'?"
+      },
+      "tags": [
+        "language",
+        "translations",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -481,20 +549,20 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "6257413a9da29df7b05f740f",
-      "correctAnswer": "A kindhearted street urchin and a power-hungry Grand Vizier vie for a magic lamp.",
+      "category": "geography",
+      "id": "62602dcb014f58b5fc1a3fc5",
+      "correctAnswer": "New Zealand",
       "incorrectAnswers": [
-        "Simba and his father are targeted by his uncle, who wants to ascend the throne himself.",
-        "Two soldiers race to deliver a message that will stop 1,600 men from walking into a deadly trap.",
-        "Two grifters team up to pull off the ultimate con."
+        "Australia",
+        "Ireland",
+        "Canada"
       ],
       "question": {
-        "text": "What is the plot of the movie Aladdin?"
+        "text": "In which country is the city of Auckland?"
       },
       "tags": [
-        "film",
-        "film_and_tv"
+        "cities",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -502,64 +570,21 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950eac",
-      "correctAnswer": "J. K. Rowling",
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f8a8",
+      "correctAnswer": "Golf",
       "incorrectAnswers": [
-        "Christopher Tolkien",
-        "Philip Pullman",
-        "C. S. Lewis"
+        "Table tennis",
+        "Swimming",
+        "Rowing"
       ],
       "question": {
-        "text": "Which author wrote 'The Tales of Beedle the Bard'?"
+        "text": "With which sport is Tiger Woods associated?"
       },
       "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "63f39521989356ef48370c23",
-      "correctAnswer": "Origami",
-      "incorrectAnswers": [
-        "Kabuki",
-        "Kintsugi",
-        "Kokeshi"
-      ],
-      "question": {
-        "text": "What is the name of the traditional Japanese art of paper folding?"
-      },
-      "tags": [
-        "japan",
-        "society_and_culture",
-        "traditions",
-        "art"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94ff43",
-      "correctAnswer": "Michael Jackson",
-      "incorrectAnswers": [
-        "Nicki Minaj",
-        "Neil Young",
-        "Eric Clapton"
-      ],
-      "question": {
-        "text": "Which American singer released the song 'Bad'?"
-      },
-      "tags": [
-        "songs",
+        "people",
         "general_knowledge",
-        "music"
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -567,23 +592,19 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c357cc59eab6f94fc4b",
-      "correctAnswer": "\"I'm gonna make him an offer he can't refuse.\"",
+      "category": "science",
+      "id": "622a1c377cc59eab6f950541",
+      "correctAnswer": "the process of human psychological evolution",
       "incorrectAnswers": [
-        "\"I love the smell of napalm in the morning.\"",
-        "\"I have nipples Greg. Could you milk me?\"",
-        "\"Elementary, my dear Watson.\""
+        "eggs",
+        "the study of picture postcards",
+        "sacred texts"
       ],
       "question": {
-        "text": "Which of these quotes is from the film 'The Godfather'?"
+        "text": "What is Evolutionary psychology the study of?"
       },
       "tags": [
-        "quotes",
-        "film",
-        "general_knowledge",
-        "cult_films",
-        "film_and_tv"
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -591,20 +612,19 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "62573f8c3d2f5c16bfb88334",
-      "correctAnswer": "The crew of a spacecraft encounter a deadly lifeform after investigating a transmission.",
+      "category": "history",
+      "id": "622a1c367cc59eab6f9503ba",
+      "correctAnswer": "Babylon",
       "incorrectAnswers": [
-        "The life of the lawyer who became the famed leader of the Indian revolts against the British rule.",
-        "An insurance representative lets a housewife seduce him into a scheme of insurance fraud and murder.",
-        "After the death of a tycoon, reporters scramble to uncover the meaning of his final utterance."
+        "Atlantis",
+        "Jerusalem",
+        "Scythia"
       ],
       "question": {
-        "text": "What is the plot of the movie Alien?"
+        "text": "Where were the Hanging Gardens?"
       },
       "tags": [
-        "film",
-        "film_and_tv"
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -612,42 +632,20 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "625740839da29df7b05f73e3",
-      "correctAnswer": "After his son is captured and taken to Sydney, a clownfish sets out on a journey to bring him home.",
+      "category": "general_knowledge",
+      "id": "646089ddde964ebc39016c83",
+      "correctAnswer": "Mole",
       "incorrectAnswers": [
-        "A prince cursed to spend his days as a monster sets out to regain his humanity.",
-        "After he becomes a quadriplegic, an aristocrat hires a young man to be his caregiver.",
-        "A high school student is sent thirty years into the past in a time-traveling car."
+        "Ferret",
+        "Rat",
+        "Squirrel"
       ],
       "question": {
-        "text": "What is the plot of the movie Finding Nemo?"
+        "text": "Which term describes a spy who operates within the intelligence service of another country?"
       },
       "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6460896ade964ebc39016c4a",
-      "correctAnswer": "Bulgarian",
-      "incorrectAnswers": [
-        "Bulgarish",
-        "Bulgavite",
-        "Bulgarite"
-      ],
-      "question": {
-        "text": "What is the term for a person from Bulgaria?"
-      },
-      "tags": [
-        "countries",
-        "demonyms",
-        "society_and_culture"
+        "espionage",
+        "words"
       ],
       "type": "text_choice",
       "difficulty": "easy",

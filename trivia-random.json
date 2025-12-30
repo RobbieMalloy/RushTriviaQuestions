@@ -1,176 +1,43 @@
 {
-  "gameDate": "2025-12-29",
+  "gameDate": "2025-12-30",
   "difficulty": "random",
   "results": [
     {
-      "category": "food_and_drink",
-      "id": "625006670d86c8f685d80ee7",
-      "correctAnswer": "Shaped pasta",
+      "category": "science",
+      "id": "622a1c3e7cc59eab6f952274",
+      "correctAnswer": "Twice the speed of sound",
       "incorrectAnswers": [
-        "Strand pasta",
-        "Tubular pasta",
-        "Ribbon pasta"
+        "Twice the speed of light",
+        "200 miles per hour",
+        "2 miles per second"
       ],
       "question": {
-        "text": "What type of pasta is campanelle?"
+        "text": "If you were travelling at mach 2 how fast would you be travelling?"
       },
       "tags": [
-        "food",
-        "italy",
-        "food_and_drink"
+        "science",
+        "words"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f9500bb",
-      "correctAnswer": "6",
-      "incorrectAnswers": [
-        "3",
-        "10",
-        "8"
-      ],
-      "question": {
-        "text": "How Many Players Are There In A Volleyball Team?"
-      },
-      "tags": [
-        "olympics",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "music",
-      "id": "622a1c397cc59eab6f950d36",
-      "correctAnswer": "The Beatles",
+      "id": "622a1c357cc59eab6f94fd50",
+      "correctAnswer": "The Banjo",
       "incorrectAnswers": [
-        "The Rolling Stones",
-        "Blur",
-        "Black Sabbath"
+        "The Piano",
+        "The Harp",
+        "The Flute"
       ],
       "question": {
-        "text": "Which English rock band released the album 'Abbey Road'?"
+        "text": "With Which Instrument Is Earl Scruggs Associated?"
       },
       "tags": [
+        "people",
         "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "64fadc3c717513cb79190387",
-      "correctAnswer": "Aioli",
-      "incorrectAnswers": [
-        "Hollandaise",
-        "Béarnaise",
-        "Tartar"
-      ],
-      "question": {
-        "text": "Which sauce is an emulsion of garlic and olive oil?"
-      },
-      "tags": [
-        "sauces",
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "6271649d1ba117625baac969",
-      "correctAnswer": "Jenever",
-      "incorrectAnswers": [
-        "Brennivín",
-        "Akevitt",
-        "Gin"
-      ],
-      "question": {
-        "text": "Which of these drinks would you associate with Belgium?"
-      },
-      "tags": [
-        "drink",
-        "alcohol"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "645bc4634638d58091b1b9d2",
-      "correctAnswer": "Mamma Mia!",
-      "incorrectAnswers": [
-        "Grease",
-        "West Side Story",
-        "Les Misérables"
-      ],
-      "question": {
-        "text": "Which popular musical features the music of ABBA?"
-      },
-      "tags": [
-        "musicals",
-        "music",
-        "abba",
-        "theater"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "645c9f5342ea81e2554c5f05",
-      "correctAnswer": "The Truman Show",
-      "incorrectAnswers": [
-        "Eternal Sunshine of the Spotless Mind",
-        "Dead Poet's Society",
-        "The Shawshank Redemption"
-      ],
-      "question": {
-        "text": "Which movie features the quote 'Good morning! And in case I don't see you, good afternoon, good evening, and good night!'?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv",
-        "quotes",
-        "film_quotes"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94ffff",
-      "correctAnswer": "Canada",
-      "incorrectAnswers": [
-        "United States of America",
-        "Mexico",
-        "Russia"
-      ],
-      "question": {
-        "text": "The world's biggest meteor crater is located in which country?"
-      },
-      "tags": [
-        "records",
-        "places",
-        "astronomy",
-        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -179,15 +46,15 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f3b",
-      "correctAnswer": "J. R. R. Tolkien",
+      "id": "622a1c367cc59eab6f950312",
+      "correctAnswer": "Dr Seuss",
       "incorrectAnswers": [
-        "G. K. Chesterton",
-        "Philip Pullman",
-        "C. S. Lewis"
+        "J.K Rowling",
+        "Enid Blyton",
+        "Roald Dahl"
       ],
       "question": {
-        "text": "Which author wrote 'The Silmarillion'?"
+        "text": "Who wrote the children's book 'How The Grinch Stole Christmas''"
       },
       "tags": [
         "arts_and_literature"
@@ -198,105 +65,65 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "627164321ba117625baac94e",
-      "correctAnswer": "China",
-      "incorrectAnswers": [
-        "Brazil",
-        "England",
-        "Ukraine"
-      ],
-      "question": {
-        "text": "In which country is maotai a popular drink?"
-      },
-      "tags": [
-        "drink",
-        "alcohol"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c7b",
-      "correctAnswer": "U2",
-      "incorrectAnswers": [
-        "Public Image Ltd.",
-        "The Script",
-        "The Cure"
-      ],
-      "question": {
-        "text": "Which Irish rock band released the studio album 'No Line on the Horizon'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f950244",
-      "correctAnswer": "Apples ",
-      "incorrectAnswers": [
-        "Bananas",
-        "Cherries",
-        "Limes"
-      ],
-      "question": {
-        "text": "Which fruit is used to make Calvados?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbcd",
-      "correctAnswer": "\"With great power comes great responsiblity.\"",
+      "id": "625fd68ddc0dd3b72da64cf9",
+      "correctAnswer": "1985",
       "incorrectAnswers": [
-        "\"I love lamp.\"",
-        "\"Which would be worse, to live a monster or die as a good man?\"",
-        "\"La-dee-da, la-dee-da.\""
+        "1970",
+        "1975",
+        "1980"
       ],
       "question": {
-        "text": "Which of these quotes is from the film 'Spider-Man'?"
+        "text": "In which year was Back to the Future first released in the cinema?"
       },
       "tags": [
-        "quotes",
         "film",
-        "marvel",
+        "cult_films",
         "film_and_tv"
       ],
       "type": "text_choice",
-      "difficulty": "easy",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "645a6490158db1bd1779f198",
+      "correctAnswer": "Who prevails with God",
+      "incorrectAnswers": [
+        "God is my judge",
+        "God strengthens",
+        "God is with us"
+      ],
+      "question": {
+        "text": "What is the meaning of the name \"Israel\" in the Bible?"
+      },
+      "tags": [
+        "people",
+        "names",
+        "bible",
+        "christianity",
+        "israel",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "sport_and_leisure",
-      "id": "62399f03af96521963a08711",
-      "correctAnswer": "Argentina",
+      "id": "62417d280f96c4efe8d773aa",
+      "correctAnswer": "Houston Dynamo",
       "incorrectAnswers": [
-        "South Africa",
-        "Italy",
-        "Mexico"
+        "Houston Saints",
+        "Houston Islanders",
+        "Houston Fire"
       ],
       "question": {
-        "text": "Which country hosted the 1978 FIFA World Cup?"
+        "text": "Which of these is a soccer team based in Houston?"
       },
       "tags": [
-        "world_cup",
-        "football",
-        "soccer",
         "sport"
       ],
       "type": "text_choice",
@@ -305,21 +132,44 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "623384b462eaad73716a8c26",
-      "correctAnswer": "Lake Baikal",
+      "category": "film_and_tv",
+      "id": "624dba63de6018633d31f6c3",
+      "correctAnswer": "Roger Moore",
       "incorrectAnswers": [
-        "Lake Superior",
-        "Lake Victoria",
-        "Loch Ness"
+        "George Lazenby",
+        "Sean Connery",
+        "Timothy Dalton"
       ],
       "question": {
-        "text": "What is the world's deepest lake?"
+        "text": "Who played the role of James Bond in Licence to Kill?"
       },
       "tags": [
-        "bodies_of_water",
-        "records",
-        "geography"
+        "james_bond",
+        "film",
+        "acting",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3b7cc59eab6f9513ca",
+      "correctAnswer": "Twilight",
+      "incorrectAnswers": [
+        "Voyages Extraordinaires",
+        "Harry Potter",
+        "Percy Jackson & the Olympians"
+      ],
+      "question": {
+        "text": "In which book series would you find the character 'Jacob Black'?"
+      },
+      "tags": [
+        "literature",
+        "young_adult",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -327,19 +177,22 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "623741b4cb85f7ce9e949d81",
-      "correctAnswer": "Nigeria",
+      "category": "music",
+      "id": "646089a2de964ebc39016c61",
+      "correctAnswer": "Prince",
       "incorrectAnswers": [
-        "Oman",
-        "Uruguay",
-        "Lesotho"
+        "Madonna",
+        "Michael Jackson",
+        "Elton John"
       ],
       "question": {
-        "text": "Abuja is the capital city of which country?"
+        "text": "What singer's \"Lovesexy\" album caused a controversy when some stores refused to stock it due to the nude cover?"
       },
       "tags": [
-        "geography"
+        "controversies",
+        "music_albums",
+        "music",
+        "musicians"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -348,63 +201,15 @@
     },
     {
       "category": "history",
-      "id": "6471e4297206d7c314606f79",
-      "correctAnswer": "Attila the Huns",
+      "id": "622a1c3d7cc59eab6f951b8e",
+      "correctAnswer": "France",
       "incorrectAnswers": [
-        "Vlad the Impaler",
-        "Ivan the Terrible",
-        "Xerxes"
+        "Italy",
+        "The United Kingdom",
+        "Spain"
       ],
       "question": {
-        "text": "Which ancient ruler was known as the \"Scourge of God\"?"
-      },
-      "tags": [
-        "history",
-        "europe",
-        "people",
-        "nicknames"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f95197e",
-      "correctAnswer": "Dunkirk",
-      "incorrectAnswers": [
-        "Calais",
-        "La Havre",
-        "Dieppe"
-      ],
-      "question": {
-        "text": "From which French port did 200,000 British troops flee in 1940?"
-      },
-      "tags": [
-        "world_war_2",
-        "wars",
-        "france",
-        "uk",
-        "1940's",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951a11",
-      "correctAnswer": "James Garfield",
-      "incorrectAnswers": [
-        "John F Kennedy",
-        "Abraham Lincoln",
-        "Bill Buchanan"
-      ],
-      "question": {
-        "text": "Which U.S. president was fatally shot in 1881?"
+        "text": "In 1956, Tunisia gained independence from which country?"
       },
       "tags": [
         "history"
@@ -416,20 +221,325 @@
     },
     {
       "category": "science",
-      "id": "648891c14cd3f064f443dc54",
-      "correctAnswer": "Spark plugs",
+      "id": "6243353ccfaae40c12961493",
+      "correctAnswer": "A Cow",
       "incorrectAnswers": [
-        "Valves",
-        "Pistons",
-        "Gaskets"
+        "A Jenny",
+        "A Worker",
+        "A Lioness"
       ],
       "question": {
-        "text": "In a gas engine, what device ignites the fuel-air mixture?"
+        "text": "What is the word for a female seal?"
       },
       "tags": [
-        "engineering",
-        "cars",
+        "animals",
+        "biology",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3b7cc59eab6f951729",
+      "correctAnswer": "The Sopwith Camel",
+      "incorrectAnswers": [
+        "The Supermarine Spitfire",
+        "The Curtiss Warhawk",
+        "The P54 Mustang"
+      ],
+      "question": {
+        "text": "Which type of British fighter plane shot down 1,294 enemy aircraft in World War One?"
+      },
+      "tags": [
+        "world_war_1",
+        "aviation",
+        "wars",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f95032f",
+      "correctAnswer": "George Washington",
+      "incorrectAnswers": [
+        "John Adams",
+        "Abraham Lincoln",
+        "Thomas Jefferson"
+      ],
+      "question": {
+        "text": "Who Was The First President Of The United States?"
+      },
+      "tags": [
+        "usa",
+        "presidents",
+        "people",
+        "general_knowledge",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "646140b44d46e537ca8cd9ec",
+      "correctAnswer": "Silver",
+      "incorrectAnswers": [
+        "Gold",
+        "Iron",
+        "Copper"
+      ],
+      "question": {
+        "text": "What metal corresponds to the Spanish term \"plata\"?"
+      },
+      "tags": [
+        "spanish"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625740359da29df7b05f73cc",
+      "correctAnswer": "After a mathematician accepts secret work in cryptography, his life takes a turn for the nightmarish.",
+      "incorrectAnswers": [
+        "POWs are forced to build a railway, not knowing that allies are planning to destroy it.",
+        "The final secretary for Adolf Hitler tells of the Nazi dictator's final days.",
+        "The son of a former boxer is trained by his father for a mixed martial arts tournament."
+      ],
+      "question": {
+        "text": "What is the plot of the movie A Beautiful Mind?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "625e9dcb796f721e95543f2d",
+      "correctAnswer": "Yellow",
+      "incorrectAnswers": [
+        "Green",
+        "Black",
+        "Orange"
+      ],
+      "question": {
+        "text": "Which of these colors is included on the flag of Argentina?"
+      },
+      "tags": [
+        "flags",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "62ab32d25202de619af28129",
+      "correctAnswer": "Porsche",
+      "incorrectAnswers": [
+        "Volkswagen",
+        "Rolls-Royce",
+        "Citroën"
+      ],
+      "question": {
+        "text": "The 911 is a model of car made by which manufacturer?"
+      },
+      "tags": [
         "motoring",
+        "business",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "64860e82113d76c6b6317a00",
+      "correctAnswer": "Battlestar Galactica",
+      "incorrectAnswers": [
+        "Westworld",
+        "The Terminator",
+        "RoboCop"
+      ],
+      "question": {
+        "text": "What 2005-2009 TV show featured Cylons and cyborgs?"
+      },
+      "tags": [
+        "film_and_tv",
+        "tv",
+        "science_fiction"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f9507c3",
+      "correctAnswer": "Nicole Kidman",
+      "incorrectAnswers": [
+        "Natalie Portman",
+        "Kate Winslet",
+        "Maggie Smith"
+      ],
+      "question": {
+        "text": "Which actress has featured in films including Moulin Rouge! and Aquaman?"
+      },
+      "tags": [
+        "film",
+        "dc",
+        "acting",
+        "comics",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c3a7cc59eab6f951074",
+      "correctAnswer": "Xenon",
+      "incorrectAnswers": [
+        "Halogen",
+        "Neon",
+        "Radon"
+      ],
+      "question": {
+        "text": "What chemical element gets is name from the greek word meaning 'stranger'?"
+      },
+      "tags": [
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f95004e",
+      "correctAnswer": "Pele",
+      "incorrectAnswers": [
+        "Ronaldinho",
+        "Neymar",
+        "Socrates"
+      ],
+      "question": {
+        "text": "Who is 'Edson Arantes do Nascimento' better known as?"
+      },
+      "tags": [
+        "people",
+        "nicknames",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623742f2cb85f7ce9e949e01",
+      "correctAnswer": "Vietnam",
+      "incorrectAnswers": [
+        "Slovenia",
+        "Guatemala",
+        "Nepal"
+      ],
+      "question": {
+        "text": "Hanoi is the capital city of which country?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c367cc59eab6f9503d3",
+      "correctAnswer": "The Hula Hoop",
+      "incorrectAnswers": [
+        "Rubix Cube",
+        "Slinky",
+        "Pog"
+      ],
+      "question": {
+        "text": "What toy was released in 1957, creating an instant craze among children?"
+      },
+      "tags": [
+        "1950's",
+        "toys",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6242cb32d543524f1b19c916",
+      "correctAnswer": "A herd",
+      "incorrectAnswers": [
+        "A watch",
+        "A murder",
+        "A muster"
+      ],
+      "question": {
+        "text": "What is the word for a group of goats?"
+      },
+      "tags": [
+        "animals",
+        "biology",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "64bee2e595a7194220973957",
+      "correctAnswer": "Deltoid",
+      "incorrectAnswers": [
+        "Bicep",
+        "Tricep",
+        "Gluteal"
+      ],
+      "question": {
+        "text": "What is the name of the large muscle that covers the shoulder joint?"
+      },
+      "tags": [
+        "anatomy",
+        "muscles",
+        "biology",
         "science"
       ],
       "type": "text_choice",
@@ -439,84 +549,20 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcb7",
-      "correctAnswer": "Indo-European",
+      "id": "6266e6b6ff2394bd44dee05f",
+      "correctAnswer": "Nine",
       "incorrectAnswers": [
-        "Sino-Tibetan",
-        "Turkic",
-        "Niger–Congo"
+        "Blue",
+        "Three",
+        "Black"
       ],
       "question": {
-        "text": "The language 'Greek' belongs to which language family?"
+        "text": "What does the word 'nueve' mean in Spanish?"
       },
       "tags": [
         "language",
+        "translations",
         "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcfa",
-      "correctAnswer": "Dravidian",
-      "incorrectAnswers": [
-        "Turkic",
-        "Niger–Congo",
-        "Afroasiatic"
-      ],
-      "question": {
-        "text": "The language 'Telugu' belongs to which language family?"
-      },
-      "tags": [
-        "language",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "62ab33395202de619af28147",
-      "correctAnswer": "Tesla",
-      "incorrectAnswers": [
-        "Ford",
-        "Aston Martin",
-        "Bugatti"
-      ],
-      "question": {
-        "text": "The Model 3 is a model of car made by which manufacturer?"
-      },
-      "tags": [
-        "motoring",
-        "business",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623742cdcb85f7ce9e949df2",
-      "correctAnswer": "Abu Dhabi",
-      "incorrectAnswers": [
-        "Rabat",
-        "Meccah",
-        "Islamabad"
-      ],
-      "question": {
-        "text": "What is the capital city of United Arab Emirates?"
-      },
-      "tags": [
-        "the_middle_east",
-        "capital_cities",
-        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -525,17 +571,42 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f95018d",
-      "correctAnswer": "Joanne Kathleen",
+      "id": "65056f927a97013de78b5477",
+      "correctAnswer": "Prince",
       "incorrectAnswers": [
-        "Julia Kathleen",
-        "Joanne Katherine",
-        "Julia Katherine"
+        "Butcher",
+        "Wizard",
+        "Monk"
       ],
       "question": {
-        "text": "What do the initials \"JK\" stand for in the name \"JK Rowling\", Author of the \"Harry Potter\" books?"
+        "text": "What type of position does Hamlet hold in the Shakespeare play?"
       },
       "tags": [
+        "arts_and_literature",
+        "shakespeare",
+        "literature",
+        "theater"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94fa28",
+      "correctAnswer": "Dutch Golden Age",
+      "incorrectAnswers": [
+        "Neoclassicism",
+        "Dutch and Flemish Renaissance",
+        "Fauvism"
+      ],
+      "question": {
+        "text": "The painting \"Girl with a Pearl Earring\" by ‎‎Johannes Vermeer is a part of which art movement?"
+      },
+      "tags": [
+        "painting",
+        "art",
         "arts_and_literature"
       ],
       "type": "text_choice",
@@ -544,114 +615,50 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f8a8",
-      "correctAnswer": "Golf",
+      "category": "society_and_culture",
+      "id": "648f63ed6c4575eaf97c8acc",
+      "correctAnswer": "Autobahn",
       "incorrectAnswers": [
-        "Table tennis",
-        "Swimming",
-        "Rowing"
+        "Fahrbahn",
+        "Straßenbahn",
+        "Hauptstraße"
       ],
       "question": {
-        "text": "With which sport is Tiger Woods associated?"
+        "text": "What is the German word for the highways which famously have no speed limit for cars and motorcycles?"
       },
       "tags": [
-        "people",
-        "general_knowledge",
-        "sport"
+        "germany",
+        "roads",
+        "society_and_culture",
+        "words",
+        "motoring"
       ],
       "type": "text_choice",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "film_and_tv",
-      "id": "63a03997c7d86251f9b65c88",
-      "correctAnswer": "Gaston",
+      "id": "624db9efde6018633d31f6ac",
+      "correctAnswer": "Sean Connery",
       "incorrectAnswers": [
-        "The Evil Queen",
-        "Ursula",
-        "Maleficent"
+        "Daniel Craig",
+        "Roger Moore",
+        "Timothy Dalton"
       ],
       "question": {
-        "text": "What is the name of the villain in Beauty and the Beast?"
+        "text": "Who played the role of James Bond in From Russia With Love?"
       },
       "tags": [
-        "film_and_tv",
-        "disney",
+        "james_bond",
         "film",
-        "fictitious_characters"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "64d6a3149d5b369223eefd19",
-      "correctAnswer": "Ghosting",
-      "incorrectAnswers": [
-        "Dropping",
-        "Vanishing",
-        "Negging"
-      ],
-      "question": {
-        "text": "In modern slang, what is the term for abruptly cutting off all communication, especially with a romantic partner?"
-      },
-      "tags": [
-        "society_and_culture",
-        "slang",
-        "words"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623b578afd6c701a92118364",
-      "correctAnswer": "Egypt",
-      "incorrectAnswers": [
-        "Indonesia",
-        "Peru",
-        "Mexico"
-      ],
-      "question": {
-        "text": "In which country would you find the Pyramids of Giza?"
-      },
-      "tags": [
-        "tourist_attractions",
-        "classics",
-        "general_knowledge",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c3b7cc59eab6f95174d",
-      "correctAnswer": "Charles and Diana",
-      "incorrectAnswers": [
-        "Elizabeth and Philip",
-        "William and Kate",
-        "Harry and Megan"
-      ],
-      "question": {
-        "text": "Which British royal couple were married on the 29th July 1981?"
-      },
-      "tags": [
+        "acting",
         "uk",
-        "society_and_culture",
-        "history"
+        "film_and_tv"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     }
