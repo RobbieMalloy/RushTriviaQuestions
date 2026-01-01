@@ -1,23 +1,66 @@
 {
-  "gameDate": "2025-12-31",
+  "gameDate": "2026-01-01",
   "difficulty": "medium",
   "results": [
     {
-      "category": "film_and_tv",
-      "id": "645ababf158db1bd1779f1d4",
-      "correctAnswer": "The Deer Hunter",
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f9500b1",
+      "correctAnswer": "Andre Agassi",
       "incorrectAnswers": [
-        "Platoon",
-        "Full Metal Jacket",
-        "Apocalypse Now"
+        "Roger Federer",
+        "Pete Sampras",
+        "Andy Roddick"
       ],
       "question": {
-        "text": "Which Vietnam War film features Robert De Niro, John Savage and Christopher Walken as the hunted?"
+        "text": "In April 2003 Who Became The Oldest Man To Be Rated No1 In The World Tennis Association Rankings At The Age Of 33?"
       },
       "tags": [
-        "film",
-        "film_and_tv",
-        "acting"
+        "people",
+        "tennis",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "648891824cd3f064f443dc13",
+      "correctAnswer": "Canis rufus",
+      "incorrectAnswers": [
+        "Canis lupus",
+        "Canis latrans",
+        "Canis aureus"
+      ],
+      "question": {
+        "text": "What is the scientific name for the red wolf?"
+      },
+      "tags": [
+        "animals",
+        "biology",
+        "latin",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3d7cc59eab6f951b8d",
+      "correctAnswer": "China",
+      "incorrectAnswers": [
+        "India",
+        "The USSR",
+        "The USA"
+      ],
+      "question": {
+        "text": "Which country invaded Tibet in 1950?"
+      },
+      "tags": [
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -26,18 +69,362 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e1d",
-      "correctAnswer": "Marcel Proust",
+      "id": "622a1c397cc59eab6f950f5e",
+      "correctAnswer": "Isaac Asimov",
       "incorrectAnswers": [
-        "François-René de Chateaubriand",
-        "Umberto Eco",
-        "Alexandre Dumas"
+        "Ursula K. Le Guin",
+        "Philip K. Dick",
+        "Stephen King"
       ],
       "question": {
-        "text": "Which author wrote 'In Search of Lost Time'?"
+        "text": "Which author wrote 'I, Robot'?"
       },
       "tags": [
         "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f9504a5",
+      "correctAnswer": "the mental processes within mental illness or disorders",
+      "incorrectAnswers": [
+        "life in outer space",
+        "a synonym for taxonomy",
+        "prehistoric climates"
+      ],
+      "question": {
+        "text": "What is Psychopathology the study of?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "647edb6c520523194910c333",
+      "correctAnswer": "Wrapped in pastry",
+      "incorrectAnswers": [
+        "Stuffed with meat",
+        "Eaten raw",
+        "Served with melted cheese"
+      ],
+      "question": {
+        "text": "In cooking does the French term 'en croute' mean?"
+      },
+      "tags": [
+        "cooking",
+        "french",
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "649553a42cb69a84d25273ef",
+      "correctAnswer": "Dutch",
+      "incorrectAnswers": [
+        "English",
+        "Swahili",
+        "Arabic"
+      ],
+      "question": {
+        "text": "What language is Afrikaans closely related to?"
+      },
+      "tags": [
+        "africa",
+        "languages",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6477bacc550bc819ad646b0c",
+      "correctAnswer": "Gasket",
+      "incorrectAnswers": [
+        "Circuit",
+        "Fuse",
+        "Bolt"
+      ],
+      "question": {
+        "text": "What is the name of the piece used to cover the intersection between two surfaces, usually to prevent leaking?"
+      },
+      "tags": [
+        "engineering",
+        "words",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "649553a42cb69a84d25273e6",
+      "correctAnswer": "Preening",
+      "incorrectAnswers": [
+        "Sweening",
+        "Greening",
+        "Feening"
+      ],
+      "question": {
+        "text": "What is the term for the cleaning process that birds engage in?"
+      },
+      "tags": [
+        "birds",
+        "nature",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950df8",
+      "correctAnswer": "Isaac Newton",
+      "incorrectAnswers": [
+        "Daniel Defoe",
+        "Percy Bysshe Shelley",
+        "Walter Scott"
+      ],
+      "question": {
+        "text": "Which author wrote 'Philosophiae Naturalis Principia Mathematica'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f95101c",
+      "correctAnswer": "A Monkey",
+      "incorrectAnswers": [
+        "A Bird",
+        "A Rodent",
+        "A Marsupial"
+      ],
+      "question": {
+        "text": "What Kind Of Animal Is A Marmoset?"
+      },
+      "tags": [
+        "animals"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "648891864cd3f064f443dc2e",
+      "correctAnswer": "A yo-yo",
+      "incorrectAnswers": [
+        "A frisbee",
+        "A hula hoop",
+        "A skipping rope"
+      ],
+      "question": {
+        "text": "Which toy includes tricks like 'walking the dog' and 'around the world'?"
+      },
+      "tags": [
+        "toys",
+        "games",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f9503ca",
+      "correctAnswer": "Waterloo",
+      "incorrectAnswers": [
+        "Trafalgar",
+        "Windsor",
+        "Dover"
+      ],
+      "question": {
+        "text": "Where was Napoleon defeated?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "65056ec37a97013de78b5357",
+      "correctAnswer": "Black",
+      "incorrectAnswers": [
+        "White",
+        "Red",
+        "Pink"
+      ],
+      "question": {
+        "text": "In snooker, what is the color of the last ball to be potted?"
+      },
+      "tags": [
+        "sport_and_leisure",
+        "sport",
+        "snooker"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fca6",
+      "correctAnswer": "Niger–Congo",
+      "incorrectAnswers": [
+        "Dravidian",
+        "Uralic",
+        "Japonic"
+      ],
+      "question": {
+        "text": "The language 'Zulu' belongs to which language family?"
+      },
+      "tags": [
+        "language",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "625e9ed0796f721e95543f6e",
+      "correctAnswer": "Red",
+      "incorrectAnswers": [
+        "Orange",
+        "Black",
+        "Maroon"
+      ],
+      "question": {
+        "text": "Which of these colors would you find on the flag of Iran?"
+      },
+      "tags": [
+        "flags",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "648889155dba6c873ef650c8",
+      "correctAnswer": "Cuba",
+      "incorrectAnswers": [
+        "Russia",
+        "China",
+        "North Korea"
+      ],
+      "question": {
+        "text": "Which country was declared a socialist nation by its prime minister on May Day, 1961?"
+      },
+      "tags": [
+        "communism",
+        "history",
+        "politics"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "62417d5f0f96c4efe8d773c0",
+      "correctAnswer": "New York Giants",
+      "incorrectAnswers": [
+        "New York Predators",
+        "New York Raiders",
+        "New York Lions"
+      ],
+      "question": {
+        "text": "Which of these is an American Football team based in New York?"
+      },
+      "tags": [
+        "new_york",
+        "football",
+        "nfl",
+        "usa",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f9505ab",
+      "correctAnswer": "Relationships between humans and animals through examining remains",
+      "incorrectAnswers": [
+        "Birds",
+        "Unidentified flying objects",
+        "The Sumerians"
+      ],
+      "question": {
+        "text": "What is Archaeozoology the study of?"
+      },
+      "tags": [
+        "science",
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6293ecbd7f41d6338b96ef07",
+      "correctAnswer": "Founder of Manichaeism, a gnostic religion which for a time was a rival to Christianity.",
+      "incorrectAnswers": [
+        "Dictator of Nazi Germany.",
+        "Founder of the Achaemenid Empire, the first Persian Empire.",
+        "Spiritual teacher and central figure of Christianity."
+      ],
+      "question": {
+        "text": "Which of the following was Mani famous for?"
+      },
+      "tags": [
+        "people",
+        "history",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -65,146 +452,19 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951ae0",
-      "correctAnswer": "1961",
+      "category": "film_and_tv",
+      "id": "62573f4f9da29df7b05f7394",
+      "correctAnswer": "The lives of guards on Death Row are affected by a man accused of child murder and rape.",
       "incorrectAnswers": [
-        "1938",
-        "1945",
-        "1953"
+        "An archaeologist is hired by the government to find the Ark of the Covenant.",
+        "Two men searching for work in 1920s Mexico convince an old prospector to help them mine for gold.",
+        "After a mathematician accepts secret work in cryptography, his life takes a turn for the nightmarish."
       ],
       "question": {
-        "text": "In which year was the Berlin Wall constructed?"
+        "text": "What is the plot of the movie The Green Mile?"
       },
       "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "64a09f9fcf8fd58080cf0015",
-      "correctAnswer": "Bear",
-      "incorrectAnswers": [
-        "Spider",
-        "Shark",
-        "Eagle"
-      ],
-      "question": {
-        "text": "What animal has a subspecies called the Kodiak?"
-      },
-      "tags": [
-        "animals",
-        "science",
-        "nature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "645c9f8f42ea81e2554c5f57",
-      "correctAnswer": "I Will Always Love You",
-      "incorrectAnswers": [
-        "My Heart Will Go On",
-        "Everything I Do (I Do It For You)",
-        "Uptown Funk"
-      ],
-      "question": {
-        "text": "Which song did Whitney Houston have a 1992 hit with?"
-      },
-      "tags": [
-        "music",
-        "songs"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f9504ce",
-      "correctAnswer": "prehistoric people and human origins",
-      "incorrectAnswers": [
-        "interactions between organisms and geomorphological processes",
-        "study of refuse and trash",
-        "crime"
-      ],
-      "question": {
-        "text": "What is Paleoanthropology the study of?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f950fe6",
-      "correctAnswer": "Stainless Steel",
-      "incorrectAnswers": [
-        "Aluminium",
-        "Einsteinium",
-        "Cast Iron"
-      ],
-      "question": {
-        "text": "Which metal was invented by British metallurgist Harold Brearley in 1912?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "625e9dc4796f721e95543f2b",
-      "correctAnswer": "Red",
-      "incorrectAnswers": [
-        "Yellow",
-        "Orange",
-        "Black"
-      ],
-      "question": {
-        "text": "Which of these colors would you find on the flag of Austria?"
-      },
-      "tags": [
-        "flags",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94ff83",
-      "correctAnswer": "Austin",
-      "incorrectAnswers": [
-        "Boston",
-        "Dallas",
-        "Houston"
-      ],
-      "question": {
-        "text": "What is the capital of Texas?"
-      },
-      "tags": [
-        "cities",
-        "us_states",
-        "usa",
-        "geography"
+        "film"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -213,15 +473,15 @@
     },
     {
       "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f951622",
-      "correctAnswer": "The Earl Of Sandwich ",
+      "id": "622a1c367cc59eab6f9502a9",
+      "correctAnswer": "Tempura ",
       "incorrectAnswers": [
-        "Samuel D Wich",
-        "King Sandwich",
-        "Judge Sandwich"
+        "Bento",
+        "Sashimi",
+        "Nori"
       ],
       "question": {
-        "text": "After Who Was The Sandwich Named?"
+        "text": "What name is given to the Japanese dish in which fish, shellfish, or vegetables are fried in batter?"
       },
       "tags": [
         "food_and_drink"
@@ -232,59 +492,20 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f9519dd",
-      "correctAnswer": "Prohibition",
-      "incorrectAnswers": [
-        "Segregation",
-        "Slavery",
-        "British Rule"
-      ],
-      "question": {
-        "text": "What came to an end in the United States in December 1933?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f95049a",
-      "correctAnswer": "feces",
-      "incorrectAnswers": [
-        "underground water",
-        "the field of medicine that deals with the skin",
-        "drug dosage"
-      ],
-      "question": {
-        "text": "What is Scatology the study of?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "film_and_tv",
-      "id": "625740ef9da29df7b05f7403",
-      "correctAnswer": "Dead Poets Society",
+      "id": "622a1c377cc59eab6f95078b",
+      "correctAnswer": "Gary Oldman",
       "incorrectAnswers": [
-        "Raging Bull",
-        "Modern Times",
-        "The Wizard of Oz"
+        "James Franco",
+        "George Clooney",
+        "Laurence Fishburne"
       ],
       "question": {
-        "text": "Name the movie that matches the following plot summary: 'A maverick teacher emboldens his students to new heights of self-expression.'"
+        "text": "Which actor has starred in both Harry Potter and Batman Begins?"
       },
       "tags": [
         "film",
+        "acting",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -293,107 +514,18 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f9517aa",
-      "correctAnswer": "The Iron Maiden",
-      "incorrectAnswers": [
-        "The Brass Bull",
-        "The Infernus Cage",
-        "The Hinged Hell"
-      ],
-      "question": {
-        "text": "Which Instrument Of Torture Had a Hinged Case Full Of Spikes?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951a07",
-      "correctAnswer": "Calvin Coolidge",
-      "incorrectAnswers": [
-        "Calvin Reagan",
-        "Calvin Nixon",
-        "Calvin Benington"
-      ],
-      "question": {
-        "text": "Which US President had the first name 'Calvin'?"
-      },
-      "tags": [
-        "usa",
-        "presidents",
-        "names",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6357fd0a68bd5000211e7176",
-      "correctAnswer": "Bangladesh",
-      "incorrectAnswers": [
-        "Indonesia",
-        "South Africa",
-        "Peru"
-      ],
-      "question": {
-        "text": "Bengali is a language spoken in which of these countries?"
-      },
-      "tags": [
-        "language",
-        "linguistics",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f950ff9",
-      "correctAnswer": "Kidney",
-      "incorrectAnswers": [
-        "Liver",
-        "Bladder",
-        "Stomach"
-      ],
-      "question": {
-        "text": "Which Organ's Action Is Replaced By Artifical Dialysis?"
-      },
-      "tags": [
-        "medicine",
-        "anatomy",
-        "biology",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "geography",
-      "id": "623735bccfe13103f55eb562",
-      "correctAnswer": "Russia",
+      "id": "623387770161109f922aac27",
+      "correctAnswer": "Canada ",
       "incorrectAnswers": [
-        "Peru",
-        "Uruguay",
-        "Romania"
+        "Russia",
+        "Australia",
+        "Japan"
       ],
       "question": {
-        "text": "Which region of the world uses '.ru' at the end of its web addresses?"
+        "text": "Which Country Has The Longest Coastline?"
       },
       "tags": [
-        "the_internet",
         "geography"
       ],
       "type": "text_choice",
@@ -402,112 +534,61 @@
       "isNiche": false
     },
     {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e01",
+      "correctAnswer": "Miguel de Cervantes",
+      "incorrectAnswers": [
+        "Oscar Wilde",
+        "Victor Hugo",
+        "Alphonse Daudet"
+      ],
+      "question": {
+        "text": "Which author wrote 'Don Quixote'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "62417dc00f96c4efe8d773e6",
+      "correctAnswer": "Tampa Bay Lightening",
+      "incorrectAnswers": [
+        "Tampa Bay Steelers",
+        "Tampa Bay Seahawks",
+        "Tamba Bay Wizards"
+      ],
+      "question": {
+        "text": "Which of these is a hockey team based in Tampa?"
+      },
+      "tags": [
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
       "category": "geography",
-      "id": "6477bacc550bc819ad646b0d",
-      "correctAnswer": "The Brooklyn Bridge",
+      "id": "622a1c357cc59eab6f94ff84",
+      "correctAnswer": "Riyadh",
       "incorrectAnswers": [
-        "The Golden Gate Bridge",
-        "Tower Bridge",
-        "George Washington Bridge"
+        "Mecca",
+        "Medina",
+        "Jeddah"
       ],
       "question": {
-        "text": "What is the name of the bridge that spans the East River in New York and was the first to use steel for cable wire?"
+        "text": "What is the capital of Saudi Arabia"
       },
       "tags": [
-        "bridges",
-        "geography",
-        "rivers",
-        "new_york",
-        "new_york_city"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6476390cf05ea6d6f587a180",
-      "correctAnswer": "Mother of Pearl",
-      "incorrectAnswers": [
-        "Faux Satin",
-        "Fool's Gold",
-        "Diamond"
-      ],
-      "question": {
-        "text": "What is the lustrous material which lines the inside of an abalone shell?"
-      },
-      "tags": [
-        "marine_life",
-        "science",
-        "biology",
-        "materials"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f95012b",
-      "correctAnswer": "Janus",
-      "incorrectAnswers": [
-        "Mars",
-        "Octavian",
-        "Septimus"
-      ],
-      "question": {
-        "text": "Which Roman god of doorways and passages is the two headed deity from which we get the name of one of our months?"
-      },
-      "tags": [
-        "mythology",
-        "romans",
-        "classics",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6266e661ff2394bd44dee046",
-      "correctAnswer": "Five",
-      "incorrectAnswers": [
-        "Six",
-        "Seven",
-        "Black"
-      ],
-      "question": {
-        "text": "In Italian, what is the meaning of the word 'cinque'?"
-      },
-      "tags": [
-        "language",
-        "translations",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f95056e",
-      "correctAnswer": "Very low temperatures",
-      "incorrectAnswers": [
-        "Lightning",
-        "Measurement",
-        "Victorian literature"
-      ],
-      "question": {
-        "text": "What is Cryology the study of?"
-      },
-      "tags": [
-        "words",
-        "science"
+        "the_middle_east",
+        "capital_cities",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -516,19 +597,20 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f94a",
-      "correctAnswer": "Rain Man",
+      "id": "622a1c347cc59eab6f94fc24",
+      "correctAnswer": "\"I see dead people.\"",
       "incorrectAnswers": [
-        "The Godfather",
-        "The 400 Blows",
-        "Fast Times at Ridgemont High"
+        "\"I have had it with these mother—— snakes on this mother—— plane!\"",
+        "\"I have nipples Greg. Could you milk me?\"",
+        "\"You talking to me?\""
       ],
       "question": {
-        "text": "Which film contains the character 'Raymond Babbitt'?"
+        "text": "Which of these quotes is from the film 'The Sixth Sense'?"
       },
       "tags": [
-        "fictitious_characters",
+        "quotes",
         "film",
+        "general_knowledge",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -537,104 +619,21 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "6266bb0eff7b6ee0496ec77d",
-      "correctAnswer": "Woodwind",
+      "category": "history",
+      "id": "622a1c3b7cc59eab6f951771",
+      "correctAnswer": "Mary I",
       "incorrectAnswers": [
-        "Brass",
-        "Percussion",
-        "Stringed"
+        "Mary II",
+        "Maria I",
+        "Marie Antoinette"
       ],
       "question": {
-        "text": "What type of instrument is a fife?"
+        "text": "Which Queen of England was known as Bloody Mary?"
       },
       "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625fd6d1dc0dd3b72da64d0d",
-      "correctAnswer": "1992",
-      "incorrectAnswers": [
-        "1980",
-        "1984",
-        "1988"
-      ],
-      "question": {
-        "text": "Reservoir Dogs was released in which year?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950095",
-      "correctAnswer": "Flushing Meadows",
-      "incorrectAnswers": [
-        "Newport Casino",
-        "Orange Tennis Club",
-        "Philadelphia Cricket Club"
-      ],
-      "question": {
-        "text": "The US Tennis Open takes place at which venue?"
-      },
-      "tags": [
-        "tennis",
-        "sport",
-        "places"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "646262f6ab138b829b81ea6d",
-      "correctAnswer": "18",
-      "incorrectAnswers": [
-        "20",
-        "14",
-        "16"
-      ],
-      "question": {
-        "text": "How many slots with odd numbers does a standard roulette wheel have?"
-      },
-      "tags": [
-        "gambling",
-        "casinos",
-        "games"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950db6",
-      "correctAnswer": "The Rolling Stones",
-      "incorrectAnswers": [
-        "McFly",
-        "Delirious?",
-        "Depeche Mode"
-      ],
-      "question": {
-        "text": "Which band includes 'Keith Richards'?"
-      },
-      "tags": [
-        "music"
+        "uk",
+        "nicknames",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "medium",

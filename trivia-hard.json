@@ -1,125 +1,44 @@
 {
-  "gameDate": "2025-12-31",
+  "gameDate": "2026-01-01",
   "difficulty": "hard",
   "results": [
     {
+      "category": "geography",
+      "id": "622a1c357cc59eab6f950003",
+      "correctAnswer": "El salvador",
+      "incorrectAnswers": [
+        "Honduras",
+        "Guatemala",
+        "Belize"
+      ],
+      "question": {
+        "text": "Name the only Central American country without an Atlantic coastline."
+      },
+      "tags": [
+        "central_america",
+        "bodies_of_water",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
       "category": "history",
-      "id": "622a1c3d7cc59eab6f951b9e",
-      "correctAnswer": "Mount Pelée",
+      "id": "622a1c3c7cc59eab6f951b24",
+      "correctAnswer": "Battle of Little Bighorn",
       "incorrectAnswers": [
-        "Krakatoa",
-        "Mount St Helen's",
-        "Mount Pinatubo"
+        "Battle of Gettysburg",
+        "Battle of Cold Harbor",
+        "Battle of Stones River"
       ],
       "question": {
-        "text": "Which volcano erupted in 1902, killing 30,000?"
+        "text": "In which battle was George A. Custer defeated?"
       },
       "tags": [
+        "battles",
         "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e6f",
-      "correctAnswer": "C. S. Lewis",
-      "incorrectAnswers": [
-        "Neil Gaiman",
-        "Jack Vance",
-        "Douglas Adams"
-      ],
-      "question": {
-        "text": "Which author wrote 'The Magician's Nephew'?"
-      },
-      "tags": [
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f95029a",
-      "correctAnswer": "Smoked Haddock",
-      "incorrectAnswers": [
-        "Pickled Herring",
-        "Spiced Basa",
-        "Battered Cod"
-      ],
-      "question": {
-        "text": "What type of fish is in an omelette Arnold Bennett?"
-      },
-      "tags": [
-        "fish",
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502fd",
-      "correctAnswer": "Blackberry and raspberry",
-      "incorrectAnswers": [
-        "Blueberry and Strawberry",
-        "Gooseberry and Raspberry",
-        "Strawberry and Gooseberry"
-      ],
-      "question": {
-        "text": "A tayberry is a cross between which two fruits?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62399ede43254f1dbcdd082c",
-      "correctAnswer": "Brazil",
-      "incorrectAnswers": [
-        "France",
-        "Germany",
-        "Spain"
-      ],
-      "question": {
-        "text": "Which country won the 2002 FIFA World Cup, hosted in South Korea & Japan?"
-      },
-      "tags": [
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624ab0a2348a461bfc67068a",
-      "correctAnswer": "Africa",
-      "incorrectAnswers": [
-        "China",
-        "Southeast Asia",
-        "South America"
-      ],
-      "question": {
-        "text": "From which part of the world does okra originate?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -128,18 +47,18 @@
     },
     {
       "category": "music",
-      "id": "6488deec50a27f7378a91de4",
-      "correctAnswer": "Michael Jackson",
+      "id": "622a1c357cc59eab6f94fd94",
+      "correctAnswer": "Beethoven",
       "incorrectAnswers": [
-        "Elvis Presley",
-        "John Lennon",
-        "Stevie Wonder"
+        "Bach",
+        "Mozart",
+        "Schubert"
       ],
       "question": {
-        "text": "Who was Paul McCartney's duet partner on the 1983 hit 'Say Say Say'?"
+        "text": "Who Composed The Pastoral Symphony?"
       },
       "tags": [
-        "songs",
+        "classical_music",
         "music"
       ],
       "type": "text_choice",
@@ -148,23 +67,20 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "6462624dab138b829b81e9e3",
-      "correctAnswer": "Gilbert Stuart",
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f950fdd",
+      "correctAnswer": "Ethology",
       "incorrectAnswers": [
-        "Edward Mitchell Bannister",
-        "Hannah Robinson",
-        "Ralph Earl"
+        "Zoology",
+        "Anthropology",
+        "Neuroscience"
       ],
       "question": {
-        "text": "Which Rhode Islander painted portraits of the first 6 presidents of the USA?"
+        "text": "Which science studies animal behaviour in natural habitats ?"
       },
       "tags": [
-        "painting",
-        "art",
-        "presidents",
-        "usa",
-        "history"
+        "words",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -172,20 +88,21 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f46",
-      "correctAnswer": "Edgar Allan Poe",
+      "category": "history",
+      "id": "645c9f5342ea81e2554c5f0f",
+      "correctAnswer": "Martin Luther King Jr.",
       "incorrectAnswers": [
-        "Stephen King",
-        "Nathaniel Hawthorne",
-        "Mario Puzo"
+        "John F Kennedy",
+        "Malcolm X",
+        "John Lennon"
       ],
       "question": {
-        "text": "Which author wrote 'The Murders in the Rue Morgue'?"
+        "text": "Who said 'I've looked over, & I've seen the promised land' one day before his assassination?"
       },
       "tags": [
-        "literature",
-        "arts_and_literature"
+        "people",
+        "history",
+        "assassinations"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -194,18 +111,61 @@
     },
     {
       "category": "geography",
-      "id": "62373fcbcb85f7ce9e949cbc",
-      "correctAnswer": "Sofia",
+      "id": "6233865662eaad73716a8cc9",
+      "correctAnswer": "Philadelphia",
       "incorrectAnswers": [
-        "Abuja",
-        "Tbilisi",
-        "Podgorica"
+        "San Francisco",
+        "Denver",
+        "Atlanta"
       ],
       "question": {
-        "text": "What is the capital city of Bulgaria?"
+        "text": "Where is the city of Brotherly Love?"
       },
       "tags": [
         "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f9501a4",
+      "correctAnswer": "Pride and Prejudice",
+      "incorrectAnswers": [
+        "The Fault in Our Stars",
+        "Ship of Fools",
+        "War and Peace"
+      ],
+      "question": {
+        "text": "In which book does 'Lady Catherine de Bourgh' appear?"
+      },
+      "tags": [
+        "literature",
+        "fictitious_characters",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fdc6",
+      "correctAnswer": "1982",
+      "incorrectAnswers": [
+        "1988",
+        "1990",
+        "1977"
+      ],
+      "question": {
+        "text": "In Which Year Did Kraftwerk Achieve Their First UK No.1?"
+      },
+      "tags": [
+        "germany",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -214,19 +174,19 @@
     },
     {
       "category": "society_and_culture",
-      "id": "6357fd5468bd5000211e7194",
-      "correctAnswer": "Punjabi",
+      "id": "6471e4297206d7c314606f75",
+      "correctAnswer": "Moses",
       "incorrectAnswers": [
-        "Telugu",
-        "Bengali",
-        "Hausa"
+        "Goliath",
+        "King Herod",
+        "Jesus"
       ],
       "question": {
-        "text": "Which of these languages would you find spoken in Pakistan?"
+        "text": "In the bible, who says, \"I will now turn aside, and see this great sight, why the bush is not burnt\"?"
       },
       "tags": [
-        "language",
-        "linguistics",
+        "bible",
+        "christianity",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -235,169 +195,21 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "623735d8cfe13103f55eb575",
-      "correctAnswer": "Somalia",
+      "category": "society_and_culture",
+      "id": "6463395701d576cfac3aa362",
+      "correctAnswer": "Australia",
       "incorrectAnswers": [
-        "Burkina Faso",
-        "Lesotho",
-        "Solomon Islands"
+        "Canada",
+        "The Republic of Ireland",
+        "United States"
       ],
       "question": {
-        "text": "Which region of the world uses '.so' at the end of its web addresses?"
+        "text": "In which country is the Samuel Griffith Society headquartered, dedicated to upholding the constitution of said nation?"
       },
       "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fa8f",
-      "correctAnswer": "Regina King",
-      "incorrectAnswers": [
-        "Amy Adams",
-        "Marina de Tavira",
-        "Emma Stone"
-      ],
-      "question": {
-        "text": "Who won the 2018 Academy Award for Best Supporting Actress for playing the role of Sharon Rivers in If Beale Street Could Talk?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "academy_awards",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f950590",
-      "correctAnswer": "Human growth",
-      "incorrectAnswers": [
-        "The application of words",
-        "Stars",
-        "Acoustics"
-      ],
-      "question": {
-        "text": "What is auxology the study of?"
-      },
-      "tags": [
-        "science",
-        "words"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625fd700dc0dd3b72da64d1b",
-      "correctAnswer": "2001",
-      "incorrectAnswers": [
-        "1998",
-        "2004",
-        "2007"
-      ],
-      "question": {
-        "text": "In which year was A Beautiful Mind released?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "639c9dbc929b90846f2fc9aa",
-      "correctAnswer": "1967",
-      "incorrectAnswers": [
-        "1922",
-        "1869",
-        "1894"
-      ],
-      "question": {
-        "text": "In which year did the Six-Day War take place?"
-      },
-      "tags": [
-        "history",
-        "wars"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa01",
-      "correctAnswer": "Sandro Botticelli",
-      "incorrectAnswers": [
-        "Michelangelo",
-        "Pablo Picasso",
-        "René Magritte"
-      ],
-      "question": {
-        "text": "Which artist painted \"Primavera\""
-      },
-      "tags": [
-        "painting",
-        "art",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623385e062eaad73716a8c9b",
-      "correctAnswer": "Mexico City ",
-      "incorrectAnswers": [
-        "Washington D.C.",
-        "Ottawa",
-        "San José"
-      ],
-      "question": {
-        "text": "What's the oldest capital city in the Americas?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "63d9530f168979b94b2e4f8b",
-      "correctAnswer": "Liaquat Ali Khan",
-      "incorrectAnswers": [
-        "Benazir Bhutto",
-        "Nawaz Sharif",
-        "Zulfikar Ali Bhutto"
-      ],
-      "question": {
-        "text": "Who was the first Prime Minister of Pakistan?"
-      },
-      "tags": [
-        "history",
-        "leaders",
-        "pakistan"
+        "law",
+        "society_and_culture",
+        "government"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -406,18 +218,17 @@
     },
     {
       "category": "music",
-      "id": "622a1c357cc59eab6f94fd6d",
-      "correctAnswer": "Eva Cassidy",
+      "id": "622a1c397cc59eab6f950c37",
+      "correctAnswer": "Depeche Mode",
       "incorrectAnswers": [
-        "Norah Jones",
-        "Dido",
-        "Karen Carpenter"
+        "Level 42",
+        "Dead or Alive",
+        "Radiohead"
       ],
       "question": {
-        "text": "Whose Album 'Songbird' Became A Posthumous Hit In 2001?"
+        "text": "Which English band released the album 'Violator'?"
       },
       "tags": [
-        "music_albums",
         "music"
       ],
       "type": "text_choice",
@@ -426,20 +237,21 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f95136c",
-      "correctAnswer": "Art Nouveau",
+      "category": "film_and_tv",
+      "id": "6461403a4d46e537ca8cd98e",
+      "correctAnswer": "Scent of a Woman",
       "incorrectAnswers": [
-        "Pop Art",
-        "Fauvism",
-        "Impressionism"
+        "The Godfather",
+        "Dirty Dancing",
+        "Scarface"
       ],
       "question": {
-        "text": "Which decorative art movement emerged in the late nineteenth century and was characterized by dense assymmetrical ornamentation in sinuous forms?"
+        "text": "Which 1992 film featured Al Pacino as a blind character who could tango?"
       },
       "tags": [
-        "arts_and_literature",
-        "art"
+        "film",
+        "film_and_tv",
+        "acting"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -448,19 +260,20 @@
     },
     {
       "category": "sport_and_leisure",
-      "id": "62417daf0f96c4efe8d773df",
-      "correctAnswer": "St. Louis Blues",
+      "id": "62417cd60f96c4efe8d7738a",
+      "correctAnswer": "Buffalo Sabres",
       "incorrectAnswers": [
-        "St. Louis Fire",
-        "St. Louis Raiders",
-        "St. Louis Dynamo"
+        "Buffalo Colts",
+        "Buffalo Dynamo",
+        "Buffalo Packers"
       ],
       "question": {
-        "text": "Which of these is a hockey team based in St. Louis?"
+        "text": "Which of these is a hockey team based in Buffalo?"
       },
       "tags": [
-        "nhl",
         "hockey",
+        "nhl",
+        "usa",
         "sport"
       ],
       "type": "text_choice",
@@ -469,18 +282,228 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9506f3",
-      "correctAnswer": "Amy Adams",
+      "category": "sport_and_leisure",
+      "id": "62417d840f96c4efe8d773cf",
+      "correctAnswer": "Philadelphia Flyers",
       "incorrectAnswers": [
-        "Penélope Cruz",
-        "Emma Thompson",
-        "Kirsten Dunst"
+        "Philadelphia Brewers",
+        "Philadelphia Eagles",
+        "Philadelphia Blues"
       ],
       "question": {
-        "text": "Which actress has appeared in films including Man of Steel and American Hustle?"
+        "text": "Which of these is a hockey team based in Philadelphia?"
       },
       "tags": [
+        "hockey",
+        "nhl",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6242caffd543524f1b19c902",
+      "correctAnswer": "A sounder",
+      "incorrectAnswers": [
+        "A shoal",
+        "A flock",
+        "A sedge"
+      ],
+      "question": {
+        "text": "What is the word for a group of boars?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "646262b8ab138b829b81ea59",
+      "correctAnswer": "Striptease",
+      "incorrectAnswers": [
+        "Showgirls",
+        "Basic Instinct",
+        "Indecent Proposal"
+      ],
+      "question": {
+        "text": "What is the name of the 1996 film starring Demi Moore about a woman who is short on funds and clothes?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "645cb17f7d263fd5097043dc",
+      "correctAnswer": "Malcolm",
+      "incorrectAnswers": [
+        "Lysander",
+        "Mercutio",
+        "MacDuff"
+      ],
+      "question": {
+        "text": "What is the name of Duncan's eldest son in Macbeth?"
+      },
+      "tags": [
+        "theater",
+        "shakespeare",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f4a",
+      "correctAnswer": "Jules Verne",
+      "incorrectAnswers": [
+        "Victor Hugo",
+        "Alphonse Daudet",
+        "Edgar Rice Burroughs"
+      ],
+      "question": {
+        "text": "Which author wrote 'Around the Moon'?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "645fcc90541c4d4fc8cf30a2",
+      "correctAnswer": "Helium",
+      "incorrectAnswers": [
+        "Nitrogen",
+        "Oxygen",
+        "Carbon dioxide"
+      ],
+      "question": {
+        "text": "In modern non-rigid airships, what gas replaced the explosive hydrogen gas used in past airships?"
+      },
+      "tags": [
+        "technology",
+        "science",
+        "aviation"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c377cc59eab6f9507f1",
+      "correctAnswer": "Africa",
+      "incorrectAnswers": [
+        "South America",
+        "Oceania",
+        "Europe"
+      ],
+      "question": {
+        "text": "The country of Comoros is on which continent?"
+      },
+      "tags": [],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f950339",
+      "correctAnswer": "Konrad Adenauer",
+      "incorrectAnswers": [
+        "Thomas Wergel",
+        "Alfred Muller",
+        "Karl Barwitz"
+      ],
+      "question": {
+        "text": "Who was the first chancellor of West Germany after WWII?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "625e9f3e796f721e95543f8e",
+      "correctAnswer": "Blue",
+      "incorrectAnswers": [
+        "Green",
+        "Black",
+        "Maroon"
+      ],
+      "question": {
+        "text": "Which of these colors would you find on the flag of Mongolia?"
+      },
+      "tags": [
+        "flags",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3e7cc59eab6f9522ee",
+      "correctAnswer": "Rabies",
+      "incorrectAnswers": [
+        "Smallpox",
+        "Coronavirus",
+        "Diabetes"
+      ],
+      "question": {
+        "text": "For What Illness Did Louis Pasteur Develop A Cure?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fb04",
+      "correctAnswer": "Gwyneth Paltrow",
+      "incorrectAnswers": [
+        "Cate Blanchett",
+        "Fernanda Montenegro",
+        "Meryl Streep"
+      ],
+      "question": {
+        "text": "Who won the 1998 Academy Award for Best Leading Actress for playing the role of Viola De Lesseps in Shakespeare in Love?"
+      },
+      "tags": [
+        "acting",
+        "academy_awards",
+        "film",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -490,17 +513,18 @@
     },
     {
       "category": "geography",
-      "id": "62373f63cb85f7ce9e949c94",
-      "correctAnswer": "Angola",
+      "id": "62374212cb85f7ce9e949da7",
+      "correctAnswer": "Saint Lucia",
       "incorrectAnswers": [
-        "Norway",
-        "Liberia",
-        "Nicaragua"
+        "Afghanistan",
+        "Dominican Republic",
+        "Papua New Guinea"
       ],
       "question": {
-        "text": "Luanda is the capital city of which country?"
+        "text": "Castries is the capital city of which country?"
       },
       "tags": [
+        "capital_cities",
         "geography"
       ],
       "type": "text_choice",
@@ -509,19 +533,83 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502a6",
-      "correctAnswer": "Claret ",
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c0c",
+      "correctAnswer": "Muse",
       "incorrectAnswers": [
-        "Burgundy",
-        "Shiraz",
-        "Cabernet Sauvignon"
+        "Tears for Fears",
+        "Bullet For My Valentine",
+        "Enter Shikari"
       ],
       "question": {
-        "text": "What name was given to the light, clear wine developed in medieval times along the coastal valleys of the Gironde river in the Bordeaux region?"
+        "text": "Which English rock band released the album 'The Resistance'?"
       },
       "tags": [
-        "food_and_drink"
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62374208cb85f7ce9e949da3",
+      "correctAnswer": "Rwanda",
+      "incorrectAnswers": [
+        "United Arab Emirates",
+        "Suriname",
+        "Kazakhstan"
+      ],
+      "question": {
+        "text": "Kigali is the capital city of which country?"
+      },
+      "tags": [
+        "capital_cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c367cc59eab6f9503df",
+      "correctAnswer": "Ceylon",
+      "incorrectAnswers": [
+        "Burma",
+        "East Pakistan",
+        "Persia"
+      ],
+      "question": {
+        "text": "What is the former name of Sri Lanka?"
+      },
+      "tags": [
+        "names",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fd2f",
+      "correctAnswer": "Immanuel Kant",
+      "incorrectAnswers": [
+        "Baruch Spinoza",
+        "Ludwig Wittgenstein",
+        "Protagoras"
+      ],
+      "question": {
+        "text": "Which philosopher famously said 'Happiness is not an ideal of reason but of imagination'?"
+      },
+      "tags": [
+        "philosophy",
+        "people",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -530,104 +618,20 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f25",
-      "correctAnswer": "Hans Christian Andersen",
+      "id": "622a1c347cc59eab6f94fa2e",
+      "correctAnswer": "Ukiyo-e",
       "incorrectAnswers": [
-        "Beatrix Potter",
-        "Søren Kierkegaard",
-        "Oscar Wilde"
+        "Impressionism",
+        "Mannerism",
+        "Surrealism"
       ],
       "question": {
-        "text": "Which author wrote 'The Little Match Girl'?"
+        "text": "The painting \"The Great Wave off Kanagawa\" by Hokusai is a part of which art movement?"
       },
       "tags": [
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950dd7",
-      "correctAnswer": "Francisco Quevedo",
-      "incorrectAnswers": [
-        "Miguel de Cervantes",
-        "Oscar Wilde",
-        "Alphonse Daudet"
-      ],
-      "question": {
-        "text": "Which author wrote 'Spanish Parnassus'?"
-      },
-      "tags": [
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fa74",
-      "correctAnswer": "Cuba Gooding, Jr.",
-      "incorrectAnswers": [
-        "William H. Macy",
-        "Armin Mueller-Stahl",
-        "Edward Norton"
-      ],
-      "question": {
-        "text": "Who won the 1996 Academy Award for Best Supporting Actor for playing the role of Rod Tidwell in Jerry Maguire?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "academy_awards"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "63a0394cc7d86251f9b65c38",
-      "correctAnswer": "Gruyère",
-      "incorrectAnswers": [
-        "Mozzarella",
-        "Feta",
-        "Gouda"
-      ],
-      "question": {
-        "text": "Which type of cheese is used to make fondue?"
-      },
-      "tags": [
-        "cheese",
-        "food_and_drink",
-        "food"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "62443786746187c5e7be935b",
-      "correctAnswer": "Calcium carbonate",
-      "incorrectAnswers": [
-        "Calcium sulphate dihydrate",
-        "Iron Oxide",
-        "Deuterium Oxide"
-      ],
-      "question": {
-        "text": "What chemical has the formula CaCO3?"
-      },
-      "tags": [
-        "science"
+        "art",
+        "painting",
+        "japan"
       ],
       "type": "text_choice",
       "difficulty": "hard",

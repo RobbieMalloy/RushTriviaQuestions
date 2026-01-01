@@ -1,391 +1,46 @@
 {
-  "gameDate": "2025-12-31",
+  "gameDate": "2026-01-01",
   "difficulty": "random",
   "results": [
     {
       "category": "film_and_tv",
-      "id": "622a1c357cc59eab6f94fc3d",
-      "correctAnswer": "\"Rosebud.\"",
+      "id": "622a1c347cc59eab6f94fc14",
+      "correctAnswer": "\"Gentlemen, you can't fight in here! This is the War Room!\"",
       "incorrectAnswers": [
-        "\"You shall not pass!\"",
-        "\"Why don't you come up sometime and see me?\"",
-        "\"Louis, I think this is the beginning of a beautiful friendship.\""
+        "\"A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.\"",
+        "\"What a dump.\"",
+        "\"A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.\""
       ],
       "question": {
-        "text": "Which of these quotes is from the film 'Citizen Kane'?"
+        "text": "Which of these quotes is from the film 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'?"
       },
       "tags": [
-        "quotes",
         "film",
         "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f95034d",
-      "correctAnswer": "Ector",
-      "incorrectAnswers": [
-        "Uther",
-        "Constantine",
-        "Guinevere"
-      ],
-      "question": {
-        "text": "Who was King Arthur's foster-father?"
-      },
-      "tags": [
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c357cc59eab6f94fdab",
-      "correctAnswer": "The T-Birds",
-      "incorrectAnswers": [
-        "The Wild Dogs",
-        "The Pink Ladies",
-        "The Heavy Quarters"
-      ],
-      "question": {
-        "text": "What Was The Gang Name Of John Travolta And His Cohorts In The Movie Grease?"
-      },
-      "tags": [
-        "nicknames",
-        "film",
-        "cult_films",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f95069c",
-      "correctAnswer": "Jason Bateman",
-      "incorrectAnswers": [
-        "Javier Bardem",
-        "Colin Firth",
-        "Tim Roth"
-      ],
-      "question": {
-        "text": "Which actor has featured in films including DodgeBall: A True Underdog Story and Up in the Air?"
-      },
-      "tags": [
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "music",
-      "id": "622a1c357cc59eab6f94fdd2",
-      "correctAnswer": "R. Kelly",
+      "id": "622a1c357cc59eab6f94ff2a",
+      "correctAnswer": "Michael Jackson",
       "incorrectAnswers": [
         "Nicki Minaj",
-        "Drake",
-        "Ludacris"
+        "Neil Young",
+        "Eric Clapton"
       ],
       "question": {
-        "text": "Which American singer released the song 'I Believe I Can Fly'?"
+        "text": "The iconic song 'Thriller' was released by which musician?"
       },
       "tags": [
-        "musicians",
         "songs",
+        "musicians",
+        "1980's",
+        "general_knowledge",
         "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "6462620fab138b829b81e9ab",
-      "correctAnswer": "Spanish Armada",
-      "incorrectAnswers": [
-        "The Napoleonic Fleet",
-        "The Viking Fleet",
-        "The Scottish Armada"
-      ],
-      "question": {
-        "text": "What group of ships, commanded by the Duke of Medina, was considered invincible but was defeated by The Royal Navy in 1588?"
-      },
-      "tags": [
-        "war",
-        "military",
-        "1500s",
-        "europe",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3f7cc59eab6f952393",
-      "correctAnswer": "Herpetologist",
-      "incorrectAnswers": [
-        "Entomologist",
-        "Barologist",
-        "Seismologist"
-      ],
-      "question": {
-        "text": "What is a scientist who studies reptiles and amphibians known as?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f9500f8",
-      "correctAnswer": "Hephaistos",
-      "incorrectAnswers": [
-        "Hermes",
-        "Athena",
-        "Morpheus"
-      ],
-      "question": {
-        "text": "Who is the Greek equivalent of the Roman god Vulcan ?"
-      },
-      "tags": [
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "645cb12a602ff42ca52fb423",
-      "correctAnswer": "Citizen Kane",
-      "incorrectAnswers": [
-        "The Godfather",
-        "Gone with the Wind",
-        "Casablanca"
-      ],
-      "question": {
-        "text": "What is the name of the 1941 film that topped the AFI's  1998 list of the 100 greatest American films?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951008",
-      "correctAnswer": "A code-breaking computer",
-      "incorrectAnswers": [
-        "A nuclear-resistant tank",
-        "A supersonic bomber",
-        "An intercontinental missile"
-      ],
-      "question": {
-        "text": "What Was The Colossus, Developed In Buckinghamshire In 1943?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f950286",
-      "correctAnswer": "Courgette ",
-      "incorrectAnswers": [
-        "Carrot",
-        "Onion",
-        "Cucumber"
-      ],
-      "question": {
-        "text": "What vegetable is known a zucchini in the USA?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "62c2f9fab3eadb0437fda6b6",
-      "correctAnswer": "Horse",
-      "incorrectAnswers": [
-        "Moose",
-        "Bird",
-        "Bat"
-      ],
-      "question": {
-        "text": "Which animal would you associate with the Ralph Lauren logo?"
-      },
-      "tags": [
-        "society_and_culture",
-        "business",
-        "marketing",
-        "animals",
-        "fashion",
-        "logos",
-        "symbols"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd78",
-      "correctAnswer": "Ringo Starr",
-      "incorrectAnswers": [
-        "John Lennon",
-        "George Harrison",
-        "Paul McCartney"
-      ],
-      "question": {
-        "text": "Who wore the pink uniform on the cover of Sgt. Pepper's?"
-      },
-      "tags": [
-        "the_beatles",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3b7cc59eab6f95171f",
-      "correctAnswer": "Hadrian's Wall",
-      "incorrectAnswers": [
-        "Caesar's Wall",
-        "Julius' Wall",
-        "Octavian's Wall"
-      ],
-      "question": {
-        "text": "Which wall did the Romans build to keep out marauding Scots?"
-      },
-      "tags": [
-        "the_romans",
-        "scotland",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "625e9df1796f721e95543f35",
-      "correctAnswer": "Red",
-      "incorrectAnswers": [
-        "Blue",
-        "Gold",
-        "Maroon"
-      ],
-      "question": {
-        "text": "Which of these colors would you find on the flag of Bolivia?"
-      },
-      "tags": [
-        "flags",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "65056f007a97013de78b53ac",
-      "correctAnswer": "James Cook",
-      "incorrectAnswers": [
-        "Neil Armstrong",
-        "Francisco Pizarro",
-        "Vasco da Gama"
-      ],
-      "question": {
-        "text": "Which explorer was killed on the Hawaiian Islands?"
-      },
-      "tags": [
-        "history",
-        "exploration",
-        "people",
-        "hawaii"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "63d9531d168979b94b2e4f9d",
-      "correctAnswer": "Jonas Salk",
-      "incorrectAnswers": [
-        "Edward Jenner",
-        "Alexander Fleming",
-        "Louis Pasteur"
-      ],
-      "question": {
-        "text": "Who developed the polio vaccine?"
-      },
-      "tags": [
-        "science",
-        "medicine",
-        "scientific_discoveries",
-        "people"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "648888d35dba6c873ef65088",
-      "correctAnswer": "Filly",
-      "incorrectAnswers": [
-        "Pony",
-        "Stallion",
-        "Mare"
-      ],
-      "question": {
-        "text": "What term is used for a female horse that is aged four years or under?"
-      },
-      "tags": [
-        "horses",
-        "animals",
-        "science"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -393,25 +48,127 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "62c2f9e2b3eadb0437fda6ac",
-      "correctAnswer": "NBC",
+      "category": "food_and_drink",
+      "id": "639898395c9a75021f310466",
+      "correctAnswer": "Cabernet Sauvignon",
       "incorrectAnswers": [
-        "Slazenger",
-        "Porsche",
-        "ING Group"
+        "Pinot Noir",
+        "Chardonnay",
+        "Merlot"
       ],
       "question": {
-        "text": "Which of these brands has a peacock on its logo?"
+        "text": "What is the most widely planted grape variety in the world?"
       },
       "tags": [
-        "society_and_culture",
-        "business",
-        "marketing",
-        "animals",
-        "birds",
-        "logos",
-        "symbols"
+        "food_and_drink",
+        "wine",
+        "drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f951057",
+      "correctAnswer": "Insulin",
+      "incorrectAnswers": [
+        "Estrogen",
+        "Keratin",
+        "Adrenaline"
+      ],
+      "question": {
+        "text": "What Hormone Controls The Supply Of Sugar From The Blood To The Muscles?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f95065b",
+      "correctAnswer": "Salma Hayek",
+      "incorrectAnswers": [
+        "Frances Fisher",
+        "Rachel Weisz",
+        "Keira Knightley"
+      ],
+      "question": {
+        "text": "Which actress has appeared in films including Traffic and Eternals?"
+      },
+      "tags": [
+        "film_and_tv",
+        "film",
+        "acting"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "63a03949c7d86251f9b65c35",
+      "correctAnswer": "Mozzarella",
+      "incorrectAnswers": [
+        "Gouda",
+        "Blue Cheese",
+        "Feta"
+      ],
+      "question": {
+        "text": "What type of cheese is used on a pizza?"
+      },
+      "tags": [
+        "cheese",
+        "food_and_drink",
+        "food",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fdd8",
+      "correctAnswer": "Bruce Springsteen",
+      "incorrectAnswers": [
+        "Eric Clapton",
+        "Neil Young",
+        "Alanis Morissette"
+      ],
+      "question": {
+        "text": "Which American musician released the album 'Born in the U.S.A.'?"
+      },
+      "tags": [
+        "music_albums",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "624437b4746187c5e7be936d",
+      "correctAnswer": "Saltpetre",
+      "incorrectAnswers": [
+        "Borax",
+        "Limestone",
+        "Quartz"
+      ],
+      "question": {
+        "text": "What is the common name for potassium nitrate?"
+      },
+      "tags": [
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -420,44 +177,18 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f9513a1",
-      "correctAnswer": "Harry Potter",
+      "id": "622a1c367cc59eab6f9501b1",
+      "correctAnswer": "Sense and Sensibility",
       "incorrectAnswers": [
-        "Twilight",
-        "His Dark Materials",
-        "Red Rising"
+        "Jane Eyre",
+        "The Lady of the Camellias",
+        "David Copperfield"
       ],
       "question": {
-        "text": "In which book series does 'Minerva McGonagall' appear?"
+        "text": "Which piece of written work starts with the line 'The family of Dashwood had been long settled in Sussex.'?"
       },
       "tags": [
-        "literature",
-        "young_adult",
-        "fictitious_characters",
-        "general_knowledge",
         "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "647203881068407b3d7e9718",
-      "correctAnswer": "The English Channel",
-      "incorrectAnswers": [
-        "The Alps",
-        "The Mediterranean Sea",
-        "The Rhine"
-      ],
-      "question": {
-        "text": "What geographical feature, is referred to as 'la Manche' (the sleeve) by the French?"
-      },
-      "tags": [
-        "france",
-        "geography",
-        "europe"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -465,68 +196,22 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "64626250ab138b829b81e9f8",
-      "correctAnswer": "Heartbreak Hotel'l",
-      "incorrectAnswers": [
-        "Hound Dog",
-        "Jailhouse Rock",
-        "Love Me Tender"
-      ],
-      "question": {
-        "text": "What was the name of the first of Elvis Presley's 114 Top 40 hits?"
-      },
-      "tags": [
-        "rock_and_roll",
-        "elvis_presley",
-        "music",
-        "songs"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "646089a9de964ebc39016c64",
-      "correctAnswer": "Mount Olympus",
-      "incorrectAnswers": [
-        "Mount Everest",
-        "Mont Blanc",
-        "Mount Etna"
-      ],
-      "question": {
-        "text": "Which mountain was believed by the ancient Greeks to be the center of the Earth?"
-      },
-      "tags": [
-        "history",
-        "mythology",
-        "geography",
-        "ancient_greece",
-        "mountains"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "science",
-      "id": "6505703a7a97013de78b555f",
-      "correctAnswer": "Meniscus",
+      "id": "646261c8ab138b829b81e994",
+      "correctAnswer": "60",
       "incorrectAnswers": [
-        "Trochanter",
-        "Amygdala",
-        "Adenoid"
+        "12",
+        "20",
+        "30"
       ],
       "question": {
-        "text": "Which of these can be found in the knee?"
+        "text": "What is the lowest common multiple of 3, 4 and 5?"
       },
       "tags": [
-        "science",
-        "anatomy",
-        "physiology"
+        "numbers",
+        "arithmetic",
+        "mathematics",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -535,21 +220,22 @@
     },
     {
       "category": "history",
-      "id": "62611f334b176d54800e3d48",
-      "correctAnswer": "1954",
+      "id": "64974e400752843c0d8aada7",
+      "correctAnswer": "Bonn",
       "incorrectAnswers": [
-        "1970",
-        "1933",
-        "1981"
+        "Munich",
+        "Berlin",
+        "Frankfurt"
       ],
       "question": {
-        "text": "In which year was the first successful organ transplant?"
+        "text": "Which German city served as the capital of West Germany from 1949 until reunification in 1990?"
       },
       "tags": [
-        "events",
-        "firsts",
-        "medicine",
-        "history"
+        "germany",
+        "history",
+        "geography",
+        "capital_cities",
+        "cities"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -557,40 +243,39 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "63951efbe55fa75b149597b4",
-      "correctAnswer": "Ionization",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f19",
+      "correctAnswer": "Alice Munro",
       "incorrectAnswers": [
-        "Electionification",
-        "Molecularization",
-        "Atomification"
+        "Ivan Turgenev",
+        "E. T. A. Hoffmann",
+        "Alphonse Daudet"
       ],
       "question": {
-        "text": "What is the process by which an atom gains or loses charge by gaining or losing an electron?"
+        "text": "Which author wrote 'The Moons of Jupiter'?"
       },
       "tags": [
-        "science"
+        "arts_and_literature"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94ff51",
-      "correctAnswer": "Michael Jackson",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950ddd",
+      "correctAnswer": "Anne Frank",
       "incorrectAnswers": [
-        "Nicki Minaj",
-        "Neil Young",
-        "Eric Clapton"
+        "Friedrich Engels",
+        "Michael Ende",
+        "Karl May"
       ],
       "question": {
-        "text": "Which American singer released the song 'Wanna Be Startin' Somethin''?"
+        "text": "Which author wrote 'Diary of Anne Frank'?"
       },
       "tags": [
-        "songs",
-        "music"
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -598,21 +283,121 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950095",
-      "correctAnswer": "Flushing Meadows",
+      "category": "science",
+      "id": "622a1c377cc59eab6f9504f3",
+      "correctAnswer": "ants",
       "incorrectAnswers": [
-        "Newport Casino",
-        "Orange Tennis Club",
-        "Philadelphia Cricket Club"
+        "fresh water environments, particularly lakes",
+        "the Soviet Union",
+        "prehistoric metazoans "
       ],
       "question": {
-        "text": "The US Tennis Open takes place at which venue?"
+        "text": "What is Myrmecology the study of?"
       },
       "tags": [
-        "tennis",
-        "sport",
-        "places"
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c377cc59eab6f9507e9",
+      "correctAnswer": "North America",
+      "incorrectAnswers": [
+        "South America",
+        "Oceania",
+        "Europe"
+      ],
+      "question": {
+        "text": "The country of Saint Vincent and the Grenadines is on which continent?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6233864462eaad73716a8cc2",
+      "correctAnswer": "Mexico",
+      "incorrectAnswers": [
+        "Spain",
+        "The USA",
+        "Morocco"
+      ],
+      "question": {
+        "text": "Where is Tabasco?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623740bdcb85f7ce9e949d1d",
+      "correctAnswer": "India",
+      "incorrectAnswers": [
+        "Thailand",
+        "Solomon Islands",
+        "Oman"
+      ],
+      "question": {
+        "text": "New Delhi is the capital city of which country?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62374022cb85f7ce9e949cdf",
+      "correctAnswer": "Cuba",
+      "incorrectAnswers": [
+        "Israel",
+        "Turkey",
+        "Brazil"
+      ],
+      "question": {
+        "text": "Havana is the capital city of which country?"
+      },
+      "tags": [
+        "capital_cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624c606250d1a5e051325a57",
+      "correctAnswer": "Canada",
+      "incorrectAnswers": [
+        "Vietnam",
+        "Ecuador",
+        "France"
+      ],
+      "question": {
+        "text": "Poutine is a dish that is most associated with which part of the world?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -621,20 +406,151 @@
     },
     {
       "category": "science",
-      "id": "646089e1de964ebc39016c94",
-      "correctAnswer": "Charles Goodyear",
+      "id": "6242cb49d543524f1b19c91f",
+      "correctAnswer": "A pack",
       "incorrectAnswers": [
-        "Henry Ford",
-        "Thomas Edison",
-        "Eli Whitney"
+        "A shrewdness",
+        "A brood",
+        "A rag"
       ],
       "question": {
-        "text": "In 1839, which American inventor reportedly spilled a mix of rubber and sulfur onto a hot stove and found that it didn't melt?"
+        "text": "What is the word for a group of hounds?"
       },
       "tags": [
-        "inventors",
-        "history",
-        "chemistry",
+        "words",
+        "animals",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "64909c4c58265893a0c86d9c",
+      "correctAnswer": "New Orleans",
+      "incorrectAnswers": [
+        "Havana",
+        "Port-au-Prince",
+        "Kingston"
+      ],
+      "question": {
+        "text": "In which city was Marie Laveau, the famous 19th century voodoo practitioner, based?"
+      },
+      "tags": [
+        "society_and_culture",
+        "people",
+        "superstitions"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62602e444b176d54800e3cce",
+      "correctAnswer": "Bulgaria",
+      "incorrectAnswers": [
+        "Netherlands",
+        "Hungary",
+        "Albania"
+      ],
+      "question": {
+        "text": "In which country is the city of Sofia?"
+      },
+      "tags": [
+        "cities",
+        "europe",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623b585ffd6c701a921183b5",
+      "correctAnswer": "Australia",
+      "incorrectAnswers": [
+        "Czech Republic",
+        "Canada",
+        "Scotland"
+      ],
+      "question": {
+        "text": "In which country would you find the UNESCO World Heritage site of The Blue Mountains?"
+      },
+      "tags": [
+        "mountains",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6357fd3968bd5000211e718a",
+      "correctAnswer": "Morocco",
+      "incorrectAnswers": [
+        "Kenya",
+        "Tanzania",
+        "Sri Lanka"
+      ],
+      "question": {
+        "text": "Berber is a language spoken in which of these countries?"
+      },
+      "tags": [
+        "language",
+        "linguistics",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "626030a04b176d54800e3d32",
+      "correctAnswer": "Lagos",
+      "incorrectAnswers": [
+        "Casablanca",
+        "Khartoum",
+        "Luanda"
+      ],
+      "question": {
+        "text": "Which of these cities is in Nigeria?"
+      },
+      "tags": [
+        "cities",
+        "africa",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3e7cc59eab6f9522a4",
+      "correctAnswer": "54",
+      "incorrectAnswers": [
+        "64",
+        "9",
+        "16"
+      ],
+      "question": {
+        "text": "How many colored squares does a Rubiks Cube have?"
+      },
+      "tags": [
+        "toys",
+        "mathematics",
+        "numbers",
         "science"
       ],
       "type": "text_choice",
@@ -643,22 +559,88 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c377cc59eab6f95041c",
-      "correctAnswer": "1984",
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f951388",
+      "correctAnswer": "One Thousand and One Nights",
       "incorrectAnswers": [
-        "1986",
-        "1988",
-        "1990"
+        "Charlotte's Web",
+        "Alice's Adventures in Wonderland",
+        "The Snow Queen"
       ],
       "question": {
-        "text": "In what year was Band-Aid's Do They Know It's Christmas the UK Christmas chart-topping record?"
+        "text": "In which book does 'Solomon in Islam' appear?"
       },
       "tags": [
-        "music"
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "624334f3cfaae40c12961477",
+      "correctAnswer": "A Boar",
+      "incorrectAnswers": [
+        "A Macho",
+        "A Bull",
+        "A Hob"
+      ],
+      "question": {
+        "text": "What is the word for a male pig?"
+      },
+      "tags": [
+        "names",
+        "animals",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f950052",
+      "correctAnswer": "George Foreman",
+      "incorrectAnswers": [
+        "Joe Frazier",
+        "Wilfredo Gomez",
+        "Roberto Duran"
+      ],
+      "question": {
+        "text": "Who Did Muhammed Ali Fight In 'The Rumble In The Jungle''?"
+      },
+      "tags": [
+        "boxing",
+        "events",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f950298",
+      "correctAnswer": "Michelin Star",
+      "incorrectAnswers": [
+        "North Star",
+        "Flavour Star",
+        "Prestige Star"
+      ],
+      "question": {
+        "text": "What Type Of Star Is Awarded To Restaurants Where The food Is Of Exceptional Quality?"
+      },
+      "tags": [
+        "food",
+        "general_knowledge",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
       "regions": [],
       "isNiche": false
     }
