@@ -1,86 +1,45 @@
 {
-  "gameDate": "2026-01-01",
+  "gameDate": "2026-01-02",
   "difficulty": "easy",
   "results": [
     {
+      "category": "science",
+      "id": "622a1c377cc59eab6f9505a5",
+      "correctAnswer": "angels",
+      "incorrectAnswers": [
+        "numbers",
+        "religion",
+        "Semitic cultures"
+      ],
+      "question": {
+        "text": "What is Angelology the study of?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
       "category": "geography",
-      "id": "639c9dab929b90846f2fc98b",
-      "correctAnswer": "Rome",
+      "id": "622a1c357cc59eab6f94ffbc",
+      "correctAnswer": "Athens",
       "incorrectAnswers": [
-        "Athens",
-        "Paris",
-        "London"
+        "Alexandria",
+        "Corinth",
+        "Sparta"
       ],
       "question": {
-        "text": "The Colosseum is an iconic structure in what city?"
+        "text": "What is the capital of Greece?"
       },
       "tags": [
-        "architecture",
-        "geography",
-        "tourist_attractions",
-        "buildings"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c45",
-      "correctAnswer": "The Beach Boys",
-      "incorrectAnswers": [
-        "The Velvet Underground",
-        "The Monkees",
-        "Fleetwood Mac"
-      ],
-      "question": {
-        "text": "Which American rock band released the song 'Wouldn't It Be Nice'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c3d7cc59eab6f951c46",
-      "correctAnswer": "Just like the ones I used to know",
-      "incorrectAnswers": [
-        "Sharing kisses in the snow",
-        "We'll be going with the flow",
-        "Walking to your favourite show"
-      ],
-      "question": {
-        "text": "Bing Crosby famously sang 'I'm dreaming of a white Christmas'', what is the next line?"
-      },
-      "tags": [
-        "christmas",
-        "lyrics",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "63a0399cc7d86251f9b65c8f",
-      "correctAnswer": "The Game of Life",
-      "incorrectAnswers": [
-        "Risk",
-        "Monopoly",
-        "Clue"
-      ],
-      "question": {
-        "text": "What is the name of the classic board game where players race through a person's life from childhood to retirement?"
-      },
-      "tags": [
-        "board_games"
+        "capital_cities",
+        "europe",
+        "greece",
+        "general_knowledge",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -89,18 +48,20 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c3a7cc59eab6f950fdb",
-      "correctAnswer": "Grand Theft Auto",
+      "id": "63bc3f9c0e893d6e5a6a0fc5",
+      "correctAnswer": "Hippie",
       "incorrectAnswers": [
-        "Gear to Advance",
-        "Grind Them All!",
-        "Go to America"
+        "Grunge",
+        "Gothic",
+        "Preppy"
       ],
       "question": {
-        "text": "Which video game series is sometimes referred to as GTA?"
+        "text": "What is the name of the fashion trend popularized in the 1960s that involves wearing bright colors and psychedelic patterns?"
       },
       "tags": [
-        "society_and_culture"
+        "society_and_culture",
+        "fashion",
+        "1960's"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -108,21 +69,42 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "6293ecce7f41d6338b96ef0c",
-      "correctAnswer": "Communist revolutionary leader and dictator of China.",
+      "category": "geography",
+      "id": "62602d414b176d54800e3c8a",
+      "correctAnswer": "Canada",
       "incorrectAnswers": [
-        "Physicist who created the first nuclear reactor",
-        "Engineer who developed compressed charge internal combustion engine to run on petrol",
-        "Biologist who discovered penicillin."
+        "Australia",
+        "New Zealand",
+        "United States"
       ],
       "question": {
-        "text": "Which of the following describes Mao Zedong?"
+        "text": "Where would you find the city of Vancouver?"
       },
       "tags": [
-        "people",
-        "history",
-        "society_and_culture"
+        "cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "625e9e03796f721e95543f39",
+      "correctAnswer": "Green",
+      "incorrectAnswers": [
+        "Maroon",
+        "Red",
+        "Black"
+      ],
+      "question": {
+        "text": "Which of these colors is included on the flag of Brazil?"
+      },
+      "tags": [
+        "flags",
+        "south_america",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -131,42 +113,19 @@
     },
     {
       "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f8a9",
-      "correctAnswer": "Football",
+      "id": "622a1c347cc59eab6f94f896",
+      "correctAnswer": "Motor racing",
       "incorrectAnswers": [
-        "Cycling",
         "Hockey",
-        "Skiing"
-      ],
-      "question": {
-        "text": "With which sport is Diego Maradona associated?"
-      },
-      "tags": [
-        "people",
-        "general_knowledge",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f8ae",
-      "correctAnswer": "Swimming",
-      "incorrectAnswers": [
-        "Figure skating",
         "Track and field",
-        "Boxing"
+        "Table tennis"
       ],
       "question": {
-        "text": "With which sport is Michael Phelps associated?"
+        "text": "With which sport is Michael Schumacher associated?"
       },
       "tags": [
-        "olympics",
-        "people",
         "general_knowledge",
+        "people",
         "sport"
       ],
       "type": "text_choice",
@@ -175,20 +134,23 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950ba3",
-      "correctAnswer": "Fleetwood Mac",
+      "category": "science",
+      "id": "622a1c3c7cc59eab6f951958",
+      "correctAnswer": "Hubble",
       "incorrectAnswers": [
-        "W.A.S.P.",
-        "Paramore",
-        "Alice in Chains"
+        "Bubble",
+        "Toil",
+        "Trouble"
       ],
       "question": {
-        "text": "Which British-American rock band released the studio album 'Rumours'?"
+        "text": "What is the name of the space telescope that was placed in Earth's orbit in 1990?"
       },
       "tags": [
-        "general_knowledge",
-        "music"
+        "physics",
+        "astronomy",
+        "events",
+        "1990's",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -196,19 +158,21 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f950214",
-      "correctAnswer": "Roald Dahl ",
+      "category": "science",
+      "id": "6505702e7a97013de78b554e",
+      "correctAnswer": "2",
       "incorrectAnswers": [
-        "Charles Dickens",
-        "Jacqueline Wilson",
-        "Morgan Scott"
+        "1",
+        "0",
+        "4"
       ],
       "question": {
-        "text": "Who wrote the book Charlie and the Chocolate Factory?"
+        "text": "How many horns does a wildebeest have?"
       },
       "tags": [
-        "food_and_drink"
+        "animals",
+        "biology",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -217,20 +181,44 @@
     },
     {
       "category": "society_and_culture",
-      "id": "626288a14b176d54800e3daa",
-      "correctAnswer": "They're GR-R-R-reat!",
+      "id": "64824e707778562fd76a9646",
+      "correctAnswer": "Giorgio Armani",
       "incorrectAnswers": [
-        "A glass and a half in every half pound",
-        "Finger lickin' good",
-        "Breakfast of Champions"
+        "Gucci Adriano",
+        "Giovanni Anselmi",
+        "Gabriel Alvarez"
       ],
       "question": {
-        "text": "What is the marketing slogan of Kelloggs Frosties?"
+        "text": "Which Italian fashion designer has the initials G.A.?"
+      },
+      "tags": [
+        "designers",
+        "fashion",
+        "people",
+        "society_and_culture",
+        "italy"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "626288a54b176d54800e3dab",
+      "correctAnswer": "What's the Worst That Could Happen?",
+      "incorrectAnswers": [
+        "Is it in you?",
+        "Twist the cap to refreshment",
+        "Obey your thirst"
+      ],
+      "question": {
+        "text": "Which marketing slogan would you associate with Dr. Pepper?"
       },
       "tags": [
         "business",
         "marketing",
-        "food",
+        "drink",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -239,21 +227,19 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbeb",
-      "correctAnswer": "\"I have had it with these mother—— snakes on this mother—— plane!\"",
+      "category": "geography",
+      "id": "6237406dcb85f7ce9e949cfd",
+      "correctAnswer": "France",
       "incorrectAnswers": [
-        "\"Not my tempo.\"",
-        "\"Oh, Jerry, don't let's ask for the moon. We have the stars.\"",
-        "\"Tell 'em to go out there with all they got and win just one for the Gipper.\""
+        "Spain",
+        "Switzerland",
+        "Italy"
       ],
       "question": {
-        "text": "Which of these quotes is from the film 'Snakes on a Plane'?"
+        "text": "Paris is the capital city of which country?"
       },
       "tags": [
-        "quotes",
-        "film",
-        "film_and_tv"
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -261,21 +247,21 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "65056e837a97013de78b52fd",
-      "correctAnswer": "Anglo-Saxons",
+      "category": "society_and_culture",
+      "id": "639c9d98929b90846f2fc95f",
+      "correctAnswer": "Hinduism",
       "incorrectAnswers": [
-        "Egyptians",
-        "Mongols",
-        "Berbers"
+        "Sunni",
+        "Shia",
+        "Sufism"
       ],
       "question": {
-        "text": "Which of these peoples lived in England during the early Middle Ages?"
+        "text": "Which of the following is not one of the branches of Islam?"
       },
       "tags": [
-        "history",
-        "medieval",
-        "british history"
+        "islam",
+        "religion",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -284,223 +270,7 @@
     },
     {
       "category": "music",
-      "id": "622a1c397cc59eab6f950c84",
-      "correctAnswer": "U2",
-      "incorrectAnswers": [
-        "Public Image Ltd.",
-        "The Script",
-        "The Cure"
-      ],
-      "question": {
-        "text": "Which Irish rock band released the studio album 'The Joshua Tree'?"
-      },
-      "tags": [
-        "rock_music",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "6398984f5c9a75021f310477",
-      "correctAnswer": "Auschwitz",
-      "incorrectAnswers": [
-        "Dachau",
-        "Buchenwald",
-        "Bergen-Belsen"
-      ],
-      "question": {
-        "text": "Which of these was a Nazi concentration camp in Poland during World War 2?"
-      },
-      "tags": [
-        "history",
-        "world_war_2",
-        "wars",
-        "poland",
-        "places",
-        "europe"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62602d704b176d54800e3c98",
-      "correctAnswer": "China",
-      "incorrectAnswers": [
-        "Sri Lanka",
-        "Malaysia",
-        "Taiwan"
-      ],
-      "question": {
-        "text": "Hong Kong is a city in which country?"
-      },
-      "tags": [
-        "cities",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f950aae",
-      "correctAnswer": "United States of America",
-      "incorrectAnswers": [
-        "Mexico",
-        "Belize",
-        "Guatemala"
-      ],
-      "question": {
-        "text": "Which of these countries borders Canada?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "6477bad7550bc819ad646b2c",
-      "correctAnswer": "A penalty kick",
-      "incorrectAnswers": [
-        "A free kick",
-        "An own goal",
-        "A red card"
-      ],
-      "question": {
-        "text": "What event occurs in soccer when a defender commits a foul in their own penalty area?"
-      },
-      "tags": [
-        "soccer",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94fe55",
-      "correctAnswer": "South America",
-      "incorrectAnswers": [
-        "Africa",
-        "Europe",
-        "Asia"
-      ],
-      "question": {
-        "text": "In which continent would you find the Amazon River?"
-      },
-      "tags": [
-        "rivers",
-        "general_knowledge",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62602d524b176d54800e3c8f",
-      "correctAnswer": "Istanbul",
-      "incorrectAnswers": [
-        "Tehran",
-        "Dubai",
-        "Manama"
-      ],
-      "question": {
-        "text": "Which of these cities is in Turkey?"
-      },
-      "tags": [
-        "cities",
-        "europe",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623387b00161109f922aac3d",
-      "correctAnswer": "Japan",
-      "incorrectAnswers": [
-        "China",
-        "Vietnam",
-        "India"
-      ],
-      "question": {
-        "text": "Which country uses the 'yen' for currency?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fc2d",
-      "correctAnswer": "\"You're gonna need a bigger boat.\"",
-      "incorrectAnswers": [
-        "\"A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.\"",
-        "\"Wait a minute, wait a minute. You ain't heard nothin' yet!\"",
-        "\"Mother of mercy, is this the end of Rico?\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'Jaws'?"
-      },
-      "tags": [
-        "quotes",
-        "film",
-        "general_knowledge",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "62573f569da29df7b05f7396",
-      "correctAnswer": "Back to the Future",
-      "incorrectAnswers": [
-        "The Truman Show",
-        "Raiders of the Lost Ark",
-        "Forrest Gump"
-      ],
-      "question": {
-        "text": "Name the movie that matches the following plot summary: 'A high school student is sent thirty years into the past in a time-traveling car.'"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94ff2a",
+      "id": "622a1c357cc59eab6f94ff35",
       "correctAnswer": "Michael Jackson",
       "incorrectAnswers": [
         "Nicki Minaj",
@@ -508,7 +278,7 @@
         "Eric Clapton"
       ],
       "question": {
-        "text": "The iconic song 'Thriller' was released by which musician?"
+        "text": "Which musician released the song 'Beat It'?"
       },
       "tags": [
         "songs",
@@ -523,19 +293,64 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcf8",
-      "correctAnswer": "Turkic",
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f887",
+      "correctAnswer": "Baseball",
       "incorrectAnswers": [
-        "Koreanic",
-        "Afroasiatic",
-        "Niger–Congo"
+        "Volleyball",
+        "Boxing",
+        "Table tennis"
       ],
       "question": {
-        "text": "The language 'Turkish' belongs to which language family?"
+        "text": "With which sport is Joe DiMaggio associated?"
       },
       "tags": [
-        "language",
+        "people",
+        "general_knowledge",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "6239f80b9129041bf3925cc1",
+      "correctAnswer": "Echo",
+      "incorrectAnswers": [
+        "Elton",
+        "Elbow",
+        "Enable"
+      ],
+      "question": {
+        "text": "What word is used in the NATO Phonetic Alphabet for the letter E?"
+      },
+      "tags": [
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "64746b6f5a4c31088dd9d054",
+      "correctAnswer": "Think Different",
+      "incorrectAnswers": [
+        "Just Do It",
+        "I'm Lovin' It",
+        "Got Milk?"
+      ],
+      "question": {
+        "text": "After rejoining Apple in 1997, Steve Jobs engineered what ad campaign?"
+      },
+      "tags": [
+        "advertising",
+        "technology",
+        "business",
+        "marketing",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -544,21 +359,41 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "645c9ff442ea81e2554c5f99",
-      "correctAnswer": "Vikings",
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f95022f",
+      "correctAnswer": "Guinness ",
       "incorrectAnswers": [
-        "Celts",
-        "Mongols",
-        "Saxons"
+        "Porters",
+        "Doogals",
+        "Old Black"
       ],
       "question": {
-        "text": "Which of these groups were known as fierce, medieval Scandinavian explorers?"
+        "text": "Which stout is Dublin world-famous for?"
       },
       "tags": [
-        "history",
-        "culture",
-        "society_and_culture"
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "625063d7e12f6dec240bdf86",
+      "correctAnswer": "Nothing Compares 2 U",
+      "incorrectAnswers": [
+        "Whoomp! (There It Is)",
+        "Whip It",
+        "Bust a Move"
+      ],
+      "question": {
+        "text": "What song did Sinead O'Connor have a hit with in 1990?"
+      },
+      "tags": [
+        "songs",
+        "one_hit_wonders",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -567,15 +402,169 @@
     },
     {
       "category": "geography",
-      "id": "62602eb44b176d54800e3cef",
-      "correctAnswer": "Kyiv",
+      "id": "62602e064b176d54800e3cbc",
+      "correctAnswer": "Napoli",
       "incorrectAnswers": [
-        "Minsk",
-        "Nur Sultan",
-        "Karachi"
+        "Dublin",
+        "Leipzig",
+        "Athens"
       ],
       "question": {
-        "text": "Which of these cities is in Ukraine?"
+        "text": "Which of these cities is in Italy?"
+      },
+      "tags": [
+        "cities",
+        "europe",
+        "italy",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "65056e2c7a97013de78b5284",
+      "correctAnswer": "Paris",
+      "incorrectAnswers": [
+        "Vienna",
+        "Rome",
+        "Madrid"
+      ],
+      "question": {
+        "text": "In which city is the Notre-Dame Cathedral located?"
+      },
+      "tags": [
+        "arts_and_literature",
+        "architecture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "645cb1257d263fd50970439c",
+      "correctAnswer": "An Advent calendar",
+      "incorrectAnswers": [
+        "A Holy calendar",
+        "A Kwanzaa calendar",
+        "A Countdown calendar"
+      ],
+      "question": {
+        "text": "What kind of calendar used to count the days until Christmas and often has a treat behind each window?"
+      },
+      "tags": [
+        "traditions",
+        "candy",
+        "christmas"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623742d4cb85f7ce9e949df5",
+      "correctAnswer": "United States of America",
+      "incorrectAnswers": [
+        "Australia",
+        "New Zealand",
+        "Ireland"
+      ],
+      "question": {
+        "text": "Washington, D.C. is the capital city of which country?"
+      },
+      "tags": [
+        "general_knowledge",
+        "capital_cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f95048d",
+      "correctAnswer": "snakes",
+      "incorrectAnswers": [
+        "disease classification",
+        "prehistoric metaphytes ",
+        "society"
+      ],
+      "question": {
+        "text": "What is Serpentology the study of?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62602d664b176d54800e3c95",
+      "correctAnswer": "Ireland",
+      "incorrectAnswers": [
+        "United Kingdom",
+        "Australia",
+        "United States"
+      ],
+      "question": {
+        "text": "In which country is the city of Dublin?"
+      },
+      "tags": [
+        "cities",
+        "europe",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94ff10",
+      "correctAnswer": "Madonna",
+      "incorrectAnswers": [
+        "Eric Clapton",
+        "Nicki Minaj",
+        "Alanis Morissette"
+      ],
+      "question": {
+        "text": "Which American singer and songwriter released the song 'Like a Virgin'?"
+      },
+      "tags": [
+        "songs",
+        "musicians",
+        "general_knowledge",
+        "1980's",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62602d8c4b176d54800e3ca0",
+      "correctAnswer": "Buenos Aires",
+      "incorrectAnswers": [
+        "Fortaleza",
+        "Santiago",
+        "Monterrey"
+      ],
+      "question": {
+        "text": "Which of these cities is in Argentina?"
       },
       "tags": [
         "cities",
@@ -587,18 +576,40 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c367cc59eab6f95031c",
-      "correctAnswer": "Boudica",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950ea9",
+      "correctAnswer": "J. K. Rowling",
       "incorrectAnswers": [
-        "Joan of Arc",
-        "Zenobia",
-        "Fulvia"
+        "Christopher Tolkien",
+        "Philip Pullman",
+        "C. S. Lewis"
       ],
       "question": {
-        "text": "Who Was the Queen Of The Iceni Tribe Of England Who Led An Uprising Against The Romans?"
+        "text": "Which author wrote 'Harry Potter and the Cursed Child'?"
       },
       "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "62611fe54b176d54800e3d78",
+      "correctAnswer": "1945",
+      "incorrectAnswers": [
+        "1921",
+        "1880",
+        "1972"
+      ],
+      "question": {
+        "text": "When did Alan Turing break the Enigma code?"
+      },
+      "tags": [
+        "events",
+        "technology",
         "history"
       ],
       "type": "text_choice",
@@ -607,23 +618,21 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94fe40",
-      "correctAnswer": "Rushmore",
+      "category": "general_knowledge",
+      "id": "6477baa2550bc819ad646afd",
+      "correctAnswer": "A purr",
       "incorrectAnswers": [
-        "Yellowstone",
-        "Everest",
-        "Fairweather"
+        "A meow",
+        "A mewl",
+        "A ruff"
       ],
       "question": {
-        "text": "On what mountain are four presidents' faces carved? "
+        "text": "What is the name of the endearing cat sound that is caused by the vibration of the false vocal cords?"
       },
       "tags": [
-        "mountains",
-        "usa",
-        "presidents",
-        "tourist_attractions",
-        "geography"
+        "animals",
+        "cats",
+        "sounds"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -631,21 +640,20 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950eab",
-      "correctAnswer": "J. K. Rowling",
+      "category": "history",
+      "id": "639ae2d7929b90846f2fc8bb",
+      "correctAnswer": "Raiding",
       "incorrectAnswers": [
-        "Christopher Tolkien",
-        "Philip Pullman",
-        "C. S. Lewis"
+        "Exploration",
+        "Migration",
+        "Trade"
       ],
       "question": {
-        "text": "Which author wrote 'Harry Potter and the Order of the Phoenix'?"
+        "text": "What is the name of the Viking practice of sailing off to unknown lands in search of riches and glory?"
       },
       "tags": [
-        "harry_potter",
-        "literature",
-        "arts_and_literature"
+        "history",
+        "vikings"
       ],
       "type": "text_choice",
       "difficulty": "easy",
