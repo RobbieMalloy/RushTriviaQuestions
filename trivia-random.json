@@ -1,21 +1,23 @@
 {
-  "gameDate": "2026-01-02",
+  "gameDate": "2026-01-03",
   "difficulty": "random",
   "results": [
     {
-      "category": "science",
-      "id": "6243338bcfaae40c129613eb",
-      "correctAnswer": "A Nymph",
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f950712",
+      "correctAnswer": "Will Smith",
       "incorrectAnswers": [
-        "A Kitten",
-        "A Hatchling",
-        "A Chick"
+        "Brian Cox",
+        "Ralph Fiennes",
+        "Ryan Reynolds"
       ],
       "question": {
-        "text": "A young cockroach is known as what?"
+        "text": "Which actor has appeared in films including Suicide Squad and Enemy of the State?"
       },
       "tags": [
-        "science"
+        "film",
+        "acting",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -24,15 +26,15 @@
     },
     {
       "category": "science",
-      "id": "622a1c377cc59eab6f950465",
-      "correctAnswer": "Wood",
+      "id": "622a1c3a7cc59eab6f950ff8",
+      "correctAnswer": "Otto Hahn",
       "incorrectAnswers": [
-        "Fossils",
-        "Handwriting",
-        "Mountains"
+        "Albert Einstein",
+        "Wilhelm Rontgen",
+        "Mervin Glick"
       ],
       "question": {
-        "text": "What is Xylology the study of?"
+        "text": "Which German Chemist Won The Nobel Prize For Chemistry In 1944 For Discovering Nuclear Fission?"
       },
       "tags": [
         "science"
@@ -43,19 +45,103 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "64f4e5cbd361046b195e5801",
-      "correctAnswer": "Brazil",
+      "category": "food_and_drink",
+      "id": "624c609f50d1a5e051325a68",
+      "correctAnswer": "India",
       "incorrectAnswers": [
-        "The USA",
-        "The Republic of the Congo",
-        "India"
+        "Ghana",
+        "Thailand",
+        "Barbados"
       ],
       "question": {
-        "text": "Which country is home to the Pantanal, the largest tropical wetland area in the world?"
+        "text": "Masala Dosa is a dish that is most associated with which part of the world?"
       },
       "tags": [
-        "nature",
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3e7cc59eab6f9522cb",
+      "correctAnswer": "Hydroponics",
+      "incorrectAnswers": [
+        "Aquonics",
+        "Horticulture",
+        "Waterculture"
+      ],
+      "question": {
+        "text": "What is the name given to the practice of growing plants in liquids rather than soil?"
+      },
+      "tags": [
+        "plants",
+        "science",
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950dac",
+      "correctAnswer": "Linkin Park",
+      "incorrectAnswers": [
+        "Alice in Chains",
+        "Hollywood Undead",
+        "System of a Down"
+      ],
+      "question": {
+        "text": "Which band was Chester Bennington a member of?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c357cc59eab6f94fd43",
+      "correctAnswer": "Wessex",
+      "incorrectAnswers": [
+        "Cumbria",
+        "Yorkshire",
+        "Hertford"
+      ],
+      "question": {
+        "text": "Which of these was a kingdom in Anglo-Saxon England?"
+      },
+      "tags": [
+        "uk",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6237419dcb85f7ce9e949d78",
+      "correctAnswer": "Kathmandu",
+      "incorrectAnswers": [
+        "Tashkent",
+        "Gaborone",
+        "Gitega"
+      ],
+      "question": {
+        "text": "What is the capital city of Nepal?"
+      },
+      "tags": [
+        "capital_cities",
         "geography"
       ],
       "type": "text_choice",
@@ -64,63 +150,18 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "649fcb35ebb41911d4cbd6cf",
-      "correctAnswer": "Barack Obama",
-      "incorrectAnswers": [
-        "Bill Clinton",
-        "George Bush",
-        "Donald Trump"
-      ],
-      "question": {
-        "text": "Which former US president's wife is called Michelle? "
-      },
-      "tags": [
-        "presidents",
-        "usa",
-        "people",
-        "society_and_culture",
-        "world_leaders"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950dce",
-      "correctAnswer": "Frances Hodgson Burnett",
-      "incorrectAnswers": [
-        "Robert Louis Stevenson",
-        "Arthur Conan Doyle",
-        "Joseph Conrad"
-      ],
-      "question": {
-        "text": "Which author wrote 'The Secret Garden'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f91b",
-      "correctAnswer": "Bringing Up Baby",
+      "id": "622a1c377cc59eab6f9505d6",
+      "correctAnswer": "Kim Basinger",
       "incorrectAnswers": [
-        "The Crying Game",
-        "To Kill a Mockingbird",
-        "The Night of the Hunter"
+        "Sally Hawkins",
+        "Lucy Lawless",
+        "Jacqueline Bisset"
       ],
       "question": {
-        "text": "Which film contains the character 'Susan Vance'?"
+        "text": "Which actress has featured in films including L.A. Confidential and Never Say Never Again?"
       },
       "tags": [
-        "literature",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -129,20 +170,42 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "64959827e831b1ab5aa11106",
-      "correctAnswer": "Perjury",
+      "category": "history",
+      "id": "62611f3d4b176d54800e3d4b",
+      "correctAnswer": "1957",
       "incorrectAnswers": [
-        "Obstruction",
-        "Suborning",
-        "Fraud"
+        "1941",
+        "1949",
+        "1969"
       ],
       "question": {
-        "text": "What is the term given to the act of lying in court?"
+        "text": "In which year did Ghana gain independence?"
       },
       "tags": [
-        "crime",
-        "law",
+        "events",
+        "africa",
+        "politics",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fc9f",
+      "correctAnswer": "Indo-European",
+      "incorrectAnswers": [
+        "Japonic",
+        "Niger–Congo",
+        "Turkic"
+      ],
+      "question": {
+        "text": "The language 'Czech' belongs to which language family?"
+      },
+      "tags": [
+        "language",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -151,253 +214,41 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "6243354acfaae40c12961499",
-      "correctAnswer": "A Ewe",
-      "incorrectAnswers": [
-        "A Bitch",
-        "A Soar",
-        "A Cow"
-      ],
-      "question": {
-        "text": "What is a female sheep known as?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "6257405e9da29df7b05f73d8",
-      "correctAnswer": "King Arthur and his Knights embark on a search for a religious relic.",
-      "incorrectAnswers": [
-        "During WWII a Jewish waiter uses humor to protect his son from the realities of war.",
-        "A destitute family builds a symbiotic relationship with a wealthy family.",
-        "In World War II a group of soldiers go behind enemy lines to rescue a paratrooper."
-      ],
-      "question": {
-        "text": "What is the plot of the movie Monty Python and the Holy Grail?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c347cc59eab6f94f9ec",
-      "correctAnswer": "John Adams",
-      "incorrectAnswers": [
-        "Herbert Hoover",
-        "Calvin Coolidge",
-        "Ulysses S. Grant"
-      ],
-      "question": {
-        "text": "Who was the 2nd president of the USA, in term during the period 1797–1801?"
-      },
-      "tags": [
-        "presidents",
-        "usa",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6242cb73d543524f1b19c92f",
-      "correctAnswer": "A muster",
-      "incorrectAnswers": [
-        "A flight",
-        "A run",
-        "A pace"
-      ],
-      "question": {
-        "text": "What is the word for a group of peacocks?"
-      },
-      "tags": [
-        "words",
-        "animals",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f865",
-      "correctAnswer": "Tennis",
-      "incorrectAnswers": [
-        "Rugby Union",
-        "Volleyball",
-        "Snooker"
-      ],
-      "question": {
-        "text": "With which sport is Margaret Smith Court associated?"
-      },
-      "tags": [
-        "people",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "645bc75b4638d58091b1b9e5",
-      "correctAnswer": "Scottish",
-      "incorrectAnswers": [
-        "English",
-        "Irish",
-        "Welsh"
-      ],
-      "question": {
-        "text": "Which nationality was the author of the 1817 novel \"Rob Roy\", just like the hero of the story?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f91c",
-      "correctAnswer": "Daniel Day-Lewis",
-      "incorrectAnswers": [
-        "Peter O'Toole",
-        "Sidney Poitier",
-        "Robert De Niro"
-      ],
-      "question": {
-        "text": "Which actor played the role of William 'Bill the Butcher' Cutting in Gangs of New York?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "people",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f8ab",
-      "correctAnswer": "Basketball",
-      "incorrectAnswers": [
-        "Gymnastics",
-        "Rowing",
-        "Volleyball"
-      ],
-      "question": {
-        "text": "With which sport is Michael Jordan associated?"
-      },
-      "tags": [
-        "people",
-        "general_knowledge",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "geography",
-      "id": "625e9eda796f721e95543f71",
-      "correctAnswer": "Japan",
+      "id": "625e9f3e796f721e95543f8e",
+      "correctAnswer": "Blue",
       "incorrectAnswers": [
-        "Costa Rica",
-        "Mongolia",
-        "Pakistan"
+        "Green",
+        "Black",
+        "Maroon"
       ],
       "question": {
-        "text": "Which country's flag fits the description of 'White with a large red disk in the center.'?"
+        "text": "Which of these colors would you find on the flag of Mongolia?"
       },
       "tags": [
         "flags",
         "geography"
       ],
       "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950db6",
-      "correctAnswer": "The Rolling Stones",
-      "incorrectAnswers": [
-        "McFly",
-        "Delirious?",
-        "Depeche Mode"
-      ],
-      "question": {
-        "text": "Which band includes 'Keith Richards'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fb3e",
-      "correctAnswer": "The English Patient",
+      "id": "625740289da29df7b05f73c8",
+      "correctAnswer": "Taxi Driver",
       "incorrectAnswers": [
-        "Fargo",
-        "Jerry Maguire",
-        "Secrets & Lies"
+        "It's a Wonderful Life",
+        "Apocalypse Now",
+        "Life Is Beautiful"
       ],
       "question": {
-        "text": "Which film won the Academy Award for Best Picture in 1996?"
+        "text": "Name the movie that matches the following plot summary: 'A mentally unstable veteran has urges for violence after witnessing decadence and sleaze.'"
       },
       "tags": [
-        "academy_awards",
         "film",
         "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502eb",
-      "correctAnswer": "Soup ",
-      "incorrectAnswers": [
-        "Stew",
-        "Cured Meat",
-        "Vegetable"
-      ],
-      "question": {
-        "text": "Gazpacho is a type of what?"
-      },
-      "tags": [
-        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -405,215 +256,129 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502f5",
-      "correctAnswer": "Mayonnaise",
-      "incorrectAnswers": [
-        "Mustard",
-        "Onion Soup",
-        "Quiche"
-      ],
-      "question": {
-        "text": "What was bought to France by Duke Richelieu after visiting Mahon, Minorca? "
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951a11",
-      "correctAnswer": "James Garfield",
-      "incorrectAnswers": [
-        "John F Kennedy",
-        "Abraham Lincoln",
-        "Bill Buchanan"
-      ],
-      "question": {
-        "text": "Which U.S. president was fatally shot in 1881?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "645c9fc842ea81e2554c5f94",
-      "correctAnswer": "Gospel Music",
-      "incorrectAnswers": [
-        "Country Music",
-        "Pop Music",
-        "R&B Music"
-      ],
-      "question": {
-        "text": "Elvis Presley won 3 Grammy Awards. What genre where they in?"
-      },
-      "tags": [
-        "awards",
-        "musicians",
-        "elvis_presley",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa23",
-      "correctAnswer": "‎Salvador Dalí",
+      "id": "622a1c347cc59eab6f94fa31",
+      "correctAnswer": "Baroque",
       "incorrectAnswers": [
-        "James Abbott McNeill Whistler",
-        "Cassius Marcellus Coolidge",
-        "Vincent van Gogh"
+        "Abstract expressionism",
+        "Ukiyo-e",
+        "Cubism"
       ],
       "question": {
-        "text": "Which artist painted \"The Persistence of Memory\""
+        "text": "The painting \"Massacre of the Innocents\" by Peter Paul Rubens is a part of which art movement?"
       },
       "tags": [
-        "art",
         "painting",
-        "general_knowledge",
+        "art",
         "arts_and_literature"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b35",
-      "correctAnswer": "Blondie",
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94fdeb",
+      "correctAnswer": "Nevada",
       "incorrectAnswers": [
-        "The Pussycat Dolls",
-        "Three 6 Mafia",
-        "The Velvet Underground"
+        "Arizona",
+        "Colorado",
+        "Alaska"
       ],
       "question": {
-        "text": "Which American rock band released the song 'Heart of Glass'?"
+        "text": "Which U.S. state has the least rainfall?"
       },
       "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950af5",
-      "correctAnswer": "The Chainsmokers",
-      "incorrectAnswers": [
-        "The Pussycat Dolls",
-        "Three 6 Mafia",
-        "The Velvet Underground"
-      ],
-      "question": {
-        "text": "Which American EDM Duo released the song 'Don't Let Me Down'?"
-      },
-      "tags": [
-        "music"
+        "us_states",
+        "usa",
+        "meteorology",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94fe05",
+      "correctAnswer": "Lake Maracaibo",
+      "incorrectAnswers": [
+        "Lagoa dos Patos",
+        "Lake Nicaragua",
+        "Lake Titicaca"
+      ],
+      "question": {
+        "text": "Which is the largest lake in South America?"
+      },
+      "tags": [
+        "bodies_of_water",
+        "south_america",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f95048b",
+      "correctAnswer": "society",
+      "incorrectAnswers": [
+        "bones",
+        "the preparation of books and manuscripts",
+        "nematodes"
+      ],
+      "question": {
+        "text": "What is Sociology the study of?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f950fd6",
+      "correctAnswer": "Jellyfish",
+      "incorrectAnswers": [
+        "Squid",
+        "Shark",
+        "Whale"
+      ],
+      "question": {
+        "text": "Which type of animal are the Sea Wasp and Cubozoa?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c367cc59eab6f9501f1",
-      "correctAnswer": "Christopher Nolan",
+      "id": "622a1c377cc59eab6f950713",
+      "correctAnswer": "Will Smith",
       "incorrectAnswers": [
-        "Steven Spielberg",
-        "Woody Allen",
-        "Martin Scorsese"
+        "Brian Cox",
+        "Ralph Fiennes",
+        "Ryan Reynolds"
       ],
       "question": {
-        "text": "Which director directed Batman Begins?"
+        "text": "Which actor has starred in films including Suicide Squad and Men in Black?"
       },
       "tags": [
+        "acting",
         "film",
-        "dc",
-        "batman",
+        "general_knowledge",
         "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f9500bb",
-      "correctAnswer": "6",
-      "incorrectAnswers": [
-        "3",
-        "10",
-        "8"
-      ],
-      "question": {
-        "text": "How Many Players Are There In A Volleyball Team?"
-      },
-      "tags": [
-        "olympics",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f951366",
-      "correctAnswer": "Romanesque",
-      "incorrectAnswers": [
-        "Baroque",
-        "Gothic",
-        "Palladian"
-      ],
-      "question": {
-        "text": "Which medieval architectural style is characterized by large semi-circular arches?"
-      },
-      "tags": [
-        "architecture",
-        "medieval",
-        "art",
-        "middle_ages",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f89d",
-      "correctAnswer": "Cricket",
-      "incorrectAnswers": [
-        "Volleyball",
-        "Badminton",
-        "Ice Hockey"
-      ],
-      "question": {
-        "text": "With which sport is Shane Warne associated?"
-      },
-      "tags": [
-        "people",
-        "sport"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -622,15 +387,15 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9505b2",
-      "correctAnswer": "Olivia Wilde",
+      "id": "622a1c377cc59eab6f950769",
+      "correctAnswer": "Dustin Hoffman",
       "incorrectAnswers": [
-        "Sophia Loren",
-        "Madonna",
-        "Jacqueline Bisset"
+        "Dan Aykroyd",
+        "Christopher Walken",
+        "John Travolta"
       ],
       "question": {
-        "text": "Which actress has starred in both 'The O.C'. and the 2013 film 'Her'?"
+        "text": "Which actor has featured in films including Rain Man and Kramer vs. Kramer?"
       },
       "tags": [
         "acting",
@@ -638,7 +403,234 @@
         "film_and_tv"
       ],
       "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62374013cb85f7ce9e949cd9",
+      "correctAnswer": "Costa Rica",
+      "incorrectAnswers": [
+        "Montenegro",
+        "Andorra",
+        "Grenada"
+      ],
+      "question": {
+        "text": "San Jose is the capital city of which country?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
       "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f9504f0",
+      "correctAnswer": "the study and design of machines at the molecular level",
+      "incorrectAnswers": [
+        "things in order of time or time",
+        "movement in relation to human anatomy; a branch of medicine",
+        "wine"
+      ],
+      "question": {
+        "text": "What is Nanotechnology the study of?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "6477bada550bc819ad646b4d",
+      "correctAnswer": "Snow White and the Seven Dwarfs",
+      "incorrectAnswers": [
+        "The Little Mermaid",
+        "Beauty and the Beast",
+        "Aladdin"
+      ],
+      "question": {
+        "text": "Released in 1937, what was the first Disney animated feature?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv",
+        "disney"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f9501a6",
+      "correctAnswer": "Pride and Prejudice",
+      "incorrectAnswers": [
+        "Jane Eyre",
+        "Sense and Sensibility",
+        "Wuthering Heights"
+      ],
+      "question": {
+        "text": "In which book does 'Jane Bennet' appear?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "646339a001d576cfac3aa39c",
+      "correctAnswer": "Carmen",
+      "incorrectAnswers": [
+        "Madama Butterfly",
+        "La Traviata",
+        "The Barber of Seville"
+      ],
+      "question": {
+        "text": "What is the name of the opera that features the characters Escamillo, a bullfighter; Mercedes, a gypsy girl; and Don Jose, a soldier?"
+      },
+      "tags": [
+        "music",
+        "opera",
+        "theater",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f9504c9",
+      "correctAnswer": "the ecology of plant communities",
+      "incorrectAnswers": [
+        "schematic layouts",
+        "the interrelationship between an organism's physical functioning and its environment",
+        "the nature and origins of knowledge"
+      ],
+      "question": {
+        "text": "What is Phytosociology the study of?"
+      },
+      "tags": [
+        "words",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c3c7cc59eab6f951930",
+      "correctAnswer": "The Shining",
+      "incorrectAnswers": [
+        "Halloween",
+        "Scream!",
+        "Friday the 13th"
+      ],
+      "question": {
+        "text": "What Scary Movie Takes Place At The Overlook Hotel"
+      },
+      "tags": [],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "65056f6d7a97013de78b5445",
+      "correctAnswer": "Prime minister",
+      "incorrectAnswers": [
+        "Emperor",
+        "Senator",
+        "Monarch"
+      ],
+      "question": {
+        "text": "What title does the head of government hold in countries with a Westminster system?"
+      },
+      "tags": [
+        "society_and_culture",
+        "politics",
+        "government"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f95058c",
+      "correctAnswer": "The thereputic effects of bathing",
+      "incorrectAnswers": [
+        "Plasma",
+        "Balinese culture",
+        "Victims of crime"
+      ],
+      "question": {
+        "text": "What is balneology the study of?"
+      },
+      "tags": [
+        "science",
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e85",
+      "correctAnswer": "Neil Gaiman",
+      "incorrectAnswers": [
+        "Stephen King",
+        "H. P. Lovecraft",
+        "Douglas Adams"
+      ],
+      "question": {
+        "text": "Which author wrote 'Trigger Warning: Short Fictions and Disturbances'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "6266bb34ff7b6ee0496ec784",
+      "correctAnswer": "Percussion",
+      "incorrectAnswers": [
+        "Brass",
+        "Stringed",
+        "Woodwind"
+      ],
+      "question": {
+        "text": "What type of instrument is a bongo?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
       "regions": [],
       "isNiche": false
     }

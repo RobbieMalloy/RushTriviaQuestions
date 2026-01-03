@@ -1,198 +1,23 @@
 {
-  "gameDate": "2026-01-02",
+  "gameDate": "2026-01-03",
   "difficulty": "hard",
   "results": [
     {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f95073c",
-      "correctAnswer": "Michael Douglas",
-      "incorrectAnswers": [
-        "Ben Kingsley",
-        "Kiefer Sutherland",
-        "Shah Rukh Khan"
-      ],
-      "question": {
-        "text": "Which actor played the role of Hank Pym in the Marvel Cinematic Universe?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "mcu",
-        "comics",
-        "marvel",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "646140b74d46e537ca8cda17",
-      "correctAnswer": "St. Francis",
-      "incorrectAnswers": [
-        "St. Peter",
-        "St. Paul",
-        "St. Augustine"
-      ],
-      "question": {
-        "text": "Who was born in Assisi in 1181 and later became a missionary?"
-      },
-      "tags": [
-        "history",
-        "christianity",
-        "people",
-        "saints"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f95058d",
-      "correctAnswer": "The nature of value",
-      "incorrectAnswers": [
-        "Existence",
-        "Very low temperatures",
-        "Neural diseases"
-      ],
-      "question": {
-        "text": "What is Axiology the study of?"
-      },
-      "tags": [
-        "science",
-        "words"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c3a7cc59eab6f951095",
-      "correctAnswer": "Pastern",
-      "incorrectAnswers": [
-        "Sole",
-        "Periople",
-        "Hock"
-      ],
-      "question": {
-        "text": "The part of the foot of a horse between the fetlock and the hoof is the __________"
-      },
-      "tags": [
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e85",
-      "correctAnswer": "Neil Gaiman",
-      "incorrectAnswers": [
-        "Stephen King",
-        "H. P. Lovecraft",
-        "Douglas Adams"
-      ],
-      "question": {
-        "text": "Which author wrote 'Trigger Warning: Short Fictions and Disturbances'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6266e67dff2394bd44dee04e",
-      "correctAnswer": "Six",
-      "incorrectAnswers": [
-        "Ten",
-        "Eight",
-        "Black"
-      ],
-      "question": {
-        "text": "What does the word 'zes' mean in Dutch?"
-      },
-      "tags": [
-        "language",
-        "translations",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "music",
-      "id": "622a1c397cc59eab6f950c4c",
-      "correctAnswer": "The Beach Boys",
+      "id": "64b5a8837282fc9eadbafd9c",
+      "correctAnswer": "Aretha Franklin",
       "incorrectAnswers": [
-        "Swans",
-        "Three 6 Mafia",
-        "The Velvet Underground"
+        "Whitney Houston",
+        "Tina Turner",
+        "Diana Ross"
       ],
       "question": {
-        "text": "Which American rock band released the song 'Blue Christmas'?"
+        "text": "Who duetted with George Michael in the song 'I Knew You Were Waiting (For Me)'?"
       },
       "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "645fcc80541c4d4fc8cf307d",
-      "correctAnswer": "Chaos",
-      "incorrectAnswers": [
-        "Pandemonium",
-        "Bedlam",
-        "Anarchy"
-      ],
-      "question": {
-        "text": "What word, from the Greek mythology, refers to the void from which Nyx and Erebus emerged and is used in English to describe a disordered mess?"
-      },
-      "tags": [
-        "mythology",
-        "words",
-        "ancient_greece",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62417cfd0f96c4efe8d77399",
-      "correctAnswer": "Columbus Blue Jackets",
-      "incorrectAnswers": [
-        "Columbus Mavericks",
-        "Columbus Predators",
-        "Columbus Whitesox"
-      ],
-      "question": {
-        "text": "Which of these is a hockey team based in Columbus?"
-      },
-      "tags": [
-        "hockey",
-        "usa",
-        "nhl",
-        "sport"
+        "songs",
+        "music",
+        "musicians"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -201,15 +26,15 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e79",
-      "correctAnswer": "Paulo Coelho",
+      "id": "622a1c397cc59eab6f950e00",
+      "correctAnswer": "Miguel de Cervantes",
       "incorrectAnswers": [
-        "Ivan Turgenev",
-        "Søren Kierkegaard",
-        "Voltaire"
+        "Oscar Wilde",
+        "Victor Hugo",
+        "Alphonse Daudet"
       ],
       "question": {
-        "text": "Which author wrote 'The Alchemist'?"
+        "text": "Which author wrote 'Novelas ejemplares ruth nailibeth'?"
       },
       "tags": [
         "arts_and_literature"
@@ -220,64 +45,22 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "64dd35bb9cef2bd3a34a8d58",
-      "correctAnswer": "Hanoi",
+      "category": "society_and_culture",
+      "id": "6371623c1bf863c45ca6c361",
+      "correctAnswer": "Sapientia potentia est",
       "incorrectAnswers": [
-        "Ho Chi Minh City",
-        "Da Nang",
-        "Hue"
+        "Hodie mihi, cras tibi",
+        "Ego te provoco",
+        "Melita, domi adsum"
       ],
       "question": {
-        "text": "In which Vietnamese city are Ho Chi Minh's remains displayed in a mausoleum in Ba Dinh Square?"
+        "text": "Which of these Latin phrases means 'Wisdom is power'?"
       },
       "tags": [
-        "southeast_asia",
-        "vietnam",
-        "geography",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f9503a9",
-      "correctAnswer": "Yom Kippur war",
-      "incorrectAnswers": [
-        "The Wailing War",
-        "The Khartoum War",
-        "The Hezbollah War"
-      ],
-      "question": {
-        "text": "Which famous Arab / Israeli war took place in 1973?"
-      },
-      "tags": [
-        "wars",
-        "politics",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "62433534cfaae40c12961490",
-      "correctAnswer": "A Cow",
-      "incorrectAnswers": [
-        "A Pen",
-        "A Sow",
-        "A Hen"
-      ],
-      "question": {
-        "text": "A female sea lion is known as what?"
-      },
-      "tags": [
-        "science"
+        "society_and_culture",
+        "language",
+        "the_romans",
+        "classics"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -286,15 +69,15 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950de8",
-      "correctAnswer": "Louisa May Alcott",
+      "id": "622a1c397cc59eab6f950ea3",
+      "correctAnswer": "Alexandre Dumas",
       "incorrectAnswers": [
-        "Edgar Allan Poe",
-        "Nathaniel Hawthorne",
-        "Stephen King"
+        "Anatole France",
+        "Gustave Flaubert",
+        "Charles Perrault"
       ],
       "question": {
-        "text": "Which author wrote 'The Annotated Little Women'?"
+        "text": "Which author wrote 'The Corsican Brothers'?"
       },
       "tags": [
         "literature",
@@ -307,15 +90,313 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fac7",
-      "correctAnswer": "Casey Affleck",
+      "id": "622a1c347cc59eab6f94f941",
+      "correctAnswer": "Saturday Night Fever",
       "incorrectAnswers": [
-        "Andrew Garfield",
-        "Ryan Gosling",
-        "Viggo Mortensen"
+        "Midnight Cowboy",
+        "The Treasure of the Sierra Madre",
+        "On the Waterfront"
       ],
       "question": {
-        "text": "Who won the 2016 Academy Award for Best Leading Actor for playing the role of Lee Chandler in Manchester by the Sea?"
+        "text": "Which film contains the character 'Tony Manero'?"
+      },
+      "tags": [
+        "film",
+        "fictitious_characters",
+        "cult_films",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950efa",
+      "correctAnswer": "Ursula K. Le Guin",
+      "incorrectAnswers": [
+        "Stephen King",
+        "Jack Vance",
+        "George R. R. Martin"
+      ],
+      "question": {
+        "text": "Which author wrote 'Hainish Cycle'?"
+      },
+      "tags": [
+        "literature",
+        "fantasy",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f91c",
+      "correctAnswer": "Daniel Day-Lewis",
+      "incorrectAnswers": [
+        "Peter O'Toole",
+        "Sidney Poitier",
+        "Robert De Niro"
+      ],
+      "question": {
+        "text": "Which actor played the role of William 'Bill the Butcher' Cutting in Gangs of New York?"
+      },
+      "tags": [
+        "acting",
+        "film",
+        "people",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624c60f950d1a5e051325a80",
+      "correctAnswer": "Singapore",
+      "incorrectAnswers": [
+        "Mauritius",
+        "United States",
+        "North Africa"
+      ],
+      "question": {
+        "text": "Where in the world would you most expect to be served Chilli Crab?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c3a7cc59eab6f951051",
+      "correctAnswer": "Cob",
+      "incorrectAnswers": [
+        "Ned",
+        "Sorl",
+        "Dev"
+      ],
+      "question": {
+        "text": "What is a male swan called?"
+      },
+      "tags": [
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62374178cb85f7ce9e949d69",
+      "correctAnswer": "Mongolia",
+      "incorrectAnswers": [
+        "Croatia",
+        "Tajikistan",
+        "Kosovo"
+      ],
+      "question": {
+        "text": "Ulaanbaatar is the capital city of which country?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "64720cd33bbb58c31f411cbd",
+      "correctAnswer": "Sparta",
+      "incorrectAnswers": [
+        "Corinth",
+        "Mystras",
+        "Thebes"
+      ],
+      "question": {
+        "text": "Which Greek city-state, led by Lysander, defeated Athens in 404 B.C. and established the government of the 30 tyrants over it?"
+      },
+      "tags": [
+        "ancient_greece",
+        "history",
+        "the_ancient_world",
+        "wars"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "647129af64c916f9c84814b7",
+      "correctAnswer": "Figure skating",
+      "incorrectAnswers": [
+        "Ice hockey",
+        "Gymnastics",
+        "Tennis"
+      ],
+      "question": {
+        "text": "Which sport saw athletes like John Curry and Peggy Fleming rise to prominence as proteges of coach Carlo Fassi?"
+      },
+      "tags": [
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6266e6acff2394bd44dee05c",
+      "correctAnswer": "Neuf",
+      "incorrectAnswers": [
+        "Nove",
+        "Negen",
+        "Trois"
+      ],
+      "question": {
+        "text": "In French, what is the word for for 'nine'?"
+      },
+      "tags": [
+        "language",
+        "translations",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "624437b4746187c5e7be936d",
+      "correctAnswer": "Saltpetre",
+      "incorrectAnswers": [
+        "Borax",
+        "Limestone",
+        "Quartz"
+      ],
+      "question": {
+        "text": "What is the common name for potassium nitrate?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "62ab32b35202de619af28120",
+      "correctAnswer": "Citroën",
+      "incorrectAnswers": [
+        "Toyota",
+        "Honda",
+        "Opel"
+      ],
+      "question": {
+        "text": "Which car manufacturer made the DS19?"
+      },
+      "tags": [
+        "motoring",
+        "business",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f9510cb",
+      "correctAnswer": "Antifreeze ",
+      "incorrectAnswers": [
+        "Engine oil",
+        "Windscreen wash fluid",
+        "Brake fluid"
+      ],
+      "question": {
+        "text": "Ethylene glycol is frequently used in automobiles. What for? "
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62374124cb85f7ce9e949d47",
+      "correctAnswer": "Libya",
+      "incorrectAnswers": [
+        "Georgia",
+        "Switzerland",
+        "Hungary"
+      ],
+      "question": {
+        "text": "Tripoli is the capital city of which country?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f95131c",
+      "correctAnswer": "The Mock Turtle",
+      "incorrectAnswers": [
+        "Humpty Dumpty",
+        "Tweedledee",
+        "Dodo"
+      ],
+      "question": {
+        "text": "In Alice In Wonderland, who never stopped sobbing?"
+      },
+      "tags": [
+        "arts_and_literature",
+        "literature",
+        "classic_novels"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fac6",
+      "correctAnswer": "Daniel Day-Lewis",
+      "incorrectAnswers": [
+        "Bradley Cooper",
+        "Hugh Jackman",
+        "Joaquin Phoenix"
+      ],
+      "question": {
+        "text": "Who won the 2012 Academy Award for Best Leading Actor for playing the role of Abraham Lincoln in Lincoln?"
       },
       "tags": [
         "acting",
@@ -330,19 +411,17 @@
     },
     {
       "category": "society_and_culture",
-      "id": "6293ec5e7f41d6338b96eeeb",
-      "correctAnswer": "Physician who made contributions to understanding how blood circulates in the body.",
+      "id": "622a1c367cc59eab6f950139",
+      "correctAnswer": "Daedalus",
       "incorrectAnswers": [
-        "Physicist who made discoveries in atomic physics.",
-        "United most of Western Europe to form the Carolingian Empire.",
-        "Artist and photographer, who is credited with the invention of the camera."
+        "Icarus",
+        "Perseus",
+        "Oedipus"
       ],
       "question": {
-        "text": "Which of the following describes William Harvey?"
+        "text": "In Greek mythology, who did Minos hire to construct the labyrinth?"
       },
       "tags": [
-        "people",
-        "history",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -351,19 +430,60 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "625e9fa1796f721e95543fab",
-      "correctAnswer": "Maroon with a white serrated band on the left side.",
+      "category": "film_and_tv",
+      "id": "622a1c3c7cc59eab6f9517dc",
+      "correctAnswer": "David Cronenberg",
       "incorrectAnswers": [
-        "Three equal horizontal bands of green white and red.",
-        "Three equal vertical bands of black yellow and red.",
-        "Three vertical bands of blue, yellow, and red."
+        "Baz Luhrmann",
+        "Alfred Hitchcock",
+        "Peter Jackson"
       ],
       "question": {
-        "text": "What does the flag of Qatar look like?"
+        "text": "Which director's films included Shivers, Videodrome and The Fly?"
       },
       "tags": [
-        "flags",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f25",
+      "correctAnswer": "Hans Christian Andersen",
+      "incorrectAnswers": [
+        "Beatrix Potter",
+        "Søren Kierkegaard",
+        "Oscar Wilde"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Little Match Girl'?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623387360161109f922aac0d",
+      "correctAnswer": "The USA & Canada ",
+      "incorrectAnswers": [
+        "France & Spain",
+        "Italy & The Vatican City",
+        "Brunei & Malaysia"
+      ],
+      "question": {
+        "text": "Which Countries Are Divided By The 49th Parallel?"
+      },
+      "tags": [
         "geography"
       ],
       "type": "text_choice",
@@ -372,186 +492,20 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "625006a90d86c8f685d80ef3",
-      "correctAnswer": "Fusilli",
-      "incorrectAnswers": [
-        "Penne",
-        "Bavette",
-        "Strozzapreti"
-      ],
-      "question": {
-        "text": "Which pasta's name means 'rifles'?"
-      },
-      "tags": [
-        "food",
-        "words",
-        "language",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c367cc59eab6f95021a",
-      "correctAnswer": "Shakira ",
-      "incorrectAnswers": [
-        "Enrique Iglesias",
-        "Pitbull",
-        "Jennifer Lopez"
-      ],
-      "question": {
-        "text": "Who released the album 'Pies Descalzos'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e0d",
-      "correctAnswer": "Yanka Kupala",
+      "id": "64fb150b717513cb7919038b",
+      "correctAnswer": "600",
       "incorrectAnswers": [
-        "Nikolai Gogol",
-        "Vladimir Nabokov",
-        "Henryk Sienkiewicz"
+        "Men",
+        "Doomed",
+        "Storm"
       ],
       "question": {
-        "text": "Which author wrote 'Heritage'?"
+        "text": "Complete the following line from 'The Charge of the Light Brigade' poem: 'All in the valley of Death rode the ___'"
       },
       "tags": [
+        "poetry",
         "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950ee2",
-      "correctAnswer": "Charles Dickens",
-      "incorrectAnswers": [
-        "Oscar Wilde",
-        "Joseph Conrad",
-        "Henryk Sienkiewicz"
-      ],
-      "question": {
-        "text": "Which author wrote 'Little Dorrit'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "649c9f94e3aef0a3c23f6402",
-      "correctAnswer": "A Lie",
-      "incorrectAnswers": [
-        "A Disaster",
-        "An Accident",
-        "A Mistake"
-      ],
-      "question": {
-        "text": "What is another word for a prevarication?"
-      },
-      "tags": [
-        "words"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951005",
-      "correctAnswer": "Titan",
-      "incorrectAnswers": [
-        "Io",
-        "Europa",
-        "Luna"
-      ],
-      "question": {
-        "text": "Which moon is the second largest satellite in our solar system?"
-      },
-      "tags": [
-        "astronomy",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "624dba6ade6018633d31f6c5",
-      "correctAnswer": "Roger Moore",
-      "incorrectAnswers": [
-        "Sean Connery",
-        "George Lazenby",
-        "Daniel Craig"
-      ],
-      "question": {
-        "text": "Who played the role of James Bond in Live and Let Die?"
-      },
-      "tags": [
-        "james_bond",
-        "film",
-        "acting",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c28",
-      "correctAnswer": "Nirvana",
-      "incorrectAnswers": [
-        "Counting Crows",
-        "Three 6 Mafia",
-        "The Velvet Underground"
-      ],
-      "question": {
-        "text": "Which American rock band released the song 'Sliver'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c367cc59eab6f95020e",
-      "correctAnswer": "Steven Spielberg",
-      "incorrectAnswers": [
-        "Woody Allen",
-        "Martin Scorsese",
-        "Alfred Hitchcock"
-      ],
-      "question": {
-        "text": "Which director directed Schindler's List?"
-      },
-      "tags": [
-        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -560,15 +514,15 @@
     },
     {
       "category": "geography",
-      "id": "623742a2cb85f7ce9e949de1",
-      "correctAnswer": "Tonga",
+      "id": "623740c4cb85f7ce9e949d20",
+      "correctAnswer": "Jakarta",
       "incorrectAnswers": [
-        "Andorra",
-        "Kyrgyzstan",
-        "Somalia"
+        "Yaounde",
+        "Singapore",
+        "Kuala Lumpur"
       ],
       "question": {
-        "text": "Nuku'alofa is the capital city of which country?"
+        "text": "What is the capital city of Indonesia?"
       },
       "tags": [
         "capital_cities",
@@ -580,21 +534,19 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "63bc3fa20e893d6e5a6a0fcc",
-      "correctAnswer": "1922",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e3c",
+      "correctAnswer": "Charles Perrault",
       "incorrectAnswers": [
-        "1860",
-        "1945",
-        "1818"
+        "Hans Christian Andersen",
+        "André Gide",
+        "Prosper Mérimée"
       ],
       "question": {
-        "text": "When was the Ottoman Empire officially dissolved?"
+        "text": "Which author wrote 'Bluebeard'?"
       },
       "tags": [
-        "history",
-        "ottoman_empire",
-        "empires"
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -602,19 +554,22 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "62373fa8cb85f7ce9e949cae",
-      "correctAnswer": "Belmopan",
+      "category": "film_and_tv",
+      "id": "645c9f5342ea81e2554c5f05",
+      "correctAnswer": "The Truman Show",
       "incorrectAnswers": [
-        "Roseau",
-        "Dodoma",
-        "Baku"
+        "Eternal Sunshine of the Spotless Mind",
+        "Dead Poet's Society",
+        "The Shawshank Redemption"
       ],
       "question": {
-        "text": "What is the capital city of Belize?"
+        "text": "Which movie features the quote 'Good morning! And in case I don't see you, good afternoon, good evening, and good night!'?"
       },
       "tags": [
-        "geography"
+        "film",
+        "film_and_tv",
+        "quotes",
+        "film_quotes"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -623,20 +578,61 @@
     },
     {
       "category": "music",
-      "id": "64720cca3bbb58c31f411ca2",
-      "correctAnswer": "Paul Simon",
+      "id": "622a1c357cc59eab6f94fd5c",
+      "correctAnswer": "Elvis Presley",
       "incorrectAnswers": [
+        "Johnny Cash",
         "Bob Dylan",
-        "Joni Mitchell",
         "Leonard Cohen"
       ],
       "question": {
-        "text": "Which singer-songwriter's lyrics include 'People talking without speaking...people writing songs that voices never share'?"
+        "text": "Whose Version Of \"My Way\" Had A Poignant Release Late In 1977?"
       },
       "tags": [
-        "lyrics",
+        "people",
         "songs",
         "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "645bc75b4638d58091b1b9e7",
+      "correctAnswer": "Era of Good Feeling",
+      "incorrectAnswers": [
+        "Age of Enlightenment",
+        "Antebellum Period",
+        "Jacksonian Era"
+      ],
+      "question": {
+        "text": "What term is often closely associated with James Monroe's presidency?"
+      },
+      "tags": [
+        "presidents",
+        "usa"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f95033f",
+      "correctAnswer": "Harold Wilson",
+      "incorrectAnswers": [
+        "Clement Atlee",
+        "Anthony Eden",
+        "Margaret Thatcher"
+      ],
+      "question": {
+        "text": "Who Was The British Prime Minister Between 1964 & 1969?"
+      },
+      "tags": [
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "hard",
