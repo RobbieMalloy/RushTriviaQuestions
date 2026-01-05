@@ -1,18 +1,347 @@
 {
-  "gameDate": "2026-01-04",
+  "gameDate": "2026-01-05",
   "difficulty": "medium",
   "results": [
     {
       "category": "geography",
-      "id": "625e9ec9796f721e95543f6c",
-      "correctAnswer": "Blue",
+      "id": "64a9cc039bf4085beaa1b041",
+      "correctAnswer": "The Mormon Tabernacle",
       "incorrectAnswers": [
-        "Yellow",
-        "Maroon",
-        "Gold"
+        "The Amish Colonade",
+        "The Witness Hall",
+        "The Jesuit Amphitheatre"
       ],
       "question": {
-        "text": "Which of these colors would you find on the flag of Iceland?"
+        "text": "Which of these is an iconic Salt Lake City building?"
+      },
+      "tags": [
+        "buildings",
+        "usa",
+        "utah",
+        "geography",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "645f9565541c4d4fc8cf2ed8",
+      "correctAnswer": "Plantain",
+      "incorrectAnswers": [
+        "Casava",
+        "Guava",
+        "Durian"
+      ],
+      "question": {
+        "text": "What is the name of the starchy 'cooking bananas' that can be sautéed and served as a side dish?"
+      },
+      "tags": [
+        "food",
+        "fruit",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c367cc59eab6f9501dc",
+      "correctAnswer": "Francis Ford Coppola",
+      "incorrectAnswers": [
+        "Steven Spielberg",
+        "Woody Allen",
+        "Martin Scorsese"
+      ],
+      "question": {
+        "text": "Which director directed The Godfather Part II?"
+      },
+      "tags": [
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951952",
+      "correctAnswer": "L",
+      "incorrectAnswers": [
+        "R",
+        "H",
+        "J"
+      ],
+      "question": {
+        "text": "What is the Roman numeral for fifty?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "645fcc89541c4d4fc8cf308e",
+      "correctAnswer": "The Sunflower State",
+      "incorrectAnswers": [
+        "The Prairie State",
+        "The Rusty State",
+        "The Wheat State"
+      ],
+      "question": {
+        "text": "What is the nickname for the state of Kansas?"
+      },
+      "tags": [
+        "nicknames",
+        "us_states",
+        "usa",
+        "kansas",
+        "geography",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f9519a0",
+      "correctAnswer": "James",
+      "incorrectAnswers": [
+        "Marshall",
+        "Theodore",
+        "Thomas"
+      ],
+      "question": {
+        "text": "What were the first names of US presidents Madison, Monroe, Polk, and Garfield?"
+      },
+      "tags": [
+        "presidents",
+        "names",
+        "people",
+        "usa",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "648889155dba6c873ef650c8",
+      "correctAnswer": "Cuba",
+      "incorrectAnswers": [
+        "Russia",
+        "China",
+        "North Korea"
+      ],
+      "question": {
+        "text": "Which country was declared a socialist nation by its prime minister on May Day, 1961?"
+      },
+      "tags": [
+        "communism",
+        "history",
+        "politics"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b23",
+      "correctAnswer": "Blondie",
+      "incorrectAnswers": [
+        "The Pussycat Dolls",
+        "Three 6 Mafia",
+        "The Velvet Underground"
+      ],
+      "question": {
+        "text": "Which American rock band released the song 'Call Me'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f950fd8",
+      "correctAnswer": "Kidney",
+      "incorrectAnswers": [
+        "Liver",
+        "Lung",
+        "Heart"
+      ],
+      "question": {
+        "text": "Which vital organ does the adjective renal refer to?"
+      },
+      "tags": [
+        "anatomy",
+        "words",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "649d381fe3aef0a3c23f641f",
+      "correctAnswer": "Dividing by zero",
+      "incorrectAnswers": [
+        "Multiplying by zero",
+        "Adding zero",
+        "Subtracting zero"
+      ],
+      "question": {
+        "text": "Which of these is against the rules of mathematics?"
+      },
+      "tags": [
+        "arithmetic",
+        "numbers",
+        "mathematics",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f95179c",
+      "correctAnswer": "The United Nations",
+      "incorrectAnswers": [
+        "The European Union",
+        "The League of Nations",
+        "Interpol"
+      ],
+      "question": {
+        "text": "Which major international organization was created in 1945?"
+      },
+      "tags": [
+        "1940's",
+        "organisations",
+        "society_and_culture",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f950fdc",
+      "correctAnswer": "Colour Blindness",
+      "incorrectAnswers": [
+        "Short Sightedness",
+        "Far Sightedness",
+        "Cataracts"
+      ],
+      "question": {
+        "text": "Which sight problem occurs in men far more than in women?"
+      },
+      "tags": [
+        "biology",
+        "medicine",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "62417d230f96c4efe8d773a8",
+      "correctAnswer": "Houston Texans",
+      "incorrectAnswers": [
+        "Houston Capitals",
+        "Houston Celtics",
+        "Houston Penguins"
+      ],
+      "question": {
+        "text": "Which of these is an American Football team based in Houston?"
+      },
+      "tags": [
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f950686",
+      "correctAnswer": "Jonah Hill",
+      "incorrectAnswers": [
+        "Javier Bardem",
+        "Hugo Weaving",
+        "Warwick Davis"
+      ],
+      "question": {
+        "text": "Which actor has appeared in both Django Unchained and The Wolf of Wall Street?"
+      },
+      "tags": [
+        "acting",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f950587",
+      "correctAnswer": "Books, printing, and publishing",
+      "incorrectAnswers": [
+        "The shape of a person's skull",
+        "Pilates",
+        "Prehistoric life"
+      ],
+      "question": {
+        "text": "What is Bibliology the study of?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "625e9f89796f721e95543fa4",
+      "correctAnswer": "White",
+      "incorrectAnswers": [
+        "Gold",
+        "Green",
+        "Black"
+      ],
+      "question": {
+        "text": "Which of these colors is included on the flag of Poland?"
       },
       "tags": [
         "flags",
@@ -24,473 +353,19 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3b7cc59eab6f951791",
-      "correctAnswer": "Louis XIV",
-      "incorrectAnswers": [
-        "Henri III",
-        "Charles the Bald",
-        "Napoleon Bonaparte"
-      ],
-      "question": {
-        "text": "Which King of France was known as The Sun King?"
-      },
-      "tags": [
-        "france",
-        "leaders",
-        "nicknames",
-        "middle_ages",
-        "medieval",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6498a5e40752843c0d8aae05",
-      "correctAnswer": "Peace be with you",
-      "incorrectAnswers": [
-        "God is good",
-        "Where's the swimming pool",
-        "Thank you"
-      ],
-      "question": {
-        "text": "What is the meaning of the Arabic \"assalamu alaikum\"?"
-      },
-      "tags": [
-        "language",
-        "translations",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f950ffa",
-      "correctAnswer": "Philips",
-      "incorrectAnswers": [
-        "Panasonic",
-        "Viewsonic",
-        "Sony"
-      ],
-      "question": {
-        "text": "Which Dutch Company Began Marketing Compact Disc Players In 1982?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f951358",
-      "correctAnswer": "Cubism",
+      "id": "622a1c397cc59eab6f950e7b",
+      "correctAnswer": "Kurt Vonnegut",
       "incorrectAnswers": [
-        "Art Deco",
-        "Impressionism",
-        "Dadaism"
+        "Vladimir Nabokov",
+        "Edgar Allan Poe",
+        "Stanisław Lem"
       ],
       "question": {
-        "text": "Which artistic movement employed an analytic vision based on fragmentation and multiple viewpoints?"
-      },
-      "tags": [
-        "words",
-        "art",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "65056f367a97013de78b53f8",
-      "correctAnswer": "Turkey",
-      "incorrectAnswers": [
-        "Poland",
-        "Greece",
-        "Portugal"
-      ],
-      "question": {
-        "text": "Atatürk was a statesman of which country?"
-      },
-      "tags": [
-        "history",
-        "politics"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f9503ab",
-      "correctAnswer": "Germany",
-      "incorrectAnswers": [
-        "Korea",
-        "Vietnam",
-        "Ireland"
-      ],
-      "question": {
-        "text": "Which country was split into two zones by the Yalta agreement?"
-      },
-      "tags": [
-        "politics",
-        "cold_war",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6486be6659bc33d1c362f32a",
-      "correctAnswer": "The World Trade Organization",
-      "incorrectAnswers": [
-        "The World Tourism Organization",
-        "The World Television Organization",
-        "The World Textile Organization"
-      ],
-      "question": {
-        "text": "What does the abbreviation 'WTO' stand for?"
-      },
-      "tags": [
-        "organizations",
-        "abbreviations",
-        "initials",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c367cc59eab6f95020f",
-      "correctAnswer": "Ridley Scott",
-      "incorrectAnswers": [
-        "Steven Spielberg",
-        "Woody Allen",
-        "Martin Scorsese"
-      ],
-      "question": {
-        "text": "Which director directed Gladiator?"
-      },
-      "tags": [
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "649601ffe831b1ab5aa1112c",
-      "correctAnswer": "Nonet",
-      "incorrectAnswers": [
-        "Norchestra",
-        "Ninstrumental",
-        "Novario"
-      ],
-      "question": {
-        "text": "What is the name for a musical piece composed for nine instruments?"
-      },
-      "tags": [
-        "classical_music",
-        "music_theory",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "646339a001d576cfac3aa39b",
-      "correctAnswer": "Pod",
-      "incorrectAnswers": [
-        "School",
-        "Flock",
-        "Hive"
-      ],
-      "question": {
-        "text": "What is the collective noun for a group of whales or seals?"
-      },
-      "tags": [
-        "animals",
-        "science",
-        "biology",
-        "collective_nouns"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f950443",
-      "correctAnswer": "Polio",
-      "incorrectAnswers": [
-        "Smallpox",
-        "Coronavirus",
-        "Malaria"
-      ],
-      "question": {
-        "text": "In 1954 the Salk vaccine was introduced - a vaccine which effectively wiped out which devastating disease?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "646089e1de964ebc39016c90",
-      "correctAnswer": "Columbia",
-      "incorrectAnswers": [
-        "Challenger",
-        "Discovery",
-        "Endeavour"
-      ],
-      "question": {
-        "text": "Which space shuttle, commanded by John Young, was the first manned U.S. spacecraft to land on land on April 14, 1981?"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "space_exploration",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f9500d5",
-      "correctAnswer": "Silverstone",
-      "incorrectAnswers": [
-        "Brands Hatch",
-        "Thruxton",
-        "Knockhill"
-      ],
-      "question": {
-        "text": "At Which Course Is The British Grand Prix Held?"
-      },
-      "tags": [
-        "sport",
-        "racing",
-        "formula_1"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "6477ba9d550bc819ad646aea",
-      "correctAnswer": "Sunny",
-      "incorrectAnswers": [
-        "Rainy",
-        "Cloudy",
-        "Stormy"
-      ],
-      "question": {
-        "text": "What adjective completes the TV show title, \"It's Always ____ in Philadelphia\"?"
-      },
-      "tags": [
-        "tv",
-        "film_and_tv",
-        "sitcoms",
-        "comedy"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c357cc59eab6f94ff7e",
-      "correctAnswer": "Hanoi",
-      "incorrectAnswers": [
-        "Ho Chi Minh City",
-        "Huế",
-        "Saigon"
-      ],
-      "question": {
-        "text": "What is the capital of Vietnam?"
-      },
-      "tags": [
-        "capital_cities",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f950146",
-      "correctAnswer": "The Cheshire Cat's",
-      "incorrectAnswers": [
-        "Albert Einstein's",
-        "Imhotep's",
-        "Rita Skeeter's"
-      ],
-      "question": {
-        "text": "Whose smile remained after the rest of it had vanished?"
+        "text": "Which author wrote 'Slaughterhouse-Five'?"
       },
       "tags": [
         "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62373594cfe13103f55eb547",
-      "correctAnswer": "Netherlands",
-      "incorrectAnswers": [
-        "Finland",
-        "Greenland",
-        "Nepal"
-      ],
-      "question": {
-        "text": "Which region of the world uses '.nl' at the end of its web addresses?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "647d5c21e9542d21c32c8179",
-      "correctAnswer": "O",
-      "incorrectAnswers": [
-        "Ox",
-        "Oy",
-        "Og"
-      ],
-      "question": {
-        "text": "What is the symbol for the element oxygen?"
-      },
-      "tags": [
-        "science",
-        "chemistry",
-        "chemical_elements"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "649f1fffebb41911d4cbd6b9",
-      "correctAnswer": "Shere Khan",
-      "incorrectAnswers": [
-        "Baloo",
-        "Bagheera",
-        "King Louie"
-      ],
-      "question": {
-        "text": "In the 1967 animated film 'The Jungle Book', what is the name of the tiger character?"
-      },
-      "tags": [
-        "disney",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "6239f81c9129041bf3925cc7",
-      "correctAnswer": "Kilo",
-      "incorrectAnswers": [
-        "Kilimanjaro",
-        "Kuwait",
-        "King"
-      ],
-      "question": {
-        "text": "What word is used in the NATO Phonetic Alphabet for the letter K?"
-      },
-      "tags": [
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3c7cc59eab6f951935",
-      "correctAnswer": "Radio Carbon Dating",
-      "incorrectAnswers": [
-        "Olfactory Dating",
-        "Magnetic Resonance Dating",
-        "Natural Decayance Dating"
-      ],
-      "question": {
-        "text": "What Process Is Used For Dating Ancient Organic Objects?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "649dee4e615f8db40f5422d3",
-      "correctAnswer": "Reindeer",
-      "incorrectAnswers": [
-        "Horses",
-        "Buffalo",
-        "Alpacas"
-      ],
-      "question": {
-        "text": "Which animal is central to the nomadic herding economy of the Sami people?"
-      },
-      "tags": [
-        "society_and_culture",
-        "animals"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -521,22 +396,191 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "63989c2f5c9a75021f310489",
-      "correctAnswer": "Feudalism",
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b1d",
+      "correctAnswer": "Spice Girls",
       "incorrectAnswers": [
-        "Capitalism",
-        "Socialism",
-        "Communism"
+        "Pussycat Dolls",
+        "TLC",
+        "All Saints"
       ],
       "question": {
-        "text": "The 15th century was characterized by a decline in which economic system?"
+        "text": "Which 90's girl group included Melanie C?"
       },
       "tags": [
+        "music",
+        "pop_music",
+        "1990's"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "64a094bccf8fd58080ceffdf",
+      "correctAnswer": "The Sopranos",
+      "incorrectAnswers": [
+        "Breaking Bad",
+        "The Wire",
+        "The Godfather"
+      ],
+      "question": {
+        "text": "Which TV show, known for its portrayal of the Italian-American mafia, features a character named Ralphie Cifaretto?"
+      },
+      "tags": [
+        "tv",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950dc5",
+      "correctAnswer": "Bram Stoker",
+      "incorrectAnswers": [
+        "Oscar Wilde",
+        "Robert Louis Stevenson",
+        "Stephen King"
+      ],
+      "question": {
+        "text": "Which author wrote 'Dracula'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "646089ddde964ebc39016c8c",
+      "correctAnswer": "Erik the Red",
+      "incorrectAnswers": [
+        "Leif Eriksson",
+        "King Cnut",
+        "Ragnar Lothbrok"
+      ],
+      "question": {
+        "text": "Who was the father of Leif Eriksson?"
+      },
+      "tags": [
+        "exploration",
         "history",
-        "1400's",
-        "economics",
-        "europe"
+        "vikings"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "6494b7cbd7601042f7eaa93e",
+      "correctAnswer": "Doctor Zhivago",
+      "incorrectAnswers": [
+        "Catch-22",
+        "The Great Gatsby",
+        "Anna Karenina"
+      ],
+      "question": {
+        "text": "Which novel by Boris Pasternak, adapted into a film in 1965, tells the story of Yuri's passion for Lara amidst the backdrop of the Russian Revolution?"
+      },
+      "tags": [
+        "novels",
+        "arts_and_literature",
+        "literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f95135c",
+      "correctAnswer": "Minimalism",
+      "incorrectAnswers": [
+        "Simplicism",
+        "Aesthetics",
+        "Surrealism"
+      ],
+      "question": {
+        "text": "Which art movement emphasized pure, reduced forms and strict, systematic composition?"
+      },
+      "tags": [
+        "art",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c347cc59eab6f94fb92",
+      "correctAnswer": "\"Welcome to the Black Parade\" by My Chemical Romance",
+      "incorrectAnswers": [
+        "\"Man! I Feel Like a Woman!\" by Shania Twain",
+        "\"Chimpan-A to Chimpan-Z\" by Troy McClure",
+        "\"Gimme More\" by Britney Spears"
+      ],
+      "question": {
+        "text": "Which song begins with the lyrics: \"When I was a young boy my father took me into the city to see a marching band.\"?"
+      },
+      "tags": [
+        "lyrics",
+        "songs",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fcdb",
+      "correctAnswer": "Indo-European",
+      "incorrectAnswers": [
+        "Koreanic",
+        "Afroasiatic",
+        "Sino-Tibetan"
+      ],
+      "question": {
+        "text": "The language 'Italian' belongs to which language family?"
+      },
+      "tags": [
+        "language",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "6239f840a72e7a347ac879d9",
+      "correctAnswer": "X-ray",
+      "incorrectAnswers": [
+        "Xzylophone",
+        "Xenophobe",
+        "Xylose"
+      ],
+      "question": {
+        "text": "What word is used in the NATO Phonetic Alphabet for the letter X?"
+      },
+      "tags": [
+        "words",
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -545,20 +589,20 @@
     },
     {
       "category": "science",
-      "id": "64746ac15a4c31088dd9cfdf",
-      "correctAnswer": "Foot",
+      "id": "645ab523158db1bd1779f1bf",
+      "correctAnswer": "15",
       "incorrectAnswers": [
-        "Hand",
-        "Spine",
-        "Skull"
+        "9",
+        "10",
+        "14"
       ],
       "question": {
-        "text": "Which part of the human body has 26 bones, including 7 tarsals?"
+        "text": "What is the sum of 1+2+3+4+5?"
       },
       "tags": [
-        "anatomy",
-        "bones",
-        "science"
+        "numbers",
+        "arithmetic",
+        "mathematics"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -567,20 +611,17 @@
     },
     {
       "category": "geography",
-      "id": "622a1c357cc59eab6f950006",
-      "correctAnswer": "India",
+      "id": "622a1c387cc59eab6f950805",
+      "correctAnswer": "Africa",
       "incorrectAnswers": [
-        "Nepal",
-        "Bangladesh",
-        "Bhutan"
+        "South America",
+        "Oceania",
+        "Europe"
       ],
       "question": {
-        "text": "In which country is Madras? "
+        "text": "The country of The Gambia is on which continent?"
       },
       "tags": [
-        "cities",
-        "places",
-        "general_knowledge",
         "geography"
       ],
       "type": "text_choice",
@@ -590,67 +631,21 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c3b7cc59eab6f951752",
-      "correctAnswer": "Marc Bolan",
+      "id": "6293ec617f41d6338b96eeec",
+      "correctAnswer": "Ernest Rutherford",
       "incorrectAnswers": [
-        "John Lennon",
-        "Jeff Buckley",
-        "Jimi Hendrix"
+        "Galileo Galilei",
+        "Gregor Mendel",
+        "Louis Pasteur"
       ],
       "question": {
-        "text": "Which rockstar died when the Mini driven by his girlfriend crashed into a tree?"
+        "text": "Which of these people was an influential physicist who made discoveries in atomic physics?"
       },
       "tags": [
-        "society_and_culture",
         "people",
-        "musicians",
-        "music",
-        "rock_music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "64a1c901c1e45722061c31b5",
-      "correctAnswer": "Gulf of St. Lawrence",
-      "incorrectAnswers": [
-        "Hudson Bay",
-        "Bay of Fundy",
-        "Gulf of Mexico"
-      ],
-      "question": {
-        "text": "Which body of water is located between Newfoundland and the Canadian mainland?"
-      },
-      "tags": [
-        "geography",
-        "canada",
-        "bodies_of_water"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623384dc62eaad73716a8c36",
-      "correctAnswer": "Wellington, New Zealand ",
-      "incorrectAnswers": [
-        "Canberra, Australia",
-        "Cape Town, South Africa",
-        "Santiago, Chile"
-      ],
-      "question": {
-        "text": "What is the world's most southerly capital?"
-      },
-      "tags": [
-        "capital_cities",
-        "records",
-        "places",
-        "geography"
+        "society_and_culture",
+        "science",
+        "physics"
       ],
       "type": "text_choice",
       "difficulty": "medium",
