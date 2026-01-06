@@ -1,47 +1,23 @@
 {
-  "gameDate": "2026-01-05",
+  "gameDate": "2026-01-06",
   "difficulty": "medium",
   "results": [
     {
-      "category": "geography",
-      "id": "64a9cc039bf4085beaa1b041",
-      "correctAnswer": "The Mormon Tabernacle",
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951ab5",
+      "correctAnswer": "Boston Tea Party",
       "incorrectAnswers": [
-        "The Amish Colonade",
-        "The Witness Hall",
-        "The Jesuit Amphitheatre"
+        "Philadelphia Tea Mutiny",
+        "New York Tea Rebellion",
+        "Virginia Tea Decision"
       ],
       "question": {
-        "text": "Which of these is an iconic Salt Lake City building?"
+        "text": "Leading to the American War of Independence, what was the incident in which tea was dumped into a harbor?"
       },
       "tags": [
-        "buildings",
-        "usa",
-        "utah",
-        "geography",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "645f9565541c4d4fc8cf2ed8",
-      "correctAnswer": "Plantain",
-      "incorrectAnswers": [
-        "Casava",
-        "Guava",
-        "Durian"
-      ],
-      "question": {
-        "text": "What is the name of the starchy 'cooking bananas' that can be sautéed and served as a side dish?"
-      },
-      "tags": [
-        "food",
-        "fruit",
-        "food_and_drink"
+        "wars",
+        "events",
+        "usa"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -50,256 +26,15 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c367cc59eab6f9501dc",
-      "correctAnswer": "Francis Ford Coppola",
+      "id": "622a1c377cc59eab6f9506dc",
+      "correctAnswer": "Michael Fassbender",
       "incorrectAnswers": [
-        "Steven Spielberg",
-        "Woody Allen",
-        "Martin Scorsese"
+        "Gerard Butler",
+        "Jim Carrey",
+        "Robert Redford"
       ],
       "question": {
-        "text": "Which director directed The Godfather Part II?"
-      },
-      "tags": [
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951952",
-      "correctAnswer": "L",
-      "incorrectAnswers": [
-        "R",
-        "H",
-        "J"
-      ],
-      "question": {
-        "text": "What is the Roman numeral for fifty?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "645fcc89541c4d4fc8cf308e",
-      "correctAnswer": "The Sunflower State",
-      "incorrectAnswers": [
-        "The Prairie State",
-        "The Rusty State",
-        "The Wheat State"
-      ],
-      "question": {
-        "text": "What is the nickname for the state of Kansas?"
-      },
-      "tags": [
-        "nicknames",
-        "us_states",
-        "usa",
-        "kansas",
-        "geography",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f9519a0",
-      "correctAnswer": "James",
-      "incorrectAnswers": [
-        "Marshall",
-        "Theodore",
-        "Thomas"
-      ],
-      "question": {
-        "text": "What were the first names of US presidents Madison, Monroe, Polk, and Garfield?"
-      },
-      "tags": [
-        "presidents",
-        "names",
-        "people",
-        "usa",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "648889155dba6c873ef650c8",
-      "correctAnswer": "Cuba",
-      "incorrectAnswers": [
-        "Russia",
-        "China",
-        "North Korea"
-      ],
-      "question": {
-        "text": "Which country was declared a socialist nation by its prime minister on May Day, 1961?"
-      },
-      "tags": [
-        "communism",
-        "history",
-        "politics"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b23",
-      "correctAnswer": "Blondie",
-      "incorrectAnswers": [
-        "The Pussycat Dolls",
-        "Three 6 Mafia",
-        "The Velvet Underground"
-      ],
-      "question": {
-        "text": "Which American rock band released the song 'Call Me'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f950fd8",
-      "correctAnswer": "Kidney",
-      "incorrectAnswers": [
-        "Liver",
-        "Lung",
-        "Heart"
-      ],
-      "question": {
-        "text": "Which vital organ does the adjective renal refer to?"
-      },
-      "tags": [
-        "anatomy",
-        "words",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "649d381fe3aef0a3c23f641f",
-      "correctAnswer": "Dividing by zero",
-      "incorrectAnswers": [
-        "Multiplying by zero",
-        "Adding zero",
-        "Subtracting zero"
-      ],
-      "question": {
-        "text": "Which of these is against the rules of mathematics?"
-      },
-      "tags": [
-        "arithmetic",
-        "numbers",
-        "mathematics",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f95179c",
-      "correctAnswer": "The United Nations",
-      "incorrectAnswers": [
-        "The European Union",
-        "The League of Nations",
-        "Interpol"
-      ],
-      "question": {
-        "text": "Which major international organization was created in 1945?"
-      },
-      "tags": [
-        "1940's",
-        "organisations",
-        "society_and_culture",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f950fdc",
-      "correctAnswer": "Colour Blindness",
-      "incorrectAnswers": [
-        "Short Sightedness",
-        "Far Sightedness",
-        "Cataracts"
-      ],
-      "question": {
-        "text": "Which sight problem occurs in men far more than in women?"
-      },
-      "tags": [
-        "biology",
-        "medicine",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62417d230f96c4efe8d773a8",
-      "correctAnswer": "Houston Texans",
-      "incorrectAnswers": [
-        "Houston Capitals",
-        "Houston Celtics",
-        "Houston Penguins"
-      ],
-      "question": {
-        "text": "Which of these is an American Football team based in Houston?"
-      },
-      "tags": [
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f950686",
-      "correctAnswer": "Jonah Hill",
-      "incorrectAnswers": [
-        "Javier Bardem",
-        "Hugo Weaving",
-        "Warwick Davis"
-      ],
-      "question": {
-        "text": "Which actor has appeared in both Django Unchained and The Wolf of Wall Street?"
+        "text": "Which actor has played roles in films including Inglourious Basterds and 12 Years a Slave?"
       },
       "tags": [
         "acting",
@@ -312,16 +47,36 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c377cc59eab6f950587",
-      "correctAnswer": "Books, printing, and publishing",
+      "category": "geography",
+      "id": "622a1c377cc59eab6f9507e9",
+      "correctAnswer": "North America",
       "incorrectAnswers": [
-        "The shape of a person's skull",
-        "Pilates",
-        "Prehistoric life"
+        "South America",
+        "Oceania",
+        "Europe"
       ],
       "question": {
-        "text": "What is Bibliology the study of?"
+        "text": "The country of Saint Vincent and the Grenadines is on which continent?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "624334cfcfaae40c12961469",
+      "correctAnswer": "A Foal",
+      "incorrectAnswers": [
+        "A Cria",
+        "A Bunny",
+        "A Lamb"
+      ],
+      "question": {
+        "text": "What is the word for a young mule?"
       },
       "tags": [
         "science"
@@ -332,20 +87,84 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "625e9f89796f721e95543fa4",
-      "correctAnswer": "White",
+      "category": "science",
+      "id": "6461407e4d46e537ca8cd9e5",
+      "correctAnswer": "Mach Number",
       "incorrectAnswers": [
-        "Gold",
-        "Green",
-        "Black"
+        "Speed Ratio Number",
+        "Sound Multiple",
+        "Chain Number"
       ],
       "question": {
-        "text": "Which of these colors is included on the flag of Poland?"
+        "text": "What is the name of the number that represents how fast something is travelling relative to the speed of sound?"
       },
       "tags": [
-        "flags",
-        "geography"
+        "physics",
+        "technology",
+        "aviation",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f950fe6",
+      "correctAnswer": "Stainless Steel",
+      "incorrectAnswers": [
+        "Aluminium",
+        "Einsteinium",
+        "Cast Iron"
+      ],
+      "question": {
+        "text": "Which metal was invented by British metallurgist Harold Brearley in 1912?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6262af4c4b176d54800e3dbc",
+      "correctAnswer": "In My Opinion ",
+      "incorrectAnswers": [
+        "Internet Moderator Organisation",
+        "Interesting Mention Of",
+        "I Might Object"
+      ],
+      "question": {
+        "text": "On internet chats, what do the letters 'IMO' mean?"
+      },
+      "tags": [
+        "the_internet",
+        "initials",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c377cc59eab6f95043e",
+      "correctAnswer": "John F Kennedy ",
+      "incorrectAnswers": [
+        "Martin Luther King",
+        "Malcolm X",
+        "Lee Harvey Oswald"
+      ],
+      "question": {
+        "text": "Who was assassinated on Nov. 22, 1963? "
+      },
+      "tags": [
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -354,15 +173,15 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e7b",
-      "correctAnswer": "Kurt Vonnegut",
+      "id": "622a1c397cc59eab6f950dfc",
+      "correctAnswer": "F. Scott Fitzgerald",
       "incorrectAnswers": [
-        "Vladimir Nabokov",
-        "Edgar Allan Poe",
-        "Stanisław Lem"
+        "Robert A. Heinlein",
+        "James Fenimore Cooper",
+        "Donna Leon"
       ],
       "question": {
-        "text": "Which author wrote 'Slaughterhouse-Five'?"
+        "text": "Which author wrote 'The Great Gatsby'?"
       },
       "tags": [
         "arts_and_literature"
@@ -373,22 +192,22 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "63bc3f960e893d6e5a6a0fbe",
-      "correctAnswer": "Napoleon",
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b25",
+      "correctAnswer": "Blondie",
       "incorrectAnswers": [
-        "Antoinette",
-        "Charles de Gaulle",
-        "Eclair"
+        "The Pussycat Dolls",
+        "Fleetwood Mac",
+        "The Velvet Underground"
       ],
       "question": {
-        "text": "What is the name of a French pastry known for its flaky layers of puff pastry and pastry cream filling?"
+        "text": "Which band was fronted by Debbie Harry?"
       },
       "tags": [
-        "food",
-        "food_and_drink",
-        "pastry",
-        "baking"
+        "music",
+        "people",
+        "bands",
+        "women"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -396,21 +215,39 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b1d",
-      "correctAnswer": "Spice Girls",
+      "category": "science",
+      "id": "622a1c3c7cc59eab6f951a26",
+      "correctAnswer": "Smallpox",
       "incorrectAnswers": [
-        "Pussycat Dolls",
-        "TLC",
-        "All Saints"
+        "Anthrax",
+        "Coronavirus",
+        "Measles"
       ],
       "question": {
-        "text": "Which 90's girl group included Melanie C?"
+        "text": "The world was declared safe from which virus in 1979?"
       },
       "tags": [
-        "music",
-        "pop_music",
-        "1990's"
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f9501af",
+      "correctAnswer": "The Return of the King",
+      "incorrectAnswers": [
+        "Life, the Universe and Everything",
+        "The Mysterious Island",
+        "A Connecticut Yankee in King Arthur's Court"
+      ],
+      "question": {
+        "text": "Which piece of written work starts with the line 'Pippin looked out from the shelter of Gandalf's coat.'?"
+      },
+      "tags": [
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -419,18 +256,219 @@
     },
     {
       "category": "film_and_tv",
-      "id": "64a094bccf8fd58080ceffdf",
-      "correctAnswer": "The Sopranos",
+      "id": "622a1c347cc59eab6f94fc2a",
+      "correctAnswer": "\"If you build it, he will come.\"",
       "incorrectAnswers": [
-        "Breaking Bad",
-        "The Wire",
-        "The Godfather"
+        "\"Frankly, my dear, I don't give a damn.\"",
+        "\"I'll get you, my pretty, and your little dog, too!\"",
+        "\"Badges? We ain't got no badges! We don't need no badges! I don't have to show you any stinking badges!\""
       ],
       "question": {
-        "text": "Which TV show, known for its portrayal of the Italian-American mafia, features a character named Ralphie Cifaretto?"
+        "text": "Which of these quotes is from the film 'Field of Dreams'?"
       },
       "tags": [
-        "tv",
+        "quotes",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "6461403f4d46e537ca8cd9a9",
+      "correctAnswer": "Piccolo",
+      "incorrectAnswers": [
+        "Recorder",
+        "Contrabass Flute",
+        "Clarinet"
+      ],
+      "question": {
+        "text": "What is the name of the smallest member of the flute family?"
+      },
+      "tags": [
+        "music",
+        "musical_instruments"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "64976c110752843c0d8aadbb",
+      "correctAnswer": "ICBM",
+      "incorrectAnswers": [
+        "ABM",
+        "HAMB",
+        "BOMB"
+      ],
+      "question": {
+        "text": "What is the abbreviation for a missile with a range greater than 3,400 miles?"
+      },
+      "tags": [
+        "weapons",
+        "military",
+        "initials",
+        "abbreviations",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63dd25c2742e43ed64f1f00e",
+      "correctAnswer": "Jeff Bezos",
+      "incorrectAnswers": [
+        "Elon Musk",
+        "Bill Gates",
+        "Mark Zuckerberg"
+      ],
+      "question": {
+        "text": "Who is the founder of Amazon?"
+      },
+      "tags": [
+        "society_and_culture",
+        "business",
+        "people"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "62417d9f0f96c4efe8d773da",
+      "correctAnswer": "San Diego Padres",
+      "incorrectAnswers": [
+        "San Diego Celtics",
+        "San Diego Eagles",
+        "San Diego Bears"
+      ],
+      "question": {
+        "text": "Which of these is a baseball team based in San Diego?"
+      },
+      "tags": [
+        "baseball",
+        "nbl",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fbf4",
+      "correctAnswer": "\"I'm the king of the world!\"",
+      "incorrectAnswers": [
+        "\"That is so fetch.\"",
+        "\"This is the day you will always remember as the day you almost caught Captain Jack Sparrow!\"",
+        "\"Wait a minute, wait a minute. You ain't heard nothin' yet!\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'Titanic'?"
+      },
+      "tags": [
+        "quotes",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950bf7",
+      "correctAnswer": "Radiohead",
+      "incorrectAnswers": [
+        "Goldfrapp",
+        "Cream",
+        "Girls Aloud"
+      ],
+      "question": {
+        "text": "Which English rock band released the song 'Creep'?"
+      },
+      "tags": [
+        "rock_music",
+        "general_knowledge",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f9510d0",
+      "correctAnswer": "Mangrove",
+      "incorrectAnswers": [
+        "Wetlands",
+        "Marsh",
+        "Everglades"
+      ],
+      "question": {
+        "text": "Dense seawater swamps along coasts of hot countries are called ________."
+      },
+      "tags": [
+        "names",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f9517ae",
+      "correctAnswer": "Malcolm X",
+      "incorrectAnswers": [
+        "Martin Luther King, Jr.",
+        "Rosa Parks",
+        "Angela Davis"
+      ],
+      "question": {
+        "text": "Which founder of The Organisation for Afro-American Unity was murdered in Harlem on 21 February 1965?"
+      },
+      "tags": [
+        "society_and_culture",
+        "history",
+        "civil_rights",
+        "assassinations"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fc04",
+      "correctAnswer": "\"Hasta la vista, baby.\"",
+      "incorrectAnswers": [
+        "\"With great power comes great responsiblity.\"",
+        "\"Made it, Ma! Top of the world!\"",
+        "\"Attica! Attica!\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'Terminator 2: Judgment Day'?"
+      },
+      "tags": [
+        "quotes",
+        "film",
+        "general_knowledge",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -440,18 +478,19 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950dc5",
-      "correctAnswer": "Bram Stoker",
+      "id": "622a1c3a7cc59eab6f951360",
+      "correctAnswer": "Stenciling",
       "incorrectAnswers": [
-        "Oscar Wilde",
-        "Robert Louis Stevenson",
-        "Stephen King"
+        "Stamping",
+        "Collaging",
+        "Embossing"
       ],
       "question": {
-        "text": "Which author wrote 'Dracula'?"
+        "text": "What is a method of producing images or letters by painting over holes cut in a covering surface?"
       },
       "tags": [
-        "arts_and_literature"
+        "words",
+        "art"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -460,85 +499,22 @@
     },
     {
       "category": "history",
-      "id": "646089ddde964ebc39016c8c",
-      "correctAnswer": "Erik the Red",
+      "id": "63a039c5c7d86251f9b65cb2",
+      "correctAnswer": "American Revolutionary War",
       "incorrectAnswers": [
-        "Leif Eriksson",
-        "King Cnut",
-        "Ragnar Lothbrok"
+        "American Civil War",
+        "World War I",
+        "World War II"
       ],
       "question": {
-        "text": "Who was the father of Leif Eriksson?"
+        "text": "Which of these wars was fought to gain independence from Great Britain?"
       },
       "tags": [
-        "exploration",
         "history",
-        "vikings"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "6494b7cbd7601042f7eaa93e",
-      "correctAnswer": "Doctor Zhivago",
-      "incorrectAnswers": [
-        "Catch-22",
-        "The Great Gatsby",
-        "Anna Karenina"
-      ],
-      "question": {
-        "text": "Which novel by Boris Pasternak, adapted into a film in 1965, tells the story of Yuri's passion for Lara amidst the backdrop of the Russian Revolution?"
-      },
-      "tags": [
-        "novels",
-        "arts_and_literature",
-        "literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f95135c",
-      "correctAnswer": "Minimalism",
-      "incorrectAnswers": [
-        "Simplicism",
-        "Aesthetics",
-        "Surrealism"
-      ],
-      "question": {
-        "text": "Which art movement emphasized pure, reduced forms and strict, systematic composition?"
-      },
-      "tags": [
-        "art",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c347cc59eab6f94fb92",
-      "correctAnswer": "\"Welcome to the Black Parade\" by My Chemical Romance",
-      "incorrectAnswers": [
-        "\"Man! I Feel Like a Woman!\" by Shania Twain",
-        "\"Chimpan-A to Chimpan-Z\" by Troy McClure",
-        "\"Gimme More\" by Britney Spears"
-      ],
-      "question": {
-        "text": "Which song begins with the lyrics: \"When I was a young boy my father took me into the city to see a marching band.\"?"
-      },
-      "tags": [
-        "lyrics",
-        "songs",
-        "music"
+        "usa",
+        "revolutions",
+        "wars",
+        "britain"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -547,62 +523,21 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcdb",
-      "correctAnswer": "Indo-European",
+      "id": "6293ec8d7f41d6338b96eef9",
+      "correctAnswer": "Sigmund Freud",
       "incorrectAnswers": [
-        "Koreanic",
-        "Afroasiatic",
-        "Sino-Tibetan"
+        "Francis Bacon",
+        "George Washington",
+        "Francisco Pizarro"
       ],
       "question": {
-        "text": "The language 'Italian' belongs to which language family?"
+        "text": "Which influential neurologist founded psychoanalysis, which involved the investigation of the subconscious, dreams and human mind?"
       },
       "tags": [
-        "language",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "6239f840a72e7a347ac879d9",
-      "correctAnswer": "X-ray",
-      "incorrectAnswers": [
-        "Xzylophone",
-        "Xenophobe",
-        "Xylose"
-      ],
-      "question": {
-        "text": "What word is used in the NATO Phonetic Alphabet for the letter X?"
-      },
-      "tags": [
-        "words",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "645ab523158db1bd1779f1bf",
-      "correctAnswer": "15",
-      "incorrectAnswers": [
-        "9",
-        "10",
-        "14"
-      ],
-      "question": {
-        "text": "What is the sum of 1+2+3+4+5?"
-      },
-      "tags": [
-        "numbers",
-        "arithmetic",
-        "mathematics"
+        "people",
+        "history",
+        "society_and_culture",
+        "psychology"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -611,15 +546,15 @@
     },
     {
       "category": "geography",
-      "id": "622a1c387cc59eab6f950805",
-      "correctAnswer": "Africa",
+      "id": "622a1c387cc59eab6f9507f6",
+      "correctAnswer": "Europe",
       "incorrectAnswers": [
         "South America",
         "Oceania",
-        "Europe"
+        "Asia"
       ],
       "question": {
-        "text": "The country of The Gambia is on which continent?"
+        "text": "The country of Liechtenstein is on which continent?"
       },
       "tags": [
         "geography"
@@ -630,22 +565,82 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "6293ec617f41d6338b96eeec",
-      "correctAnswer": "Ernest Rutherford",
+      "category": "science",
+      "id": "62433381cfaae40c129613e7",
+      "correctAnswer": "A Rooster",
       "incorrectAnswers": [
-        "Galileo Galilei",
-        "Gregor Mendel",
-        "Louis Pasteur"
+        "A Buck",
+        "A Dog",
+        "A Ram"
       ],
       "question": {
-        "text": "Which of these people was an influential physicist who made discoveries in atomic physics?"
+        "text": "A male chicken is known as what?"
       },
       "tags": [
-        "people",
-        "society_and_culture",
-        "science",
-        "physics"
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "62573f299da29df7b05f738b",
+      "correctAnswer": "During WWII a Jewish waiter uses humor to protect his son from the realities of war.",
+      "incorrectAnswers": [
+        "Eddy has a week to pay back £500,000 after losing a poker game to a powerful local mobster.",
+        "The life of the lawyer who became the famed leader of the Indian revolts against the British rule.",
+        "A secretly ruthless woman insinuates herself into the lives of an aging actor and her circle of theater friends."
+      ],
+      "question": {
+        "text": "What is the plot of the movie Life Is Beautiful?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6477bacc550bc819ad646b0c",
+      "correctAnswer": "Gasket",
+      "incorrectAnswers": [
+        "Circuit",
+        "Fuse",
+        "Bolt"
+      ],
+      "question": {
+        "text": "What is the name of the piece used to cover the intersection between two surfaces, usually to prevent leaking?"
+      },
+      "tags": [
+        "engineering",
+        "words",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "62433426cfaae40c12961427",
+      "correctAnswer": "A Gander",
+      "incorrectAnswers": [
+        "A Leopardess",
+        "A Bitch",
+        "A Hembra"
+      ],
+      "question": {
+        "text": "What is the word for a female goose?"
+      },
+      "tags": [
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "medium",

@@ -1,68 +1,20 @@
 {
-  "gameDate": "2026-01-05",
+  "gameDate": "2026-01-06",
   "difficulty": "easy",
   "results": [
     {
-      "category": "arts_and_literature",
-      "id": "64a0966bcf8fd58080cefff5",
-      "correctAnswer": "Charlie and the Chocolate Factory",
-      "incorrectAnswers": [
-        "The Sweet Factory",
-        "The Chocolatier's Gamble",
-        "The Candy Kingdom"
-      ],
-      "question": {
-        "text": "Which book contains the character Willy Wonka?"
-      },
-      "tags": [
-        "childrens_literature",
-        "literature",
-        "arts_and_literature",
-        "fictitious_characters"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "624dba55cd90beeca353156c",
-      "correctAnswer": "Daniel Craig",
-      "incorrectAnswers": [
-        "Sean Connery",
-        "Roger Moore",
-        "Timothy Dalton"
-      ],
-      "question": {
-        "text": "Who played the role of James Bond in Skyfall?"
-      },
-      "tags": [
-        "james_bond",
-        "film",
-        "acting",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "history",
-      "id": "62611fe54b176d54800e3d78",
-      "correctAnswer": "1945",
+      "id": "65056e897a97013de78b5305",
+      "correctAnswer": "Ships",
       "incorrectAnswers": [
-        "1921",
-        "1880",
-        "1972"
+        "Planes",
+        "Balloons",
+        "Trucks"
       ],
       "question": {
-        "text": "When did Alan Turing break the Enigma code?"
+        "text": "What did the Spanish Armada consist of?"
       },
       "tags": [
-        "events",
-        "technology",
         "history"
       ],
       "type": "text_choice",
@@ -71,20 +23,21 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "63dd25e9742e43ed64f1f048",
-      "correctAnswer": "Inflation",
+      "category": "general_knowledge",
+      "id": "649c8996e3aef0a3c23f63f8",
+      "correctAnswer": "A simile",
       "incorrectAnswers": [
-        "GDP",
-        "Profit Margin",
-        "Unemployment Rate"
+        "A metaphor",
+        "An analogy",
+        "A hyperbole"
       ],
       "question": {
-        "text": "What is the term for the rate at which the prices of goods and services increase over time?"
+        "text": "What type of comparison is the phrase 'He was like an eagle chained to the ground' an example of?"
       },
       "tags": [
-        "society_and_culture",
-        "economics"
+        "language",
+        "writing",
+        "grammar"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -92,266 +45,19 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "65056f827a97013de78b5462",
-      "correctAnswer": "Robin Hood",
+      "category": "science",
+      "id": "6243354dcfaae40c1296149a",
+      "correctAnswer": "A Lamb",
       "incorrectAnswers": [
-        "Nelson Mandela",
-        "Will Ferrell",
-        "Wilhelm Tell"
+        "A Maggot",
+        "A Caterpillar",
+        "A Fry"
       ],
       "question": {
-        "text": "Who is the leader of the outlaws in Sherwood Forest?"
+        "text": "What is a baby sheep known as?"
       },
       "tags": [
-        "folklore",
-        "legend",
-        "literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6262880c4b176d54800e3d84",
-      "correctAnswer": "Nike",
-      "incorrectAnswers": [
-        "Reebok",
-        "Adidas",
-        "Puma"
-      ],
-      "question": {
-        "text": "Which brand is associated with the marketing slogan 'Just do it'?"
-      },
-      "tags": [
-        "business",
-        "marketing",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c357cc59eab6f950023",
-      "correctAnswer": "Boxing",
-      "incorrectAnswers": [
-        "Rugby",
-        "Cricket",
-        "Football"
-      ],
-      "question": {
-        "text": "With which sport is Muhammad Ali associated?"
-      },
-      "tags": [
-        "sport",
-        "people",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "625063b1e12f6dec240bdf7b",
-      "correctAnswer": "Ice Ice Baby",
-      "incorrectAnswers": [
-        "I Want Candy",
-        "Baby Got Back",
-        "We're Not Gonna Take It"
-      ],
-      "question": {
-        "text": "Vanilla Ice had a one hit wonder in 1990 with which song?"
-      },
-      "tags": [
-        "songs",
-        "one_hit_wonders",
-        "1990's",
-        "general_knowledge",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "64626286ab138b829b81ea07",
-      "correctAnswer": "Javelin",
-      "incorrectAnswers": [
-        "Shot put",
-        "Discus",
-        "Hammer throw"
-      ],
-      "question": {
-        "text": "Which Olympic sport involves throwing a spear?"
-      },
-      "tags": [
-        "athletics",
-        "olympics",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950bbf",
-      "correctAnswer": "Oasis",
-      "incorrectAnswers": [
-        "Goldfrapp",
-        "Kaiser Chiefs",
-        "Jethro Tull"
-      ],
-      "question": {
-        "text": "Which English rock band formed in Manchester in 1991 released the studio album '(What's the Story) Morning Glory?'?"
-      },
-      "tags": [
-        "rock_music",
-        "uk",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94feb1",
-      "correctAnswer": "Beyoncé",
-      "incorrectAnswers": [
-        "Madonna",
-        "Drake",
-        "Nicki Minaj"
-      ],
-      "question": {
-        "text": "Who released the song 'Run the World'?"
-      },
-      "tags": [
-        "songs",
-        "2010's",
-        "musicians",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f9501a9",
-      "correctAnswer": "Harry Potter",
-      "incorrectAnswers": [
-        "Voyages Extraordinaires",
-        "Percy Jackson & the Olympians",
-        "Twilight"
-      ],
-      "question": {
-        "text": "In which book series does 'Neville Longbottom' appear?"
-      },
-      "tags": [
-        "fictitious_characters",
-        "literature",
-        "young_adult",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c347cc59eab6f94f9c1",
-      "correctAnswer": "Barack Obama",
-      "incorrectAnswers": [
-        "Calvin Coolidge",
-        "Ronald Reagan",
-        "Zachary Taylor"
-      ],
-      "question": {
-        "text": "Who was the 44th president of the USA, in term during the period 2009–2017?"
-      },
-      "tags": [
-        "general_knowledge",
-        "usa",
-        "presidents",
-        "people",
-        "leaders",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502f6",
-      "correctAnswer": "Bread ",
-      "incorrectAnswers": [
-        "Cheese",
-        "Cake",
-        "Wine"
-      ],
-      "question": {
-        "text": "Bruschetta is what?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "65056e437a97013de78b52a4",
-      "correctAnswer": "Johann Sebastian",
-      "incorrectAnswers": [
-        "Josef Siegfried",
-        "Jürgen Siegismund",
-        "Jochen Simon"
-      ],
-      "question": {
-        "text": "What do the initials J. S. in J. S. Bach's name stand for?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "65056f887a97013de78b546a",
-      "correctAnswer": "Macbeth",
-      "incorrectAnswers": [
-        "Tristram Shandy",
-        "Twilight",
-        "Ivanhoe"
-      ],
-      "question": {
-        "text": "Which of these is a play by Shakespeare?"
-      },
-      "tags": [
-        "arts_and_literature",
-        "theater",
-        "shakespeare"
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -360,15 +66,35 @@
     },
     {
       "category": "geography",
-      "id": "62602d664b176d54800e3c95",
-      "correctAnswer": "Ireland",
+      "id": "623740e7cb85f7ce9e949d2e",
+      "correctAnswer": "Tokyo",
       "incorrectAnswers": [
-        "United Kingdom",
-        "Australia",
-        "United States"
+        "Osaka",
+        "Okinawa",
+        "Shanghai"
       ],
       "question": {
-        "text": "In which country is the city of Dublin?"
+        "text": "What is the capital city of Japan?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62602d524b176d54800e3c8f",
+      "correctAnswer": "Istanbul",
+      "incorrectAnswers": [
+        "Tehran",
+        "Dubai",
+        "Manama"
+      ],
+      "question": {
+        "text": "Which of these cities is in Turkey?"
       },
       "tags": [
         "cities",
@@ -381,23 +107,41 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c347cc59eab6f94fb85",
-      "correctAnswer": "\"All I Want For Christmas Is You\" by Mariah Carey",
+      "category": "geography",
+      "id": "622a1c387cc59eab6f950aae",
+      "correctAnswer": "United States of America",
       "incorrectAnswers": [
-        "\"Jumpin', Jumpin'\" by Destiny's Child",
-        "\"American Pie\" by Don McLean",
-        "\"Let it Be\" by the Beatles"
+        "Mexico",
+        "Belize",
+        "Guatemala"
       ],
       "question": {
-        "text": "Which song begins with the lyrics: \"I don't want a lot for Christmas, there is just one thing I need.\"?"
+        "text": "Which of these countries borders Canada?"
       },
       "tags": [
-        "songs",
-        "lyrics",
-        "christmas",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f8a2",
+      "correctAnswer": "Ice Hockey",
+      "incorrectAnswers": [
+        "Figure skating",
+        "Motor racing",
+        "Athletics"
+      ],
+      "question": {
+        "text": "With which sport is Wayne Douglas Gretzky associated?"
+      },
+      "tags": [
+        "people",
         "general_knowledge",
-        "music"
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -405,61 +149,20 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "624334dfcfaae40c1296146f",
-      "correctAnswer": "An Owlet",
+      "category": "film_and_tv",
+      "id": "62573f049da29df7b05f7382",
+      "correctAnswer": "The Lord of the Rings: The Fellowship of the Ring",
       "incorrectAnswers": [
-        "A Caterpillar",
-        "A Codling",
-        "A Colt"
+        "Star Wars",
+        "Double Indemnity",
+        "Logan"
       ],
       "question": {
-        "text": "What would you call a baby owl?"
+        "text": "Name the movie that matches the following plot summary: 'A Hobbit and eight companions set out on a journey to destroy the powerful One Ring.'"
       },
       "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950d49",
-      "correctAnswer": "One Direction",
-      "incorrectAnswers": [
-        "Boyzone",
-        "Backstreet Boys",
-        "Blur"
-      ],
-      "question": {
-        "text": "Which band did Harry Styles start his career with?"
-      },
-      "tags": [
-        "music",
-        "pop_music",
-        "bands"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "650570397a97013de78b555d",
-      "correctAnswer": "Green leaf",
-      "incorrectAnswers": [
-        "Brown bark",
-        "Red flower",
-        "Juicy fruit"
-      ],
-      "question": {
-        "text": "What does the word \"chlorophyll\" mean in its Greek origin?"
-      },
-      "tags": [
-        "science"
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -468,18 +171,65 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f9a",
-      "correctAnswer": "William Shakespeare",
+      "id": "648891854cd3f064f443dc27",
+      "correctAnswer": "The Yellow Brick Road",
       "incorrectAnswers": [
-        "Arthur C. Clarke",
-        "Isaac Newton",
-        "Enid Blyton"
+        "The Red Brick Road",
+        "The Emerald Road",
+        "The Sapphire Road"
       ],
       "question": {
-        "text": "Which author wrote 'Macbeth'?"
+        "text": "What did Dorothy and her friends walk down in The Wizard of Oz?"
       },
       "tags": [
-        "arts_and_literature"
+        "arts_and_literature",
+        "literature",
+        "childrens_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "65056ec57a97013de78b535a",
+      "correctAnswer": "Turkey",
+      "incorrectAnswers": [
+        "Greece",
+        "Italy",
+        "Egypt"
+      ],
+      "question": {
+        "text": "In which country is the Hagia Sophia located?"
+      },
+      "tags": [
+        "arts_and_literature",
+        "architecture",
+        "landmark"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6461407e4d46e537ca8cd9e0",
+      "correctAnswer": "The Great Wall of China",
+      "incorrectAnswers": [
+        "The Panama Canal",
+        "The Golden Gate Bridge",
+        "The Hoover Dam"
+      ],
+      "question": {
+        "text": "Which of these structures stretches for over 4,000 miles, often called the largest building project ever completed?"
+      },
+      "tags": [
+        "architecture",
+        "engineering",
+        "civil_engineering",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -488,20 +238,20 @@
     },
     {
       "category": "music",
-      "id": "622a1c397cc59eab6f950d4b",
-      "correctAnswer": "One Direction",
+      "id": "622a1c347cc59eab6f94fb8c",
+      "correctAnswer": "\"In da Club\" by 50 Cent",
       "incorrectAnswers": [
-        "The Beatles",
-        "NWA",
-        "Oasis"
+        "\"All Star\" by Smash Mouth",
+        "\"Gimme More\" by Britney Spears",
+        "\"I Write Sins Not Tragedies\" by Panic! at the Disco"
       ],
       "question": {
-        "text": "Which band was Niall Horan a member of?"
+        "text": "Which song begins with the lyrics: \"Go shawty, it's your birthday, we gon' party like it's yo birthday.\"?"
       },
       "tags": [
-        "music",
-        "pop_music",
-        "bands"
+        "songs",
+        "lyrics",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -509,20 +259,19 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "646089a9de964ebc39016c65",
-      "correctAnswer": "Comb",
+      "category": "music",
+      "id": "622a1c387cc59eab6f950ba5",
+      "correctAnswer": "Toto",
       "incorrectAnswers": [
-        "Pliers",
-        "Scissor",
-        "Razor"
+        "Styx",
+        "The Pussycat Dolls",
+        "Three 6 Mafia"
       ],
       "question": {
-        "text": "What is the name of the toothed object commonly used to straighten hair?"
+        "text": "Which American rock band released the song 'Africa'?"
       },
       "tags": [
-        "tools",
-        "words"
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -530,19 +279,84 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c367cc59eab6f9503ba",
-      "correctAnswer": "Babylon",
+      "category": "society_and_culture",
+      "id": "626288864b176d54800e3da3",
+      "correctAnswer": "Snap! Crackle! Pop!",
       "incorrectAnswers": [
-        "Atlantis",
-        "Jerusalem",
-        "Scythia"
+        "Eat Mor Chikin",
+        "A glass and a half in every half pound",
+        "Melts in your mouth, not in your hands."
       ],
       "question": {
-        "text": "Where were the Hanging Gardens?"
+        "text": "What is the marketing slogan of Rice Krispies?"
       },
       "tags": [
-        "history"
+        "business",
+        "marketing",
+        "food",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c387cc59eab6f950af6",
+      "correctAnswer": "Mexico",
+      "incorrectAnswers": [
+        "Belize",
+        "Guatemala",
+        "Cuba"
+      ],
+      "question": {
+        "text": "Which of these countries borders United States of America?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6463394f01d576cfac3aa33b",
+      "correctAnswer": "Alaska & Hawaii",
+      "incorrectAnswers": [
+        "Maine & New Hampshire",
+        "Vermont & Massachusetts",
+        "Rhode Island & Connecticut"
+      ],
+      "question": {
+        "text": "Which 2 US states share no land border with other states?"
+      },
+      "tags": [
+        "usa",
+        "us_states",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "62573f899da29df7b05f73a1",
+      "correctAnswer": "A young man joins forces with an old man, a cocky pilot, a beast and two robots to save the galaxy.",
+      "incorrectAnswers": [
+        "The son of a city's mastermind falls in love with a working-class prophet.",
+        "After two male musicians witness a murder, they flee in an all-female band disguised as women.",
+        "Violence and mayhem ensue after a man stumbles upon more than two million dollars."
+      ],
+      "question": {
+        "text": "What is the plot of the movie Star Wars?"
+      },
+      "tags": [
+        "film"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -551,22 +365,40 @@
     },
     {
       "category": "food_and_drink",
-      "id": "648888605dba6c873ef6503d",
-      "correctAnswer": "French toast",
+      "id": "622a1c367cc59eab6f950248",
+      "correctAnswer": "Apple ",
       "incorrectAnswers": [
-        "Melba toast",
-        "Flatbread",
-        "Egg bathed toast"
+        "Blackberry",
+        "Strawberry",
+        "Banana"
       ],
       "question": {
-        "text": "What is the name of the dish made by dipping bread in a mixture of eggs and milk and frying until golden brown?"
+        "text": "Which fruit is traditionally covered with toffee at a fairground?"
       },
       "tags": [
-        "breakfast",
-        "cooking",
-        "recipes",
-        "food",
-        "food_and_drink"
+        "food"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6262af5d4b176d54800e3dc1",
+      "correctAnswer": "What The Fuck",
+      "incorrectAnswers": [
+        "When To Feed",
+        "With Total Frustration",
+        "Want To Fail"
+      ],
+      "question": {
+        "text": "What do people mean when type the letters 'WTF' in a message on the internet?"
+      },
+      "tags": [
+        "the_internet",
+        "initials",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -575,22 +407,64 @@
     },
     {
       "category": "music",
-      "id": "622a1c357cc59eab6f94ff14",
-      "correctAnswer": "Madonna",
+      "id": "622a1c357cc59eab6f94ff4c",
+      "correctAnswer": "Michael Jackson",
       "incorrectAnswers": [
-        "Eric Clapton",
         "Nicki Minaj",
-        "Alanis Morissette"
+        "Neil Young",
+        "Eric Clapton"
       ],
       "question": {
-        "text": "The iconic song 'Vogue' was a hit by which musician?"
+        "text": "Who released the studio album 'Invincible'?"
       },
       "tags": [
-        "songs",
-        "musicians",
+        "general_knowledge",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c387cc59eab6f950aa4",
+      "correctAnswer": "United States of America",
+      "incorrectAnswers": [
+        "El Salvador",
+        "Honduras",
+        "Nicaragua"
+      ],
+      "question": {
+        "text": "Which of these countries borders Mexico?"
+      },
+      "tags": [
+        "central_america",
+        "general_knowledge",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c3c7cc59eab6f951ad0",
+      "correctAnswer": "Die Hard",
+      "incorrectAnswers": [
+        "Robocop",
+        "Top Gun",
+        "Full Metal Jacket"
+      ],
+      "question": {
+        "text": "In which 80's movie did John McClane fight a group of terrorists in a skyscraper?"
+      },
+      "tags": [
         "1980's",
-        "general_knowledge",
-        "music"
+        "film",
+        "fictitious_characters",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -598,43 +472,20 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950d2e",
-      "correctAnswer": "The Beatles",
+      "category": "arts_and_literature",
+      "id": "63a03984c7d86251f9b65c72",
+      "correctAnswer": "Humpty Dumpty",
       "incorrectAnswers": [
-        "Oasis",
-        "Led Zeppelin",
-        "The Clash"
+        "Hey Diddle Diddle",
+        "Mary Had a Little Lamb",
+        "Baa Baa Black Sheep"
       ],
       "question": {
-        "text": "Which English rock band released the song 'Hey Jude'?"
+        "text": "What nursery rhyme is about a man who falls off a wall?"
       },
       "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950d8b",
-      "correctAnswer": "Nirvana",
-      "incorrectAnswers": [
-        "The Rolling Stones",
-        "Whitesnake",
-        "The Velvet Underground"
-      ],
-      "question": {
-        "text": "Which band did Kurt Cobain belong to?"
-      },
-      "tags": [
-        "people",
-        "general_knowledge",
-        "music",
-        "bands",
-        "musicians"
+        "arts_and_literature",
+        "nursery_rhymes"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -643,18 +494,153 @@
     },
     {
       "category": "general_knowledge",
-      "id": "6476390cf05ea6d6f587a189",
-      "correctAnswer": "Itinerary",
+      "id": "646089ddde964ebc39016c83",
+      "correctAnswer": "Mole",
       "incorrectAnswers": [
-        "List",
-        "Voyage",
-        "Menu"
+        "Ferret",
+        "Rat",
+        "Squirrel"
       ],
       "question": {
-        "text": "What is the term for a list of places to visit on a journey?"
+        "text": "Which term describes a spy who operates within the intelligence service of another country?"
       },
       "tags": [
+        "espionage",
         "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "63a0399cc7d86251f9b65c8f",
+      "correctAnswer": "The Game of Life",
+      "incorrectAnswers": [
+        "Risk",
+        "Monopoly",
+        "Clue"
+      ],
+      "question": {
+        "text": "What is the name of the classic board game where players race through a person's life from childhood to retirement?"
+      },
+      "tags": [
+        "board_games"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "64626214ab138b829b81e9bb",
+      "correctAnswer": "Apples",
+      "incorrectAnswers": [
+        "Bananas",
+        "Cherries",
+        "Oranges"
+      ],
+      "question": {
+        "text": "What fruit allegedly keeps the doctor away if you eat one per day?"
+      },
+      "tags": [
+        "food",
+        "fruit",
+        "food_and_drink",
+        "sayings",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c357cc59eab6f950008",
+      "correctAnswer": "Rome",
+      "incorrectAnswers": [
+        "Milan",
+        "Naples",
+        "Florence"
+      ],
+      "question": {
+        "text": "In which city is the colosseum located?"
+      },
+      "tags": [
+        "tourist_attractions",
+        "general_knowledge",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6477bb12550bc819ad646b59",
+      "correctAnswer": "Alexa",
+      "incorrectAnswers": [
+        "Siri",
+        "Cortana",
+        "Amazon Assistant"
+      ],
+      "question": {
+        "text": "Which virtual assistant is produced by Amazon? "
+      },
+      "tags": [
+        "ai",
+        "brands",
+        "society_and_culture",
+        "technology"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f90c",
+      "correctAnswer": "The Lord of the Rings",
+      "incorrectAnswers": [
+        "The Searchers",
+        "Ghost",
+        "My Favorite Year"
+      ],
+      "question": {
+        "text": "Which film contains the character 'Gollum'?"
+      },
+      "tags": [
+        "fictitious_characters",
+        "film",
+        "general_knowledge",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b4e",
+      "correctAnswer": "Bob Marley and the Wailers",
+      "incorrectAnswers": [
+        "Bob Marley and the Bombs",
+        "Bob Marley and his Blues Band",
+        "The Swinging Bobs"
+      ],
+      "question": {
+        "text": "What was the name of Bob Marley's band?"
+      },
+      "tags": [
+        "music",
+        "bands",
+        "reggae"
       ],
       "type": "text_choice",
       "difficulty": "easy",
