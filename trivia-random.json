@@ -1,125 +1,39 @@
 {
-  "gameDate": "2026-01-07",
+  "gameDate": "2026-01-08",
   "difficulty": "random",
   "results": [
     {
-      "category": "geography",
-      "id": "62373f72f34f7d35cc389d6b",
-      "correctAnswer": "Armenia",
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c3c",
+      "correctAnswer": "ABBA",
       "incorrectAnswers": [
-        "Saint Kitts and Nevis",
-        "Moldova",
-        "Mongolia"
+        "The Beach Boys",
+        "Atomic Kitten",
+        "Spice Girls"
       ],
       "question": {
-        "text": "Yerevan is the capital city of which country?"
+        "text": "Which pop group released the album 'Voulez-Vous'?"
       },
       "tags": [
-        "geography"
+        "pop_music",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623388210161109f922aac69",
-      "correctAnswer": "International Date Line",
-      "incorrectAnswers": [
-        "The Equator",
-        "The Prime Meridian",
-        "The Blood Meridian"
-      ],
-      "question": {
-        "text": "Which imaginery line approximately follows the 180 degree meridian through the Pacific Ocean?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951a6c",
-      "correctAnswer": "Pirate",
-      "incorrectAnswers": [
-        "Judge",
-        "Prime Minister",
-        "General"
-      ],
-      "question": {
-        "text": " What was Sir Henry Morgan famous for in the 17th century?"
-      },
-      "tags": [
-        "people",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "6398983e5c9a75021f310469",
-      "correctAnswer": "Operation Overlord",
-      "incorrectAnswers": [
-        "Operation Barbarossa",
-        "Operation Torch",
-        "Operation Watchtower"
-      ],
-      "question": {
-        "text": "What was the code name of the Allied invasion of Normandy in 1944?"
-      },
-      "tags": [
-        "history",
-        "world_war_2",
-        "wars",
-        "1940's",
-        "france"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c3e7cc59eab6f9522d0",
-      "correctAnswer": "Apple",
-      "incorrectAnswers": [
-        "Grape",
-        "Plum",
-        "Banana"
-      ],
-      "question": {
-        "text": "James Grieve and Egremont Russet are types of which fruit?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink",
-        "plants"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950ef4",
-      "correctAnswer": "Edgar Rice Burroughs",
+      "id": "622a1c397cc59eab6f950ec2",
+      "correctAnswer": "Charles Darwin",
       "incorrectAnswers": [
-        "Jack Vance",
-        "George R. R. Martin",
-        "Robert A. Heinlein"
+        "Percy Bysshe Shelley",
+        "H. Rider Haggard",
+        "Robert Louis Stevenson"
       ],
       "question": {
-        "text": "Which author wrote 'Tarzan of the Apes'?"
+        "text": "Which author wrote 'The formation of vegetable mould, through the action of worms : with observations on their habits'?"
       },
       "tags": [
         "arts_and_literature"
@@ -130,105 +44,19 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f950735",
-      "correctAnswer": "Ralph Fiennes",
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f9501c1",
+      "correctAnswer": "Harry Potter and the Half-Blood Prince",
       "incorrectAnswers": [
-        "Brian Cox",
-        "Mark Wahlberg",
-        "Leonardo DiCaprio"
+        "Harry Potter and the Philosopher's Stone",
+        "Harry Potter and the Prisoner of Azkaban",
+        "Harry Potter and the Goblet of Fire"
       ],
       "question": {
-        "text": "Which actor has starred in films including Harry Potter and Schindler's List?"
+        "text": "Which piece of written work starts with the line 'It was nearing midnight and the Prime Minister was sitting alone in his office, reading a long memo that was slipping through his brain without leaving the lightest trace of meaning behind.'?"
       },
       "tags": [
-        "acting",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623b5824fd6c701a9211839e",
-      "correctAnswer": "Greece",
-      "incorrectAnswers": [
-        "Jordan",
-        "Turkey",
-        "Belgium"
-      ],
-      "question": {
-        "text": "In which country would you find the UNESCO World Heritage site of Delphi?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f889",
-      "correctAnswer": "Basketball",
-      "incorrectAnswers": [
-        "Track and field",
-        "Motor racing",
-        "Boxing"
-      ],
-      "question": {
-        "text": "With which sport is Magic Johnson associated?"
-      },
-      "tags": [
-        "people",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "62573f079da29df7b05f7383",
-      "correctAnswer": "A chaotic clown causes a masked vigilante one of his greatest tests.",
-      "incorrectAnswers": [
-        "A stranger joins forces with a desperado to protect a widow from an assassin.",
-        "A woman works with a hardened boxing trainer to become a professional.",
-        "A suburban father has a mid-life crisis after becoming infatuated with his daughter's friend."
-      ],
-      "question": {
-        "text": "What is the plot of the movie The Dark Knight?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "64dd398a9cef2bd3a34add07",
-      "correctAnswer": "Brad Pitt",
-      "incorrectAnswers": [
-        "Matt Damon",
-        "Tom Hanks",
-        "Leonardo DiCaprio"
-      ],
-      "question": {
-        "text": "Who played Oakland A's general manager Billy Beane in the film 'Moneyball'?"
-      },
-      "tags": [
-        "film_and_tv",
-        "film",
-        "acting"
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -236,19 +64,85 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "62399f24af96521963a0871e",
-      "correctAnswer": "Uruguay",
+      "category": "music",
+      "id": "622a1c357cc59eab6f94ffcb",
+      "correctAnswer": "Underworld",
       "incorrectAnswers": [
-        "Brazil",
-        "West Germany",
-        "Argentina"
+        "Joy Division",
+        "Feeder",
+        "The Pretenders"
       ],
       "question": {
-        "text": "Which country won the 1950 FIFA World Cup, hosted in Brazil?"
+        "text": "In the song \"Born Slippy\", who was shouting for \"Lager Lager Lager\"?"
       },
       "tags": [
-        "sport"
+        "lyrics",
+        "songs",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6490c60158265893a0c86dae",
+      "correctAnswer": "China",
+      "incorrectAnswers": [
+        "The United States",
+        "Russia",
+        "The United Kingdom"
+      ],
+      "question": {
+        "text": "With the largest amount of assets in the world, in which country is the Industrial & Commercial Bank based?"
+      },
+      "tags": [
+        "economy",
+        "finance",
+        "business",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624c60a250d1a5e051325a69",
+      "correctAnswer": "Nasi Goreng",
+      "incorrectAnswers": [
+        "Kabuli Pulao",
+        "Gallo Pinto",
+        "Crêpe"
+      ],
+      "question": {
+        "text": "Which of these dishes would you most expect to find in Indonesia?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c367cc59eab6f95020e",
+      "correctAnswer": "Steven Spielberg",
+      "incorrectAnswers": [
+        "Woody Allen",
+        "Martin Scorsese",
+        "Alfred Hitchcock"
+      ],
+      "question": {
+        "text": "Which director directed Schindler's List?"
+      },
+      "tags": [
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -257,17 +151,18 @@
     },
     {
       "category": "science",
-      "id": "622a1c377cc59eab6f950592",
-      "correctAnswer": "Hearing",
+      "id": "622a1c377cc59eab6f9504cc",
+      "correctAnswer": "prehistoric metaphytes ",
       "incorrectAnswers": [
-        "Bees",
-        "The spread of diseases",
-        "Rocks"
+        "ants",
+        "the ecology of any individual species",
+        "the writings and practices of historians"
       ],
       "question": {
-        "text": "What is Audiology the study of?"
+        "text": "What is Paleobotany the study of?"
       },
       "tags": [
+        "words",
         "science"
       ],
       "type": "text_choice",
@@ -276,18 +171,41 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f95197c",
-      "correctAnswer": "The Pilgrims",
+      "category": "music",
+      "id": "6266bc88b0e62e469cf43e9a",
+      "correctAnswer": "Brass",
       "incorrectAnswers": [
-        "The Conquistadors",
-        "The Vikings",
-        "The Kingsmen"
+        "Woodwind",
+        "Stringed",
+        "Percussion"
       ],
       "question": {
-        "text": "What group landed in America in 1620?"
+        "text": "What type of instrument is a didgeridoo?"
       },
       "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f9519a0",
+      "correctAnswer": "James",
+      "incorrectAnswers": [
+        "Marshall",
+        "Theodore",
+        "Thomas"
+      ],
+      "question": {
+        "text": "What were the first names of US presidents Madison, Monroe, Polk, and Garfield?"
+      },
+      "tags": [
+        "presidents",
+        "names",
+        "people",
         "usa",
         "history"
       ],
@@ -297,86 +215,19 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "62417d070f96c4efe8d7739d",
-      "correctAnswer": "Dallas Stars",
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f9501ac",
+      "correctAnswer": "Pride and Prejudice",
       "incorrectAnswers": [
-        "Dallas Tigers",
-        "Dallas Football",
-        "Dallas Predators"
+        "Jane Eyre",
+        "Bleak House",
+        "Wuthering Heights"
       ],
       "question": {
-        "text": "Which of these is a hockey team based in Dallas?"
+        "text": "In which book does 'Mr Bennet' appear?"
       },
       "tags": [
-        "nhl",
-        "hockey",
-        "dallas",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f95037d",
-      "correctAnswer": "Lou Reed",
-      "incorrectAnswers": [
-        "David Bowie",
-        "Neil Young",
-        "Chic"
-      ],
-      "question": {
-        "text": "Who Released The 70's Album Entitled 'Transformer'?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fc31",
-      "correctAnswer": "\"It's alive! It's alive!\"",
-      "incorrectAnswers": [
-        "\"Stella! Hey, Stella!\"",
-        "\"My precious...\"",
-        "\"I'm walkin' here!\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'Frankenstein'?"
-      },
-      "tags": [
-        "quotes",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6233855b62eaad73716a8c66",
-      "correctAnswer": "California",
-      "incorrectAnswers": [
-        "Hawaii",
-        "Alaska",
-        "Vermont"
-      ],
-      "question": {
-        "text": "What US state is nicknamed the Golden State?"
-      },
-      "tags": [
-        "nicknames",
-        "us_states",
-        "geography"
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -384,254 +235,39 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c367cc59eab6f950315",
-      "correctAnswer": "William Pitt",
+      "category": "society_and_culture",
+      "id": "6293ebbd7f41d6338b96eebc",
+      "correctAnswer": "One of the main writers of the New Testament.",
       "incorrectAnswers": [
-        "Anthony Eden",
-        "Margaret Thatcher",
-        "Clement Attlee"
+        "The first pope.",
+        "Missionary responsibile for spreading Christianity to East Asia. ",
+        "One of the main characters of the Protestant Reformation. "
       ],
       "question": {
-        "text": "Who Was The Youngest British Prime Minister?"
-      },
-      "tags": [
-        "leaders",
-        "uk",
-        "politics",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "6463395501d576cfac3aa34c",
-      "correctAnswer": "Sole",
-      "incorrectAnswers": [
-        "Heel",
-        "Arch",
-        "Instep"
-      ],
-      "question": {
-        "text": "What is the name for the undersurface of a foot?"
-      },
-      "tags": [
-        "medicine",
-        "anatomy",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c357cc59eab6f94fd80",
-      "correctAnswer": "Mark David Chapman",
-      "incorrectAnswers": [
-        "J. D. Salinger",
-        "Lee Harvey Oswald",
-        "John Wilkes Booth"
-      ],
-      "question": {
-        "text": "Who Was Responsible For The Assassination Of John Lennon?"
+        "text": "Which of the following describes St. Paul?"
       },
       "tags": [
         "people",
-        "the_beatles",
-        "events",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "64730798cf09068746f6377d",
-      "correctAnswer": "Easter Island",
-      "incorrectAnswers": [
-        "Hawaii",
-        "Madagascar",
-        "Cuba"
-      ],
-      "question": {
-        "text": "The Rongorongo,  writing system is found on which remote island?"
-      },
-      "tags": [
-        "linguistics",
-        "languages",
-        "islands",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623735d8cfe13103f55eb575",
-      "correctAnswer": "Somalia",
-      "incorrectAnswers": [
-        "Burkina Faso",
-        "Lesotho",
-        "Solomon Islands"
-      ],
-      "question": {
-        "text": "Which region of the world uses '.so' at the end of its web addresses?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6262af6e4b176d54800e3dc6",
-      "correctAnswer": "Age Sex Location",
-      "incorrectAnswers": [
-        "Anybody Seen Lately?",
-        "Awesome Situation Logged",
-        "Any Souls Loggedin?"
-      ],
-      "question": {
-        "text": "If someone typed the letters 'ASL' in a message, what would they mean?"
-      },
-      "tags": [
-        "the_internet",
-        "initials",
-        "society_and_culture"
+        "society_and_culture",
+        "religion",
+        "christianity"
       ],
       "type": "text_choice",
       "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6266e5e8ff2394bd44dee022",
-      "correctAnswer": "White",
-      "incorrectAnswers": [
-        "Seven",
-        "Yellow",
-        "Green"
-      ],
-      "question": {
-        "text": "What does the word 'blanco' mean in Spanish?"
-      },
-      "tags": [
-        "language",
-        "translations"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624ab0c4348a461bfc670697",
-      "correctAnswer": "India",
-      "incorrectAnswers": [
-        "North America",
-        "Southeast Asia",
-        "The Middle East"
-      ],
-      "question": {
-        "text": "Where in the world are lemons originally from?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "624dba11de6018633d31f6b3",
-      "correctAnswer": "Pierce Brosnan",
-      "incorrectAnswers": [
-        "George Lazenby",
-        "Timothy Dalton",
-        "Sean Connery"
-      ],
-      "question": {
-        "text": "Who played the role of James Bond in Tomorrow Never Dies?"
-      },
-      "tags": [
-        "james_bond",
-        "film",
-        "acting",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "6271649a1ba117625baac968",
-      "correctAnswer": "Tej",
-      "incorrectAnswers": [
-        "Horilka",
-        "Canelazo",
-        "Sangria"
-      ],
-      "question": {
-        "text": "Which of these is a popular drink in Ethiopia?"
-      },
-      "tags": [
-        "drink",
-        "alcohol"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "62433403cfaae40c12961419",
-      "correctAnswer": "A Tadpole",
-      "incorrectAnswers": [
-        "A Calf",
-        "A Piglet",
-        "A Maggot"
-      ],
-      "question": {
-        "text": "What would you call a baby frog?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "music",
-      "id": "636a527c990390307063f39e",
-      "correctAnswer": "Dolly Parton",
+      "id": "636a522e990390307063f37c",
+      "correctAnswer": "Superstar",
       "incorrectAnswers": [
-        "Judy Garland",
-        "UB40",
-        "Manfred Mann"
+        "Black Hole Sun",
+        "Poor Poor Pitiful Me",
+        "Nobody's Fault But Mine"
       ],
       "question": {
-        "text": "Which artist first recorded 'I Will Always Love You', which was later covered by Whitney Houston?"
+        "text": "Which song was originally recorded by Rita Coolidge and was later covered by Sonic Youth?"
       },
       "tags": [
         "music",
@@ -640,7 +276,379 @@
         "musicians"
       ],
       "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c3a7cc59eab6f9511b1",
+      "correctAnswer": "Eris",
+      "incorrectAnswers": [
+        "Razr",
+        "Mercury",
+        "Zeus"
+      ],
+      "question": {
+        "text": "Who is the Greek equivalent of the Roman god Discordia?"
+      },
+      "tags": [
+        "ancient_greece",
+        "mythology",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f95010d",
+      "correctAnswer": "Sherwood Forest",
+      "incorrectAnswers": [
+        "Nottingham Forest",
+        "Littlewood Forest",
+        "Harborne Forest"
+      ],
+      "question": {
+        "text": "Where did Robin Hood supposedly live?"
+      },
+      "tags": [
+        "society_and_culture"
+      ],
+      "type": "text_choice",
       "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "65056ea77a97013de78b532f",
+      "correctAnswer": "Germany",
+      "incorrectAnswers": [
+        "France",
+        "Hungary",
+        "Russia"
+      ],
+      "question": {
+        "text": "Which country did Angela Merkel lead from 2005 to 2021?"
+      },
+      "tags": [
+        "history",
+        "countries",
+        "europe",
+        "politics",
+        "world_leaders",
+        "people",
+        "2000's",
+        "2010's"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6461407e4d46e537ca8cd9e0",
+      "correctAnswer": "The Great Wall of China",
+      "incorrectAnswers": [
+        "The Panama Canal",
+        "The Golden Gate Bridge",
+        "The Hoover Dam"
+      ],
+      "question": {
+        "text": "Which of these structures stretches for over 4,000 miles, often called the largest building project ever completed?"
+      },
+      "tags": [
+        "architecture",
+        "engineering",
+        "civil_engineering",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950c28",
+      "correctAnswer": "Nirvana",
+      "incorrectAnswers": [
+        "Counting Crows",
+        "Three 6 Mafia",
+        "The Velvet Underground"
+      ],
+      "question": {
+        "text": "Which American rock band released the song 'Sliver'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f950339",
+      "correctAnswer": "Konrad Adenauer",
+      "incorrectAnswers": [
+        "Thomas Wergel",
+        "Alfred Muller",
+        "Karl Barwitz"
+      ],
+      "question": {
+        "text": "Who was the first chancellor of West Germany after WWII?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "63a03947c7d86251f9b65c32",
+      "correctAnswer": "Cheese",
+      "incorrectAnswers": [
+        "Tomatoes",
+        "Beans",
+        "Chili"
+      ],
+      "question": {
+        "text": "What is the main ingredient in queso dip?"
+      },
+      "tags": [
+        "food_and_drink",
+        "food"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fd93",
+      "correctAnswer": "Gustav Holst",
+      "incorrectAnswers": [
+        "Edward Elgar",
+        "Igor Stravinsky",
+        "Claude Debussy"
+      ],
+      "question": {
+        "text": "Who Composed \"The Planets\" Suite? "
+      },
+      "tags": [
+        "classical_music",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6242cb56d543524f1b19c924",
+      "correctAnswer": "A leap",
+      "incorrectAnswers": [
+        "A nye",
+        "A nest",
+        "A sloth"
+      ],
+      "question": {
+        "text": "What is the word for a group of leopards?"
+      },
+      "tags": [
+        "words",
+        "animals",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "645f952f541c4d4fc8cf2ed1",
+      "correctAnswer": "94",
+      "incorrectAnswers": [
+        "97",
+        "89",
+        "91"
+      ],
+      "question": {
+        "text": "What is the result of the mathematical operation obtained by subtracting the number of Snow White's dwarfs from the original title number of 'Disney Dalmatians'?"
+      },
+      "tags": [
+        "numbers",
+        "mathematics",
+        "disney"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623b57e8fd6c701a92118387",
+      "correctAnswer": "Turkey",
+      "incorrectAnswers": [
+        "Bosnia & Herzegovina",
+        "France",
+        "Italy"
+      ],
+      "question": {
+        "text": "In which country would you find the ancient Greek city of Hierapolis?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "62ab32e05202de619af2812d",
+      "correctAnswer": "Golf",
+      "incorrectAnswers": [
+        "CR-V",
+        "Model T",
+        "3-Series"
+      ],
+      "question": {
+        "text": "Which of these is a model of car made by Volkswagen?"
+      },
+      "tags": [
+        "motoring",
+        "business",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f950465",
+      "correctAnswer": "Wood",
+      "incorrectAnswers": [
+        "Fossils",
+        "Handwriting",
+        "Mountains"
+      ],
+      "question": {
+        "text": "What is Xylology the study of?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "64b6436f7282fc9eadbafdb3",
+      "correctAnswer": "The Byzantine Empire",
+      "incorrectAnswers": [
+        "The Holy Roman Empire",
+        "The Ottoman Empire",
+        "The Mongol Empire"
+      ],
+      "question": {
+        "text": "The fall of Constantinople in 1453 marked the end of which empire?"
+      },
+      "tags": [
+        "empires",
+        "history",
+        "1400's",
+        "wars"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f9507c3",
+      "correctAnswer": "Nicole Kidman",
+      "incorrectAnswers": [
+        "Natalie Portman",
+        "Kate Winslet",
+        "Maggie Smith"
+      ],
+      "question": {
+        "text": "Which actress has featured in films including Moulin Rouge! and Aquaman?"
+      },
+      "tags": [
+        "film",
+        "dc",
+        "acting",
+        "comics",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "649dee4e615f8db40f5422cd",
+      "correctAnswer": "The Terminator",
+      "incorrectAnswers": [
+        "RoboCop",
+        "Aliens",
+        "Predator"
+      ],
+      "question": {
+        "text": "Which movie from 1984 features the line 'It doesn't feel pity, or remorse, or fear. And it absolutely will not stop... ever, until you are dead!'?"
+      },
+      "tags": [
+        "film",
+        "film_quotes",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "6461403a4d46e537ca8cd991",
+      "correctAnswer": "Hard Times",
+      "incorrectAnswers": [
+        "Oliver Twist",
+        "A Tale of Two Cities",
+        "Great Expectations"
+      ],
+      "question": {
+        "text": "What Charles Dickens novel deals with the living and working conditions brought about by industrialisation?"
+      },
+      "tags": [
+        "literature",
+        "novels",
+        "charles_dickens",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     }
