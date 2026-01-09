@@ -1,62 +1,18 @@
 {
-  "gameDate": "2026-01-08",
+  "gameDate": "2026-01-09",
   "difficulty": "hard",
   "results": [
     {
-      "category": "society_and_culture",
-      "id": "64824ee47778562fd76a969c",
-      "correctAnswer": "Sariputra",
-      "incorrectAnswers": [
-        "Aristotle",
-        "Mahavira",
-        "Confucius"
-      ],
-      "question": {
-        "text": "Who was an early pupil of Buddha in the 6th century B.C.?"
-      },
-      "tags": [
-        "religion",
-        "philosophy",
-        "society_and_culture",
-        "buddhism"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd96",
-      "correctAnswer": "Glen Campbell",
-      "incorrectAnswers": [
-        "Bob Dylan",
-        "Bruce Springsteen",
-        "Neil Young"
-      ],
-      "question": {
-        "text": "Which Singer Started As A Session Guitarist Working With The Likes Of Bobby Darin , Frank Sinatra, Dean Martin & The Beach Boys?"
-      },
-      "tags": [
-        "musicians",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e4b",
-      "correctAnswer": "Christopher Tolkien",
+      "id": "622a1c3a7cc59eab6f950fcc",
+      "correctAnswer": "Arthur Conan Doyle",
       "incorrectAnswers": [
-        "Neil Gaiman",
-        "J. R. R. Tolkien",
-        "J. K. Rowling"
+        "Agatha Christie",
+        "Oscar Wilde",
+        "George Orwell"
       ],
       "question": {
-        "text": "Which author wrote 'The War of the Jewels'?"
+        "text": "Which author wrote 'The Man with the Twisted Lip'?"
       },
       "tags": [
         "literature",
@@ -68,16 +24,261 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "625006520d86c8f685d80ee2",
-      "correctAnswer": "Strand pasta",
+      "category": "sport_and_leisure",
+      "id": "6242e866a22452794eaef219",
+      "correctAnswer": "The Lilywhites",
       "incorrectAnswers": [
-        "Soup pasta",
-        "Ribbon pasta",
-        "Tubular pasta"
+        "The Blades",
+        "The Blues",
+        "The Hornets"
       ],
       "question": {
-        "text": "What type of pasta is bigoli?"
+        "text": "What is the nickname of the English football team Preston North End?"
+      },
+      "tags": [
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f9505cd",
+      "correctAnswer": "Stephen Fry",
+      "incorrectAnswers": [
+        "Michael Ironside",
+        "Luke Evans",
+        "Tom Waits"
+      ],
+      "question": {
+        "text": "Which actor has played roles in both Blackadder and The Hobbit: The Desolation of Smaug?"
+      },
+      "tags": [
+        "acting",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63b058654799123c67712f19",
+      "correctAnswer": "Tiger",
+      "incorrectAnswers": [
+        "Elephant",
+        "Lion",
+        "Crocodile"
+      ],
+      "question": {
+        "text": "What is the national animal of India?"
+      },
+      "tags": [
+        "india",
+        "society_and_culture",
+        "animals"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "64626286ab138b829b81ea04",
+      "correctAnswer": "Liberia",
+      "incorrectAnswers": [
+        "Egypt",
+        "South Africa",
+        "Morocco"
+      ],
+      "question": {
+        "text": "William Tolbert, who was killed in a 1980 coup, was the president of which African nation?"
+      },
+      "tags": [
+        "politics",
+        "government",
+        "assassinations",
+        "history",
+        "1980's"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f950084",
+      "correctAnswer": "Surfing",
+      "incorrectAnswers": [
+        "Skate Boarding",
+        "Skiing",
+        "Boxing"
+      ],
+      "question": {
+        "text": "What sport do the following terms belong to - \"Hotdog & Bottom Trun\"?"
+      },
+      "tags": [
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "637162861bf863c45ca6c382",
+      "correctAnswer": "Great is the power of habit",
+      "incorrectAnswers": [
+        "Tomorrow, be ours",
+        "Lead in order to serve, not in order to rule",
+        "Such is life"
+      ],
+      "question": {
+        "text": "How does that Latin phrase 'Magna est vis consuetudinis' translate into English?"
+      },
+      "tags": [
+        "society_and_culture",
+        "language",
+        "the_romans",
+        "classics"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f944",
+      "correctAnswer": "Gangs of New York",
+      "incorrectAnswers": [
+        "Broadcast News",
+        "Terms of Endearment",
+        "Sweet Smell of Success"
+      ],
+      "question": {
+        "text": "Which film contains the character 'William 'Bill the Butcher' Cutting'?"
+      },
+      "tags": [
+        "film",
+        "fictitious_characters",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "648891c34cd3f064f443dc5b",
+      "correctAnswer": "Navajo",
+      "incorrectAnswers": [
+        "Apache",
+        "Cherokee",
+        "Sioux"
+      ],
+      "question": {
+        "text": "In 1942, from which Native American tribe did the US Military recruit 29 men from to develop a code that the Japanese never broke?"
+      },
+      "tags": [
+        "military",
+        "languages",
+        "language",
+        "cryptography",
+        "world_war_2",
+        "history",
+        "wars",
+        "intelligence",
+        "espionage"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f95056c",
+      "correctAnswer": "Dogs",
+      "incorrectAnswers": [
+        "Plants",
+        "Swans",
+        "Church architecture"
+      ],
+      "question": {
+        "text": "What is Cynology the study of?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "64879d54a754bb6010f8b04c",
+      "correctAnswer": "A Squirrel",
+      "incorrectAnswers": [
+        "A Starfish",
+        "An Octopus",
+        "A Crab"
+      ],
+      "question": {
+        "text": "What kind of creature is Spongebob Squarepants' friend Sandy?"
+      },
+      "tags": [
+        "cartoons",
+        "tv",
+        "film_and_tv",
+        "childrens_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f9506ec",
+      "correctAnswer": "Amy Adams",
+      "incorrectAnswers": [
+        "Penélope Cruz",
+        "Emma Thompson",
+        "Kirsten Dunst"
+      ],
+      "question": {
+        "text": "Which actress has starred in both Batman v Superman: Dawn of Justice and American Hustle?"
+      },
+      "tags": [
+        "film_and_tv",
+        "acting",
+        "film"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "62500691ea7a97fd2e356d31",
+      "correctAnswer": "Shaped pasta",
+      "incorrectAnswers": [
+        "Strand pasta",
+        "Tubular pasta",
+        "Soup pasta"
+      ],
+      "question": {
+        "text": "What type of pasta is conchiglie?"
       },
       "tags": [
         "food",
@@ -90,22 +291,71 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "648ef5e04fe93387161138b4",
-      "correctAnswer": "Propane",
+      "category": "food_and_drink",
+      "id": "649dee4e615f8db40f5422d5",
+      "correctAnswer": "Cherry",
       "incorrectAnswers": [
-        "Methane",
-        "Hydrogen",
-        "Acetylene"
+        "Apple",
+        "Peach",
+        "Plum"
       ],
       "question": {
-        "text": "Instead of charcoal, what gas in a tank might you use to fuel a barbecue?"
+        "text": "What fruit is associated with the spirit called Kirschwasser?"
       },
       "tags": [
-        "food_and_drink",
-        "science",
-        "chemistry",
-        "gases"
+        "alcohol",
+        "spirits",
+        "liquor",
+        "drink",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "62c2f9e7b3eadb0437fda6ae",
+      "correctAnswer": "Lamborghini",
+      "incorrectAnswers": [
+        "Linux",
+        "Hermès",
+        "Tripadvisor"
+      ],
+      "question": {
+        "text": "Which of these brands has a bull on its logo?"
+      },
+      "tags": [
+        "society_and_culture",
+        "business",
+        "marketing",
+        "animals",
+        "logos",
+        "symbols"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "64824e697778562fd76a9620",
+      "correctAnswer": "Rosh Hashanah",
+      "incorrectAnswers": [
+        "Yom Kippur",
+        "Hanukkah",
+        "Passover"
+      ],
+      "question": {
+        "text": "Which of these holidays is celebrates the Jewish New Year?"
+      },
+      "tags": [
+        "religion",
+        "judaism",
+        "society_and_culture",
+        "celebrations"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -114,18 +364,17 @@
     },
     {
       "category": "film_and_tv",
-      "id": "624db9ccde6018633d31f6a2",
-      "correctAnswer": "Roger Moore",
+      "id": "622a1c377cc59eab6f95079c",
+      "correctAnswer": "Brad Pitt",
       "incorrectAnswers": [
-        "Pierce Brosnan",
-        "Sean Connery",
-        "Daniel Craig"
+        "Matt Damon",
+        "Robert De Niro",
+        "George Clooney"
       ],
       "question": {
-        "text": "Who played the role of James Bond in Octopussy?"
+        "text": "Which actor has starred in films including Deadpool 2 and Inglourious Basterds?"
       },
       "tags": [
-        "james_bond",
         "film",
         "acting",
         "film_and_tv"
@@ -137,188 +386,15 @@
     },
     {
       "category": "music",
-      "id": "62506477e12f6dec240bdfb5",
-      "correctAnswer": "Mary Jane Girls",
+      "id": "622a1c387cc59eab6f950b90",
+      "correctAnswer": "Weezer",
       "incorrectAnswers": [
-        "OMC",
-        "Digable Planets",
-        "The Vapors"
+        "LMFAO",
+        "Static-X",
+        "The Black Keys"
       ],
       "question": {
-        "text": "'In My House' was a one hit wonder by which artist?"
-      },
-      "tags": [
-        "songs",
-        "one_hit_wonders",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "62611f3d4b176d54800e3d4b",
-      "correctAnswer": "1957",
-      "incorrectAnswers": [
-        "1941",
-        "1949",
-        "1969"
-      ],
-      "question": {
-        "text": "In which year did Ghana gain independence?"
-      },
-      "tags": [
-        "events",
-        "africa",
-        "politics",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f8fb",
-      "correctAnswer": "Marlon Brando",
-      "incorrectAnswers": [
-        "Humphrey Bogart",
-        "Harrison Ford",
-        "Robert Shaw"
-      ],
-      "question": {
-        "text": "Which actor played the role of Stanley Kowalski in A Streetcar Named Desire?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f24",
-      "correctAnswer": "Alice Munro",
-      "incorrectAnswers": [
-        "Ivan Turgenev",
-        "E. T. A. Hoffmann",
-        "Alphonse Daudet"
-      ],
-      "question": {
-        "text": "Which author wrote 'Family Furnishings: Selected Stories 1995-2014'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fdb8",
-      "correctAnswer": "Flight Suits",
-      "incorrectAnswers": [
-        "Bikinis",
-        "Nothing",
-        "Tuxedos"
-      ],
-      "question": {
-        "text": "What Clothing Are The 2 Figures Wearing On The 1978 Black Sabbath Album Cover \"Never Say Die\""
-      },
-      "tags": [
-        "music_albums",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f9503fc",
-      "correctAnswer": "Elliot Ness",
-      "incorrectAnswers": [
-        "Chris Robson",
-        "Dave Bradzinski",
-        "Arthur Montgomery"
-      ],
-      "question": {
-        "text": "Which F.B.I agent headed the investigation of Al Capone? "
-      },
-      "tags": [
-        "people",
-        "crime",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6237412ccb85f7ce9e949d4a",
-      "correctAnswer": "Vaduz",
-      "incorrectAnswers": [
-        "Naypyidaw",
-        "Vilnius",
-        "Muscat"
-      ],
-      "question": {
-        "text": "What is the capital city of Liechtenstein?"
-      },
-      "tags": [
-        "capital_cities",
-        "europe"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd14",
-      "correctAnswer": "Karl Marx",
-      "incorrectAnswers": [
-        "Ludwig Wittgenstein",
-        "Socrates",
-        "Friedrich Nietzsche"
-      ],
-      "question": {
-        "text": "Which philosopher famously said 'Religion is the sign of the oppressed ... it is the opium of the people'?"
-      },
-      "tags": [
-        "philosophy",
-        "quotes",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c0b",
-      "correctAnswer": "Deep Purple",
-      "incorrectAnswers": [
-        "UB40",
-        "Keane",
-        "The Cure"
-      ],
-      "question": {
-        "text": "Which English rock band released the album 'Machine Head'?"
+        "text": "Which alternative rock band from the United States released the studio album 'Hurley'?"
       },
       "tags": [
         "rock_music",
@@ -330,19 +406,43 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "62417d2a0f96c4efe8d773ab",
-      "correctAnswer": "Indianapolis Colts",
+      "category": "history",
+      "id": "639c9dae929b90846f2fc98d",
+      "correctAnswer": "1990",
       "incorrectAnswers": [
-        "Indianapolis Kings",
-        "Indianapolis Ravens",
-        "Indianapolis Bucks"
+        "1983",
+        "1971",
+        "1999"
       ],
       "question": {
-        "text": "Which of these is an American Football team based in Indianapolis?"
+        "text": "In which year did the Gulf War begin?"
       },
       "tags": [
-        "sport"
+        "history",
+        "1900's",
+        "wars",
+        "the_middle_east"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623b57ebfd6c701a92118388",
+      "correctAnswer": "Iran",
+      "incorrectAnswers": [
+        "Turkey",
+        "Thailand",
+        "Northern Ireland"
+      ],
+      "question": {
+        "text": "In which country would you find the UNESCO World Heritage site of The Bam Citadel?"
+      },
+      "tags": [
+        "tourist_attractions",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -351,15 +451,15 @@
     },
     {
       "category": "music",
-      "id": "622a1c397cc59eab6f950be4",
-      "correctAnswer": "Black Sabbath",
+      "id": "622a1c397cc59eab6f950d93",
+      "correctAnswer": "The Who",
       "incorrectAnswers": [
-        "Skunk Anansie",
-        "Kasabian",
-        "Emerson, Lake & Palmer"
+        "Deep Purple",
+        "Travis",
+        "Spandau Ballet"
       ],
       "question": {
-        "text": "Which British heavy metal band released the song 'Iron Man'?"
+        "text": "Which band was co-founded by 'Pete Townshend'?"
       },
       "tags": [
         "music"
@@ -370,146 +470,23 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "62433589cfaae40c129614b2",
-      "correctAnswer": "A Cow",
+      "category": "society_and_culture",
+      "id": "64824e267778562fd76a95f6",
+      "correctAnswer": "West",
       "incorrectAnswers": [
-        "A Worker",
-        "A Jenny",
-        "A Soar"
+        "North",
+        "East",
+        "South"
       ],
       "question": {
-        "text": "What is a female walrus known as?"
+        "text": "What is the meaning of 'Maghrib' in Arabic?"
       },
       "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e75",
-      "correctAnswer": "Georges Simenon",
-      "incorrectAnswers": [
-        "Stephen King",
-        "Dan Brown",
-        "John le Carré"
-      ],
-      "question": {
-        "text": "Which author wrote 'Les Nouvelles Enquêtes de Maigret'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f4b",
-      "correctAnswer": "Jules Verne",
-      "incorrectAnswers": [
-        "Victor Hugo",
-        "Alphonse Daudet",
-        "Edgar Rice Burroughs"
-      ],
-      "question": {
-        "text": "Which author wrote 'From the Earth to the Moon'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "62611ff34b176d54800e3d7c",
-      "correctAnswer": "2005",
-      "incorrectAnswers": [
-        "2001",
-        "2009",
-        "2013"
-      ],
-      "question": {
-        "text": "In which year was the first video uploaded to YouTube?"
-      },
-      "tags": [
-        "events",
-        "firsts",
-        "the_internet",
-        "technology",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f951388",
-      "correctAnswer": "One Thousand and One Nights",
-      "incorrectAnswers": [
-        "Charlotte's Web",
-        "Alice's Adventures in Wonderland",
-        "The Snow Queen"
-      ],
-      "question": {
-        "text": "In which book does 'Solomon in Islam' appear?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6237423dcb85f7ce9e949db8",
-      "correctAnswer": "Victoria",
-      "incorrectAnswers": [
-        "Saint George's",
-        "Quito",
-        "Managua"
-      ],
-      "question": {
-        "text": "What is the capital city of Seychelles?"
-      },
-      "tags": [
-        "capital_cities",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "647638cef05ea6d6f587a142",
-      "correctAnswer": "The Grinch",
-      "incorrectAnswers": [
-        "Scrooge",
-        "Darth Vader",
-        "The Wicked Witch of the West"
-      ],
-      "question": {
-        "text": "Which character's heart was described as being '2 sizes too small' and had reasons for his grumpiness?"
-      },
-      "tags": [
-        "arts_and_literature",
-        "literature",
-        "fictitious_characters"
+        "language",
+        "words",
+        "translations",
+        "society_and_culture",
+        "islam"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -518,20 +495,19 @@
     },
     {
       "category": "film_and_tv",
-      "id": "624db9f9de6018633d31f6ad",
-      "correctAnswer": "Garbage",
+      "id": "622a1c377cc59eab6f95062b",
+      "correctAnswer": "Michael Keaton",
       "incorrectAnswers": [
-        "Shirley Bassey",
-        "Matt Monro",
-        "Sam Smith"
+        "Simon Pegg",
+        "Toshirō Mifune",
+        "Roger Moore"
       ],
       "question": {
-        "text": "Who performed the theme song to the James Bond film The World is Not Enough?"
+        "text": "Which actor has featured in films including Batman and Birdman?"
       },
       "tags": [
-        "james_bond",
         "film",
-        "soundtracks",
+        "acting",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -541,17 +517,18 @@
     },
     {
       "category": "music",
-      "id": "622a1c397cc59eab6f950c21",
-      "correctAnswer": "The Who",
+      "id": "622a1c357cc59eab6f94ff57",
+      "correctAnswer": "Bob Dylan",
       "incorrectAnswers": [
-        "Deep Purple",
-        "Travis",
-        "Spandau Ballet"
+        "Neil Young",
+        "Eric Clapton",
+        "Alanis Morissette"
       ],
       "question": {
-        "text": "Which English rock band released the song 'Pinball Wizard'?"
+        "text": "Which American musician released the song 'Hurricane'?"
       },
       "tags": [
+        "songs",
         "music"
       ],
       "type": "text_choice",
@@ -560,21 +537,20 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "64a9cc039bf4085beaa1b04a",
-      "correctAnswer": "Arcade Fire",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950edc",
+      "correctAnswer": "H. G. Wells",
       "incorrectAnswers": [
-        "Coldplay",
-        "Radiohead",
-        "The Killers"
+        "Neil Gaiman",
+        "Arthur C. Clarke",
+        "C. S. Lewis"
       ],
       "question": {
-        "text": "In 2007, which Montreal group released the album 'Neon Bible'?"
+        "text": "Which author wrote 'The Invisible Man'?"
       },
       "tags": [
-        "bands",
-        "music",
-        "music_albums"
+        "literature",
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -582,20 +558,23 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f950292",
-      "correctAnswer": "Fish",
+      "category": "society_and_culture",
+      "id": "64dfa5baa6681754ea052bb8",
+      "correctAnswer": "Ushanka",
       "incorrectAnswers": [
-        "Cake",
-        "Cheese",
-        "Bread"
+        "Parka",
+        "Shapka",
+        "Balaclava"
       ],
       "question": {
-        "text": "What Type Of Foodstuff Is A 'Rollmop'?"
+        "text": "What is the name given to the distinctive Russian fur hat?"
       },
       "tags": [
-        "food",
-        "food_and_drink"
+        "clothing",
+        "hats",
+        "society_and_culture",
+        "fashion",
+        "russia"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -603,19 +582,21 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "622a1c3a7cc59eab6f951002",
-      "correctAnswer": "A Hogshead",
+      "category": "history",
+      "id": "622a1c367cc59eab6f950335",
+      "correctAnswer": "Sally Ride",
       "incorrectAnswers": [
-        "An Alekeg",
-        "A Bogteen",
-        "A Grond"
+        "Joan Jett",
+        "Mary Winn",
+        "Ella Davis"
       ],
       "question": {
-        "text": "Which archaic imperial unit of measure is equivalent to 54 gallons?"
+        "text": "Who was the first female American astronaut?"
       },
       "tags": [
-        "general_knowledge"
+        "firsts",
+        "usa",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -623,20 +604,69 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "622a1c357cc59eab6f94fc6d",
-      "correctAnswer": "Lamprophony",
+      "category": "science",
+      "id": "622a1c3e7cc59eab6f95224d",
+      "correctAnswer": "Epilepsy",
       "incorrectAnswers": [
-        "Doodle Sack",
-        "Donkey Engine",
-        "Lackadaisical"
+        "Anemia",
+        "Heart Attack",
+        "Paralysis"
       ],
       "question": {
-        "text": "Which word is defined as 'loudness and clarity of enunciation'?"
+        "text": "In the early 20th century, rattlesnake venom was used to treat which illness?"
       },
       "tags": [
-        "words",
-        "general_knowledge"
+        "science",
+        "medicine",
+        "snakes"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "637162911bf863c45ca6c387",
+      "correctAnswer": "Bono malum superate",
+      "incorrectAnswers": [
+        "Bona fide",
+        "Humilitas occidit superbiam",
+        "Fortiter et fideliter"
+      ],
+      "question": {
+        "text": "Which of these Latin phrases means 'Overcome evil with good'?"
+      },
+      "tags": [
+        "society_and_culture",
+        "language",
+        "the_romans",
+        "classics"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625698cc9da29df7b05f729e",
+      "correctAnswer": "Ayo",
+      "incorrectAnswers": [
+        "Agent Peggy Carter",
+        "Agent Maria Hill",
+        "Jane Foster"
+      ],
+      "question": {
+        "text": "In the Marvel Cinematic Universe, which character is played by Florence Kasumba?"
+      },
+      "tags": [
+        "mcu",
+        "film",
+        "acting",
+        "marvel",
+        "comics",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",

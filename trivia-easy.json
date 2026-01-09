@@ -1,69 +1,21 @@
 {
-  "gameDate": "2026-01-08",
+  "gameDate": "2026-01-09",
   "difficulty": "easy",
   "results": [
     {
       "category": "music",
-      "id": "622a1c397cc59eab6f950d4e",
-      "correctAnswer": "One Direction",
+      "id": "622a1c397cc59eab6f950dc4",
+      "correctAnswer": "The Beatles",
       "incorrectAnswers": [
-        "The Beatles",
-        "Talking Heads",
-        "Backstreet Boys"
+        "Deep Purple",
+        "Feeder",
+        "Uriah Heep"
       ],
       "question": {
-        "text": "Which band did Zayn Malik belong to?"
+        "text": "Which band includes 'John Lennon'?"
       },
       "tags": [
-        "people",
-        "music",
-        "bands"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fc2d",
-      "correctAnswer": "\"You're gonna need a bigger boat.\"",
-      "incorrectAnswers": [
-        "\"A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.\"",
-        "\"Wait a minute, wait a minute. You ain't heard nothin' yet!\"",
-        "\"Mother of mercy, is this the end of Rico?\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'Jaws'?"
-      },
-      "tags": [
-        "quotes",
-        "film",
-        "general_knowledge",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "626288b34b176d54800e3daf",
-      "correctAnswer": "Guinness",
-      "incorrectAnswers": [
-        "Stella Artois",
-        "Budweiser",
-        "Fosters"
-      ],
-      "question": {
-        "text": "Which beer brand is associated with the marketing slogan 'Good things come to those who wait'?"
-      },
-      "tags": [
-        "business",
-        "marketing",
-        "drink",
-        "society_and_culture"
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -72,18 +24,18 @@
     },
     {
       "category": "geography",
-      "id": "6233879a0161109f922aac34",
-      "correctAnswer": "Russia ",
+      "id": "62602e3a4b176d54800e3ccb",
+      "correctAnswer": "Jerusalem",
       "incorrectAnswers": [
-        "China",
-        "Australia",
-        "Brazil"
+        "Al-Ain",
+        "Antalya",
+        "Adana"
       ],
       "question": {
-        "text": "Which Country Is The Largest?"
+        "text": "Which of these cities is in Israel?"
       },
       "tags": [
-        "general_knowledge",
+        "cities",
         "geography"
       ],
       "type": "text_choice",
@@ -92,22 +44,374 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "645b431a067ef798d1455082",
-      "correctAnswer": "Romeo",
+      "category": "film_and_tv",
+      "id": "6256989c9da29df7b05f7292",
+      "correctAnswer": "Benedict Cumberbatch",
       "incorrectAnswers": [
-        "Tybalt",
-        "Mercutio",
-        "Paris"
+        "Jeff Goldblum",
+        "J.K. Simmons",
+        "Michael Douglas"
       ],
       "question": {
-        "text": "Which character in Romeo & Juliet totally forgets about his crush on Rosaline and falls in love with Juliet?"
+        "text": "Which actor plays the role of Dr Strange in the Marvel Cinematic Universe?"
       },
       "tags": [
-        "shakespeare",
-        "theater",
-        "romeo_and_juliet",
+        "mcu",
+        "film",
+        "acting",
+        "marvel",
+        "comics",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "63d95305168979b94b2e4f7b",
+      "correctAnswer": "Nelson Mandela",
+      "incorrectAnswers": [
+        "Kgalema Motlanthe",
+        "F.W. de Klerk",
+        "Thabo Mbeki"
+      ],
+      "question": {
+        "text": "Who was the first president of South Africa?"
+      },
+      "tags": [
+        "history",
+        "leaders",
+        "africa",
+        "south_africa",
+        "people",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f95139b",
+      "correctAnswer": "Harry Potter",
+      "incorrectAnswers": [
+        "Voyages Extraordinaires",
+        "Percy Jackson & the Olympians",
+        "Twilight"
+      ],
+      "question": {
+        "text": "In which book series does 'Ginny Weasley' appear?"
+      },
+      "tags": [
         "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "645cb16b7d263fd5097043d1",
+      "correctAnswer": "Red Herring",
+      "incorrectAnswers": [
+        "Blue Lobster",
+        "Green Shrimp",
+        "Yellow Squid"
+      ],
+      "question": {
+        "text": "What is the familiar expression for something that draws attention away from the main issue?"
+      },
+      "tags": [
+        "idioms",
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "65056e907a97013de78b530f",
+      "correctAnswer": "Belarus",
+      "incorrectAnswers": [
+        "Italy",
+        "France",
+        "United Kingdom"
+      ],
+      "question": {
+        "text": "Which of these countries was once part of the Soviet Union?"
+      },
+      "tags": [
+        "history",
+        "soviet union"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6237406dcb85f7ce9e949cfd",
+      "correctAnswer": "France",
+      "incorrectAnswers": [
+        "Spain",
+        "Switzerland",
+        "Italy"
+      ],
+      "question": {
+        "text": "Paris is the capital city of which country?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "649fcb35ebb41911d4cbd6cf",
+      "correctAnswer": "Barack Obama",
+      "incorrectAnswers": [
+        "Bill Clinton",
+        "George Bush",
+        "Donald Trump"
+      ],
+      "question": {
+        "text": "Which former US president's wife is called Michelle? "
+      },
+      "tags": [
+        "presidents",
+        "usa",
+        "people",
+        "society_and_culture",
+        "world_leaders"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fce8",
+      "correctAnswer": "Indo-European",
+      "incorrectAnswers": [
+        "Niger–Congo",
+        "Afroasiatic",
+        "Dravidian"
+      ],
+      "question": {
+        "text": "The language 'German' belongs to which language family?"
+      },
+      "tags": [
+        "germany",
+        "language",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f9504e5",
+      "correctAnswer": "numbers",
+      "incorrectAnswers": [
+        "wounds and injuries caused by accidents or assaults and their surgical treatment and repair",
+        "psychotropic or psychiatric drugs",
+        "Egyptian hieroglyphics, an ancient writing system"
+      ],
+      "question": {
+        "text": "What is Numerology the study of?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623b5794fd6c701a92118368",
+      "correctAnswer": "Athens",
+      "incorrectAnswers": [
+        "Jerusalem",
+        "Moscow",
+        "Venice"
+      ],
+      "question": {
+        "text": "In which city would you find the Acropolis?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63bc3faa0e893d6e5a6a0fd7",
+      "correctAnswer": "Disco",
+      "incorrectAnswers": [
+        "Grunge",
+        "Hippie",
+        "Preppy"
+      ],
+      "question": {
+        "text": "What is the name of the fashion trend popularized in the 1970s that involves wearing bell-bottoms, platform shoes, and oversized shirts?"
+      },
+      "tags": [
+        "society_and_culture",
+        "fashion",
+        "1970's"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6293ebcb7f41d6338b96eec0",
+      "correctAnswer": "Scientist who discovered The Theory of Relativity.",
+      "incorrectAnswers": [
+        "Inventor of the telephone.",
+        "38th President of the US.",
+        "One of the principal interpreters of Confucianism."
+      ],
+      "question": {
+        "text": "Which of the following describes Albert Einstein?"
+      },
+      "tags": [
+        "people",
+        "society_and_culture",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f95032f",
+      "correctAnswer": "George Washington",
+      "incorrectAnswers": [
+        "John Adams",
+        "Abraham Lincoln",
+        "Thomas Jefferson"
+      ],
+      "question": {
+        "text": "Who Was The First President Of The United States?"
+      },
+      "tags": [
+        "usa",
+        "presidents",
+        "people",
+        "general_knowledge",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fbeb",
+      "correctAnswer": "\"I have had it with these mother—— snakes on this mother—— plane!\"",
+      "incorrectAnswers": [
+        "\"Not my tempo.\"",
+        "\"Oh, Jerry, don't let's ask for the moon. We have the stars.\"",
+        "\"Tell 'em to go out there with all they got and win just one for the Gipper.\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'Snakes on a Plane'?"
+      },
+      "tags": [
+        "quotes",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94ff8a",
+      "correctAnswer": "Kuwait City",
+      "incorrectAnswers": [
+        "Abu Dhabi",
+        "Doha",
+        "Amman"
+      ],
+      "question": {
+        "text": "What is the capital of Kuwait?"
+      },
+      "tags": [
+        "capital_cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "64626214ab138b829b81e9bb",
+      "correctAnswer": "Apples",
+      "incorrectAnswers": [
+        "Bananas",
+        "Cherries",
+        "Oranges"
+      ],
+      "question": {
+        "text": "What fruit allegedly keeps the doctor away if you eat one per day?"
+      },
+      "tags": [
+        "food",
+        "fruit",
+        "food_and_drink",
+        "sayings",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c347cc59eab6f94fbb1",
+      "correctAnswer": "\"Yo Home to Bel-Air\"",
+      "incorrectAnswers": [
+        "\"Bohemian Rhapsody\" by Queen",
+        "\"I'll Make a Man Out of You\" by Donny Osmond",
+        "\"In da Club\" by 50 Cent"
+      ],
+      "question": {
+        "text": "Which song begins with the lyrics: \"Now this is the story all about how / My life got flipped, turned upside down...\"?"
+      },
+      "tags": [
+        "lyrics",
+        "songs",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -138,19 +442,19 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f950731",
-      "correctAnswer": "Leonardo DiCaprio",
+      "id": "622a1c377cc59eab6f9507bb",
+      "correctAnswer": "Clint Eastwood",
       "incorrectAnswers": [
-        "Ralph Fiennes",
-        "Brian Cox",
-        "Kiefer Sutherland"
+        "Matt Damon",
+        "Robert De Niro",
+        "Sean Connery"
       ],
       "question": {
-        "text": "Which actor has featured in films including Titanic and Inception?"
+        "text": "Which actor has featured in films including The Good, the Bad and the Ugly and Million Dollar Baby?"
       },
       "tags": [
+        "film",
         "acting",
-        "film",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -160,151 +464,21 @@
     },
     {
       "category": "society_and_culture",
-      "id": "6293ecb67f41d6338b96ef05",
-      "correctAnswer": "38th President of the USA. ",
+      "id": "64746b6f5a4c31088dd9d054",
+      "correctAnswer": "Think Different",
       "incorrectAnswers": [
-        "Developed the world's first vaccine (for smallpox).",
-        "Italian explorer who landed in America.",
-        "Dictator of Nazi Germany."
+        "Just Do It",
+        "I'm Lovin' It",
+        "Got Milk?"
       ],
       "question": {
-        "text": "Which of the following describes John F. Kennedy?"
+        "text": "After rejoining Apple in 1997, Steve Jobs engineered what ad campaign?"
       },
       "tags": [
-        "people",
-        "history",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6486be3159bc33d1c362f320",
-      "correctAnswer": "St. Valentine",
-      "incorrectAnswers": [
-        "St. Patrick",
-        "St. Michael",
-        "St. Francis"
-      ],
-      "question": {
-        "text": "Which saint is celebrated on February 14th?"
-      },
-      "tags": [
-        "traditions",
-        "celebrations",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6463395501d576cfac3aa355",
-      "correctAnswer": "Bigfoot",
-      "incorrectAnswers": [
-        "Loch Ness Monster",
-        "Yeti",
-        "Chupacabra"
-      ],
-      "question": {
-        "text": "Which legendary creature is thought to inhabit the forests of North America, standing up to 10 feet tall and weighing about 500 pounds?"
-      },
-      "tags": [
-        "mythology",
-        "legends",
-        "society_and_culture",
-        "usa"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950d5a",
-      "correctAnswer": "Simon & Garfunkel",
-      "incorrectAnswers": [
-        "MercyMe",
-        "Three 6 Mafia",
-        "The Velvet Underground"
-      ],
-      "question": {
-        "text": "Which band includes 'Paul Simon'?"
-      },
-      "tags": [
-        "people",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625741333d2f5c16bfb88345",
-      "correctAnswer": "A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine.",
-      "incorrectAnswers": [
-        "A Marine observes the effects of war on his fellow recruits from their boot camp training to fighting in a war.",
-        "The lives of mob hitmen, a boxer, a gangster and his wife, and a pair of bandits intertwine in four tales.",
-        "Historical events unfold from the perspective of an Alabama man with an IQ of 75."
-      ],
-      "question": {
-        "text": "What is the plot of the movie The Terminator?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fef2",
-      "correctAnswer": "David Bowie",
-      "incorrectAnswers": [
-        "Eric Clapton",
-        "Madonna",
-        "Mika"
-      ],
-      "question": {
-        "text": "Who released the iconic album 'Ziggy Stardust'?"
-      },
-      "tags": [
-        "musicians",
-        "music_albums",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "647207673bbb58c31f411c43",
-      "correctAnswer": "Procter & Gamble",
-      "incorrectAnswers": [
-        "Ben & Jerry's",
-        "Marks & Spencer",
-        "Coca-Cola"
-      ],
-      "question": {
-        "text": "Which company, named after its two founders,  sells everything from Charmin to Duracell?"
-      },
-      "tags": [
-        "brands",
-        "consumer_products",
+        "advertising",
+        "technology",
         "business",
+        "marketing",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -313,24 +487,20 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "645b4f1f067ef798d145508b",
-      "correctAnswer": "Daisy",
+      "category": "music",
+      "id": "622a1c357cc59eab6f94ff3a",
+      "correctAnswer": "Michael Jackson",
       "incorrectAnswers": [
-        "Rose",
-        "Tulip",
-        "Orchid"
+        "Nicki Minaj",
+        "Neil Young",
+        "Eric Clapton"
       ],
       "question": {
-        "text": "What plant species, whose scientific name is Chrysanthemum maximum, includes the shasta variety?"
+        "text": "Which American musician sung 'Rock with You'?"
       },
       "tags": [
-        "flowers",
-        "gardening",
-        "botany",
-        "plants",
-        "science",
-        "biology"
+        "songs",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -338,23 +508,43 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "6462624dab138b829b81e9e9",
-      "correctAnswer": "KFC",
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f9500ed",
+      "correctAnswer": "David",
       "incorrectAnswers": [
-        "McDonald's",
-        "Burger King",
-        "Wendy's"
+        "Daniel",
+        "John",
+        "Michael"
       ],
       "question": {
-        "text": "Which fast food is known for a menu that mainly contains fried chicken?"
+        "text": "Who killed Goliath?"
       },
       "tags": [
-        "food",
-        "meat",
-        "fast_food",
-        "food_and_drink",
-        "business"
+        "christianity",
+        "mythology",
+        "people",
+        "general_knowledge",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950eeb",
+      "correctAnswer": "Charles Dickens",
+      "incorrectAnswers": [
+        "Oscar Wilde",
+        "Joseph Conrad",
+        "Henryk Sienkiewicz"
+      ],
+      "question": {
+        "text": "Which author wrote 'Great Expectations'?"
+      },
+      "tags": [
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -363,15 +553,15 @@
     },
     {
       "category": "geography",
-      "id": "623b583dfd6c701a921183a8",
-      "correctAnswer": "England",
+      "id": "623742c8cb85f7ce9e949df0",
+      "correctAnswer": "Kyiv",
       "incorrectAnswers": [
-        "Italy",
-        "France",
-        "Belgium"
+        "Sofia",
+        "Belgrade",
+        "Kharkiv"
       ],
       "question": {
-        "text": "In which country would you find the UNESCO World Heritage site of Stonehenge?"
+        "text": "What is the capital city of Ukraine?"
       },
       "tags": [
         "geography"
@@ -382,41 +572,21 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "625063a4e12f6dec240bdf77",
-      "correctAnswer": "Come on Eileen",
-      "incorrectAnswers": [
-        "96 Tears",
-        "Heart And Soul",
-        "Turning Japanese"
-      ],
-      "question": {
-        "text": "What song did Dexy's Midnight Runners have a hit with in 1983?"
-      },
-      "tags": [
-        "songs",
-        "one_hit_wonders",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "society_and_culture",
-      "id": "6470d59c32850588056636f1",
-      "correctAnswer": "Highbrow",
+      "id": "6293ebba7f41d6338b96eebb",
+      "correctAnswer": "Chinese philosopher.",
       "incorrectAnswers": [
-        "Bearded",
-        "Moûstaché",
-        "Quiff"
+        "Greek politician",
+        "Russian theoretical physicist",
+        "Mongolian General"
       ],
       "question": {
-        "text": "Which of these words is used to refer to a very cultured activity?"
+        "text": "Which of the following describes Confucius?"
       },
       "tags": [
-        "words",
+        "people",
+        "history",
+        "society_and_culture",
         "general_knowledge"
       ],
       "type": "text_choice",
@@ -425,85 +595,23 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "648889135dba6c873ef650b8",
-      "correctAnswer": "Parsley",
+      "category": "history",
+      "id": "639c9d90929b90846f2fc953",
+      "correctAnswer": "Barack Obama",
       "incorrectAnswers": [
-        "Basil",
-        "Oregano",
-        "Thyme"
+        "Bill Clinton",
+        "George W. Bush",
+        "Donald Trump"
       ],
       "question": {
-        "text": "Which herb is often used as a garnish and comes in curly-leaf and flat-leaf varieties?"
+        "text": "Which US president served two terms in office as the first African American president?"
       },
       "tags": [
-        "cooking",
-        "herbs",
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "64fb150b717513cb79190392",
-      "correctAnswer": "Gravy",
-      "incorrectAnswers": [
-        "Salt",
-        "Bread",
-        "Cheese"
-      ],
-      "question": {
-        "text": "On a dinner table, what item might served in a 'boat'?"
-      },
-      "tags": [
-        "food_and_drink",
-        "food"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "647f9def3a4302a71927168a",
-      "correctAnswer": "Dreadlocks",
-      "incorrectAnswers": [
-        "Buzz cut",
-        "Mullet",
-        "Comb over"
-      ],
-      "question": {
-        "text": "Which hairstyle, characterized by long, matted or coiled strands of hair, was sported by Lennox Lewis, Lenny Kravitz, and Bob Marley?"
-      },
-      "tags": [
-        "hair",
-        "people",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950bb1",
-      "correctAnswer": "Simon & Garfunkel",
-      "incorrectAnswers": [
-        "MercyMe",
-        "Three 6 Mafia",
-        "The Velvet Underground"
-      ],
-      "question": {
-        "text": "Which American music duo released the song 'Mrs. Robinson'?"
-      },
-      "tags": [
-        "music"
+        "history",
+        "2000's",
+        "usa",
+        "presidents",
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -512,43 +620,19 @@
     },
     {
       "category": "science",
-      "id": "648889175dba6c873ef650de",
-      "correctAnswer": "Endangered species",
+      "id": "65056fe07a97013de78b54e1",
+      "correctAnswer": "Isaac",
       "incorrectAnswers": [
-        "Exotic species",
-        "Invasive species",
-        "Declining species"
+        "Albert",
+        "Herbert",
+        "Luigi"
       ],
       "question": {
-        "text": "What is the term for animals that are at risk of becoming extinct?"
+        "text": "What was the first name of the physicist Newton?"
       },
       "tags": [
-        "biology",
-        "animals",
-        "nature",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950bbf",
-      "correctAnswer": "Oasis",
-      "incorrectAnswers": [
-        "Goldfrapp",
-        "Kaiser Chiefs",
-        "Jethro Tull"
-      ],
-      "question": {
-        "text": "Which English rock band formed in Manchester in 1991 released the studio album '(What's the Story) Morning Glory?'?"
-      },
-      "tags": [
-        "rock_music",
-        "uk",
-        "music"
+        "science",
+        "people"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -557,106 +641,20 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c3d7cc59eab6f951c51",
-      "correctAnswer": "Mistletoe",
+      "id": "6293ecce7f41d6338b96ef0c",
+      "correctAnswer": "Communist revolutionary leader and dictator of China.",
       "incorrectAnswers": [
-        "Holly",
-        "Mimosa",
-        "Lavender"
+        "Physicist who created the first nuclear reactor",
+        "Engineer who developed compressed charge internal combustion engine to run on petrol",
+        "Biologist who discovered penicillin."
       ],
       "question": {
-        "text": "At Christmas, it is customary to exchange kisses beneath a sprig of which plant?"
+        "text": "Which of the following describes Mao Zedong?"
       },
       "tags": [
-        "christmas",
-        "plants",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "65056e4f7a97013de78b52b5",
-      "correctAnswer": "1492",
-      "incorrectAnswers": [
-        "1502",
-        "1607",
-        "1776"
-      ],
-      "question": {
-        "text": "In what year did Christopher Columbus first reach the Bahamas?"
-      },
-      "tags": [
+        "people",
         "history",
-        "exploration",
-        "Christopher Columbus"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f95023e",
-      "correctAnswer": "Haggis ",
-      "incorrectAnswers": [
-        "Neeps and Tatties",
-        "Pizza Crunch",
-        "Cullen Skink"
-      ],
-      "question": {
-        "text": "Which Scottish Dish Is Boiled In The Stomach Lining Of A Sheep?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6262882e4b176d54800e3d8e",
-      "correctAnswer": "I'm loving it",
-      "incorrectAnswers": [
-        "Snap! Crackle! Pop!",
-        "Melts in your mouth, not in your hands.",
-        "Seafood Differently"
-      ],
-      "question": {
-        "text": "What is the marketing slogan of McDonalds?"
-      },
-      "tags": [
-        "business",
-        "marketing",
-        "food",
         "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "625e9ede796f721e95543f72",
-      "correctAnswer": "Red",
-      "incorrectAnswers": [
-        "Gold",
-        "Yellow",
-        "Blue"
-      ],
-      "question": {
-        "text": "Which of these colors would you find on the flag of Japan?"
-      },
-      "tags": [
-        "flags",
-        "geography"
       ],
       "type": "text_choice",
       "difficulty": "easy",

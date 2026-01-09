@@ -1,44 +1,21 @@
 {
-  "gameDate": "2026-01-08",
+  "gameDate": "2026-01-09",
   "difficulty": "medium",
   "results": [
     {
-      "category": "arts_and_literature",
-      "id": "639c9d93929b90846f2fc956",
-      "correctAnswer": "Moorish",
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f951057",
+      "correctAnswer": "Insulin",
       "incorrectAnswers": [
-        "Byzantine",
-        "Neoclassical",
-        "Gothic"
+        "Estrogen",
+        "Keratin",
+        "Adrenaline"
       ],
       "question": {
-        "text": "Which of the following is a style of Islamic architecture?"
+        "text": "What Hormone Controls The Supply Of Sugar From The Blood To The Muscles?"
       },
       "tags": [
-        "architecture",
-        "art",
-        "islam"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "6257406b9da29df7b05f73dc",
-      "correctAnswer": "Pan's Labyrinth",
-      "incorrectAnswers": [
-        "Monsters, Inc.",
-        "V for Vendetta",
-        "Fight Club"
-      ],
-      "question": {
-        "text": "Name the movie that matches the following plot summary: 'The stepdaughter of a sadistic army officer escapes into an eerie fantasy world.'"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -47,22 +24,106 @@
     },
     {
       "category": "history",
-      "id": "62611f7e4b176d54800e3d5d",
-      "correctAnswer": "1961",
+      "id": "62611f66014f58b5fc1a3fce",
+      "correctAnswer": "2010",
       "incorrectAnswers": [
-        "1947",
-        "1954",
-        "1968"
+        "2016",
+        "2004",
+        "1998"
       ],
       "question": {
-        "text": "In which year was the first human sent into space?"
+        "text": "When did the Arab Spring topple a number of governments?"
       },
       "tags": [
         "events",
-        "firsts",
-        "space_exploration",
-        "exploration",
-        "cold_war",
+        "revolutions",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "639c9d93929b90846f2fc959",
+      "correctAnswer": "Diwali",
+      "incorrectAnswers": [
+        "Holi",
+        "Dusshera",
+        "Navaratri"
+      ],
+      "question": {
+        "text": "What is the name of the Hindu festival of lights?"
+      },
+      "tags": [
+        "hinduism",
+        "religion",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "639c9d90929b90846f2fc951",
+      "correctAnswer": "Istanbul",
+      "incorrectAnswers": [
+        "Rome",
+        "Moscow",
+        "Athens"
+      ],
+      "question": {
+        "text": "The Hagia Sophia is an iconic structure in what city?"
+      },
+      "tags": [
+        "architecture",
+        "geography",
+        "buildings",
+        "tourist_attractions"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "645c9f5342ea81e2554c5f07",
+      "correctAnswer": "a hybrid bicycle",
+      "incorrectAnswers": [
+        "an electric bike",
+        "a recumbent bike",
+        "a tandem bike"
+      ],
+      "question": {
+        "text": "What type of bicycle combines features of a road bike with those of a mountain bike, and uses no electricity?"
+      },
+      "tags": [
+        "cycling"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951a0e",
+      "correctAnswer": "The Korean War",
+      "incorrectAnswers": [
+        "World War II",
+        "The American War of Independence",
+        "The Vietnam War"
+      ],
+      "question": {
+        "text": "Which war began on June 25, 1950?"
+      },
+      "tags": [
+        "wars",
+        "1950's",
         "history"
       ],
       "type": "text_choice",
@@ -72,560 +133,41 @@
     },
     {
       "category": "geography",
-      "id": "646262f6ab138b829b81ea6b",
-      "correctAnswer": "The Mississippi",
+      "id": "62602fe34b176d54800e3d01",
+      "correctAnswer": "Egypt",
       "incorrectAnswers": [
-        "The Colorado River",
-        "The Rio Grande",
-        "The Thames"
+        "Qatar",
+        "Lebanon",
+        "Saudi Arabia"
       ],
       "question": {
-        "text": "In the 19th century, which river's Bloody Island was a popular duelling site since it was out of the jurisdiction of both Missouri and Illinois?"
-      },
-      "tags": [
-        "history",
-        "duels",
-        "rivers",
-        "geography",
-        "usa"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f8f2",
-      "correctAnswer": "John Travolta",
-      "incorrectAnswers": [
-        "Joe Pesci",
-        "Malcolm McDowell",
-        "Errol Flynn"
-      ],
-      "question": {
-        "text": "Which actor played the role of Tony Manero in Saturday Night Fever?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "cult_films",
-        "general_knowledge",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f9507f9",
-      "correctAnswer": "North America",
-      "incorrectAnswers": [
-        "South America",
-        "Oceania",
-        "Europe"
-      ],
-      "question": {
-        "text": "The country of Barbados is on which continent?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f95052e",
-      "correctAnswer": "the age of the Earth",
-      "incorrectAnswers": [
-        "the biosphere and its relations to the lithosphere and atmosphere",
-        "the functions of the nervous system",
-        "the preparation of books and manuscripts"
-      ],
-      "question": {
-        "text": "What is Geochronology the study of?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c3c7cc59eab6f9517df",
-      "correctAnswer": "Saruman",
-      "incorrectAnswers": [
-        "Gandalf",
-        "Radagast",
-        "Merlin"
-      ],
-      "question": {
-        "text": "Which wizard was portrayed by Christopher Lee in The Lord Of The Rings?"
-      },
-      "tags": [
-        "lord_of_the_rings",
-        "fantasy",
-        "film",
-        "acting",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "62ab33325202de619af28145",
-      "correctAnswer": "Silverado",
-      "incorrectAnswers": [
-        "Cobra",
-        "Civic",
-        "Giulietta"
-      ],
-      "question": {
-        "text": "Which of these is a model of car made by Chevrolet?"
-      },
-      "tags": [
-        "motoring",
-        "business",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a8b64146d41d19ab40d37",
-      "correctAnswer": "Pad Thai",
-      "incorrectAnswers": [
-        "Rendang",
-        "Tom Yum",
-        "Laksa"
-      ],
-      "question": {
-        "text": "Which Southeast Asian dish is made with rice noodes and peanuts?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "63e4c349106de6ffa7d4a7c5",
-      "correctAnswer": "Latin",
-      "incorrectAnswers": [
-        "German",
-        "Sanskrit",
-        "Greek"
-      ],
-      "question": {
-        "text": "What was the official language of the Holy Roman Empire?"
-      },
-      "tags": [
-        "history",
-        "holy_roman_empire",
-        "language",
-        "europe"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "6266bc2aff2394bd44dedffc",
-      "correctAnswer": "Percussion",
-      "incorrectAnswers": [
-        "Woodwind",
-        "Brass",
-        "Stringed"
-      ],
-      "question": {
-        "text": "What type of instrument is a cymbal?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f95066c",
-      "correctAnswer": "Elijah Wood",
-      "incorrectAnswers": [
-        "Tim Roth",
-        "Timothy Spall",
-        "Hugo Weaving"
-      ],
-      "question": {
-        "text": "Which actor has featured in films including The Lord of the Rings and Sin City?"
-      },
-      "tags": [
-        "film_and_tv",
-        "film",
-        "acting"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fe94",
-      "correctAnswer": "Rihanna",
-      "incorrectAnswers": [
-        "Drake",
-        "Nicki Minaj",
-        "Ricky Martin"
-      ],
-      "question": {
-        "text": "Which singer released the song 'Pon de Replay'?"
-      },
-      "tags": [
-        "songs",
-        "musicians",
-        "00's",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd9c",
-      "correctAnswer": "Liverpool",
-      "incorrectAnswers": [
-        "Manchester",
-        "Newcastle",
-        "Leeds"
-      ],
-      "question": {
-        "text": "Which Northern UK English city Did The Beatles Come From?"
-      },
-      "tags": [
-        "uk",
-        "rock_music",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f9510b4",
-      "correctAnswer": "Brain",
-      "incorrectAnswers": [
-        "Lungs",
-        "Heart",
-        "Liver"
-      ],
-      "question": {
-        "text": "In which organ is your \"hypothalmus\" located?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623741bbcb85f7ce9e949d84",
-      "correctAnswer": "Pyongyang",
-      "incorrectAnswers": [
-        "Bangui",
-        "Ouagadougou",
-        "Thimphu"
-      ],
-      "question": {
-        "text": "What is the capital city of North Korea?"
-      },
-      "tags": [
-        "capital_cities",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "645f9526541c4d4fc8cf2eac",
-      "correctAnswer": "The Cable Guy",
-      "incorrectAnswers": [
-        "Liar Liar",
-        "Ace Ventura: Pet Detective",
-        "The Truman Show"
-      ],
-      "question": {
-        "text": "Which Jim Carrey film features the quote, 'Hi. Is there a problem with your service?'?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv",
-        "film_quotes"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "639898545c9a75021f31047a",
-      "correctAnswer": "Red wine",
-      "incorrectAnswers": [
-        "Brandy",
-        "Port",
-        "Beer"
-      ],
-      "question": {
-        "text": "What type of alcohol is traditionally used in the French dish 'Coq au Vin'?"
-      },
-      "tags": [
-        "food_and_drink",
-        "drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950dc5",
-      "correctAnswer": "Bram Stoker",
-      "incorrectAnswers": [
-        "Oscar Wilde",
-        "Robert Louis Stevenson",
-        "Stephen King"
-      ],
-      "question": {
-        "text": "Which author wrote 'Dracula'?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6233855562eaad73716a8c64",
-      "correctAnswer": "Tennessee",
-      "incorrectAnswers": [
-        "Georgia",
-        "Maine",
-        "Washington"
-      ],
-      "question": {
-        "text": "What US state borders Alabama to the north?"
-      },
-      "tags": [
-        "usa",
-        "us_states",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f950a20",
-      "correctAnswer": "Russia",
-      "incorrectAnswers": [
-        "Estonia",
-        "Moldova",
-        "Romania"
-      ],
-      "question": {
-        "text": "Which of these countries borders Belarus?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625741119da29df7b05f740a",
-      "correctAnswer": "A weary mutant leads a quiet life until a mutant child pursued by scientists comes to him for help.",
-      "incorrectAnswers": [
-        "Born in the stable next door to Christ, a man spends his life being mistaken for a messiah.",
-        "A law enforcement agent pursues four replicants who have returned to Earth to find their creator.",
-        "A boy and his little sister struggle to survive in Japan during World War II."
-      ],
-      "question": {
-        "text": "What is the plot of the movie Logan?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c16",
-      "correctAnswer": "Nirvana",
-      "incorrectAnswers": [
-        "Counting Crows",
-        "Three 6 Mafia",
-        "The Velvet Underground"
-      ],
-      "question": {
-        "text": "Which American rock band released the album 'In Utero'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "62573fd09da29df7b05f73ae",
-      "correctAnswer": "The claustrophobic world of a WWII German U-boat.",
-      "incorrectAnswers": [
-        "A former Roman General seeks revenge against the emperor who murdered his family.",
-        "When two girls move to the country, they have adventures with the forest spirits who live nearby.",
-        "Prisoners of war plan to escape from a German camp during World War II."
-      ],
-      "question": {
-        "text": "What is the plot of the movie Das Boot?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "646089e4de964ebc39016ca1",
-      "correctAnswer": "Franco",
-      "incorrectAnswers": [
-        "Hitler",
-        "Mussolini",
-        "Stalin"
-      ],
-      "question": {
-        "text": "Who is the dictator responsible for restoring the Spanish monarchy in 1969?"
-      },
-      "tags": [
-        "people",
-        "history",
-        "politics",
-        "spain",
-        "dictators",
-        "1960's"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f961",
-      "correctAnswer": "Ghost",
-      "incorrectAnswers": [
-        "Apocalypse Now",
-        "Blue Velvet",
-        "Terms of Endearment"
-      ],
-      "question": {
-        "text": "Which film contains the character 'Oda Mae Brown'?"
-      },
-      "tags": [
-        "film",
-        "fictitious_characters",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "62573ff89da29df7b05f73ba",
-      "correctAnswer": "Vertigo",
-      "incorrectAnswers": [
-        "Apocalypse Now",
-        "The Sixth Sense",
-        "Inside Out"
-      ],
-      "question": {
-        "text": "Name the movie that matches the following plot summary: 'A former detective becomes obsessed with the woman he has been hired to trail.'"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62602e2f4b176d54800e3cc8",
-      "correctAnswer": "Tallinn",
-      "incorrectAnswers": [
-        "Copenhagen",
-        "Paris",
-        "Zürich"
-      ],
-      "question": {
-        "text": "Which of these cities is in Estonia?"
+        "text": "In which country is the city of Alexandria?"
       },
       "tags": [
         "cities",
-        "europe",
         "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f950755",
+      "correctAnswer": "Jack Nicholson",
+      "incorrectAnswers": [
+        "Dwayne Johnson",
+        "Shah Rukh Khan",
+        "Gérard Depardieu"
+      ],
+      "question": {
+        "text": "Which actor has starred in films including One Flew Over the Cuckoo's Nest and The Departed?"
+      },
+      "tags": [
+        "film",
+        "acting",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -647,6 +189,460 @@
       "tags": [
         "words",
         "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f9502a9",
+      "correctAnswer": "Tempura ",
+      "incorrectAnswers": [
+        "Bento",
+        "Sashimi",
+        "Nori"
+      ],
+      "question": {
+        "text": "What name is given to the Japanese dish in which fish, shellfish, or vegetables are fried in batter?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951b51",
+      "correctAnswer": "Gymnasium",
+      "incorrectAnswers": [
+        "Sauna",
+        "Auditorium",
+        "Cafeteria"
+      ],
+      "question": {
+        "text": "In what type of building did Plato and Aristotle teach?"
+      },
+      "tags": [
+        "the_ancient_world",
+        "buildings",
+        "philosophy",
+        "ancient_greece",
+        "classics",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f9502cb",
+      "correctAnswer": "Alcohol By Volume ",
+      "incorrectAnswers": [
+        "Alcohol Bucahol Variance",
+        "Alcoholic Barrier Vitality",
+        "Alcoholic Barometric Vice"
+      ],
+      "question": {
+        "text": "What does the abbreviation A.B.V. Stand for in alcoholic drinks?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "645fcc60541c4d4fc8cf304c",
+      "correctAnswer": "127 Hours",
+      "incorrectAnswers": [
+        "The Summit",
+        "Everest",
+        "Touching the Void"
+      ],
+      "question": {
+        "text": "What is the name of the 2010 fact-based drama in which James Franco played a mountain climber who was pinned by a rock?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "62ab33105202de619af2813b",
+      "correctAnswer": "Opel",
+      "incorrectAnswers": [
+        "Honda",
+        "Ferrari",
+        "Rolls-Royce"
+      ],
+      "question": {
+        "text": "Which car manufacturer makes the Astra?"
+      },
+      "tags": [
+        "motoring",
+        "business",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625698e79da29df7b05f72a5",
+      "correctAnswer": "Anthony Hopkins",
+      "incorrectAnswers": [
+        "Jon Favreau",
+        "Benedict Cumberbatch",
+        "Robert Redford"
+      ],
+      "question": {
+        "text": "Which actor plays the role of Odin in the Marvel Cinematic Universe?"
+      },
+      "tags": [
+        "mcu",
+        "film",
+        "acting",
+        "marvel",
+        "comics",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b18",
+      "correctAnswer": "Spice Girls",
+      "incorrectAnswers": [
+        "Destiny's Child",
+        "The Pussycat Dolls",
+        "En Vogue"
+      ],
+      "question": {
+        "text": "Which band had Melanie Brown as one of its members?"
+      },
+      "tags": [
+        "music",
+        "bands"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "645f9565541c4d4fc8cf2eda",
+      "correctAnswer": "Recoil",
+      "incorrectAnswers": [
+        "Muzzle flash",
+        "Backfire",
+        "Forward thrust"
+      ],
+      "question": {
+        "text": "What is the term for the backward momentum that a person feels after firing a gun?"
+      },
+      "tags": [
+        "military",
+        "phrases"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "6461403f4d46e537ca8cd9a9",
+      "correctAnswer": "Piccolo",
+      "incorrectAnswers": [
+        "Recorder",
+        "Contrabass Flute",
+        "Clarinet"
+      ],
+      "question": {
+        "text": "What is the name of the smallest member of the flute family?"
+      },
+      "tags": [
+        "music",
+        "musical_instruments"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c357cc59eab6f94fc82",
+      "correctAnswer": "Flummox",
+      "incorrectAnswers": [
+        "Argle-bargle",
+        "Kakorrhaphiophobia",
+        "Pauciloquent"
+      ],
+      "question": {
+        "text": "Which word is defined as 'to perplex someone greatly'?"
+      },
+      "tags": [
+        "words",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "6266bb37ff7b6ee0496ec785",
+      "correctAnswer": "Percussion",
+      "incorrectAnswers": [
+        "Woodwind",
+        "Stringed",
+        "Brass"
+      ],
+      "question": {
+        "text": "What type of instrument are the castanets?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f95006e",
+      "correctAnswer": "Croquet",
+      "incorrectAnswers": [
+        "Tennis",
+        "Badminton",
+        "Billiards"
+      ],
+      "question": {
+        "text": "Which Game Makes Use Of Hoops"
+      },
+      "tags": [
+        "games",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63dd25e7742e43ed64f1f045",
+      "correctAnswer": "Oligopoly",
+      "incorrectAnswers": [
+        "Monopoly",
+        "Price Discrimination",
+        "Macropricing"
+      ],
+      "question": {
+        "text": "What is the term for a market in which only a few companies control the prices of goods or services?"
+      },
+      "tags": [
+        "society_and_culture",
+        "economics"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6498aef29acaa77d9ad7c50c",
+      "correctAnswer": "Xenophobia",
+      "incorrectAnswers": [
+        "Acrophobia",
+        "Claustrophobia",
+        "Arachnophobia"
+      ],
+      "question": {
+        "text": "What word refers to the fear of people from other cultures?"
+      },
+      "tags": [
+        "society_and_culture",
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f9503be",
+      "correctAnswer": "France",
+      "incorrectAnswers": [
+        "Italy",
+        "Russia",
+        "Spain"
+      ],
+      "question": {
+        "text": "Where did the bayonet originate?"
+      },
+      "tags": [
+        "inventions",
+        "wars",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "645cb1627d263fd5097043bd",
+      "correctAnswer": "Ireland",
+      "incorrectAnswers": [
+        "Scotland",
+        "Wales",
+        "France"
+      ],
+      "question": {
+        "text": "Which country is associated with a harp, which is featured on its national emblem?"
+      },
+      "tags": [
+        "music",
+        "national symbols",
+        "ireland",
+        "countries"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "627164621ba117625baac95c",
+      "correctAnswer": "Spain",
+      "incorrectAnswers": [
+        "The Czech Republic",
+        "Cuba",
+        "The Phillipines"
+      ],
+      "question": {
+        "text": "In which country is sangria a popular drink?"
+      },
+      "tags": [
+        "drink",
+        "alcohol"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "625006dc0d86c8f685d80f02",
+      "correctAnswer": "Ribbon pasta",
+      "incorrectAnswers": [
+        "Stuffed pasta",
+        "Tubular pasta",
+        "Shaped pasta"
+      ],
+      "question": {
+        "text": "What type of pasta is pappardelle?"
+      },
+      "tags": [
+        "food",
+        "italy",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "64746b055a4c31088dd9d012",
+      "correctAnswer": "Barnacle",
+      "incorrectAnswers": [
+        "Clam",
+        "Oyster",
+        "Starfish"
+      ],
+      "question": {
+        "text": "What sea creature adheres firmly to rocks and to the bottom of ships?"
+      },
+      "tags": [
+        "animals",
+        "marine_life",
+        "science",
+        "biology"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "64e927cd0b0fc0be2ff5aa36",
+      "correctAnswer": "A microwave",
+      "incorrectAnswers": [
+        "A toaster oven",
+        "A convection oven",
+        "A slow cooker"
+      ],
+      "question": {
+        "text": "What type of oven did Percy Spencer invent after a magnetron melted his candy bar?"
+      },
+      "tags": [
+        "inventions",
+        "food_and_drink",
+        "technology",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "6384b47183dddfb71ee5e37e",
+      "correctAnswer": "Tennis",
+      "incorrectAnswers": [
+        "Baseball",
+        "Athletics",
+        "Motorsports"
+      ],
+      "question": {
+        "text": "Which sport is played at The Billie Jean King Cup?"
+      },
+      "tags": [
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "medium",
