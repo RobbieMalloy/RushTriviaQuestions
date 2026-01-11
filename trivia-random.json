@@ -1,43 +1,23 @@
 {
-  "gameDate": "2026-01-10",
+  "gameDate": "2026-01-11",
   "difficulty": "random",
   "results": [
     {
-      "category": "society_and_culture",
-      "id": "6266e5e8ff2394bd44dee022",
-      "correctAnswer": "White",
+      "category": "food_and_drink",
+      "id": "647f9da93a4302a7192715f1",
+      "correctAnswer": "A bagel",
       "incorrectAnswers": [
-        "Seven",
-        "Yellow",
-        "Green"
+        "A croissant",
+        "A muffin",
+        "A doughnut"
       ],
       "question": {
-        "text": "What does the word 'blanco' mean in Spanish?"
+        "text": "What breakfast item takes its name from the Yiddish word for 'ring' or 'bracelet'?"
       },
       "tags": [
-        "language",
-        "translations"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "62573fc99da29df7b05f73ac",
-      "correctAnswer": "An insane American general orders a bombing attack on the Soviet Union.",
-      "incorrectAnswers": [
-        "24 hours in the lives of three young men the day after a violent riot.",
-        "A noble family becomes embroiled in a war for control over the galaxy's most valuable asset.",
-        "A naive youth leader is appointed to fill a vacancy in the U.S. Senate."
-      ],
-      "question": {
-        "text": "What is the plot of the movie Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
+        "breakfast",
+        "food",
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -46,18 +26,17 @@
     },
     {
       "category": "geography",
-      "id": "62374107cb85f7ce9e949d3b",
-      "correctAnswer": "Kyrgyzstan",
+      "id": "623387360161109f922aac0d",
+      "correctAnswer": "The USA & Canada ",
       "incorrectAnswers": [
-        "Denmark",
-        "United Arab Emirates",
-        "Lithuania"
+        "France & Spain",
+        "Italy & The Vatican City",
+        "Brunei & Malaysia"
       ],
       "question": {
-        "text": "Bishkek is the capital city of which country?"
+        "text": "Which Countries Are Divided By The 49th Parallel?"
       },
       "tags": [
-        "capital_cities",
         "geography"
       ],
       "type": "text_choice",
@@ -66,57 +45,16 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "62573fc69da29df7b05f73ab",
-      "correctAnswer": "A janitor has a gift for mathematics.",
-      "incorrectAnswers": [
-        "A tramp who has fallen in love with a blind flower girl saves money to help her medically.",
-        "After two male musicians witness a murder, they flee in an all-female band disguised as women.",
-        "Born in the stable next door to Christ, a man spends his life being mistaken for a messiah."
-      ],
-      "question": {
-        "text": "What is the plot of the movie Good Will Hunting?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950dd5",
-      "correctAnswer": "Queen",
-      "incorrectAnswers": [
-        "Level 42",
-        "Deep Purple",
-        "Feeder"
-      ],
-      "question": {
-        "text": "Which band includes 'John Deacon'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "science",
-      "id": "6243345ccfaae40c1296143b",
-      "correctAnswer": "A Piglet",
+      "id": "62433429b6a8efd1b34a2033",
+      "correctAnswer": "A Gosling",
       "incorrectAnswers": [
-        "A Leveret",
-        "A Tadpole",
-        "A Bunny"
+        "A Caterpillar",
+        "A Joey",
+        "A Cub"
       ],
       "question": {
-        "text": "What is the word for a young hedgehog?"
+        "text": "What is the word for a young goose?"
       },
       "tags": [
         "science"
@@ -127,84 +65,20 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c3c7cc59eab6f9517d4",
-      "correctAnswer": "G.I. Joe",
-      "incorrectAnswers": [
-        "Teenage Mutant Ninja Turtles",
-        "Scooby Doo",
-        "Transformers"
-      ],
-      "question": {
-        "text": "Which 80's cartoon ended with the phrase: 'And knowing is half the battle'?"
-      },
-      "tags": [
-        "1980's",
-        "cartoons",
-        "tv",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "63a0397cc7d86251f9b65c68",
-      "correctAnswer": "Trivial Pursuit",
-      "incorrectAnswers": [
-        "Life",
-        "Risk",
-        "Checkers"
-      ],
-      "question": {
-        "text": "What is the name of the classic board game where players must move pieces around a board and answer questions?"
-      },
-      "tags": [
-        "board_games"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94ff69",
-      "correctAnswer": "Rednex",
-      "incorrectAnswers": [
-        "The Cardigans",
-        "Alcazar",
-        "Ace of Base"
-      ],
-      "question": {
-        "text": "Who Had A One Hit Wonder With \"Cotton Eye Joe\" In 1994\"?"
-      },
-      "tags": [
-        "1990's",
-        "one_hit_wonders",
-        "songs",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f17",
-      "correctAnswer": "Alice Munro",
+      "id": "645fcc80541c4d4fc8cf3080",
+      "correctAnswer": "Othello",
       "incorrectAnswers": [
-        "Ivan Turgenev",
-        "E. T. A. Hoffmann",
-        "Alphonse Daudet"
+        "Hamlet",
+        "Macbeth",
+        "Julius Caesar"
       ],
       "question": {
-        "text": "Which author wrote 'Who Do You Think You Are?'?"
+        "text": "Which Shakespeare title character is summoned by the Duke of Venice to help him deal with the threat of a Turkish attack?"
       },
       "tags": [
+        "theater",
+        "shakespeare",
         "arts_and_literature"
       ],
       "type": "text_choice",
@@ -213,65 +87,42 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fa88",
-      "correctAnswer": "Robert De Niro",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f08",
+      "correctAnswer": "Fyodor Dostoyevsky",
       "incorrectAnswers": [
-        "Fred Astaire",
-        "Jeff Bridges",
-        "Michael V. Gazzo"
+        "Vladimir Nabokov",
+        "Leo Tolstoy",
+        "Mikhail Bulgakov"
       ],
       "question": {
-        "text": "Who won the 1974 Academy Award for Best Supporting Actor for playing the role of Vito Corleone in The Godfather Part II?"
+        "text": "Which author wrote 'The Idiot'?"
       },
       "tags": [
-        "academy_awards",
-        "acting",
-        "film",
-        "film_and_tv"
+        "literature",
+        "arts_and_literature"
       ],
       "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "history",
-      "id": "622a1c3b7cc59eab6f9516fa",
-      "correctAnswer": "Catharine of Aragon",
+      "id": "622a1c347cc59eab6f94f9b6",
+      "correctAnswer": "Richard II",
       "incorrectAnswers": [
-        "Anne Boleyn",
-        "Jane Seymour",
-        "Mary, Queen of Scots "
+        "Elizabeth I",
+        "Richard I",
+        "George V"
       ],
       "question": {
-        "text": "Who did King Henry VIII marry when he was 18?"
+        "text": "Who was the monarch of England during the time period 1377-1399?"
       },
       "tags": [
-        "history",
-        "medieval",
-        "middle_ages",
-        "people"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62417ddc0f96c4efe8d773f1",
-      "correctAnswer": "Winnipeg Jets",
-      "incorrectAnswers": [
-        "Winnipeg Padres",
-        "Winnipeg Broncos",
-        "Winnipeg Penguins"
-      ],
-      "question": {
-        "text": "Which of these is a hockey team based in Winnipeg?"
-      },
-      "tags": [
-        "sport"
+        "kings",
+        "uk",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -280,40 +131,20 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950ed5",
-      "correctAnswer": "Nikolai Gogol",
+      "id": "65056f857a97013de78b5466",
+      "correctAnswer": "Salvador Dalí",
       "incorrectAnswers": [
-        "Virginia Woolf",
-        "Alexander Pushkin",
-        "Ayn Rand"
+        "Francisco de Zurbarán",
+        "Georges Seurat",
+        "Johannes Vermeer"
       ],
       "question": {
-        "text": "Which author wrote 'Dead Souls'?"
+        "text": "Which Spanish painter was known for his trippy paintings?"
       },
       "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "6463394601d576cfac3aa32d",
-      "correctAnswer": "It's A Wonderful Life",
-      "incorrectAnswers": [
-        "Miracle on 34th Street",
-        "A Christmas Carol",
-        "White Christmas"
-      ],
-      "question": {
-        "text": "Which classic Christmas movie features the character George Bailey and the search for Zuzu's petals?"
-      },
-      "tags": [
-        "film",
-        "christmas",
-        "film_and_tv"
+        "arts_and_literature",
+        "art",
+        "paintings"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -322,19 +153,66 @@
     },
     {
       "category": "society_and_culture",
-      "id": "649dee4e615f8db40f5422d6",
-      "correctAnswer": "Wednesday",
+      "id": "622a1c357cc59eab6f94fd0a",
+      "correctAnswer": "Voltaire",
       "incorrectAnswers": [
-        "Thursday",
-        "Friday",
-        "Saturday"
+        "Socrates",
+        "Martin Heidegger",
+        "Bertrand Russell"
       ],
       "question": {
-        "text": "What day follows 'Ash' in the name of the first day of Lent?"
+        "text": "Which philosopher famously said 'All is for the best in the best of all possible worlds'?"
       },
       "tags": [
-        "society_and_culture",
-        "dates"
+        "quotes",
+        "philosophy",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951b02",
+      "correctAnswer": "Memphis",
+      "incorrectAnswers": [
+        "Knoxville",
+        "Nashville",
+        "Dallas"
+      ],
+      "question": {
+        "text": "In which US City was Martin Luther King assassinated in 1968?"
+      },
+      "tags": [
+        "people",
+        "usa",
+        "1960's",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "63a039cfc7d86251f9b65cb9",
+      "correctAnswer": "Korean War",
+      "incorrectAnswers": [
+        "Vietnam War",
+        "World War I",
+        "World War II"
+      ],
+      "question": {
+        "text": "What war was the USA involved in between 1950 and 1953?"
+      },
+      "tags": [
+        "history",
+        "usa",
+        "wars",
+        "1950's"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -342,19 +220,20 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "6266bb16ff7b6ee0496ec77f",
-      "correctAnswer": "Woodwind",
+      "category": "general_knowledge",
+      "id": "622a1c357cc59eab6f94fc8b",
+      "correctAnswer": "Doodle Sack",
       "incorrectAnswers": [
-        "Stringed",
-        "Brass",
-        "Percussion"
+        "Fipple",
+        "Tittynope",
+        "Quire"
       ],
       "question": {
-        "text": "What type of instrument is a clarinet?"
+        "text": "Which word is defined as 'Old English word for bagpipe'?"
       },
       "tags": [
-        "music"
+        "words",
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -363,18 +242,19 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950dc9",
-      "correctAnswer": "Khaled Hosseini",
+      "id": "622a1c347cc59eab6f94fa4c",
+      "correctAnswer": "High Renaissance",
       "incorrectAnswers": [
-        "Nathaniel Hawthorne",
-        "Robert E. Howard",
-        "Isabel Allende"
+        "Baroque",
+        "Impressionism",
+        "Mannerism"
       ],
       "question": {
-        "text": "Which author wrote 'The Kite Runner'?"
+        "text": "The painting \"The Triumph of Galatea\" by Raphael is a part of which art movement?"
       },
       "tags": [
-        "arts_and_literature"
+        "art",
+        "painting"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -382,21 +262,106 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "622a1c367cc59eab6f950079",
-      "correctAnswer": "Washington DC",
+      "category": "geography",
+      "id": "62602dee4b176d54800e3cb5",
+      "correctAnswer": "Switzerland",
       "incorrectAnswers": [
-        "New York City",
-        "Brussels",
-        "Geneva"
+        "Denmark",
+        "Finland",
+        "Portugal"
       ],
       "question": {
-        "text": "Where is Capitol Hill?"
+        "text": "Basel is a city in which country?"
       },
       "tags": [
-        "places",
-        "politics",
-        "general_knowledge"
+        "cities",
+        "europe",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fc0c",
+      "correctAnswer": "\"They're here!\"",
+      "incorrectAnswers": [
+        "\"Of all the gin joints in all the towns in all the world, she walks into mine.\"",
+        "\"I drink your milkshake. I drink it up.\"",
+        "\"Love means never having to say you're sorry.\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'Poltergeist'?"
+      },
+      "tags": [
+        "quotes",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "65056f927a97013de78b5478",
+      "correctAnswer": "The Crusaders",
+      "incorrectAnswers": [
+        "The Zealots",
+        "The Infidels",
+        "The Righteous"
+      ],
+      "question": {
+        "text": "Who fought for the Holy Land between 1095 and 1291?"
+      },
+      "tags": [
+        "history",
+        "wars"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6242cb19d543524f1b19c90c",
+      "correctAnswer": "A school",
+      "incorrectAnswers": [
+        "A parliament",
+        "A clowder",
+        "A stud"
+      ],
+      "question": {
+        "text": "What is the word for a group of dolphins?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623740dbcb85f7ce9e949d29",
+      "correctAnswer": "Italy",
+      "incorrectAnswers": [
+        "France",
+        "Greece",
+        "Egypt"
+      ],
+      "question": {
+        "text": "Rome is the capital city of which country?"
+      },
+      "tags": [
+        "capital_cities",
+        "general_knowledge",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -404,19 +369,42 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "622a1c367cc59eab6f95034a",
-      "correctAnswer": "Franklin Roosevelt",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f83",
+      "correctAnswer": "Agatha Christie",
       "incorrectAnswers": [
-        "Dwight Eisenhower",
-        "Lyndon B. Johnson",
-        "Harry Truman"
+        "Robert Louis Stevenson",
+        "Charles Dickens",
+        "Lewis Carroll"
       ],
       "question": {
-        "text": "Who Was President Of The USA At The Outbreak Of World War II?"
+        "text": "Which author wrote 'The Murder of Roger Ackroyd'?"
       },
       "tags": [
-        "history"
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623385a462eaad73716a8c83",
+      "correctAnswer": "Saigon ",
+      "incorrectAnswers": [
+        "Hoi An",
+        "Hue",
+        "Hanoi"
+      ],
+      "question": {
+        "text": "What Was Ho Chi Minh City Previously Known As?"
+      },
+      "tags": [
+        "vietnam",
+        "cities",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -425,42 +413,22 @@
     },
     {
       "category": "history",
-      "id": "622a1c377cc59eab6f950415",
-      "correctAnswer": "Fourteenth",
+      "id": "622a1c3c7cc59eab6f951a76",
+      "correctAnswer": "Joan of Arc",
       "incorrectAnswers": [
-        "Twentieth",
-        "Tenth",
-        "Seventh"
+        "Marie Antoinette",
+        "Birgitte Bardot",
+        "Simone de Beauvoir"
       ],
       "question": {
-        "text": "In which century was The Black Death?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "6471bcf37206d7c314606f68",
-      "correctAnswer": "Nicholas II",
-      "incorrectAnswers": [
-        "Alexander III",
-        "Peter III",
-        "Ivan IV"
-      ],
-      "question": {
-        "text": "Who was crowned Tsar of Russia in 1896?"
+        "text": "Who was called 'The Maid of Orleans'?"
       },
       "tags": [
         "people",
-        "monarchs",
-        "russia",
-        "history",
-        "revolutions"
+        "medieval",
+        "middle_ages",
+        "france",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -469,20 +437,42 @@
     },
     {
       "category": "society_and_culture",
-      "id": "6266e5bcff2394bd44dee015",
-      "correctAnswer": "Yellow",
+      "id": "62ab32c45202de619af28125",
+      "correctAnswer": "Jaguar",
       "incorrectAnswers": [
-        "Red",
-        "Black",
-        "Blue"
+        "Chevrolet",
+        "Aston Martin",
+        "Ferrari"
       ],
       "question": {
-        "text": "In Italian, what is the meaning of the word 'giallo'?"
+        "text": "The XK120 was a model of car made by which manufacturer?"
       },
       "tags": [
-        "language",
-        "translations",
+        "motoring",
+        "business",
         "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "6250069e0d86c8f685d80ef0",
+      "correctAnswer": "Shaped pasta",
+      "incorrectAnswers": [
+        "Soup pasta",
+        "Stuffed pasta",
+        "Ribbon pasta"
+      ],
+      "question": {
+        "text": "What type of pasta is farfalle?"
+      },
+      "tags": [
+        "food",
+        "italy",
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -490,22 +480,19 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fabf",
-      "correctAnswer": "Anthony Hopkins",
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f87",
+      "correctAnswer": "Agatha Christie",
       "incorrectAnswers": [
-        "Riz Ahmed",
-        "Chadwick Boseman",
-        "Gary Oldman"
+        "Robert Louis Stevenson",
+        "Charles Dickens",
+        "Lewis Carroll"
       ],
       "question": {
-        "text": "Who won the 2020 Academy Award for Best Leading Actor for playing the role of Anthony in The Father?"
+        "text": "Which author wrote 'The Mysterious Mr Quin'?"
       },
       "tags": [
-        "academy_awards",
-        "film",
-        "acting",
-        "film_and_tv"
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -513,40 +500,109 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "622a1c357cc59eab6f94fc65",
-      "correctAnswer": "Pauciloquent",
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f95013e",
+      "correctAnswer": "Owl",
       "incorrectAnswers": [
-        "Grommet",
-        "Lackadaisical",
-        "Borborygmus"
+        "Squirrel",
+        "Frog",
+        "Horse"
       ],
       "question": {
-        "text": "Which word is defined as 'uttering few words; brief in speech'?"
+        "text": "In Greek mythology, what animal is associated with Athena?"
       },
       "tags": [
-        "words",
-        "general_knowledge"
+        "mythology",
+        "symbols",
+        "ancient_greece",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6237422bcb85f7ce9e949db1",
+      "correctAnswer": "Saudi Arabia",
+      "incorrectAnswers": [
+        "Burundi",
+        "Cuba",
+        "North Macedonia"
+      ],
+      "question": {
+        "text": "Riyadh is the capital city of which country?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "6250068aea7a97fd2e356d2f",
+      "correctAnswer": "Shaped pasta",
+      "incorrectAnswers": [
+        "Soup pasta",
+        "Stuffed pasta",
+        "Ribbon pasta"
+      ],
+      "question": {
+        "text": "What type of pasta is cavatelli?"
+      },
+      "tags": [
+        "food",
+        "italy",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fd88",
+      "correctAnswer": "Jenny",
+      "incorrectAnswers": [
+        "Brenda",
+        "Lisa",
+        "Julie"
+      ],
+      "question": {
+        "text": "Who Is Tommy Tutone Trying To Call When He Dials \"867 5309\""
+      },
+      "tags": [
+        "songs",
+        "lyrics",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
       "regions": [],
       "isNiche": false
     },
     {
       "category": "history",
-      "id": "622a1c367cc59eab6f950362",
-      "correctAnswer": "Oliver Cromwell",
+      "id": "639895725c9a75021f310456",
+      "correctAnswer": "The Seven Years' War",
       "incorrectAnswers": [
-        "Henry VIII",
-        "Richard III",
-        "Mark Lancaster"
+        "The Hundred Years' War",
+        "The War of the Spanish Succession",
+        "The Napoleonic Wars"
       ],
       "question": {
-        "text": "Who took the title \"Lord Protector of the Commonwealth of England, Scotland, and Ireland\"?"
+        "text": "What was the name of the major conflict between France, Austria, Prussia, Saxony, Russia and Great Britain in the 18th century?"
       },
       "tags": [
-        "history"
+        "history",
+        "1700's",
+        "wars",
+        "europe"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -554,20 +610,21 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd49",
-      "correctAnswer": "James Brown",
+      "category": "society_and_culture",
+      "id": "647a125b55463d5ce2994fdf",
+      "correctAnswer": "A groundhog",
       "incorrectAnswers": [
-        "Marvin Gaye",
-        "Luther Vandross",
-        "Prince"
+        "A prairie dog",
+        "A mole",
+        "An armadillo"
       ],
       "question": {
-        "text": "With Which Singer Is \"Get Up I Feel Like A Sex Machine\" Associated? "
+        "text": "Which animal supposedly predicts whether there will be 6 more weeks of winter or an early spring?"
       },
       "tags": [
-        "songs",
-        "music"
+        "traditions",
+        "society_and_culture",
+        "animals"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -575,65 +632,22 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "622a1c367cc59eab6f9500cc",
-      "correctAnswer": "Surfing",
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f95011d",
+      "correctAnswer": "Quran",
       "incorrectAnswers": [
-        "Yoga",
-        "Piano Playing",
-        "Ballroom Dancing"
+        "Torah",
+        "Dead Sea Scrolls",
+        "Bolah"
       ],
       "question": {
-        "text": "Green Room, Crystal Cathedral & Walking The Dog are all terms from what?"
+        "text": "What is the holy book of Islam?"
       },
       "tags": [
-        "general_knowledge"
+        "society_and_culture"
       ],
       "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950db8",
-      "correctAnswer": "The Rolling Stones",
-      "incorrectAnswers": [
-        "McFly",
-        "Delirious?",
-        "Depeche Mode"
-      ],
-      "question": {
-        "text": "Which band includes 'Mick Jagger'?"
-      },
-      "tags": [
-        "people",
-        "general_knowledge",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "62573ff59da29df7b05f73b9",
-      "correctAnswer": "Lawrence of Arabia",
-      "incorrectAnswers": [
-        "City Lights",
-        "Sunset Blvd.",
-        "Braveheart"
-      ],
-      "question": {
-        "text": "Name the movie that matches the following plot summary: 'The story an English officer who successfully united and led the Arab tribes during World War I.'"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "regions": [],
       "isNiche": false
     }

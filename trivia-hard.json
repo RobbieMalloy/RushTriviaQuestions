@@ -1,113 +1,24 @@
 {
-  "gameDate": "2026-01-10",
+  "gameDate": "2026-01-11",
   "difficulty": "hard",
   "results": [
     {
-      "category": "film_and_tv",
-      "id": "625698ef9da29df7b05f72a7",
-      "correctAnswer": "Evangeline Lilly",
-      "incorrectAnswers": [
-        "Scarlett Johansson",
-        "Natalie Portman",
-        "Hayley Atwell"
-      ],
-      "question": {
-        "text": "Who plays the role of Hope Van Dyne in the Marvel Cinematic Universe?"
-      },
-      "tags": [
-        "mcu",
-        "film",
-        "acting",
-        "marvel",
-        "comics",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "648891c14cd3f064f443dc48",
-      "correctAnswer": "Swimwear",
-      "incorrectAnswers": [
-        "Suits",
-        "Hats",
-        "Dresses"
-      ],
-      "question": {
-        "text": "What type of clothing is Anne Cole is known for designing?"
-      },
-      "tags": [
-        "fashion",
-        "clothing",
-        "designers",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "6396eb4b6017b1e8e09020cc",
-      "correctAnswer": "The Shaggs",
-      "incorrectAnswers": [
-        "Guns N Roses",
-        "Nirvana",
-        "The Kingsmen"
-      ],
-      "question": {
-        "text": "Which American rock band has hits including ‘My Pal Foot Foot’ and ‘Gimmie Dat Ding’"
-      },
-      "tags": [
-        "music",
-        "\nrock",
-        "songs"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd97",
-      "correctAnswer": "Mariah Carey",
-      "incorrectAnswers": [
-        "Rihanna",
-        "Beyonce",
-        "Christina Aguilera"
-      ],
-      "question": {
-        "text": "Which Singing Diva Flopped At The Box Office With Her Debut Movie “Glitter”?"
-      },
-      "tags": [
-        "people",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "geography",
-      "id": "62374010cb85f7ce9e949cd8",
-      "correctAnswer": "Brazzaville",
+      "id": "646140b54d46e537ca8cd9fd",
+      "correctAnswer": "Kingston",
       "incorrectAnswers": [
-        "Tirana",
-        "N'Djamena",
-        "Yaren District"
+        "Havana",
+        "San Juan",
+        "Port-au-Prince"
       ],
       "question": {
-        "text": "What is the capital city of Republic of the Congo?"
+        "text": "Which Caribbean capital is located near the foothills of the Blue Mountains?"
       },
       "tags": [
-        "africa",
+        "mountains",
+        "caribbean",
         "capital_cities",
+        "cities",
         "geography"
       ],
       "type": "text_choice",
@@ -116,147 +27,20 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "624ab0d9348a461bfc67069f",
-      "correctAnswer": "China",
-      "incorrectAnswers": [
-        "Central America",
-        "Southeast Asia",
-        "The Middle East"
-      ],
-      "question": {
-        "text": "From which part of the world do persimmons originate?"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f950188",
-      "correctAnswer": "Henry VI",
+      "id": "622a1c397cc59eab6f950dd9",
+      "correctAnswer": "John Dos Passos",
       "incorrectAnswers": [
-        "Richard III",
-        "Othello",
-        "Macbeth"
+        "Robert Jordan",
+        "Philip K. Dick",
+        "Isabel Allende"
       ],
       "question": {
-        "text": "What was Shakespeare's first play?"
+        "text": "Which author wrote 'U.S.A.'?"
       },
       "tags": [
+        "literature",
         "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f950357",
-      "correctAnswer": "George A. Custer",
-      "incorrectAnswers": [
-        "Erwin Rommel",
-        "Hannibal",
-        "William T. Sherman"
-      ],
-      "question": {
-        "text": "Who was defeated at the Battle of Little Bighorn?"
-      },
-      "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c3c7cc59eab6f951967",
-      "correctAnswer": "Mother",
-      "incorrectAnswers": [
-        "HAL",
-        "Colossus",
-        "Jarvis"
-      ],
-      "question": {
-        "text": "What is the nickname of the ship's computer in the 1979 film Alien?"
-      },
-      "tags": [
-        "film",
-        "cult_films",
-        "science_fiction",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "646262c1ab138b829b81ea5b",
-      "correctAnswer": "Spinning wheels",
-      "incorrectAnswers": [
-        "Candles",
-        "Pillows",
-        "Dolls"
-      ],
-      "question": {
-        "text": "What household objects did Sleeping Beauty's parents try to have burned?"
-      },
-      "tags": [
-        "arts_and_literature",
-        "fairy_tales",
-        "disney"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fd38",
-      "correctAnswer": "William of Ockham",
-      "incorrectAnswers": [
-        "Denis Diderot",
-        "Jean-Paul Sartre",
-        "Spinoza"
-      ],
-      "question": {
-        "text": "Which philosopher famously said 'Entities should not be multiplied unnecessarily'?"
-      },
-      "tags": [
-        "philosophy",
-        "quotes",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c6152badf21197f98f774",
-      "correctAnswer": "Chicken Machboos",
-      "incorrectAnswers": [
-        "Ambuyat",
-        "Pepperpot",
-        "Pho"
-      ],
-      "question": {
-        "text": "Which of these dishes is most associated with Bahrain?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -265,18 +49,18 @@
     },
     {
       "category": "general_knowledge",
-      "id": "622a1c367cc59eab6f9503df",
-      "correctAnswer": "Ceylon",
+      "id": "622a1c357cc59eab6f94fc5e",
+      "correctAnswer": "Ulotrichous",
       "incorrectAnswers": [
-        "Burma",
-        "East Pakistan",
-        "Persia"
+        "Conjubilant",
+        "Kakorrhaphiophobia",
+        "Sprunt"
       ],
       "question": {
-        "text": "What is the former name of Sri Lanka?"
+        "text": "Which word is defined as 'having wooly or crispy hair'?"
       },
       "tags": [
-        "names",
+        "words",
         "general_knowledge"
       ],
       "type": "text_choice",
@@ -285,20 +69,19 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950ed2",
-      "correctAnswer": "Nikolai Gogol",
+      "category": "music",
+      "id": "622a1c397cc59eab6f950be6",
+      "correctAnswer": "Nightwish",
       "incorrectAnswers": [
-        "Virginia Woolf",
-        "Alexander Pushkin",
-        "Ayn Rand"
+        "Haloo Helsinki!",
+        "Hanoi Rocks",
+        "Children of Bodom"
       ],
       "question": {
-        "text": "Which author wrote 'Mirgorod'?"
+        "text": "Which Finnish symphonic metal band released the album 'Oceanborn'?"
       },
       "tags": [
-        "literature",
-        "arts_and_literature"
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -306,24 +89,21 @@
       "isNiche": false
     },
     {
-      "category": "history",
-      "id": "6476390cf05ea6d6f587a184",
-      "correctAnswer": "Sweden",
+      "category": "music",
+      "id": "62506482e12f6dec240bdfb8",
+      "correctAnswer": "Edwyn Collins",
       "incorrectAnswers": [
-        "Norway",
-        "Finland",
-        "Denmark"
+        "The Waitresses",
+        "Rockwell",
+        "The Heights"
       ],
       "question": {
-        "text": "What country's government resigned due to Gustav V's 1914 borggardstalet or 'courtyard speech'?"
+        "text": "'A Girl Like You' was a one hit wonder in 1994 by which artist?"
       },
       "tags": [
-        "history",
-        "people",
-        "scandinavia",
-        "1910's",
-        "monarchs",
-        "speeches"
+        "songs",
+        "one_hit_wonders",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -331,41 +111,19 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "647f9dbc3a4302a719271636",
-      "correctAnswer": "Jack",
+      "category": "sport_and_leisure",
+      "id": "62399eeb43254f1dbcdd082d",
+      "correctAnswer": "Brazil",
       "incorrectAnswers": [
-        "Ensign",
-        "Pennant",
-        "Burgee"
+        "France",
+        "Germany",
+        "Uruguay"
       ],
       "question": {
-        "text": "What is the name of the flag flown on a short pole at the bow of a ship?"
+        "text": "Which country won the 1994 FIFA World Cup, hosted in United States?"
       },
       "tags": [
-        "flags",
-        "society_and_culture",
-        "seafaring"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "624335afcfaae40c129614c1",
-      "correctAnswer": "A Jill",
-      "incorrectAnswers": [
-        "A Bitch",
-        "A Lioness",
-        "A Queen"
-      ],
-      "question": {
-        "text": "What is the word for a female wombat?"
-      },
-      "tags": [
-        "science"
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -374,18 +132,17 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94faa4",
-      "correctAnswer": "Judi Dench",
+      "id": "622a1c347cc59eab6f94fb0a",
+      "correctAnswer": "Susan Sarandon",
       "incorrectAnswers": [
-        "Kathy Bates",
-        "Brenda Blethyn",
-        "Rachel Griffiths"
+        "Elisabeth Shue",
+        "Sharon Stone",
+        "Meryl Streep"
       ],
       "question": {
-        "text": "Who won the 1998 Academy Award for Best Supporting Actress for playing the role of Queen Elizabeth I in Shakespeare in Love?"
+        "text": "Who won the 1995 Academy Award for Best Leading Actress for playing the role of Sister Helen Prejean in Dead Man Walking?"
       },
       "tags": [
-        "acting",
         "film",
         "academy_awards",
         "film_and_tv"
@@ -396,16 +153,249 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f950867",
-      "correctAnswer": "Liberia",
+      "category": "film_and_tv",
+      "id": "624db9ccde6018633d31f6a2",
+      "correctAnswer": "Roger Moore",
       "incorrectAnswers": [
-        "Guinea-Bissau",
-        "Ivory Coast",
-        "The Gambia"
+        "Pierce Brosnan",
+        "Sean Connery",
+        "Daniel Craig"
       ],
       "question": {
-        "text": "Which of these countries borders Sierra Leone?"
+        "text": "Who played the role of James Bond in Octopussy?"
+      },
+      "tags": [
+        "james_bond",
+        "film",
+        "acting",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "6250648fe12f6dec240bdfbc",
+      "correctAnswer": "Maniac",
+      "incorrectAnswers": [
+        "Convoy",
+        "Just a Friend",
+        "Tainted Love"
+      ],
+      "question": {
+        "text": "What song did Michael Sembello have a hit with in 1983?"
+      },
+      "tags": [
+        "songs",
+        "one_hit_wonders",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "645c9fc342ea81e2554c5f6b",
+      "correctAnswer": "1",
+      "incorrectAnswers": [
+        "Red",
+        "5",
+        "Black"
+      ],
+      "question": {
+        "text": "What is the highest level of readiness for the military when using the DEFCON system?"
+      },
+      "tags": [
+        "military"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "6355b7e4e8b368eed3a68234",
+      "correctAnswer": "plosive",
+      "incorrectAnswers": [
+        "nasal",
+        "approximant",
+        "fricative"
+      ],
+      "question": {
+        "text": "In phonetics, the b in 'boat' is an example of what kind of sound?"
+      },
+      "tags": [
+        "language",
+        "linguistics",
+        "general_knowledge",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c397cc59eab6f950fb9",
+      "correctAnswer": "Clive Sinclair",
+      "incorrectAnswers": [
+        "Tim Berners Lee",
+        "Alan Sugar",
+        "Bill Gates"
+      ],
+      "question": {
+        "text": "Who Invented The ZX80, The First Widely Available Personal Computer?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "648614a2f773f09dc0193b39",
+      "correctAnswer": "Glaucoma",
+      "incorrectAnswers": [
+        "Cataracts",
+        "Myopia",
+        "Astigmatism"
+      ],
+      "question": {
+        "text": "What medical term is often caused by abnormally high fluid pressure in the eye?"
+      },
+      "tags": [
+        "medicine",
+        "ophthalmology",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e9b",
+      "correctAnswer": "Franz Kafka",
+      "incorrectAnswers": [
+        "Émile Zola",
+        "Nathaniel Hawthorne",
+        "Leo Tolstoy"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Metamorphosis'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c397cc59eab6f950d5b",
+      "correctAnswer": "Oasis",
+      "incorrectAnswers": [
+        "Goldfrapp",
+        "Kaiser Chiefs",
+        "Jethro Tull"
+      ],
+      "question": {
+        "text": "Which band includes 'Liam Gallagher'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f95059d",
+      "correctAnswer": "Aqueous vapors",
+      "incorrectAnswers": [
+        "Insects",
+        "The nervous system",
+        "Weather"
+      ],
+      "question": {
+        "text": "What is Atmology the study of?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624ab09f348a461bfc670689",
+      "correctAnswer": "Africa",
+      "incorrectAnswers": [
+        "Central Asia",
+        "Southeast Asia",
+        "North America"
+      ],
+      "question": {
+        "text": "Where in the world are watermelons originally from?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f95034b",
+      "correctAnswer": "Rommel",
+      "incorrectAnswers": [
+        "MacArthur",
+        "Montgomery",
+        "Zhukov"
+      ],
+      "question": {
+        "text": "Which WWII general was nicknamed 'The Desert Fox'?"
+      },
+      "tags": [
+        "world_war_2",
+        "people",
+        "wars",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62374149cb85f7ce9e949d56",
+      "correctAnswer": "Male",
+      "incorrectAnswers": [
+        "Asunción",
+        "Nicosia",
+        "Dodoma"
+      ],
+      "question": {
+        "text": "What is the capital city of Maldives?"
       },
       "tags": [
         "geography"
@@ -416,89 +406,18 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951087",
-      "correctAnswer": "Gall bladder",
-      "incorrectAnswers": [
-        "Kidney",
-        "Bowel",
-        "Spleen"
-      ],
-      "question": {
-        "text": "This organ is a small pouch that stores bile."
-      },
-      "tags": [
-        "biology",
-        "the_human_body",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c357cc59eab6f94fe17",
-      "correctAnswer": "Queensboro Bridge ",
-      "incorrectAnswers": [
-        "Manhattan Bridge",
-        "Hudson Bridge",
-        "Brooklyn Bridge"
-      ],
-      "question": {
-        "text": "Which Bridge Features On The Poster To The Woody Allen Film Manhattan?"
-      },
-      "tags": [
-        "bridges",
-        "new_york",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94faa1",
-      "correctAnswer": "Anne Hathaway",
-      "incorrectAnswers": [
-        "Amy Adams",
-        "Sally Field",
-        "Helen Hunt"
-      ],
-      "question": {
-        "text": "Who won the 2012 Academy Award for Best Supporting Actress for playing the role of Fantine in Les Misérables?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "academy_awards",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "arts_and_literature",
-      "id": "646140774d46e537ca8cd9b8",
-      "correctAnswer": "Saul Bellow",
+      "id": "622a1c347cc59eab6f94f977",
+      "correctAnswer": "The Swimmer",
       "incorrectAnswers": [
-        "Philip Roth",
-        "John Cheever",
-        "Flannery O'Connor"
+        "The English Patient",
+        "Portrait of the Artist as a Young Man",
+        "Nine Stories"
       ],
       "question": {
-        "text": "Who is the author of the books 'Mr. Sammler's Planet' and 'Herzog'?"
+        "text": "Which book contains the character 'Neddy Merrill'?"
       },
       "tags": [
-        "books",
-        "authors",
-        "novels",
         "literature",
         "arts_and_literature"
       ],
@@ -508,21 +427,60 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "64dfa5baa6681754ea052bbb",
-      "correctAnswer": "P. Diddy",
+      "category": "sport_and_leisure",
+      "id": "65056f097a97013de78b53b8",
+      "correctAnswer": "15",
       "incorrectAnswers": [
-        "Kanye West",
-        "Snoop Dogg",
-        "Jay Z"
+        "20",
+        "25",
+        "30"
       ],
       "question": {
-        "text": "Which rapper launched their \"Sean John\" fashion line in 1998?"
+        "text": "How many red balls are there in a game of snooker?"
       },
       "tags": [
-        "music",
-        "society_and_culture",
-        "fashion"
+        "sport_and_leisure",
+        "snooker"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950f1a",
+      "correctAnswer": "Alice Munro",
+      "incorrectAnswers": [
+        "Ivan Turgenev",
+        "E. T. A. Hoffmann",
+        "Alphonse Daudet"
+      ],
+      "question": {
+        "text": "Which author wrote 'Lying Under the Apple Tree'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c3d7cc59eab6f951c5d",
+      "correctAnswer": "50 Pence",
+      "incorrectAnswers": [
+        "£2",
+        "20 Pence",
+        "15 Pence"
+      ],
+      "question": {
+        "text": "In 1968 Which British Coin Was Introduced To Replace The Ten Shilling Note?"
+      },
+      "tags": [
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -531,18 +489,17 @@
     },
     {
       "category": "geography",
-      "id": "625e9dc0796f721e95543f2a",
-      "correctAnswer": "Three equal horizontal bands of red white and red.",
+      "id": "622a1c387cc59eab6f9509e6",
+      "correctAnswer": "Italy",
       "incorrectAnswers": [
-        "Three equal vertical bands of green, yellow, and red.",
-        "Red field with a yellow sun in the center.",
-        "Green with a yellow diamond in the center with a blue celestial globe."
+        "San Marino",
+        "Bosnia and Herzegovina",
+        "Czech Republic"
       ],
       "question": {
-        "text": "What does the flag of Austria look like?"
+        "text": "Which of these countries borders Slovenia?"
       },
       "tags": [
-        "flags",
         "europe",
         "geography"
       ],
@@ -552,19 +509,42 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94fd6d",
-      "correctAnswer": "Eva Cassidy",
+      "category": "film_and_tv",
+      "id": "622a1c3d7cc59eab6f951c80",
+      "correctAnswer": "Kojak",
       "incorrectAnswers": [
-        "Norah Jones",
-        "Dido",
-        "Karen Carpenter"
+        "Shaft",
+        "Coffy",
+        "Black Belt Jones"
       ],
       "question": {
-        "text": "Whose Album 'Songbird' Became A Posthumous Hit In 2001?"
+        "text": "'Who loves ya, baby?' was the catchphrase of which 70s TV sleuth?"
       },
       "tags": [
-        "music_albums",
+        "quotes",
+        "tv",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "62506407e12f6dec240bdf94",
+      "correctAnswer": "Buster Poindexter",
+      "incorrectAnswers": [
+        "Bow Wow Wow",
+        "Crash Test Dummies",
+        "Andrea True Connection"
+      ],
+      "question": {
+        "text": "'Hot, Hot, Hot' was a one hit wonder in 1987 by which artist?"
+      },
+      "tags": [
+        "songs",
+        "one_hit_wonders",
         "music"
       ],
       "type": "text_choice",
@@ -573,19 +553,19 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502d3",
-      "correctAnswer": "Vodka, Orange Juice, Galliano ",
+      "category": "music",
+      "id": "622a1c397cc59eab6f950cce",
+      "correctAnswer": "Queen",
       "incorrectAnswers": [
-        "Gin, Ginger Beer, Lemon Juice",
-        "Rum, Tequila, Tabasco Sauce, Soda",
-        "Champagne, Espresso, Mint"
+        "Level 42",
+        "Deep Purple",
+        "Feeder"
       ],
       "question": {
-        "text": "What Are The Ingredients Of A Harvey Wallbanger Cocktail?"
+        "text": "Which British rock band (1970-) released the studio album 'News of the World'?"
       },
       "tags": [
-        "food_and_drink"
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -593,19 +573,22 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950dec",
-      "correctAnswer": "Aleksandr Solzhenitsyn",
+      "category": "history",
+      "id": "64f6d9bd660c3a8d960101f4",
+      "correctAnswer": "Rodney King",
       "incorrectAnswers": [
-        "Henryk Sienkiewicz",
-        "Oscar Wilde",
-        "Ivan Turgenev"
+        "O.J. Simpson",
+        "Reginald Denny",
+        "Michael Brown"
       ],
       "question": {
-        "text": "Which author wrote 'The Gulag Archipelago'?"
+        "text": "In 1991, there was outrage after the LAPD's notorious encounter with which man was caught on video?"
       },
       "tags": [
-        "arts_and_literature"
+        "usa",
+        "history",
+        "1990's",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -613,19 +596,21 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "624333a4cfaae40c129613f5",
-      "correctAnswer": "A Fawn",
+      "category": "history",
+      "id": "622a1c367cc59eab6f950349",
+      "correctAnswer": "Stanley Baldwin",
       "incorrectAnswers": [
-        "A Joey",
-        "A Spiderling",
-        "A Farrow"
+        "Anthony Eden",
+        "Winston Churchill",
+        "Bonar Law"
       ],
       "question": {
-        "text": "A young deer is known as what?"
+        "text": "Who Was Prime Minister When King Edward VIII Abdicated?"
       },
       "tags": [
-        "science"
+        "leaders",
+        "uk",
+        "history"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -633,21 +618,21 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "63afff7d2d1dcedfbb654552",
-      "correctAnswer": "Brutus",
+      "category": "film_and_tv",
+      "id": "647638d1f05ea6d6f587a152",
+      "correctAnswer": "Animal House",
       "incorrectAnswers": [
-        "Puck",
-        "Hermia",
-        "Oberon"
+        "The Breakfast Club",
+        "Fast Times at Ridgemont High",
+        "The Karate Kid"
       ],
       "question": {
-        "text": "Which of the following characters does not appear in Shakespeare's 'A Midsummer Night's Dream'?"
+        "text": "Which 1978 movie features the line 'It was the Deltas against the rules... the rules lost!'?"
       },
       "tags": [
-        "arts_and_literature",
-        "shakespeare",
-        "theater"
+        "film",
+        "film_and_tv",
+        "film_quotes"
       ],
       "type": "text_choice",
       "difficulty": "hard",

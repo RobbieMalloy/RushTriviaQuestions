@@ -1,23 +1,151 @@
 {
-  "gameDate": "2026-01-10",
+  "gameDate": "2026-01-11",
   "difficulty": "medium",
   "results": [
     {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951a98",
-      "correctAnswer": "Alaska",
+      "category": "geography",
+      "id": "6477bacc550bc819ad646b0d",
+      "correctAnswer": "The Brooklyn Bridge",
       "incorrectAnswers": [
-        "Oregon",
-        "Idaho",
-        "Florida"
+        "The Golden Gate Bridge",
+        "Tower Bridge",
+        "George Washington Bridge"
       ],
       "question": {
-        "text": "On the 3rd January 1959 which state became America's 49th?"
+        "text": "What is the name of the bridge that spans the East River in New York and was the first to use steel for cable wire?"
       },
       "tags": [
-        "1950's",
-        "usa",
-        "us_states",
+        "bridges",
+        "geography",
+        "rivers",
+        "new_york",
+        "new_york_city"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c3a7cc59eab6f9513ab",
+      "correctAnswer": "Pride and Prejudice",
+      "incorrectAnswers": [
+        "The Fault in Our Stars",
+        "Ship of Fools",
+        "War and Peace"
+      ],
+      "question": {
+        "text": "In which book does 'Mary Bennet' appear?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c357cc59eab6f94fca0",
+      "correctAnswer": "Dipthong",
+      "incorrectAnswers": [
+        "Kakorrhaphiophobia",
+        "Grommet",
+        "Jentacular"
+      ],
+      "question": {
+        "text": "Which word is defined as 'two vowel sounds joined in one syllable to form one speech sound, e.g. the sounds of “ou” in out and of “oy” in boy'?"
+      },
+      "tags": [
+        "words",
+        "language",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94ff5e",
+      "correctAnswer": "Bob Dylan",
+      "incorrectAnswers": [
+        "Neil Young",
+        "Eric Clapton",
+        "Alanis Morissette"
+      ],
+      "question": {
+        "text": "Which American musician released the song 'Times They Are a-Changin''?"
+      },
+      "tags": [
+        "songs",
+        "general_knowledge",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "647f9df73a4302a719271692",
+      "correctAnswer": "Minestrone",
+      "incorrectAnswers": [
+        "Linguine",
+        "Tiramisu",
+        "Pesto"
+      ],
+      "question": {
+        "text": "Which of these is a thick Italian vegetable soup?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink",
+        "soups"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "625e9e4e796f721e95543f4e",
+      "correctAnswer": "Blue",
+      "incorrectAnswers": [
+        "Black",
+        "Orange",
+        "Maroon"
+      ],
+      "question": {
+        "text": "Which of these colors is included on the flag of Cuba?"
+      },
+      "tags": [
+        "flags",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3d7cc59eab6f951bbc",
+      "correctAnswer": "43",
+      "incorrectAnswers": [
+        "48",
+        "51",
+        "57"
+      ],
+      "question": {
+        "text": "How old was John F. Kennedy when he became president?"
+      },
+      "tags": [
         "history"
       ],
       "type": "text_choice",
@@ -26,195 +154,16 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbc3",
-      "correctAnswer": "\"May the odds ever be in your favor.\"",
-      "incorrectAnswers": [
-        "\"After all, tomorrow is another day!\"",
-        "\"I'll have what she's having.\"",
-        "\"Exercise gives you endorphins. Endorphins make you happy. Happy people just don’t shoot their husbands. They just don’t.\""
-      ],
-      "question": {
-        "text": "Which of these quotes is from the film 'The Hunger Games'?"
-      },
-      "tags": [
-        "quotes",
-        "film",
-        "general_knowledge",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "639c9d93929b90846f2fc958",
-      "correctAnswer": "1989",
-      "incorrectAnswers": [
-        "1980",
-        "1985",
-        "1994"
-      ],
-      "question": {
-        "text": "In which year did the Berlin Wall fall?"
-      },
-      "tags": [
-        "history",
-        "1900's",
-        "cold_war",
-        "germany",
-        "events"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "food_and_drink",
-      "id": "63a03947c7d86251f9b65c32",
-      "correctAnswer": "Cheese",
+      "id": "622a1c367cc59eab6f9502e4",
+      "correctAnswer": "United States ",
       "incorrectAnswers": [
-        "Tomatoes",
-        "Beans",
-        "Chili"
+        "China",
+        "Thailand",
+        "Brazil"
       ],
       "question": {
-        "text": "What is the main ingredient in queso dip?"
-      },
-      "tags": [
-        "food_and_drink",
-        "food"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f950fd8",
-      "correctAnswer": "Kidney",
-      "incorrectAnswers": [
-        "Liver",
-        "Lung",
-        "Heart"
-      ],
-      "question": {
-        "text": "Which vital organ does the adjective renal refer to?"
-      },
-      "tags": [
-        "anatomy",
-        "words",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c347cc59eab6f94fb82",
-      "correctAnswer": "\"Wonderwall\" by Oasis",
-      "incorrectAnswers": [
-        "\"SpongeBob SquarePants Theme\" by Painty the Pirate",
-        "\"I'll Make a Man Out of You\" by Donny Osmond",
-        "\"Baby Got Back\" by Sir Mix-a-Lot"
-      ],
-      "question": {
-        "text": "Which song begins with the lyrics: \"And Today is gonna be the day that they're gonna throw it back to you.\"?"
-      },
-      "tags": [
-        "lyrics",
-        "general_knowledge",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "6266bb1dff7b6ee0496ec780",
-      "correctAnswer": "Woodwind",
-      "incorrectAnswers": [
-        "Stringed",
-        "Brass",
-        "Percussion"
-      ],
-      "question": {
-        "text": "What type of instrument is a bassoon?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "646262f6ab138b829b81ea71",
-      "correctAnswer": "Moses",
-      "incorrectAnswers": [
-        "Abraham",
-        "Isaac",
-        "Jacob"
-      ],
-      "question": {
-        "text": "In the Abrahamic scriptures, who asked Pharaoh to let his people go?"
-      },
-      "tags": [
-        "society_and_culture",
-        "religion",
-        "christianity",
-        "islam",
-        "judaism",
-        "bible"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "63e4c34c106de6ffa7d4a7c9",
-      "correctAnswer": "Protection and mating displays",
-      "incorrectAnswers": [
-        "Digging and climbing",
-        "Attracting prey and communication",
-        "Receiving electromagnetic signals"
-      ],
-      "question": {
-        "text": "What was the purpose of the horns and plates that adorned some dinosaurs?"
-      },
-      "tags": [
-        "science",
-        "dinosaurs",
-        "nature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502b1",
-      "correctAnswer": "Egg",
-      "incorrectAnswers": [
-        "Cheese",
-        "Soured Cream",
-        "Milk"
-      ],
-      "question": {
-        "text": "What Is The Principle Ingredient Of Mayonnaise?"
+        "text": "In Which Country Were Fortune Cookies Invented? "
       },
       "tags": [
         "food_and_drink"
@@ -225,20 +174,19 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "6486be3159bc33d1c362f317",
-      "correctAnswer": "Blue Ivy",
+      "category": "geography",
+      "id": "623386e20161109f922aabec",
+      "correctAnswer": "Washington D.C. ",
       "incorrectAnswers": [
-        "Red Lily",
-        "Yellow Rose",
-        "Green Lotus"
+        "Budapest",
+        "Freetown",
+        "New Delhi"
       ],
       "question": {
-        "text": "What is the name of Beyoncé's daughter?"
+        "text": "Which capital city stands on the Potomac River?"
       },
       "tags": [
-        "people",
-        "society_and_culture"
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -246,22 +194,22 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "646140b54d46e537ca8cda00",
-      "correctAnswer": "The Panama Canal",
+      "category": "history",
+      "id": "64a0966bcf8fd58080cefff3",
+      "correctAnswer": "St. Patrick",
       "incorrectAnswers": [
-        "The Golden Gate Bridge",
-        "The Bay Bridge",
-        "The Sacramento-San Joaquin Delta"
+        "St. Peter",
+        "St. Paul",
+        "St. Augustine"
       ],
       "question": {
-        "text": "What engineering achievement made it much easier to sail between the Atlantic and Pacific oceans?"
+        "text": "Which Roman missionary is credited with bringing Christianity to Ireland in the 5th century?"
       },
       "tags": [
-        "civil_engineering",
-        "general_knowledge",
-        "geography",
-        "bodies_of_water"
+        "ireland",
+        "christianity",
+        "history",
+        "people"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -270,19 +218,21 @@
     },
     {
       "category": "science",
-      "id": "622a1c377cc59eab6f95056b",
-      "correctAnswer": "How to encode and decode secret messages",
+      "id": "6505703e7a97013de78b5565",
+      "correctAnswer": "A hormone",
       "incorrectAnswers": [
-        "Animal diseases",
-        "Sacred texts",
-        "Burial grounds"
+        "A gland",
+        "An amino acid",
+        "A sugar"
       ],
       "question": {
-        "text": "What is cryptology the study of?"
+        "text": "What is testosterone?"
       },
       "tags": [
         "science",
-        "words"
+        "medicine",
+        "anatomy",
+        "biology"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -290,39 +240,21 @@
       "isNiche": false
     },
     {
-      "category": "general_knowledge",
-      "id": "65056ff87a97013de78b5503",
-      "correctAnswer": "Different chili peppers and hot sauces (heat/spiciness)",
+      "category": "food_and_drink",
+      "id": "625006d90d86c8f685d80f01",
+      "correctAnswer": "Soup pasta",
       "incorrectAnswers": [
-        "Honey (sweetness)",
-        "Table salt (salinity)",
-        "Bananas (sweetness)"
+        "Stuffed pasta",
+        "Tubular pasta",
+        "Shaped pasta"
       ],
       "question": {
-        "text": "What is classified with the Scoville scale?"
+        "text": "What type of pasta is orzo?"
       },
       "tags": [
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c367cc59eab6f9503c4",
-      "correctAnswer": "Atom Bombs",
-      "incorrectAnswers": [
-        "Race Horses",
-        "World War 2 Agents",
-        "Intel CPU Names"
-      ],
-      "question": {
-        "text": "What were 'Little Boy' and 'Fat Man'?"
-      },
-      "tags": [
-        "general_knowledge"
+        "food",
+        "italy",
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -331,122 +263,19 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f950100",
-      "correctAnswer": "Ares",
+      "id": "63bc3f900e893d6e5a6a0fb6",
+      "correctAnswer": "Moschino",
       "incorrectAnswers": [
-        "Athena",
-        "Hephaestus",
-        "Zeus"
+        "Valentino",
+        "Givenchy",
+        "Prada"
       ],
       "question": {
-        "text": "Who is the Greek equivalent of the Roman god Mars?"
+        "text": "Which of the following fashion houses is famous for its colorful, eccentric designs, often made with unusual materials?"
       },
       "tags": [
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c357cc59eab6f94ffcf",
-      "correctAnswer": "Simon & Garfunkel",
-      "incorrectAnswers": [
-        "Hall & Oates",
-        "Ike & Tina Turner",
-        "The Everley Brothers"
-      ],
-      "question": {
-        "text": "Which Pair Had The Best Selling Album In Both 1970 And 1971?"
-      },
-      "tags": [
-        "music_albums",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f9510a1",
-      "correctAnswer": "Crocodile",
-      "incorrectAnswers": [
-        "Kangaroo",
-        "Cow",
-        "Goliath Spider"
-      ],
-      "question": {
-        "text": "The __________ does not chew its food, but swallows it whole."
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62399f33af96521963a08724",
-      "correctAnswer": "Uruguay",
-      "incorrectAnswers": [
-        "France",
-        "Brazil",
-        "Argentina"
-      ],
-      "question": {
-        "text": "Which country won the 1930 FIFA World Cup, hosted in Uruguay?"
-      },
-      "tags": [
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3a7cc59eab6f951384",
-      "correctAnswer": "Through the Looking-Glass",
-      "incorrectAnswers": [
-        "Mio, My Son",
-        "Jonathan Strange & Mr Norrell",
-        "The Stand"
-      ],
-      "question": {
-        "text": "In which of these books does 'Alice in Wonderland' appear?"
-      },
-      "tags": [
-        "literature",
-        "arts_and_literature",
-        "fictitious_characters"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "645f9565541c4d4fc8cf2eda",
-      "correctAnswer": "Recoil",
-      "incorrectAnswers": [
-        "Muzzle flash",
-        "Backfire",
-        "Forward thrust"
-      ],
-      "question": {
-        "text": "What is the term for the backward momentum that a person feels after firing a gun?"
-      },
-      "tags": [
-        "military",
-        "phrases"
+        "society_and_culture",
+        "fashion"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -455,17 +284,82 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9506c7",
-      "correctAnswer": "Kevin Spacey",
+      "id": "622a1c347cc59eab6f94fbee",
+      "correctAnswer": "\"Nobody puts Baby in a corner.\"",
       "incorrectAnswers": [
-        "Russell Crowe",
-        "Jean-Claude Van Damme",
-        "John Turturro"
+        "\"What’s the most you ever lost on a coin toss?\"",
+        "\"I am a golden god!\"",
+        "\"Toto, I've a feeling we're not in Kansas anymore.\""
       ],
       "question": {
-        "text": "Which actor has played roles in House of Cards and American Beauty?"
+        "text": "Which of these quotes is from the film 'Dirty Dancing'?"
       },
       "tags": [
+        "quotes",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c3d7cc59eab6f951c6a",
+      "correctAnswer": "Little Jack Horner",
+      "incorrectAnswers": [
+        "Humpty Dumpty",
+        "Jack",
+        "Happy Hungry Harry"
+      ],
+      "question": {
+        "text": "According to the nursery rhyme, who, 'sat in the corner eating a Christmas Pie''?"
+      },
+      "tags": [
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c367cc59eab6f950209",
+      "correctAnswer": "Ridley Scott",
+      "incorrectAnswers": [
+        "Steven Spielberg",
+        "Woody Allen",
+        "Martin Scorsese"
+      ],
+      "question": {
+        "text": "Which director directed Alien?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f950728",
+      "correctAnswer": "Mark Wahlberg",
+      "incorrectAnswers": [
+        "Ralph Fiennes",
+        "Brian Cox",
+        "Michael Douglas"
+      ],
+      "question": {
+        "text": "Which actor has starred in films including The Fighter and Ted?"
+      },
+      "tags": [
+        "film",
+        "acting",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -475,19 +369,145 @@
     },
     {
       "category": "science",
-      "id": "64746ac15a4c31088dd9cfdf",
-      "correctAnswer": "Foot",
+      "id": "622a1c3a7cc59eab6f951078",
+      "correctAnswer": "Puffin",
       "incorrectAnswers": [
-        "Hand",
-        "Spine",
-        "Skull"
+        "Albatross",
+        "Penguin",
+        "Dodo"
       ],
       "question": {
-        "text": "Which part of the human body has 26 bones, including 7 tarsals?"
+        "text": "What bird is associated with Lundy Island?"
       },
       "tags": [
-        "anatomy",
-        "bones",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6260309c4b176d54800e3d31",
+      "correctAnswer": "La Paz",
+      "incorrectAnswers": [
+        "Belo Horizonte",
+        "Buenos Aires",
+        "Caracas"
+      ],
+      "question": {
+        "text": "Which of these cities is in Bolivia?"
+      },
+      "tags": [
+        "cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "650570247a97013de78b5540",
+      "correctAnswer": "Water",
+      "incorrectAnswers": [
+        "Oxygen",
+        "Glass",
+        "Glycogen"
+      ],
+      "question": {
+        "text": "Which substance occurs naturally on Earth in all three classical states of matter — solid, liquid and gas?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623388f50161109f922aacba",
+      "correctAnswer": "The Rhine ",
+      "incorrectAnswers": [
+        "The Seine",
+        "The Elbe",
+        "The Danube"
+      ],
+      "question": {
+        "text": "Which River Forms A Border Between France & Germany?"
+      },
+      "tags": [
+        "france",
+        "germany",
+        "rivers",
+        "europe",
+        "bodies_of_water",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f9504e4",
+      "correctAnswer": "the functions of the nervous system",
+      "incorrectAnswers": [
+        "Church architecture and decoration, or separately the Christian Church",
+        "the study and interpretation of symbols, or a set of symbols",
+        "drugs"
+      ],
+      "question": {
+        "text": "What is Neurophysiology the study of?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "6266bc5cff2394bd44dee003",
+      "correctAnswer": "Stringed",
+      "incorrectAnswers": [
+        "Percussion",
+        "Woodwind",
+        "Brass"
+      ],
+      "question": {
+        "text": "What type of instrument is a lute?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "648891864cd3f064f443dc35",
+      "correctAnswer": "Pheromones",
+      "incorrectAnswers": [
+        "Neurotransmitters",
+        "Hormones",
+        "Proteins"
+      ],
+      "question": {
+        "text": "What type of chemical calling cards are released by an animal to affect other members of its species?"
+      },
+      "tags": [
+        "animals",
+        "biology",
         "science"
       ],
       "type": "text_choice",
@@ -497,43 +517,20 @@
     },
     {
       "category": "science",
-      "id": "64626250ab138b829b81e9f3",
-      "correctAnswer": "Albert Einstein",
+      "id": "650570417a97013de78b5569",
+      "correctAnswer": "Carcinogen",
       "incorrectAnswers": [
-        "Isaac Newton",
-        "Stephen Hawking",
-        "Galileo Galilei"
+        "Cyanogen",
+        "Dermatogen",
+        "Androgen"
       ],
       "question": {
-        "text": "Which famous scientist was taught math by Hermann Minkowski in the 1890s?"
+        "text": "What do we call an agent that causes cancer?"
       },
       "tags": [
         "science",
-        "people",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950046",
-      "correctAnswer": "Jesse Owens",
-      "incorrectAnswers": [
-        "Carl Lewis",
-        "Bruce Jenner",
-        "Bob Beamon"
-      ],
-      "question": {
-        "text": "Who Was The First Athlete To Exceed a Distance Of Eight Metres In The Long Jump In 1935?"
-      },
-      "tags": [
-        "athletics",
-        "records",
-        "people",
-        "sport"
+        "medicine",
+        "biology"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -542,19 +539,20 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fcb0",
-      "correctAnswer": "Niger–Congo",
+      "id": "63951d0be55fa75b149597b0",
+      "correctAnswer": "Wai",
       "incorrectAnswers": [
-        "Afroasiatic",
-        "Kra–Dai",
-        "Austroasiatic"
+        "Fist bump",
+        "Handshake",
+        "Khǎawng dtàm"
       ],
       "question": {
-        "text": "The language 'Nigerian Fulfulde' belongs to which language family?"
+        "text": "Which of these gestures  is a commonly used when greeting in Thailand?"
       },
       "tags": [
-        "language",
-        "society_and_culture"
+        "society_and_culture",
+        "thailand",
+        "southeast_asia"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -562,88 +560,88 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b7d",
-      "correctAnswer": "Destiny's Child",
+      "category": "history",
+      "id": "622a1c367cc59eab6f9503ff",
+      "correctAnswer": "24th December",
       "incorrectAnswers": [
-        "TLC",
-        "Pussycat Dolls",
-        "Spice Girls"
+        "25th December",
+        "26th December",
+        "31st December"
       ],
       "question": {
-        "text": "Which band did Kelly Rowland belong to?"
+        "text": "The Nordic countries (Denmark, Sweden, Norway notably) tend to celebrate Christmas chiefly on which date?"
       },
       "tags": [
-        "music",
-        "bands"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b53",
-      "correctAnswer": "Paramore",
-      "incorrectAnswers": [
-        "ABBA",
-        "No Doubt",
-        "The Cranberries"
-      ],
-      "question": {
-        "text": "Which band has Hayley Williams as its lead singer?"
-      },
-      "tags": [
-        "music",
-        "bands"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f9504c3",
-      "correctAnswer": "illness",
-      "incorrectAnswers": [
-        "the classical Chinese literary masterpiece Dream of the Red Chamber",
-        "the practice of escaping from restraints or other traps",
-        "fermentation"
-      ],
-      "question": {
-        "text": "What is Pathology the study of?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "647f9de83a4302a719271655",
-      "correctAnswer": "Scurvy",
-      "incorrectAnswers": [
-        "Smallpox",
-        "Malaria",
-        "Yellow fever"
-      ],
-      "question": {
-        "text": "What disease did the British navy begin issuing daily rations of lemon juice in 1795 to prevent?"
-      },
-      "tags": [
-        "nutrition",
-        "health",
-        "disease",
-        "diseases",
-        "science",
-        "medicine",
-        "seafaring",
+        "christmas",
+        "scandinavia",
         "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "624db9dade6018633d31f6a6",
+      "correctAnswer": "Roger Moore",
+      "incorrectAnswers": [
+        "Pierce Brosnan",
+        "George Lazenby",
+        "Timothy Dalton"
+      ],
+      "question": {
+        "text": "Who played the role of James Bond in The Man with the Golden Gun?"
+      },
+      "tags": [
+        "james_bond",
+        "film",
+        "acting",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "647c9855f89e0968cfbc1a22",
+      "correctAnswer": "3",
+      "incorrectAnswers": [
+        "1",
+        "5",
+        "7"
+      ],
+      "question": {
+        "text": "What is the maximum amount of points that can be scored from a single shot in basketball?"
+      },
+      "tags": [
+        "basketball",
+        "sport",
+        "nba"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c357cc59eab6f94fc5d",
+      "correctAnswer": "Salopettes",
+      "incorrectAnswers": [
+        "Finifugal",
+        "Futz",
+        "Fudgel"
+      ],
+      "question": {
+        "text": "Which word is defined as 'high-waisted skiing pants with shoulder straps'?"
+      },
+      "tags": [
+        "words",
+        "fashion",
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "medium",
