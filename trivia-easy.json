@@ -1,63 +1,23 @@
 {
-  "gameDate": "2026-01-15",
+  "gameDate": "2026-01-16",
   "difficulty": "easy",
   "results": [
     {
-      "category": "history",
-      "id": "622a1c367cc59eab6f9503ba",
-      "correctAnswer": "Babylon",
+      "category": "society_and_culture",
+      "id": "6262af9a4b176d54800e3dd3",
+      "correctAnswer": "Do It Yourself",
       "incorrectAnswers": [
-        "Atlantis",
-        "Jerusalem",
-        "Scythia"
+        "Done It Yet",
+        "Do I? Yes.",
+        "Down In Yellow"
       ],
       "question": {
-        "text": "Where were the Hanging Gardens?"
+        "text": "What do the letters 'DIY' mean?"
       },
       "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6243354dcfaae40c1296149a",
-      "correctAnswer": "A Lamb",
-      "incorrectAnswers": [
-        "A Maggot",
-        "A Caterpillar",
-        "A Fry"
-      ],
-      "question": {
-        "text": "What is a baby sheep known as?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623b578cfd6c701a92118365",
-      "correctAnswer": "Israel",
-      "incorrectAnswers": [
-        "Indonesia",
-        "Brazil",
-        "Egypt"
-      ],
-      "question": {
-        "text": "In which country would you find the City of Jerusalem?"
-      },
-      "tags": [
-        "cities",
-        "general_knowledge",
-        "geography"
+        "initials",
+        "language",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -66,15 +26,15 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950ddd",
-      "correctAnswer": "Anne Frank",
+      "id": "622a1c397cc59eab6f950ead",
+      "correctAnswer": "J. K. Rowling",
       "incorrectAnswers": [
-        "Friedrich Engels",
-        "Michael Ende",
-        "Karl May"
+        "Christopher Tolkien",
+        "Philip Pullman",
+        "C. S. Lewis"
       ],
       "question": {
-        "text": "Which author wrote 'Diary of Anne Frank'?"
+        "text": "Which author wrote 'Harry Potter and the Philosopher's Stone'?"
       },
       "tags": [
         "arts_and_literature"
@@ -85,20 +45,20 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "64fb150b717513cb79190392",
-      "correctAnswer": "Gravy",
+      "category": "general_knowledge",
+      "id": "622a1c3e7cc59eab6f95224a",
+      "correctAnswer": "Narcissism",
       "incorrectAnswers": [
-        "Salt",
-        "Bread",
-        "Cheese"
+        "Greed",
+        "Ego",
+        "Obsession"
       ],
       "question": {
-        "text": "On a dinner table, what item might served in a 'boat'?"
+        "text": "In the field of psychiatry, which term means self-love?"
       },
       "tags": [
-        "food_and_drink",
-        "food"
+        "words",
+        "psychology"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -106,21 +66,61 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "62c92076a218dd4dc1ca17da",
-      "correctAnswer": "Love",
+      "category": "science",
+      "id": "624334dfcfaae40c1296146f",
+      "correctAnswer": "An Owlet",
       "incorrectAnswers": [
-        "Egg",
-        "Zilch",
-        "Nil"
+        "A Caterpillar",
+        "A Codling",
+        "A Colt"
       ],
       "question": {
-        "text": "What word is used for a score of 0 in a game of tennis?"
+        "text": "What would you call a baby owl?"
       },
       "tags": [
-        "sport",
-        "tennis",
-        "words"
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f950169",
+      "correctAnswer": "Romeo",
+      "incorrectAnswers": [
+        "Juliet",
+        "Hamlet",
+        "Paris"
+      ],
+      "question": {
+        "text": "Who said 'But, soft! what light through yonder window breaks'?"
+      },
+      "tags": [
+        "theater"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c3c7cc59eab6f951a8a",
+      "correctAnswer": "October 31st",
+      "incorrectAnswers": [
+        "November 10th",
+        "October 24th",
+        "November 21st"
+      ],
+      "question": {
+        "text": "On Which Date Is Halloween?"
+      },
+      "tags": [
+        "halloween",
+        "general_knowledge",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -129,15 +129,258 @@
     },
     {
       "category": "film_and_tv",
-      "id": "6256986c9da29df7b05f7286",
-      "correctAnswer": "Chris Hemsworth",
+      "id": "625740f69da29df7b05f7405",
+      "correctAnswer": "Rocky",
       "incorrectAnswers": [
-        "Jon Favreau",
-        "John Slattery",
-        "Tom Holland"
+        "Amélie",
+        "The Deer Hunter",
+        "Schindler's List"
       ],
       "question": {
-        "text": "The role of Thor in the Marvel Cinematic Universe is played by which actor?"
+        "text": "Name the movie that matches the following plot summary: 'A small-time boxer gets a chance to fight the world heavyweight champion.'"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f9502bc",
+      "correctAnswer": "Pasta ",
+      "incorrectAnswers": [
+        "Chicken",
+        "Cheese",
+        "Bread"
+      ],
+      "question": {
+        "text": "What Is Ravioli? "
+      },
+      "tags": [
+        "food",
+        "general_knowledge",
+        "words",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f950026",
+      "correctAnswer": "Baseball",
+      "incorrectAnswers": [
+        "Basketball",
+        "American Football",
+        "Soccer"
+      ],
+      "question": {
+        "text": "With which sport is Babe Ruth associated?"
+      },
+      "tags": [
+        "sport",
+        "people",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "625063b1e12f6dec240bdf7b",
+      "correctAnswer": "Ice Ice Baby",
+      "incorrectAnswers": [
+        "I Want Candy",
+        "Baby Got Back",
+        "We're Not Gonna Take It"
+      ],
+      "question": {
+        "text": "Vanilla Ice had a one hit wonder in 1990 with which song?"
+      },
+      "tags": [
+        "songs",
+        "one_hit_wonders",
+        "1990's",
+        "general_knowledge",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c3b7cc59eab6f951782",
+      "correctAnswer": "Back to the Future",
+      "incorrectAnswers": [
+        "Star Wars",
+        "Jurassic Park",
+        "The Goonies"
+      ],
+      "question": {
+        "text": "Which movie had a device known as a flux capacitor?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv",
+        "cult_films"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "65056e237a97013de78b5277",
+      "correctAnswer": "Green",
+      "incorrectAnswers": [
+        "Brown",
+        "Purple",
+        "Orange"
+      ],
+      "question": {
+        "text": "If you mix yellow and blue paint together, what color do you get?"
+      },
+      "tags": [
+        "arts_and_literature",
+        "colour",
+        "painting"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62602d0a4b176d54800e3c7a",
+      "correctAnswer": "Toronto",
+      "incorrectAnswers": [
+        "New York",
+        "London",
+        "Minneapolis-St Paul"
+      ],
+      "question": {
+        "text": "Which of these cities is in Canada?"
+      },
+      "tags": [
+        "cities",
+        "canada",
+        "general_knowledge",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "624dba52de6018633d31f6c0",
+      "correctAnswer": "Adele",
+      "incorrectAnswers": [
+        "Jack White and Alicia Keys",
+        "Madonna",
+        "Chris Cornell"
+      ],
+      "question": {
+        "text": "Who performed the theme song to the James Bond film Skyfall?"
+      },
+      "tags": [
+        "james_bond",
+        "film",
+        "soundtracks",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c377cc59eab6f9507e0",
+      "correctAnswer": "Europe",
+      "incorrectAnswers": [
+        "South America",
+        "Oceania",
+        "Asia"
+      ],
+      "question": {
+        "text": "The country of Denmark is on which continent?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f8d9",
+      "correctAnswer": "Bruce Willis",
+      "incorrectAnswers": [
+        "John Travolta",
+        "Sean Penn",
+        "Al Pacino"
+      ],
+      "question": {
+        "text": "Which actor played the role of John McClane in Die Hard?"
+      },
+      "tags": [
+        "acting",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fced",
+      "correctAnswer": "Koreanic",
+      "incorrectAnswers": [
+        "Afroasiatic",
+        "Sino-Tibetan",
+        "Turkic"
+      ],
+      "question": {
+        "text": "The language 'Korean' belongs to which language family?"
+      },
+      "tags": [
+        "language",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "6256985c9da29df7b05f7282",
+      "correctAnswer": "Black Widow",
+      "incorrectAnswers": [
+        "Gamora",
+        "Valkyrie",
+        "Captain Marvel"
+      ],
+      "question": {
+        "text": "In the Marvel Cinematic Universe, which character is played by Scarlett Johansson?"
       },
       "tags": [
         "mcu",
@@ -153,65 +396,21 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "65056eaf7a97013de78b533b",
-      "correctAnswer": "Bible",
-      "incorrectAnswers": [
-        "The Odyssey",
-        "Hamlet",
-        "The Decameron"
-      ],
-      "question": {
-        "text": "The 'New King James Version' (NKJV) is a modern translation of which religious text?"
-      },
-      "tags": [
-        "religion",
-        "translation",
-        "bible"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62602d884b176d54800e3c9f",
-      "correctAnswer": "Brazil",
-      "incorrectAnswers": [
-        "Panama",
-        "Mexico",
-        "Ecuador"
-      ],
-      "question": {
-        "text": "Where would you find the city of São Paulo?"
-      },
-      "tags": [
-        "cities",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "society_and_culture",
-      "id": "622a1c3c7cc59eab6f951889",
-      "correctAnswer": "Apples",
+      "id": "63b069424799123c67712f6f",
+      "correctAnswer": "Haka",
       "incorrectAnswers": [
-        "Bananas",
-        "Cherries",
-        "Carrots"
+        "Tango",
+        "Flamenco",
+        "Salsa"
       ],
       "question": {
-        "text": "What Would You Traditionally 'Bob' For At Halloween?"
+        "text": "What is the name of the ceremonial war dance of the Maori people of New Zealand?"
       },
       "tags": [
-        "halloween",
-        "traditions",
-        "food",
-        "society_and_culture"
+        "society_and_culture",
+        "dance",
+        "new_zealand"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -220,154 +419,20 @@
     },
     {
       "category": "music",
-      "id": "636a52a3990390307063f3af",
-      "correctAnswer": "Nirvana",
+      "id": "622a1c357cc59eab6f94fd70",
+      "correctAnswer": "Cher",
       "incorrectAnswers": [
-        "The Isley Brothers",
-        "Van Halen",
-        "Devo"
+        "Lady Gaga",
+        "Sia",
+        "Madonna"
       ],
       "question": {
-        "text": "The song 'Smells Like Teen Spirit' had a well-known cover by Tori Amos, but who recorded the original?"
+        "text": "Whose Real Name Is 'Cherilyn Sarkisian La Pier'?"
       },
       "tags": [
-        "music",
-        "cover_song",
-        "songs",
-        "musicians"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c347cc59eab6f94fbb3",
-      "correctAnswer": "\"Pokémon Theme\" by Jason Paige",
-      "incorrectAnswers": [
-        "\"Let it Be\" by the Beatles",
-        "\"I'm Real (Murder Remix) by Jennifer Lopez and Ja Rule",
-        "\"In da Club\" by 50 Cent"
-      ],
-      "question": {
-        "text": "Which song begins with the lyrics: \"I wanna be the very best...\"?"
-      },
-      "tags": [
-        "lyrics",
-        "general_knowledge",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6463394601d576cfac3aa330",
-      "correctAnswer": "Clotting",
-      "incorrectAnswers": [
-        "Pasteurization",
-        "Filtration",
-        "Distillation"
-      ],
-      "question": {
-        "text": "What is the process by which both milk and blood can become semisolid?"
-      },
-      "tags": [
-        "biology",
-        "health",
-        "medicine",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c3c7cc59eab6f95197f",
-      "correctAnswer": "You turned to stone",
-      "incorrectAnswers": [
-        "You fell in love",
-        "You became a ghost",
-        "You saw your own death"
-      ],
-      "question": {
-        "text": "What Happened If You Looked A Gorgon In The Eye?"
-      },
-      "tags": [
-        "mythology",
-        "ancient_greece",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c44",
-      "correctAnswer": "The Beach Boys",
-      "incorrectAnswers": [
-        "Swans",
-        "The Velvet Underground",
-        "Aerosmith"
-      ],
-      "question": {
-        "text": "Which American rock band released the song 'Good Vibrations'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "625063c2e12f6dec240bdf80",
-      "correctAnswer": "Baby Got Back",
-      "incorrectAnswers": [
-        "867-5309 - Jenny",
-        "What's Up",
-        "Bitter Sweet Symphony"
-      ],
-      "question": {
-        "text": "What song did Sir Mix-A-Lot have a hit with in 1992?"
-      },
-      "tags": [
-        "songs",
-        "one_hit_wonders",
-        "1990's",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b20",
-      "correctAnswer": "Spice Girls",
-      "incorrectAnswers": [
-        "The Supremes",
-        "TLC",
-        "All Saints"
-      ],
-      "question": {
-        "text": "Which band was Geri Halliwell a member of?"
-      },
-      "tags": [
+        "pseudonyms",
         "people",
-        "music",
-        "pop_music",
-        "bands"
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -375,150 +440,21 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "623740dbcb85f7ce9e949d29",
-      "correctAnswer": "Italy",
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fc10",
+      "correctAnswer": "\"Elementary, my dear Watson.\"",
       "incorrectAnswers": [
-        "France",
-        "Greece",
-        "Egypt"
+        "\"Keep your friends close, but your enemies closer.\"",
+        "\"My mother thanks you. My father thanks you. My sister thanks you. And I thank you.\"",
+        "\"My precious.\""
       ],
       "question": {
-        "text": "Rome is the capital city of which country?"
+        "text": "Which of these quotes is from the film 'The Adventures of Sherlock Holmes'?"
       },
       "tags": [
-        "capital_cities",
-        "general_knowledge",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623b57dcfd6c701a92118384",
-      "correctAnswer": "China",
-      "incorrectAnswers": [
-        "Saudi Arabia",
-        "Argentina",
-        "Cuba"
-      ],
-      "question": {
-        "text": "In which country would you find the Forbidden City?"
-      },
-      "tags": [
-        "tourist_attractions",
-        "places",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "64a0966bcf8fd58080cefff5",
-      "correctAnswer": "Charlie and the Chocolate Factory",
-      "incorrectAnswers": [
-        "The Sweet Factory",
-        "The Chocolatier's Gamble",
-        "The Candy Kingdom"
-      ],
-      "question": {
-        "text": "Which book contains the character Willy Wonka?"
-      },
-      "tags": [
-        "childrens_literature",
-        "literature",
-        "arts_and_literature",
-        "fictitious_characters"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6243336dcfaae40c129613df",
-      "correctAnswer": "A Kitten",
-      "incorrectAnswers": [
-        "An Eyas",
-        "A Cygnet",
-        "A Cria"
-      ],
-      "question": {
-        "text": "What is the word for a young cat?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "64f3a941601ffca0b7615de1",
-      "correctAnswer": "The Trojan War",
-      "incorrectAnswers": [
-        "The Napoleonic Wars",
-        "The Crusades",
-        "The Punic Wars"
-      ],
-      "question": {
-        "text": "Which conflict of legend was ignited by Paris and Helen?"
-      },
-      "tags": [
-        "wars",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "625e9f74796f721e95543f9e",
-      "correctAnswer": "Green",
-      "incorrectAnswers": [
-        "Maroon",
-        "Yellow",
-        "Blue"
-      ],
-      "question": {
-        "text": "Which of these colors is included on the flag of Nigeria?"
-      },
-      "tags": [
-        "flags",
-        "africa",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951919",
-      "correctAnswer": "Writing a diary about her hide from the Germans in WW2",
-      "incorrectAnswers": [
-        "Winning a nobel prize for her research into radioactivity",
-        "Being the first woman to be elected to a head of state position",
-        "Being the first woman in space"
-      ],
-      "question": {
-        "text": "What was Anne Frank famous for?"
-      },
-      "tags": [
-        "people",
-        "history"
+        "quotes",
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -527,20 +463,63 @@
     },
     {
       "category": "food_and_drink",
-      "id": "622a1c3b7cc59eab6f951557",
-      "correctAnswer": "Texas ",
+      "id": "624c60c095b12387e142c79b",
+      "correctAnswer": "Ramen",
       "incorrectAnswers": [
-        "Florida",
-        "California",
-        "Georgia"
+        "Ceviche",
+        "Plov",
+        "Chilli Crab"
       ],
       "question": {
-        "text": "Which US state is most associated with Chilli Con Carne?"
+        "text": "Which of these dishes would you most expect to find in Japan?"
       },
       "tags": [
-        "food_and_drink",
         "food",
-        "us_states"
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "645c9f1642ea81e2554c5ef3",
+      "correctAnswer": "Kiwi",
+      "incorrectAnswers": [
+        "Emu",
+        "Penguin",
+        "Ostrich"
+      ],
+      "question": {
+        "text": "What is the name of the strictly protected bird, about the size of a chicken, that is native to New Zealand?"
+      },
+      "tags": [
+        "animals",
+        "birds",
+        "new_zealand",
+        "conservation"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "624c60d550d1a5e051325a76",
+      "correctAnswer": "North Africa",
+      "incorrectAnswers": [
+        "Ghana",
+        "Belgium",
+        "South America"
+      ],
+      "question": {
+        "text": "Tagine is a dish that is most associated with which part of the world?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -549,17 +528,61 @@
     },
     {
       "category": "science",
-      "id": "624333a2cfaae40c129613f4",
-      "correctAnswer": "A Doe",
+      "id": "63e13a18106de6ffa7d4a792",
+      "correctAnswer": "Triangle",
       "incorrectAnswers": [
-        "A Pen",
-        "A Mare",
-        "A Nanny"
+        "Square",
+        "Parallelogram",
+        "Trapezoid"
       ],
       "question": {
-        "text": "A female deer is known as what?"
+        "text": "What is the name of a shape with three sides?"
       },
       "tags": [
+        "science",
+        "mathematics",
+        "shapes"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625741379da29df7b05f740e",
+      "correctAnswer": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "incorrectAnswers": [
+        "Die Hard",
+        "The Departed",
+        "The Truman Show"
+      ],
+      "question": {
+        "text": "Name the movie that matches the following plot summary: 'A blacksmith teams up with an eccentric pirate to save his love.'"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "64824eb57778562fd76a9690",
+      "correctAnswer": "GPS",
+      "incorrectAnswers": [
+        "BPS",
+        "LPS",
+        "TPS"
+      ],
+      "question": {
+        "text": "Which technology was first developed for the U.S. military and is now used for navigation?"
+      },
+      "tags": [
+        "technology",
         "science"
       ],
       "type": "text_choice",
@@ -568,22 +591,43 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f8ae",
-      "correctAnswer": "Swimming",
+      "category": "society_and_culture",
+      "id": "622a1c367cc59eab6f95012a",
+      "correctAnswer": "Olympus",
       "incorrectAnswers": [
-        "Figure skating",
-        "Track and field",
-        "Boxing"
+        "Sinai",
+        "Everest",
+        "Marathon"
       ],
       "question": {
-        "text": "With which sport is Michael Phelps associated?"
+        "text": "Which Greek mountain was known as the home of the gods?"
       },
       "tags": [
-        "olympics",
-        "people",
+        "mythology",
+        "ancient_greece",
+        "classics",
         "general_knowledge",
-        "sport"
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "65056f247a97013de78b53de",
+      "correctAnswer": "Mausoleum",
+      "incorrectAnswers": [
+        "Palace",
+        "Mosque",
+        "Tomb"
+      ],
+      "question": {
+        "text": "What kind of structure is the Taj Mahal?"
+      },
+      "tags": [
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -592,62 +636,20 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "65056e967a97013de78b5318",
-      "correctAnswer": "Vincent van Gogh",
+      "id": "622a1c397cc59eab6f950eab",
+      "correctAnswer": "J. K. Rowling",
       "incorrectAnswers": [
-        "Claude Monet",
-        "Johannes Vermeer",
-        "Egon Schiele"
+        "Christopher Tolkien",
+        "Philip Pullman",
+        "C. S. Lewis"
       ],
       "question": {
-        "text": "Who painted \"The Starry Night\" in 1889?"
+        "text": "Which author wrote 'Harry Potter and the Order of the Phoenix'?"
       },
       "tags": [
-        "arts_and_literature",
-        "painting",
-        "post-impressionism"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f96",
-      "correctAnswer": "William Shakespeare",
-      "incorrectAnswers": [
-        "Arthur C. Clarke",
-        "Isaac Newton",
-        "Enid Blyton"
-      ],
-      "question": {
-        "text": "Which author wrote 'A Midsummer Night's Dream'?"
-      },
-      "tags": [
+        "harry_potter",
+        "literature",
         "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6477bacc550bc819ad646b16",
-      "correctAnswer": "Hay fever",
-      "incorrectAnswers": [
-        "Asthma",
-        "Eczema",
-        "Vertigo"
-      ],
-      "question": {
-        "text": "What allergy is caused by the pollen of certain plants?"
-      },
-      "tags": [
-        "plants",
-        "medicine",
-        "science"
       ],
       "type": "text_choice",
       "difficulty": "easy",

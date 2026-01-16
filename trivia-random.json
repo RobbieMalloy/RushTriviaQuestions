@@ -1,21 +1,22 @@
 {
-  "gameDate": "2026-01-15",
+  "gameDate": "2026-01-16",
   "difficulty": "random",
   "results": [
     {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502b4",
-      "correctAnswer": "Molasses",
+      "category": "sport_and_leisure",
+      "id": "622a1c347cc59eab6f94f871",
+      "correctAnswer": "Cricket",
       "incorrectAnswers": [
-        "Pursy",
-        "Nectar",
-        "Crystallis"
+        "Motor Racing",
+        "Snooker",
+        "Rowing"
       ],
       "question": {
-        "text": "What is the name of the syrup drained from raw sugar?"
+        "text": "With which sport is Brian Lara associated?"
       },
       "tags": [
-        "food_and_drink"
+        "people",
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -23,39 +24,20 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "622a1c377cc59eab6f950593",
-      "correctAnswer": "Brambles",
-      "incorrectAnswers": [
-        "Vaccines",
-        "Christianity",
-        "Pollen"
-      ],
-      "question": {
-        "text": "What is Batology the study of?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "music",
-      "id": "622a1c357cc59eab6f94ffe1",
-      "correctAnswer": "Ace Of Base",
+      "id": "622a1c357cc59eab6f94fdc4",
+      "correctAnswer": "Pat Benatar",
       "incorrectAnswers": [
-        "Modern Talking",
-        "The Cardigans",
-        "Every Little Thing"
+        "Blondie",
+        "Patti Smith",
+        "Patti Cake$"
       ],
       "question": {
-        "text": "Jenny & Lyn Beggren Are Singers With Which 90's Group"
+        "text": "Patricia Andrzejewski Is The Real Name Of Which Singer"
       },
       "tags": [
-        "bands",
+        "pseudonyms",
+        "names",
         "music"
       ],
       "type": "text_choice",
@@ -65,43 +47,18 @@
     },
     {
       "category": "music",
-      "id": "622a1c387cc59eab6f950b19",
-      "correctAnswer": "Spice Girls",
+      "id": "622a1c387cc59eab6f950b89",
+      "correctAnswer": "The Jimi Hendrix Experience",
       "incorrectAnswers": [
-        "Pussycat Dolls",
-        "Girls Aloud",
-        "ABBA"
+        "Poison",
+        "The Pussycat Dolls",
+        "Three 6 Mafia"
       ],
       "question": {
-        "text": "Which band was Emma Bunton a member of?"
+        "text": "Which English-American psychedelic rock band released the song 'Purple Haze'?"
       },
       "tags": [
-        "people",
-        "music",
-        "bands"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62602e034b176d54800e3cbb",
-      "correctAnswer": "Bilbao",
-      "incorrectAnswers": [
-        "Dublin",
-        "Stuttgart",
-        "Cologne"
-      ],
-      "question": {
-        "text": "Which of these cities is in Spain?"
-      },
-      "tags": [
-        "cities",
-        "europe",
-        "spain",
-        "geography"
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -109,16 +66,82 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "62417cf50f96c4efe8d77396",
-      "correctAnswer": "Cleveland Indians",
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f951014",
+      "correctAnswer": "The Frontal Lobe",
       "incorrectAnswers": [
-        "Cleveland Celtics",
-        "Cleveland Hornets",
-        "Cleveland Blackhawks"
+        "Cortex",
+        "The Hypothalamus",
+        "The Parietal Lobe"
       ],
       "question": {
-        "text": "Which of these is a baseball team based in Cleveland?"
+        "text": "What Part Of The Brain Is Affected In A Lobotomy?"
+      },
+      "tags": [
+        "biology",
+        "medicine"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "63f3950b989356ef48370bf4",
+      "correctAnswer": "Mercury",
+      "incorrectAnswers": [
+        "Venus",
+        "Earth",
+        "Mars"
+      ],
+      "question": {
+        "text": "Which is the smallest planet in the Solar System?"
+      },
+      "tags": [
+        "science",
+        "space",
+        "the_solar_system",
+        "astrophysics"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6463395501d576cfac3aa354",
+      "correctAnswer": "Thar she blows!",
+      "incorrectAnswers": [
+        "Land Ahoy!",
+        "Dive! Dive! Dive!",
+        "Look alive, boys!"
+      ],
+      "question": {
+        "text": "What is the traditional cry heard when a whaling boat spots a whale?"
+      },
+      "tags": [
+        "sailing",
+        "society_and_culture",
+        "phrases"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "62399ede43254f1dbcdd082c",
+      "correctAnswer": "Brazil",
+      "incorrectAnswers": [
+        "France",
+        "Germany",
+        "Spain"
+      ],
+      "question": {
+        "text": "Which country won the 2002 FIFA World Cup, hosted in South Korea & Japan?"
       },
       "tags": [
         "sport"
@@ -130,374 +153,19 @@
     },
     {
       "category": "film_and_tv",
-      "id": "625698b89da29df7b05f7299",
-      "correctAnswer": "Chadwick Boseman",
+      "id": "62573fda9da29df7b05f73b1",
+      "correctAnswer": "A suburban father has a mid-life crisis after becoming infatuated with his daughter's friend.",
       "incorrectAnswers": [
-        "Clark Gregg",
-        "Robert Downey Jr.",
-        "Benedict Wong"
+        "A mother personally challenges the local authorities to solve her daughter's murder.",
+        "A surgeon rescues a disfigured man who is mistreated while scraping a living as a side-show freak.",
+        "A woman works with a hardened boxing trainer to become a professional."
       ],
       "question": {
-        "text": "Which actor played the role of T'Challa in the Marvel Cinematic Universe?"
-      },
-      "tags": [
-        "mcu",
-        "film",
-        "acting",
-        "marvel",
-        "comics",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f901",
-      "correctAnswer": "Macauley Culkin",
-      "incorrectAnswers": [
-        "Bill Murray",
-        "Andy Serkis",
-        "Al Pacino"
-      ],
-      "question": {
-        "text": "Which actor played the role of Kevin McCallister in Home Alone?"
-      },
-      "tags": [
-        "people",
-        "acting",
-        "cult_films",
-        "film",
-        "christmas",
-        "general_knowledge",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9507b4",
-      "correctAnswer": "Arnold Schwarzenegger",
-      "incorrectAnswers": [
-        "Sylvester Stallone",
-        "Jason Statham",
-        "Chuck Norris"
-      ],
-      "question": {
-        "text": "Which action star has featured in both Terminator and Predator?"
-      },
-      "tags": [
-        "film",
-        "acting",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f927",
-      "correctAnswer": "The Graduate",
-      "incorrectAnswers": [
-        "Mad Max",
-        "One Flew Over the Cuckoo's Nest",
-        "The Night of the Hunter"
-      ],
-      "question": {
-        "text": "Which film contains the character 'Mrs. Robinson'?"
+        "text": "What is the plot of the movie American Beauty?"
       },
       "tags": [
         "film",
         "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "647edafd520523194910c2d9",
-      "correctAnswer": "Fondant",
-      "incorrectAnswers": [
-        "Caramel",
-        "Ganache",
-        "Meringue"
-      ],
-      "question": {
-        "text": "What is the sugary paste used for icing and cake decor that comes from the French word for 'melting'?"
-      },
-      "tags": [
-        "baking",
-        "cakes",
-        "food",
-        "food_and_drink",
-        "french"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6470d79b423445f16131b4cb",
-      "correctAnswer": "Hercules",
-      "incorrectAnswers": [
-        "Zeus",
-        "Apollo",
-        "Athena"
-      ],
-      "question": {
-        "text": "Which Roman muscleman is identified with the Celtic God Ogmios and carried a bow and a club?"
-      },
-      "tags": [
-        "mythology",
-        "romans",
-        "the_ancient_world",
-        "celtic",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "624dba48de6018633d31f6bd",
-      "correctAnswer": "Roger Moore",
-      "incorrectAnswers": [
-        "Sean Connery",
-        "George Lazenby",
-        "Timothy Dalton"
-      ],
-      "question": {
-        "text": "Who played the role of James Bond in The Spy Who Loved Me?"
-      },
-      "tags": [
-        "james_bond",
-        "film",
-        "acting",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f95072d",
-      "correctAnswer": "John Travolta",
-      "incorrectAnswers": [
-        "Ralph Fiennes",
-        "Brian Cox",
-        "Michael Douglas"
-      ],
-      "question": {
-        "text": "Which actor has starred in films including Pulp Fiction and The Thin Red Line?"
-      },
-      "tags": [
-        "film_and_tv",
-        "film",
-        "acting"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950bc2",
-      "correctAnswer": "King Crimson",
-      "incorrectAnswers": [
-        "Mogwai",
-        "Deep Purple",
-        "Sade"
-      ],
-      "question": {
-        "text": "Which British progressive rock band released the album 'In the Court of the Crimson King'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f950120",
-      "correctAnswer": "Allah",
-      "incorrectAnswers": [
-        "Mohammed",
-        "Yaweh",
-        "Jehovah"
-      ],
-      "question": {
-        "text": "What is God called in the Muslim faith?"
-      },
-      "tags": [
-        "religion",
-        "islam",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f9510cb",
-      "correctAnswer": "Antifreeze ",
-      "incorrectAnswers": [
-        "Engine oil",
-        "Windscreen wash fluid",
-        "Brake fluid"
-      ],
-      "question": {
-        "text": "Ethylene glycol is frequently used in automobiles. What for? "
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "64fb150b717513cb79190389",
-      "correctAnswer": "The Boer War",
-      "incorrectAnswers": [
-        "The Zulu War",
-        "The Anglo-Saxon War",
-        "The African Colonization War"
-      ],
-      "question": {
-        "text": "Which war did the UK fight in South Africa between 1899 and 1902?"
-      },
-      "tags": [
-        "wars",
-        "history",
-        "south_africa"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f9501cf",
-      "correctAnswer": "The Hitchhiker's Guide to the Galaxy",
-      "incorrectAnswers": [
-        "The War of the Worlds",
-        "Northern Lights",
-        "Twenty Thousand Leagues Under the Sea"
-      ],
-      "question": {
-        "text": "Which piece of written work starts with the line 'Far out in the uncharted backwaters of the unfashionable end of the western spiral arm of the Galaxy lies a small, unregarded yellow sun.'?"
-      },
-      "tags": [
-        "literature",
-        "quotes",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950b52",
-      "correctAnswer": "The Supremes",
-      "incorrectAnswers": [
-        "The Attractions",
-        "The Vandellas",
-        "The Four Tops"
-      ],
-      "question": {
-        "text": "Which band was Diana Ross a member of?"
-      },
-      "tags": [
-        "motown",
-        "music",
-        "musicians"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "6242cb5bd543524f1b19c926",
-      "correctAnswer": "A sord",
-      "incorrectAnswers": [
-        "A parliament",
-        "A paddling",
-        "A skulk"
-      ],
-      "question": {
-        "text": "What is the word for a group of mallards?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c609850d1a5e051325a66",
-      "correctAnswer": "India",
-      "incorrectAnswers": [
-        "Uzbekistan",
-        "United States",
-        "Benin"
-      ],
-      "question": {
-        "text": "Where in the world would you most expect to be served Biryani?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a87dfe78837bfc250aafd",
-      "correctAnswer": "John Lennon",
-      "incorrectAnswers": [
-        "Paul McCartney",
-        "George Harrison",
-        "Ringo Starr"
-      ],
-      "question": {
-        "text": "Which member of The Beatles famously claimed to be 'More popular than Jesus'?"
-      },
-      "tags": [
-        "music"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -506,101 +174,19 @@
     },
     {
       "category": "history",
-      "id": "622a1c3c7cc59eab6f951b0a",
-      "correctAnswer": "Austria",
+      "id": "622a1c357cc59eab6f94fde8",
+      "correctAnswer": "Bartolomeu Dias ",
       "incorrectAnswers": [
-        "Germany",
-        "Belgium",
-        "Switzerland"
+        "Amerigo Vespucci",
+        "Ferdinand Magellan",
+        "Francis Drake"
       ],
       "question": {
-        "text": "In which country was Adolf Hitler born?"
-      },
-      "tags": [],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "639895705c9a75021f310455",
-      "correctAnswer": "Telegraph",
-      "incorrectAnswers": [
-        "Telephone",
-        "Fax Machine",
-        "Radio"
-      ],
-      "question": {
-        "text": "Which new communication technology was introduced in the 1830's and 1840's?"
+        "text": "Who Accidently Sailed Around The Cape Of Good Hope In 1488?"
       },
       "tags": [
-        "history",
-        "1800's",
-        "inventions",
-        "technology"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "6497d1100752843c0d8aadd1",
-      "correctAnswer": "Who Framed Roger Rabbit",
-      "incorrectAnswers": [
-        "The Little Mermaid",
-        "Beauty and the Beast",
-        "Space Jam"
-      ],
-      "question": {
-        "text": "In which 1988 animated film did Jessica Rabbit appear?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "62433569cfaae40c129614a5",
-      "correctAnswer": "A Cygnet",
-      "incorrectAnswers": [
-        "A Spiderling",
-        "A Colt",
-        "A Swanling"
-      ],
-      "question": {
-        "text": "A young swan is known as what?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c367cc59eab6f9503b1",
-      "correctAnswer": "France",
-      "incorrectAnswers": [
-        "Italy",
-        "China",
-        "Russia"
-      ],
-      "question": {
-        "text": "Which country blew up a Greenpeace ship in New Zealand?"
-      },
-      "tags": [
-        "events",
-        "new_zealand",
+        "1400's",
+        "exploration",
         "history"
       ],
       "type": "text_choice",
@@ -610,20 +196,232 @@
     },
     {
       "category": "history",
-      "id": "63afff8a2d1dcedfbb65455d",
-      "correctAnswer": "Middle Ages",
+      "id": "63d95308168979b94b2e4f7f",
+      "correctAnswer": "Vladimir Lenin",
       "incorrectAnswers": [
-        "Classical Period",
-        "Dark Ages",
-        "Age of Exploration"
+        "Joseph Stalin",
+        "Mikhail Gorbachev",
+        "Nikita Khrushchev"
       ],
       "question": {
-        "text": "What is the name given to the period of European history prior to the Renaissance?"
+        "text": "Who was the first president of the Soviet Union?"
       },
       "tags": [
         "history",
-        "renaissance",
-        "europe"
+        "leaders",
+        "soviet_union",
+        "russia"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c3e7cc59eab6f9522dd",
+      "correctAnswer": "Coconut",
+      "incorrectAnswers": [
+        "Banana",
+        "Chilli",
+        "Pumpkin"
+      ],
+      "question": {
+        "text": "From what food do you get copra?"
+      },
+      "tags": [
+        "food_and_drink",
+        "plants",
+        "food"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f9505ea",
+      "correctAnswer": "Sarah Jessica Parker",
+      "incorrectAnswers": [
+        "Audrey Hepburn",
+        "Sally Hawkins",
+        "Lucy Lawless"
+      ],
+      "question": {
+        "text": "Which actress has starred in both Sex and the City and Ed Wood?"
+      },
+      "tags": [
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "62506407e12f6dec240bdf94",
+      "correctAnswer": "Buster Poindexter",
+      "incorrectAnswers": [
+        "Bow Wow Wow",
+        "Crash Test Dummies",
+        "Andrea True Connection"
+      ],
+      "question": {
+        "text": "'Hot, Hot, Hot' was a one hit wonder in 1987 by which artist?"
+      },
+      "tags": [
+        "songs",
+        "one_hit_wonders",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625fd6a8dc0dd3b72da64d01",
+      "correctAnswer": "1981",
+      "incorrectAnswers": [
+        "1976",
+        "1986",
+        "1991"
+      ],
+      "question": {
+        "text": "In which year was Raiders of the Lost Ark released?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fac5",
+      "correctAnswer": "Matthew McConaughey",
+      "incorrectAnswers": [
+        "Christian Bale",
+        "Bruce Dern",
+        "Leonardo DiCaprio"
+      ],
+      "question": {
+        "text": "Who won the 2013 Academy Award for Best Leading Actor for playing the role of Ron Woodroof in Dallas Buyers Club?"
+      },
+      "tags": [
+        "acting",
+        "film",
+        "academy_awards",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6233879a0161109f922aac34",
+      "correctAnswer": "Russia ",
+      "incorrectAnswers": [
+        "China",
+        "Australia",
+        "Brazil"
+      ],
+      "question": {
+        "text": "Which Country Is The Largest?"
+      },
+      "tags": [
+        "general_knowledge",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c377cc59eab6f95045a",
+      "correctAnswer": "A goat",
+      "incorrectAnswers": [
+        "A goose",
+        "A broomstick",
+        "Rudolph"
+      ],
+      "question": {
+        "text": "When visiting Finland, Santa leaves his sleigh behind and rides on what?"
+      },
+      "tags": [
+        "christmas",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623b583dfd6c701a921183a8",
+      "correctAnswer": "England",
+      "incorrectAnswers": [
+        "Italy",
+        "France",
+        "Belgium"
+      ],
+      "question": {
+        "text": "In which country would you find the UNESCO World Heritage site of Stonehenge?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "622a1c357cc59eab6f94fc8e",
+      "correctAnswer": "Collywobbles",
+      "incorrectAnswers": [
+        "Frankenfood",
+        "Erf",
+        "Lackadaisical"
+      ],
+      "question": {
+        "text": "Which word is defined as 'a bellyache'?"
+      },
+      "tags": [
+        "words",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c367cc59eab6f95030f",
+      "correctAnswer": "Stephen King",
+      "incorrectAnswers": [
+        "George Orwell",
+        "John Steinbeck",
+        "Tom Clancy"
+      ],
+      "question": {
+        "text": "Who wrote the book 'The Shining' on which the 1980 Stanley Kubrick film was based?"
+      },
+      "tags": [
+        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -632,18 +430,214 @@
     },
     {
       "category": "science",
-      "id": "622a1c377cc59eab6f950443",
-      "correctAnswer": "Polio",
+      "id": "645fcc90541c4d4fc8cf3095",
+      "correctAnswer": "Apparent Magnitude",
       "incorrectAnswers": [
-        "Smallpox",
-        "Coronavirus",
-        "Malaria"
+        "Apparent Luminosity",
+        "Apparent Intensity",
+        "Apparent Radiance"
       ],
       "question": {
-        "text": "In 1954 the Salk vaccine was introduced - a vaccine which effectively wiped out which devastating disease?"
+        "text": "In astronomy, what is the term for the measurement of the brightness of stars?"
       },
       "tags": [
+        "astronomy",
+        "measurements",
         "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "62417cd80f96c4efe8d7738b",
+      "correctAnswer": "Calgary Flames",
+      "incorrectAnswers": [
+        "Calgary Thunder",
+        "Calgary Bears",
+        "Calgary Royals"
+      ],
+      "question": {
+        "text": "Which of these is a hockey team based in Calgary?"
+      },
+      "tags": [
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623740c4cb85f7ce9e949d20",
+      "correctAnswer": "Jakarta",
+      "incorrectAnswers": [
+        "Yaounde",
+        "Singapore",
+        "Kuala Lumpur"
+      ],
+      "question": {
+        "text": "What is the capital city of Indonesia?"
+      },
+      "tags": [
+        "capital_cities",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e5a",
+      "correctAnswer": "Dante Alighieri",
+      "incorrectAnswers": [
+        "Giovanni Boccaccio",
+        "Agatha Christie",
+        "Aleksandr Solzhenitsyn"
+      ],
+      "question": {
+        "text": "Which author wrote 'Inferno'?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950eba",
+      "correctAnswer": "Oscar Wilde",
+      "incorrectAnswers": [
+        "Charles Dickens",
+        "G. K. Chesterton",
+        "Alphonse Daudet"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Happy Prince and Other Tales'?"
+      },
+      "tags": [
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62374284cb85f7ce9e949dd5",
+      "correctAnswer": "Taiwan",
+      "incorrectAnswers": [
+        "New Zealand",
+        "Kosovo",
+        "Timor-Leste"
+      ],
+      "question": {
+        "text": "Taipei is the capital city of which country?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6474630cbda4b199c327d0bd",
+      "correctAnswer": "Pacific Ocean",
+      "incorrectAnswers": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean"
+      ],
+      "question": {
+        "text": "Which ocean features the Sulu Sea?"
+      },
+      "tags": [
+        "oceans",
+        "seas",
+        "geography",
+        "bodies_of_water"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6233846462eaad73716a8c06",
+      "correctAnswer": "Hebrew ",
+      "incorrectAnswers": [
+        "Aramaic",
+        "Arabic",
+        "Gujarati"
+      ],
+      "question": {
+        "text": "What Is The Official Language Of Israel?"
+      },
+      "tags": [
+        "language",
+        "the_middle_east",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "637162841bf863c45ca6c381",
+      "correctAnswer": "Barba non facit philosophum",
+      "incorrectAnswers": [
+        "Ad victoriam philos",
+        "Una philos non facit ver",
+        "Philosophum ad meliora"
+      ],
+      "question": {
+        "text": "Which of these Latin phrases means 'A beard doesn't make one a philosopher'?"
+      },
+      "tags": [
+        "society_and_culture",
+        "language",
+        "the_romans",
+        "classics"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c357cc59eab6f94ff88",
+      "correctAnswer": "Luxembourg",
+      "incorrectAnswers": [
+        "Veduz",
+        "Brest",
+        "Bruges"
+      ],
+      "question": {
+        "text": "What's the capital of Luxembourg?"
+      },
+      "tags": [
+        "europe",
+        "capital_cities",
+        "general_knowledge",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "medium",

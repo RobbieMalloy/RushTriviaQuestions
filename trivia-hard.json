@@ -1,154 +1,20 @@
 {
-  "gameDate": "2026-01-15",
+  "gameDate": "2026-01-16",
   "difficulty": "hard",
   "results": [
     {
-      "category": "music",
-      "id": "622a1c347cc59eab6f94fbad",
-      "correctAnswer": "\"Bullet with Butterfly Wings\" by The Smashing Pumpkins",
-      "incorrectAnswers": [
-        "\"Jumpin', Jumpin'\" by Destiny's Child",
-        "\"All Along the Watchtower\" by Bob Dylan",
-        "\"Swing Life Away\" by Rise Against"
-      ],
-      "question": {
-        "text": "Which song begins with the lyrics: \"The world is a vampire...\"?"
-      },
-      "tags": [
-        "lyrics",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "637162531bf863c45ca6c36b",
-      "correctAnswer": "Hodie mihi, cras tibi",
-      "incorrectAnswers": [
-        "Cras es, noster",
-        "Tendit in, ardua virtus",
-        "Vincit, qui patitur"
-      ],
-      "question": {
-        "text": "Which of these Latin phrases translates to 'Today it's me, tomorrow it will be you'?"
-      },
-      "tags": [
-        "society_and_culture",
-        "language",
-        "the_romans",
-        "classics"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f990",
-      "correctAnswer": "To the Lighthouse",
-      "incorrectAnswers": [
-        "The Sound and the Fury",
-        "Ulysses",
-        "All the King's Men"
-      ],
-      "question": {
-        "text": "Which book contains the character 'Mrs. Ramsay'?"
-      },
-      "tags": [
-        "literature",
-        "fictitious_characters",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c28",
-      "correctAnswer": "Nirvana",
-      "incorrectAnswers": [
-        "Counting Crows",
-        "Three 6 Mafia",
-        "The Velvet Underground"
-      ],
-      "question": {
-        "text": "Which American rock band released the song 'Sliver'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "science",
-      "id": "63a03959c7d86251f9b65c48",
-      "correctAnswer": ".html",
+      "id": "622a1c3f7cc59eab6f952354",
+      "correctAnswer": "Vitamin C",
       "incorrectAnswers": [
-        ".php",
-        ".js",
-        ".css"
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin B"
       ],
       "question": {
-        "text": "On the Internet, what file extension is used for the content of web pages?"
+        "text": "Ascorbic acid is commonly referred to as which vitamin?"
       },
       "tags": [
-        "the_internet",
-        "technology",
-        "science",
-        "computing",
-        "software_engineering"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f933",
-      "correctAnswer": "My Favorite Year",
-      "incorrectAnswers": [
-        "A Nightmare on Elm Street",
-        "The Searchers",
-        "Die Hard"
-      ],
-      "question": {
-        "text": "Which film contains the character 'Alan Swann'?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "624335c1cfaae40c129614c8",
-      "correctAnswer": "A Mare",
-      "incorrectAnswers": [
-        "A Worker",
-        "A Nanny",
-        "A Cow"
-      ],
-      "question": {
-        "text": "What would you call a female zebra?"
-      },
-      "tags": [
-        "animals",
-        "biology",
         "science"
       ],
       "type": "text_choice",
@@ -157,19 +23,41 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "626030c94b176d54800e3d3e",
-      "correctAnswer": "Tanzania",
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951b02",
+      "correctAnswer": "Memphis",
       "incorrectAnswers": [
-        "Senegal",
-        "Algeria",
-        "South Africa"
+        "Knoxville",
+        "Nashville",
+        "Dallas"
       ],
       "question": {
-        "text": "Dar es Salaam is a city in which country?"
+        "text": "In which US City was Martin Luther King assassinated in 1968?"
       },
       "tags": [
-        "cities",
+        "people",
+        "usa",
+        "1960's",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c387cc59eab6f950977",
+      "correctAnswer": "Chad",
+      "incorrectAnswers": [
+        "São Tomé and Príncipe",
+        "Benin",
+        "Niger"
+      ],
+      "question": {
+        "text": "Which of these countries borders Cameroon?"
+      },
+      "tags": [
         "africa",
         "geography"
       ],
@@ -179,20 +67,229 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "6233857162eaad73716a8c6f",
-      "correctAnswer": "Jewellers",
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f95024e",
+      "correctAnswer": "Apple ",
       "incorrectAnswers": [
-        "Butchers",
-        "Shoes",
-        "Wine"
+        "Grape",
+        "Banana",
+        "Cherry"
       ],
       "question": {
-        "text": "What Type Of Shop Predominates On The Ponte Vecchio In Florence?"
+        "text": "Blanche Ames, Lord Lambourne and Willis Williams are all varieties of _________"
       },
       "tags": [
-        "italy",
-        "tourist_attractions",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f95025b",
+      "correctAnswer": "Lindisfarne Mead ",
+      "incorrectAnswers": [
+        "Long Island Iced Tea",
+        "Camomile Tea",
+        "Dandelion & Burdock"
+      ],
+      "question": {
+        "text": "Which drink do you associate with a holy island in Northumberland?"
+      },
+      "tags": [
+        "drink",
+        "uk",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "646339d101d576cfac3aa3c3",
+      "correctAnswer": "The Golden Fleece",
+      "incorrectAnswers": [
+        "The Trident of Poseidon",
+        "The Helm of Darkness",
+        "The Scepter of the Gods"
+      ],
+      "question": {
+        "text": "In Greek mythology, what did Jason steal from his Uncle Pelias?"
+      },
+      "tags": [
+        "society_and_culture",
+        "ancient_greece",
+        "mythology"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c3c7cc59eab6f95191c",
+      "correctAnswer": "Cabbage Patch Kids",
+      "incorrectAnswers": [
+        "Pokemon Cards",
+        "Hula Hoops",
+        "Yo-Yos"
+      ],
+      "question": {
+        "text": "What toy was in short supply for the 1983 Chirstmas season?"
+      },
+      "tags": [
+        "toys",
+        "1980's",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "6271646a1ba117625baac95e",
+      "correctAnswer": "Puerto Rico",
+      "incorrectAnswers": [
+        "Portugal",
+        "Peru",
+        "Latvia"
+      ],
+      "question": {
+        "text": "In which country is pitorro a popular drink?"
+      },
+      "tags": [
+        "drink",
+        "alcohol"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c387cc59eab6f95083a",
+      "correctAnswer": "Burkina Faso",
+      "incorrectAnswers": [
+        "Nigeria",
+        "Ivory Coast",
+        "São Tomé and Príncipe"
+      ],
+      "question": {
+        "text": "Which of these countries borders Togo?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94fa0a",
+      "correctAnswer": "James Abbott McNeill Whistler",
+      "incorrectAnswers": [
+        "‎‎Edvard Munch",
+        "‎Pablo Picasso",
+        "Diego Velázquez"
+      ],
+      "question": {
+        "text": "Which artist painted \"Whistler’s Mother\""
+      },
+      "tags": [
+        "art",
+        "painting",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "6237409acb85f7ce9e949d0f",
+      "correctAnswer": "Guinea",
+      "incorrectAnswers": [
+        "Romania",
+        "Barbados",
+        "Lebanon"
+      ],
+      "question": {
+        "text": "Conakry is the capital city of which country?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f95037b",
+      "correctAnswer": "Henry II",
+      "incorrectAnswers": [
+        "William I",
+        "Richard III",
+        "Henry VIII"
+      ],
+      "question": {
+        "text": "Who Said \"Will No-One Rid Me Of This Turbulent Priest\"?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fb25",
+      "correctAnswer": "Nomadland",
+      "incorrectAnswers": [
+        "The Father",
+        "Judas and the Black Messiah",
+        "Mank"
+      ],
+      "question": {
+        "text": "Which film won the Academy Award for Best Picture in 2020?"
+      },
+      "tags": [
+        "academy_awards",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "623740f5cb85f7ce9e949d34",
+      "correctAnswer": "Nairobi",
+      "incorrectAnswers": [
+        "Managua",
+        "Kampala",
+        "Georgetown"
+      ],
+      "question": {
+        "text": "What is the capital city of Kenya?"
+      },
+      "tags": [
         "geography"
       ],
       "type": "text_choice",
@@ -202,20 +299,18 @@
     },
     {
       "category": "science",
-      "id": "648614a2f773f09dc0193b35",
-      "correctAnswer": "Iron",
+      "id": "622a1c377cc59eab6f9504c9",
+      "correctAnswer": "the ecology of plant communities",
       "incorrectAnswers": [
-        "Copper",
-        "Gold",
-        "Aluminum"
+        "schematic layouts",
+        "the interrelationship between an organism's physical functioning and its environment",
+        "the nature and origins of knowledge"
       ],
       "question": {
-        "text": "Magnetite, which is noted for its natural magnetism, is an important ore of which metal?"
+        "text": "What is Phytosociology the study of?"
       },
       "tags": [
-        "chemistry",
-        "metals",
-        "materials",
+        "words",
         "science"
       ],
       "type": "text_choice",
@@ -224,103 +319,19 @@
       "isNiche": false
     },
     {
-      "category": "sport_and_leisure",
-      "id": "62417d7d0f96c4efe8d773cc",
-      "correctAnswer": "Philadelphia Phillies",
+      "category": "film_and_tv",
+      "id": "622a1c3d7cc59eab6f951c84",
+      "correctAnswer": "IRAC",
       "incorrectAnswers": [
-        "Philadelphia Brewers",
-        "Philadelphia Crew",
-        "Philadelphia Orioles"
+        "HAL",
+        "OPAL",
+        "TRON"
       ],
       "question": {
-        "text": "Which of these is a baseball team based in Philadelphia?"
+        "text": "What was the name of the computer in TV's Wonder Woman?"
       },
       "tags": [
-        "usa",
-        "baseball",
-        "nbl",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f9508f2",
-      "correctAnswer": "Dominican Republic",
-      "incorrectAnswers": [
-        "Jamaica",
-        "The Bahamas",
-        "Cuba"
-      ],
-      "question": {
-        "text": "Which of these countries borders Haiti?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "622a1c367cc59eab6f9503df",
-      "correctAnswer": "Ceylon",
-      "incorrectAnswers": [
-        "Burma",
-        "East Pakistan",
-        "Persia"
-      ],
-      "question": {
-        "text": "What is the former name of Sri Lanka?"
-      },
-      "tags": [
-        "names",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c24",
-      "correctAnswer": "The Who",
-      "incorrectAnswers": [
-        "Deep Purple",
-        "Travis",
-        "Spandau Ballet"
-      ],
-      "question": {
-        "text": "Which English rock band released the studio album 'Who's Next'?"
-      },
-      "tags": [
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "62417dcc0f96c4efe8d773eb",
-      "correctAnswer": "Vancouver Canucks",
-      "incorrectAnswers": [
-        "Vancouver Rockets",
-        "Vancouver Sounders",
-        "Vancouver Lightning"
-      ],
-      "question": {
-        "text": "Which of these is a hockey team based in Vancouver?"
-      },
-      "tags": [
-        "sport"
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -329,15 +340,15 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fbf0",
-      "correctAnswer": "\"Snap out of it!\"",
+      "id": "625fd6e2dc0dd3b72da64d12",
+      "correctAnswer": "1987",
       "incorrectAnswers": [
-        "\"I drink your milkshake. I drink it up.\"",
-        "\"Go ahead, make my day.\"",
-        "\"You're gonna need a bigger boat.\""
+        "1979",
+        "1983",
+        "1991"
       ],
       "question": {
-        "text": "Which of these quotes is from the film 'Moonstruck'?"
+        "text": "In which year was Full Metal Jacket released?"
       },
       "tags": [
         "film",
@@ -349,21 +360,61 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f8d6",
-      "correctAnswer": "Holly Hunter",
+      "category": "food_and_drink",
+      "id": "6233880f0161109f922aac62",
+      "correctAnswer": "Singapore Sling ",
       "incorrectAnswers": [
-        "Angela Lansbury",
-        "Sidney Poitier",
-        "Emma Thompson"
+        "Mojito",
+        "Daiqiri",
+        "Manhattan"
       ],
       "question": {
-        "text": "Which actress played the role of Jane Craig in Broadcast News?"
+        "text": "Which Cocktail Was Invented At The Raffles Hotel?"
+      },
+      "tags": [],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f9506a1",
+      "correctAnswer": "Naomi Watts",
+      "incorrectAnswers": [
+        "Melissa Leo",
+        "Frances Conroy",
+        "Laura Linney"
+      ],
+      "question": {
+        "text": "Which actress has featured in films including King Kong and Twin Peaks?"
       },
       "tags": [
-        "film",
-        "acting",
         "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6470d79b423445f16131b4cb",
+      "correctAnswer": "Hercules",
+      "incorrectAnswers": [
+        "Zeus",
+        "Apollo",
+        "Athena"
+      ],
+      "question": {
+        "text": "Which Roman muscleman is identified with the Celtic God Ogmios and carried a bow and a club?"
+      },
+      "tags": [
+        "mythology",
+        "romans",
+        "the_ancient_world",
+        "celtic",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -372,17 +423,18 @@
     },
     {
       "category": "science",
-      "id": "62443760746187c5e7be934c",
-      "correctAnswer": "It is used to relieve pain and inflammation.",
+      "id": "622a1c3a7cc59eab6f951005",
+      "correctAnswer": "Titan",
       "incorrectAnswers": [
-        "It is used to preserve food.",
-        "It is used as a solvent for lacquer, floor polishes and resins.",
-        "It is used in thermometers, thermostats, barometers"
+        "Io",
+        "Europa",
+        "Luna"
       ],
       "question": {
-        "text": "What is the chemical magnesium sulphate heptahydrate often used for?"
+        "text": "Which moon is the second largest satellite in our solar system?"
       },
       "tags": [
+        "astronomy",
         "science"
       ],
       "type": "text_choice",
@@ -392,21 +444,45 @@
     },
     {
       "category": "society_and_culture",
-      "id": "63b058884799123c67712f54",
-      "correctAnswer": "Montezuma Cypress",
+      "id": "62c2f9e2b3eadb0437fda6ac",
+      "correctAnswer": "NBC",
       "incorrectAnswers": [
-        "Cortes Elm",
-        "Santana Cedar",
-        "Kahlo Pine"
+        "Slazenger",
+        "Porsche",
+        "ING Group"
       ],
       "question": {
-        "text": "What is the name of the Mexican national tree?"
+        "text": "Which of these brands has a peacock on its logo?"
       },
       "tags": [
-        "mexico",
-        "plants",
-        "trees",
-        "society_and_culture"
+        "society_and_culture",
+        "business",
+        "marketing",
+        "animals",
+        "birds",
+        "logos",
+        "symbols"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c387cc59eab6f950a51",
+      "correctAnswer": "Chile",
+      "incorrectAnswers": [
+        "Peru",
+        "Ecuador",
+        "Suriname"
+      ],
+      "question": {
+        "text": "Which of these countries borders Argentina?"
+      },
+      "tags": [
+        "south_america",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -415,57 +491,15 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f01",
-      "correctAnswer": "Émile Zola",
+      "id": "622a1c3b7cc59eab6f9513ac",
+      "correctAnswer": "Pride and Prejudice",
       "incorrectAnswers": [
-        "Alphonse Daudet",
-        "Anatole France",
-        "Charles Dickens"
+        "The Fault in Our Stars",
+        "Ship of Fools",
+        "War and Peace"
       ],
       "question": {
-        "text": "Which author wrote 'Germinal'?"
-      },
-      "tags": [
-        "literature",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951acc",
-      "correctAnswer": "Shooting John Lennon",
-      "incorrectAnswers": [
-        "Inventing the Rubik's Cube",
-        "Being elected as Canada's first openly homosexual Prime Minister",
-        "Abdicating the throne of the United Kingdom"
-      ],
-      "question": {
-        "text": "Mark David Chapman was famous for what in 1980?"
-      },
-      "tags": [
-        "people",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f7c",
-      "correctAnswer": "Stephen King",
-      "incorrectAnswers": [
-        "H. P. Lovecraft",
-        "Edgar Allan Poe",
-        "Jack Vance"
-      ],
-      "question": {
-        "text": "Which author wrote 'Just After Sunset'?"
+        "text": "In which book does 'Mr William Collins' appear?"
       },
       "tags": [
         "arts_and_literature"
@@ -477,61 +511,21 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f95065b",
-      "correctAnswer": "Salma Hayek",
+      "id": "622a1c347cc59eab6f94fb01",
+      "correctAnswer": "Marion Cotillard",
       "incorrectAnswers": [
-        "Frances Fisher",
-        "Rachel Weisz",
-        "Keira Knightley"
+        "Cate Blanchett",
+        "Julie Christie",
+        "Laura Linney"
       ],
       "question": {
-        "text": "Which actress has appeared in films including Traffic and Eternals?"
+        "text": "Who won the 2007 Academy Award for Best Leading Actress for playing the role of Edith Piaf in La Vie en Rose?"
       },
       "tags": [
-        "film_and_tv",
+        "acting",
         "film",
-        "acting"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "sport_and_leisure",
-      "id": "622a1c347cc59eab6f94f888",
-      "correctAnswer": "Tennis",
-      "incorrectAnswers": [
-        "Motor Racing",
-        "Swimming",
-        "Table tennis"
-      ],
-      "question": {
-        "text": "With which sport is Monica Seles associated?"
-      },
-      "tags": [
-        "people",
-        "sport"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623b5778fd6c701a9211835d",
-      "correctAnswer": "Cambodia",
-      "incorrectAnswers": [
-        "Guatemala",
-        "Belgium",
-        "Iraq"
-      ],
-      "question": {
-        "text": "In which country would you find the UNESCO World Heritage site of Angkor Wat?"
-      },
-      "tags": [
-        "geography"
+        "academy_awards",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -540,19 +534,18 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94f987",
-      "correctAnswer": "Heart of Darkness",
+      "id": "622a1c397cc59eab6f950f25",
+      "correctAnswer": "Hans Christian Andersen",
       "incorrectAnswers": [
-        "The Quiet American",
-        "The Trial",
-        "Pale Fire"
+        "Beatrix Potter",
+        "Søren Kierkegaard",
+        "Oscar Wilde"
       ],
       "question": {
-        "text": "Which book contains the character 'Kurtz'?"
+        "text": "Which author wrote 'The Little Match Girl'?"
       },
       "tags": [
         "literature",
-        "fictitious_characters",
         "arts_and_literature"
       ],
       "type": "text_choice",
@@ -562,17 +555,18 @@
     },
     {
       "category": "geography",
-      "id": "6233868662eaad73716a8cdb",
-      "correctAnswer": "Belgium",
+      "id": "62374107cb85f7ce9e949d3b",
+      "correctAnswer": "Kyrgyzstan",
       "incorrectAnswers": [
-        "New Zealand",
-        "South Africa",
-        "Turkey"
+        "Denmark",
+        "United Arab Emirates",
+        "Lithuania"
       ],
       "question": {
-        "text": "Where is Tongeren?"
+        "text": "Bishkek is the capital city of which country?"
       },
       "tags": [
+        "capital_cities",
         "geography"
       ],
       "type": "text_choice",
@@ -581,19 +575,42 @@
       "isNiche": false
     },
     {
-      "category": "music",
-      "id": "622a1c397cc59eab6f950c90",
-      "correctAnswer": "The Rolling Stones",
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f950259",
+      "correctAnswer": "Water ",
       "incorrectAnswers": [
-        "McFly",
-        "Delirious?",
-        "Depeche Mode"
+        "Beer",
+        "Tea",
+        "Apple Juice"
       ],
       "question": {
-        "text": "Which English rock band released the song 'Brown Sugar'?"
+        "text": "Which drink is sometimes referred to as Adam's ale?"
       },
       "tags": [
-        "music"
+        "drink",
+        "nicknames",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "62443750746187c5e7be9346",
+      "correctAnswer": "It is used in baking to stabilize egg whites.",
+      "incorrectAnswers": [
+        "It is commonly used as a condiment and food preservative.",
+        "It is used in liquid fertilizers, potassium soaps and detergents.",
+        "It is used in thermometers, thermostats, barometers"
+      ],
+      "question": {
+        "text": "What is the chemical potassium hydrogen tartrate often used for?"
+      },
+      "tags": [
+        "chemistry",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -602,39 +619,19 @@
     },
     {
       "category": "geography",
-      "id": "622a1c357cc59eab6f94fe13",
-      "correctAnswer": "Aluminium",
+      "id": "625e9f3e796f721e95543f8e",
+      "correctAnswer": "Blue",
       "incorrectAnswers": [
-        "Oxygen",
-        "Silicon",
-        "Iron"
+        "Green",
+        "Black",
+        "Maroon"
       ],
       "question": {
-        "text": "Which element makes up 8.13% of the Earth's crust"
+        "text": "Which of these colors would you find on the flag of Mongolia?"
       },
       "tags": [
-        "geology",
+        "flags",
         "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f57",
-      "correctAnswer": "Isaac Asimov",
-      "incorrectAnswers": [
-        "Ursula K. Le Guin",
-        "Philip K. Dick",
-        "Stephen King"
-      ],
-      "question": {
-        "text": "Which author wrote 'Second Foundation'?"
-      },
-      "tags": [
-        "arts_and_literature"
       ],
       "type": "text_choice",
       "difficulty": "hard",
