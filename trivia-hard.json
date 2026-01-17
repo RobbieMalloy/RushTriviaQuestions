@@ -1,234 +1,27 @@
 {
-  "gameDate": "2026-01-16",
+  "gameDate": "2026-01-17",
   "difficulty": "hard",
   "results": [
     {
-      "category": "science",
-      "id": "622a1c3f7cc59eab6f952354",
-      "correctAnswer": "Vitamin C",
+      "category": "geography",
+      "id": "64dd398a9cef2bd3a34add0d",
+      "correctAnswer": "The Parthenon",
       "incorrectAnswers": [
-        "Vitamin D",
-        "Vitamin A",
-        "Vitamin B"
+        "The Colosseum",
+        "The Eiffel Tower",
+        "The Great Wall"
       ],
       "question": {
-        "text": "Ascorbic acid is commonly referred to as which vitamin?"
+        "text": "Which famous landmark has a full scale replica in Nashville, Tennessee?"
       },
       "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f951b02",
-      "correctAnswer": "Memphis",
-      "incorrectAnswers": [
-        "Knoxville",
-        "Nashville",
-        "Dallas"
-      ],
-      "question": {
-        "text": "In which US City was Martin Luther King assassinated in 1968?"
-      },
-      "tags": [
-        "people",
+        "architecture",
+        "buildings",
+        "tourist_attractions",
+        "tourism",
+        "geography",
         "usa",
-        "1960's",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f950977",
-      "correctAnswer": "Chad",
-      "incorrectAnswers": [
-        "São Tomé and Príncipe",
-        "Benin",
-        "Niger"
-      ],
-      "question": {
-        "text": "Which of these countries borders Cameroon?"
-      },
-      "tags": [
-        "africa",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f95024e",
-      "correctAnswer": "Apple ",
-      "incorrectAnswers": [
-        "Grape",
-        "Banana",
-        "Cherry"
-      ],
-      "question": {
-        "text": "Blanche Ames, Lord Lambourne and Willis Williams are all varieties of _________"
-      },
-      "tags": [
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f95025b",
-      "correctAnswer": "Lindisfarne Mead ",
-      "incorrectAnswers": [
-        "Long Island Iced Tea",
-        "Camomile Tea",
-        "Dandelion & Burdock"
-      ],
-      "question": {
-        "text": "Which drink do you associate with a holy island in Northumberland?"
-      },
-      "tags": [
-        "drink",
-        "uk",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "646339d101d576cfac3aa3c3",
-      "correctAnswer": "The Golden Fleece",
-      "incorrectAnswers": [
-        "The Trident of Poseidon",
-        "The Helm of Darkness",
-        "The Scepter of the Gods"
-      ],
-      "question": {
-        "text": "In Greek mythology, what did Jason steal from his Uncle Pelias?"
-      },
-      "tags": [
-        "society_and_culture",
-        "ancient_greece",
-        "mythology"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c3c7cc59eab6f95191c",
-      "correctAnswer": "Cabbage Patch Kids",
-      "incorrectAnswers": [
-        "Pokemon Cards",
-        "Hula Hoops",
-        "Yo-Yos"
-      ],
-      "question": {
-        "text": "What toy was in short supply for the 1983 Chirstmas season?"
-      },
-      "tags": [
-        "toys",
-        "1980's",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "6271646a1ba117625baac95e",
-      "correctAnswer": "Puerto Rico",
-      "incorrectAnswers": [
-        "Portugal",
-        "Peru",
-        "Latvia"
-      ],
-      "question": {
-        "text": "In which country is pitorro a popular drink?"
-      },
-      "tags": [
-        "drink",
-        "alcohol"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f95083a",
-      "correctAnswer": "Burkina Faso",
-      "incorrectAnswers": [
-        "Nigeria",
-        "Ivory Coast",
-        "São Tomé and Príncipe"
-      ],
-      "question": {
-        "text": "Which of these countries borders Togo?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c347cc59eab6f94fa0a",
-      "correctAnswer": "James Abbott McNeill Whistler",
-      "incorrectAnswers": [
-        "‎‎Edvard Munch",
-        "‎Pablo Picasso",
-        "Diego Velázquez"
-      ],
-      "question": {
-        "text": "Which artist painted \"Whistler’s Mother\""
-      },
-      "tags": [
-        "art",
-        "painting",
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "6237409acb85f7ce9e949d0f",
-      "correctAnswer": "Guinea",
-      "incorrectAnswers": [
-        "Romania",
-        "Barbados",
-        "Lebanon"
-      ],
-      "question": {
-        "text": "Conakry is the capital city of which country?"
-      },
-      "tags": [
-        "geography"
+        "cities"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -237,252 +30,20 @@
     },
     {
       "category": "history",
-      "id": "622a1c367cc59eab6f95037b",
-      "correctAnswer": "Henry II",
+      "id": "639ae34b929b90846f2fc8c2",
+      "correctAnswer": "Nahuatl",
       "incorrectAnswers": [
-        "William I",
-        "Richard III",
-        "Henry VIII"
+        "Mayan",
+        "Mixtec",
+        "Otomi"
       ],
       "question": {
-        "text": "Who Said \"Will No-One Rid Me Of This Turbulent Priest\"?"
+        "text": "What was the primary language of the Aztecs?"
       },
       "tags": [
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fb25",
-      "correctAnswer": "Nomadland",
-      "incorrectAnswers": [
-        "The Father",
-        "Judas and the Black Messiah",
-        "Mank"
-      ],
-      "question": {
-        "text": "Which film won the Academy Award for Best Picture in 2020?"
-      },
-      "tags": [
-        "academy_awards",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "623740f5cb85f7ce9e949d34",
-      "correctAnswer": "Nairobi",
-      "incorrectAnswers": [
-        "Managua",
-        "Kampala",
-        "Georgetown"
-      ],
-      "question": {
-        "text": "What is the capital city of Kenya?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c377cc59eab6f9504c9",
-      "correctAnswer": "the ecology of plant communities",
-      "incorrectAnswers": [
-        "schematic layouts",
-        "the interrelationship between an organism's physical functioning and its environment",
-        "the nature and origins of knowledge"
-      ],
-      "question": {
-        "text": "What is Phytosociology the study of?"
-      },
-      "tags": [
-        "words",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c3d7cc59eab6f951c84",
-      "correctAnswer": "IRAC",
-      "incorrectAnswers": [
-        "HAL",
-        "OPAL",
-        "TRON"
-      ],
-      "question": {
-        "text": "What was the name of the computer in TV's Wonder Woman?"
-      },
-      "tags": [
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625fd6e2dc0dd3b72da64d12",
-      "correctAnswer": "1987",
-      "incorrectAnswers": [
-        "1979",
-        "1983",
-        "1991"
-      ],
-      "question": {
-        "text": "In which year was Full Metal Jacket released?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "6233880f0161109f922aac62",
-      "correctAnswer": "Singapore Sling ",
-      "incorrectAnswers": [
-        "Mojito",
-        "Daiqiri",
-        "Manhattan"
-      ],
-      "question": {
-        "text": "Which Cocktail Was Invented At The Raffles Hotel?"
-      },
-      "tags": [],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c377cc59eab6f9506a1",
-      "correctAnswer": "Naomi Watts",
-      "incorrectAnswers": [
-        "Melissa Leo",
-        "Frances Conroy",
-        "Laura Linney"
-      ],
-      "question": {
-        "text": "Which actress has featured in films including King Kong and Twin Peaks?"
-      },
-      "tags": [
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6470d79b423445f16131b4cb",
-      "correctAnswer": "Hercules",
-      "incorrectAnswers": [
-        "Zeus",
-        "Apollo",
-        "Athena"
-      ],
-      "question": {
-        "text": "Which Roman muscleman is identified with the Celtic God Ogmios and carried a bow and a club?"
-      },
-      "tags": [
-        "mythology",
-        "romans",
-        "the_ancient_world",
-        "celtic",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f951005",
-      "correctAnswer": "Titan",
-      "incorrectAnswers": [
-        "Io",
-        "Europa",
-        "Luna"
-      ],
-      "question": {
-        "text": "Which moon is the second largest satellite in our solar system?"
-      },
-      "tags": [
-        "astronomy",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "62c2f9e2b3eadb0437fda6ac",
-      "correctAnswer": "NBC",
-      "incorrectAnswers": [
-        "Slazenger",
-        "Porsche",
-        "ING Group"
-      ],
-      "question": {
-        "text": "Which of these brands has a peacock on its logo?"
-      },
-      "tags": [
-        "society_and_culture",
-        "business",
-        "marketing",
-        "animals",
-        "birds",
-        "logos",
-        "symbols"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c387cc59eab6f950a51",
-      "correctAnswer": "Chile",
-      "incorrectAnswers": [
-        "Peru",
-        "Ecuador",
-        "Suriname"
-      ],
-      "question": {
-        "text": "Which of these countries borders Argentina?"
-      },
-      "tags": [
-        "south_america",
-        "geography"
+        "history",
+        "aztecs",
+        "language"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -491,58 +52,15 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c3b7cc59eab6f9513ac",
-      "correctAnswer": "Pride and Prejudice",
+      "id": "622a1c397cc59eab6f950e1f",
+      "correctAnswer": "James Fenimore Cooper",
       "incorrectAnswers": [
-        "The Fault in Our Stars",
-        "Ship of Fools",
-        "War and Peace"
+        "Edgar Rice Burroughs",
+        "Jack London",
+        "Edgar Allan Poe"
       ],
       "question": {
-        "text": "In which book does 'Mr William Collins' appear?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fb01",
-      "correctAnswer": "Marion Cotillard",
-      "incorrectAnswers": [
-        "Cate Blanchett",
-        "Julie Christie",
-        "Laura Linney"
-      ],
-      "question": {
-        "text": "Who won the 2007 Academy Award for Best Leading Actress for playing the role of Edith Piaf in La Vie en Rose?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "academy_awards",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "hard",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950f25",
-      "correctAnswer": "Hans Christian Andersen",
-      "incorrectAnswers": [
-        "Beatrix Potter",
-        "Søren Kierkegaard",
-        "Oscar Wilde"
-      ],
-      "question": {
-        "text": "Which author wrote 'The Little Match Girl'?"
+        "text": "Which author wrote 'The Last of the Mohicans'?"
       },
       "tags": [
         "literature",
@@ -554,20 +72,63 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "62374107cb85f7ce9e949d3b",
-      "correctAnswer": "Kyrgyzstan",
+      "category": "film_and_tv",
+      "id": "625fd6e5dc0dd3b72da64d13",
+      "correctAnswer": "1983",
       "incorrectAnswers": [
-        "Denmark",
-        "United Arab Emirates",
-        "Lithuania"
+        "1978",
+        "1988",
+        "1993"
       ],
       "question": {
-        "text": "Bishkek is the capital city of which country?"
+        "text": "In which year was Scarface released?"
       },
       "tags": [
-        "capital_cities",
-        "geography"
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f95008a",
+      "correctAnswer": "Mayfair",
+      "incorrectAnswers": [
+        "Kensington",
+        "Trafalgar Square",
+        "Old Kent Road"
+      ],
+      "question": {
+        "text": "What Is The Most Valuble Property In A Game Of British Monopoly?"
+      },
+      "tags": [
+        "games",
+        "uk"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f93b",
+      "correctAnswer": "Misery",
+      "incorrectAnswers": [
+        "Wall Street",
+        "Alien",
+        "Network"
+      ],
+      "question": {
+        "text": "Which film contains the character 'Annie Wilkes'?"
+      },
+      "tags": [
+        "film",
+        "fictitious_characters",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "hard",
@@ -576,19 +137,19 @@
     },
     {
       "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f950259",
-      "correctAnswer": "Water ",
+      "id": "6250067cea7a97fd2e356d2d",
+      "correctAnswer": "Shaped pasta",
       "incorrectAnswers": [
-        "Beer",
-        "Tea",
-        "Apple Juice"
+        "Stuffed pasta",
+        "Tubular pasta",
+        "Strand pasta"
       ],
       "question": {
-        "text": "Which drink is sometimes referred to as Adam's ale?"
+        "text": "What type of pasta is casarecce?"
       },
       "tags": [
-        "drink",
-        "nicknames",
+        "food",
+        "italy",
         "food_and_drink"
       ],
       "type": "text_choice",
@@ -597,19 +158,348 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "62443750746187c5e7be9346",
-      "correctAnswer": "It is used in baking to stabilize egg whites.",
+      "category": "geography",
+      "id": "6233857162eaad73716a8c6f",
+      "correctAnswer": "Jewellers",
       "incorrectAnswers": [
-        "It is commonly used as a condiment and food preservative.",
-        "It is used in liquid fertilizers, potassium soaps and detergents.",
-        "It is used in thermometers, thermostats, barometers"
+        "Butchers",
+        "Shoes",
+        "Wine"
       ],
       "question": {
-        "text": "What is the chemical potassium hydrogen tartrate often used for?"
+        "text": "What Type Of Shop Predominates On The Ponte Vecchio In Florence?"
       },
       "tags": [
-        "chemistry",
+        "italy",
+        "tourist_attractions",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c3d7cc59eab6f951c7d",
+      "correctAnswer": "Eagles",
+      "incorrectAnswers": [
+        "Led Zeppelin",
+        "Black Sabbath",
+        "Aerosmith"
+      ],
+      "question": {
+        "text": "'Witchy Woman' was a hit for which rock group in the 1970's?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c3c7cc59eab6f951a48",
+      "correctAnswer": "Melbourne",
+      "incorrectAnswers": [
+        "Cape Town",
+        "Buenos Aires",
+        "Rio de Janeiro"
+      ],
+      "question": {
+        "text": "The first ever Olympic Games to be held south of the equator opened in which city in 1956?"
+      },
+      "tags": [
+        "cities",
+        "olympics",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "648891c14cd3f064f443dc48",
+      "correctAnswer": "Swimwear",
+      "incorrectAnswers": [
+        "Suits",
+        "Hats",
+        "Dresses"
+      ],
+      "question": {
+        "text": "What type of clothing is Anne Cole is known for designing?"
+      },
+      "tags": [
+        "fashion",
+        "clothing",
+        "designers",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63e13a28106de6ffa7d4a7a5",
+      "correctAnswer": "California",
+      "incorrectAnswers": [
+        "New York",
+        "Florida",
+        " Oklahoma"
+      ],
+      "question": {
+        "text": "In which US state did the \"Night Stalker\" serial killer commit his crime spree?"
+      },
+      "tags": [
+        "society_and_culture",
+        "crime",
+        "usa",
+        "1980's"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fe6d",
+      "correctAnswer": "Lady Gaga",
+      "incorrectAnswers": [
+        "Hikaru Utada",
+        "Drake",
+        "Madonna"
+      ],
+      "question": {
+        "text": "Which American singer, songwriter, and actress released the song 'G.U.Y.'?"
+      },
+      "tags": [
+        "musicians",
+        "songs",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "645cb16b7d263fd5097043ca",
+      "correctAnswer": "Jim Thorpe",
+      "incorrectAnswers": [
+        "Bob Mathias",
+        "Bruce Jenner",
+        "Ashton Eaton"
+      ],
+      "question": {
+        "text": "Who won the decathlon with a then-record 8,412 points in the 1912 Olympics?"
+      },
+      "tags": [
+        "olympics",
+        "decathlon",
+        "records",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94ff6e",
+      "correctAnswer": "Jamiroquai",
+      "incorrectAnswers": [
+        "Stereolab",
+        "Simply Red",
+        "Massive Attack"
+      ],
+      "question": {
+        "text": "Which Band Were At The Number One Spot In 1998 With “Deeper Underground”?"
+      },
+      "tags": [
+        "songs",
+        "bands",
+        "1990's"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "645fcc80541c4d4fc8cf307d",
+      "correctAnswer": "Chaos",
+      "incorrectAnswers": [
+        "Pandemonium",
+        "Bedlam",
+        "Anarchy"
+      ],
+      "question": {
+        "text": "What word, from the Greek mythology, refers to the void from which Nyx and Erebus emerged and is used in English to describe a disordered mess?"
+      },
+      "tags": [
+        "mythology",
+        "words",
+        "ancient_greece",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "622a1c367cc59eab6f9503a6",
+      "correctAnswer": "Nurburgring",
+      "incorrectAnswers": [
+        "Hokkenheim",
+        "Spa",
+        "Monza"
+      ],
+      "question": {
+        "text": "Which German Grand Prix circuit was used for a Formula 1 race for the last time in 1976, when Niki Lauda was almost killed?"
+      },
+      "tags": [
+        "racing",
+        "sport"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94fa08",
+      "correctAnswer": "Henri Rousseau",
+      "incorrectAnswers": [
+        "Raphael",
+        "‎Pablo Picasso",
+        "Vasily Kandinsky"
+      ],
+      "question": {
+        "text": "Which artist painted \"The Sleeping Gypsy\""
+      },
+      "tags": [
+        "painting",
+        "art",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c397cc59eab6f950e5d",
+      "correctAnswer": "Christopher Tolkien",
+      "incorrectAnswers": [
+        "Neil Gaiman",
+        "J. R. R. Tolkien",
+        "J. K. Rowling"
+      ],
+      "question": {
+        "text": "Which author wrote 'The Book of Lost Tales'?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fd0a",
+      "correctAnswer": "Voltaire",
+      "incorrectAnswers": [
+        "Socrates",
+        "Martin Heidegger",
+        "Bertrand Russell"
+      ],
+      "question": {
+        "text": "Which philosopher famously said 'All is for the best in the best of all possible worlds'?"
+      },
+      "tags": [
+        "quotes",
+        "philosophy",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6266e6ceff2394bd44dee066",
+      "correctAnswer": "Tien",
+      "incorrectAnswers": [
+        "Zehn",
+        "Diez",
+        "Wit"
+      ],
+      "question": {
+        "text": "What is the Dutch word for 'ten'?"
+      },
+      "tags": [
+        "language",
+        "translations",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fc36",
+      "correctAnswer": "\"I'm walking here! I'm walking here!\"",
+      "incorrectAnswers": [
+        "\"I feel the need - the need for speed!\"",
+        "\"Shane. Shane. Come back!\"",
+        "\"Attica! Attica!\""
+      ],
+      "question": {
+        "text": "Which of these quotes is from the film 'Midnight Cowboy'?"
+      },
+      "tags": [
+        "quotes",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f9510e2",
+      "correctAnswer": "Wind",
+      "incorrectAnswers": [
+        "Boat",
+        "Horse",
+        "Tree"
+      ],
+      "question": {
+        "text": "A \"sirocco\" refers to a type of __________.\""
+      },
+      "tags": [
+        "words",
         "science"
       ],
       "type": "text_choice",
@@ -618,20 +508,150 @@
       "isNiche": false
     },
     {
-      "category": "geography",
-      "id": "625e9f3e796f721e95543f8e",
-      "correctAnswer": "Blue",
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94f977",
+      "correctAnswer": "The Swimmer",
       "incorrectAnswers": [
-        "Green",
-        "Black",
-        "Maroon"
+        "The English Patient",
+        "Portrait of the Artist as a Young Man",
+        "Nine Stories"
       ],
       "question": {
-        "text": "Which of these colors would you find on the flag of Mongolia?"
+        "text": "Which book contains the character 'Neddy Merrill'?"
       },
       "tags": [
-        "flags",
-        "geography"
+        "literature",
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6470d79b423445f16131b4d8",
+      "correctAnswer": "Shingles",
+      "incorrectAnswers": [
+        "Measles",
+        "Smallpox",
+        "Polio"
+      ],
+      "question": {
+        "text": "Which disease is carried by the same virus as chicken pox,l and is common amongst older people?"
+      },
+      "tags": [
+        "diseases",
+        "medicine",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c3b7cc59eab6f951789",
+      "correctAnswer": "Dr Who",
+      "incorrectAnswers": [
+        "Star Trek",
+        "Battlestar Galactica",
+        "The Twilight Zone"
+      ],
+      "question": {
+        "text": "Which long running sci-fi program was first aired in November 1963?"
+      },
+      "tags": [
+        "film_and_tv",
+        "tv",
+        "science_fiction",
+        "1960's"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "6243349dcfaae40c12961455",
+      "correctAnswer": "A Cria",
+      "incorrectAnswers": [
+        "A Baby",
+        "A Lamb",
+        "An Infant"
+      ],
+      "question": {
+        "text": "What would you call a baby llama?"
+      },
+      "tags": [
+        "animals",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f950714",
+      "correctAnswer": "Maggie Smith",
+      "incorrectAnswers": [
+        "Kathy Bates",
+        "Sandra Bæ Hovedr",
+        "Kirsten Dunst"
+      ],
+      "question": {
+        "text": "Which actress has starred in films including Gosford Park and Downton Abbey?"
+      },
+      "tags": [
+        "acting",
+        "film"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f95066f",
+      "correctAnswer": "Elijah Wood",
+      "incorrectAnswers": [
+        "Tim Roth",
+        "Timothy Spall",
+        "Hugo Weaving"
+      ],
+      "question": {
+        "text": "Which actor has appeared in films including Wilfred and Sin City?"
+      },
+      "tags": [
+        "film",
+        "film_and_tv",
+        "acting"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c347cc59eab6f94fa47",
+      "correctAnswer": "Dutch and Flemish Renaissance",
+      "incorrectAnswers": [
+        "Dadaism",
+        "Primitivism",
+        "post-impressionism"
+      ],
+      "question": {
+        "text": "The painting \"The Tower of Babel\" by Pieter Bruegel the Elder is a part of which art movement?"
+      },
+      "tags": [
+        "painting",
+        "art"
       ],
       "type": "text_choice",
       "difficulty": "hard",

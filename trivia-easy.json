@@ -1,43 +1,23 @@
 {
-  "gameDate": "2026-01-16",
+  "gameDate": "2026-01-17",
   "difficulty": "easy",
   "results": [
     {
-      "category": "society_and_culture",
-      "id": "6262af9a4b176d54800e3dd3",
-      "correctAnswer": "Do It Yourself",
-      "incorrectAnswers": [
-        "Done It Yet",
-        "Do I? Yes.",
-        "Down In Yellow"
-      ],
-      "question": {
-        "text": "What do the letters 'DIY' mean?"
-      },
-      "tags": [
-        "initials",
-        "language",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950ead",
-      "correctAnswer": "J. K. Rowling",
+      "id": "648891854cd3f064f443dc27",
+      "correctAnswer": "The Yellow Brick Road",
       "incorrectAnswers": [
-        "Christopher Tolkien",
-        "Philip Pullman",
-        "C. S. Lewis"
+        "The Red Brick Road",
+        "The Emerald Road",
+        "The Sapphire Road"
       ],
       "question": {
-        "text": "Which author wrote 'Harry Potter and the Philosopher's Stone'?"
+        "text": "What did Dorothy and her friends walk down in The Wizard of Oz?"
       },
       "tags": [
-        "arts_and_literature"
+        "arts_and_literature",
+        "literature",
+        "childrens_literature"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -46,59 +26,19 @@
     },
     {
       "category": "general_knowledge",
-      "id": "622a1c3e7cc59eab6f95224a",
-      "correctAnswer": "Narcissism",
+      "id": "6476390bf05ea6d6f587a178",
+      "correctAnswer": "A cascade",
       "incorrectAnswers": [
-        "Greed",
-        "Ego",
-        "Obsession"
+        "A shuffle",
+        "A fountain",
+        "A reverse"
       ],
       "question": {
-        "text": "In the field of psychiatry, which term means self-love?"
+        "text": "What is the most basic juggling pattern?"
       },
       "tags": [
-        "words",
-        "psychology"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "624334dfcfaae40c1296146f",
-      "correctAnswer": "An Owlet",
-      "incorrectAnswers": [
-        "A Caterpillar",
-        "A Codling",
-        "A Colt"
-      ],
-      "question": {
-        "text": "What would you call a baby owl?"
-      },
-      "tags": [
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c367cc59eab6f950169",
-      "correctAnswer": "Romeo",
-      "incorrectAnswers": [
-        "Juliet",
-        "Hamlet",
-        "Paris"
-      ],
-      "question": {
-        "text": "Who said 'But, soft! what light through yonder window breaks'?"
-      },
-      "tags": [
-        "theater"
+        "general_knowledge",
+        "games"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -107,20 +47,20 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c3c7cc59eab6f951a8a",
-      "correctAnswer": "October 31st",
+      "id": "63bc3f9c0e893d6e5a6a0fc5",
+      "correctAnswer": "Hippie",
       "incorrectAnswers": [
-        "November 10th",
-        "October 24th",
-        "November 21st"
+        "Grunge",
+        "Gothic",
+        "Preppy"
       ],
       "question": {
-        "text": "On Which Date Is Halloween?"
+        "text": "What is the name of the fashion trend popularized in the 1960s that involves wearing bright colors and psychedelic patterns?"
       },
       "tags": [
-        "halloween",
-        "general_knowledge",
-        "society_and_culture"
+        "society_and_culture",
+        "fashion",
+        "1960's"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -129,15 +69,15 @@
     },
     {
       "category": "film_and_tv",
-      "id": "625740f69da29df7b05f7405",
-      "correctAnswer": "Rocky",
+      "id": "6257413a9da29df7b05f740f",
+      "correctAnswer": "A kindhearted street urchin and a power-hungry Grand Vizier vie for a magic lamp.",
       "incorrectAnswers": [
-        "Amélie",
-        "The Deer Hunter",
-        "Schindler's List"
+        "Simba and his father are targeted by his uncle, who wants to ascend the throne himself.",
+        "Two soldiers race to deliver a message that will stop 1,600 men from walking into a deadly trap.",
+        "Two grifters team up to pull off the ultimate con."
       ],
       "question": {
-        "text": "Name the movie that matches the following plot summary: 'A small-time boxer gets a chance to fight the world heavyweight champion.'"
+        "text": "What is the plot of the movie Aladdin?"
       },
       "tags": [
         "film",
@@ -149,21 +89,174 @@
       "isNiche": false
     },
     {
-      "category": "food_and_drink",
-      "id": "622a1c367cc59eab6f9502bc",
-      "correctAnswer": "Pasta ",
+      "category": "science",
+      "id": "622a1c3e7cc59eab6f952338",
+      "correctAnswer": "Photosynthesis",
       "incorrectAnswers": [
-        "Chicken",
-        "Cheese",
-        "Bread"
+        "Osmosis",
+        "Thesis",
+        "Carditis"
       ],
       "question": {
-        "text": "What Is Ravioli? "
+        "text": "By what process do plants manufacture energy?"
       },
       "tags": [
-        "food",
+        "biology",
+        "plants",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f951015",
+      "correctAnswer": "Herbivore",
+      "incorrectAnswers": [
+        "Vegitarian",
+        "Vegivore",
+        "Omnivore"
+      ],
+      "question": {
+        "text": "What name is given to animals which only eat plants?"
+      },
+      "tags": [
+        "animals",
+        "biology",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "639c9d90929b90846f2fc953",
+      "correctAnswer": "Barack Obama",
+      "incorrectAnswers": [
+        "Bill Clinton",
+        "George W. Bush",
+        "Donald Trump"
+      ],
+      "question": {
+        "text": "Which US president served two terms in office as the first African American president?"
+      },
+      "tags": [
+        "history",
+        "2000's",
+        "usa",
+        "presidents",
+        "general_knowledge"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "62602d254b176d54800e3c82",
+      "correctAnswer": "China",
+      "incorrectAnswers": [
+        "Mongolia",
+        "India",
+        "Australia"
+      ],
+      "question": {
+        "text": "Where would you find the city of Beijing?"
+      },
+      "tags": [
+        "cities",
         "general_knowledge",
-        "words",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "65056e437a97013de78b52a4",
+      "correctAnswer": "Johann Sebastian",
+      "incorrectAnswers": [
+        "Josef Siegfried",
+        "Jürgen Siegismund",
+        "Jochen Simon"
+      ],
+      "question": {
+        "text": "What do the initials J. S. in J. S. Bach's name stand for?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "65056fdf7a97013de78b54e0",
+      "correctAnswer": "Physicist",
+      "incorrectAnswers": [
+        "Physician",
+        "Physiatrist",
+        "Physicalist"
+      ],
+      "question": {
+        "text": "What term is used for someone who studies physics?"
+      },
+      "tags": [
+        "science",
+        "occupations"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "6398984f5c9a75021f310477",
+      "correctAnswer": "Auschwitz",
+      "incorrectAnswers": [
+        "Dachau",
+        "Buchenwald",
+        "Bergen-Belsen"
+      ],
+      "question": {
+        "text": "Which of these was a Nazi concentration camp in Poland during World War 2?"
+      },
+      "tags": [
+        "history",
+        "world_war_2",
+        "wars",
+        "poland",
+        "places",
+        "europe"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c3b7cc59eab6f95163b",
+      "correctAnswer": "Green",
+      "incorrectAnswers": [
+        "Blue",
+        "Yellow",
+        "Red"
+      ],
+      "question": {
+        "text": " What colour is the flesh of an avocado?"
+      },
+      "tags": [
         "food_and_drink"
       ],
       "type": "text_choice",
@@ -173,176 +266,19 @@
     },
     {
       "category": "sport_and_leisure",
-      "id": "622a1c367cc59eab6f950026",
-      "correctAnswer": "Baseball",
+      "id": "622a1c367cc59eab6f95005a",
+      "correctAnswer": "Butterfly",
       "incorrectAnswers": [
-        "Basketball",
-        "American Football",
-        "Soccer"
+        "Dragonfly",
+        "Mayfly",
+        "Horsefly"
       ],
       "question": {
-        "text": "With which sport is Babe Ruth associated?"
+        "text": "Which Swimming Stroke Was Introduced Into Competition In 1952"
       },
       "tags": [
         "sport",
-        "people",
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "625063b1e12f6dec240bdf7b",
-      "correctAnswer": "Ice Ice Baby",
-      "incorrectAnswers": [
-        "I Want Candy",
-        "Baby Got Back",
-        "We're Not Gonna Take It"
-      ],
-      "question": {
-        "text": "Vanilla Ice had a one hit wonder in 1990 with which song?"
-      },
-      "tags": [
-        "songs",
-        "one_hit_wonders",
-        "1990's",
-        "general_knowledge",
-        "music"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c3b7cc59eab6f951782",
-      "correctAnswer": "Back to the Future",
-      "incorrectAnswers": [
-        "Star Wars",
-        "Jurassic Park",
-        "The Goonies"
-      ],
-      "question": {
-        "text": "Which movie had a device known as a flux capacitor?"
-      },
-      "tags": [
-        "film",
-        "film_and_tv",
-        "cult_films"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "65056e237a97013de78b5277",
-      "correctAnswer": "Green",
-      "incorrectAnswers": [
-        "Brown",
-        "Purple",
-        "Orange"
-      ],
-      "question": {
-        "text": "If you mix yellow and blue paint together, what color do you get?"
-      },
-      "tags": [
-        "arts_and_literature",
-        "colour",
-        "painting"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "62602d0a4b176d54800e3c7a",
-      "correctAnswer": "Toronto",
-      "incorrectAnswers": [
-        "New York",
-        "London",
-        "Minneapolis-St Paul"
-      ],
-      "question": {
-        "text": "Which of these cities is in Canada?"
-      },
-      "tags": [
-        "cities",
-        "canada",
-        "general_knowledge",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "624dba52de6018633d31f6c0",
-      "correctAnswer": "Adele",
-      "incorrectAnswers": [
-        "Jack White and Alicia Keys",
-        "Madonna",
-        "Chris Cornell"
-      ],
-      "question": {
-        "text": "Who performed the theme song to the James Bond film Skyfall?"
-      },
-      "tags": [
-        "james_bond",
-        "film",
-        "soundtracks",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "622a1c377cc59eab6f9507e0",
-      "correctAnswer": "Europe",
-      "incorrectAnswers": [
-        "South America",
-        "Oceania",
-        "Asia"
-      ],
-      "question": {
-        "text": "The country of Denmark is on which continent?"
-      },
-      "tags": [
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94f8d9",
-      "correctAnswer": "Bruce Willis",
-      "incorrectAnswers": [
-        "John Travolta",
-        "Sean Penn",
-        "Al Pacino"
-      ],
-      "question": {
-        "text": "Which actor played the role of John McClane in Die Hard?"
-      },
-      "tags": [
-        "acting",
-        "film",
-        "film_and_tv"
+        "swimming"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -351,18 +287,17 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c357cc59eab6f94fced",
-      "correctAnswer": "Koreanic",
+      "id": "622a1c367cc59eab6f9503dd",
+      "correctAnswer": "Garlic",
       "incorrectAnswers": [
-        "Afroasiatic",
-        "Sino-Tibetan",
-        "Turkic"
+        "Chili",
+        "A Crucifix",
+        "Silver"
       ],
       "question": {
-        "text": "The language 'Korean' belongs to which language family?"
+        "text": "What Is Worn Around The Neck To Keep Vampires Away?"
       },
       "tags": [
-        "language",
         "society_and_culture"
       ],
       "type": "text_choice",
@@ -371,24 +306,21 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "6256985c9da29df7b05f7282",
-      "correctAnswer": "Black Widow",
+      "category": "society_and_culture",
+      "id": "65056fa27a97013de78b548d",
+      "correctAnswer": "Kiwi",
       "incorrectAnswers": [
-        "Gamora",
-        "Valkyrie",
-        "Captain Marvel"
+        "Tui",
+        "Bellbird",
+        "Moa"
       ],
       "question": {
-        "text": "In the Marvel Cinematic Universe, which character is played by Scarlett Johansson?"
+        "text": "What is the national bird of New Zealand?"
       },
       "tags": [
-        "mcu",
-        "film",
-        "acting",
-        "marvel",
-        "comics",
-        "film_and_tv"
+        "national_symbols",
+        "New Zealand",
+        "birds"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -396,21 +328,20 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "63b069424799123c67712f6f",
-      "correctAnswer": "Haka",
+      "category": "film_and_tv",
+      "id": "62573f3a3d2f5c16bfb8832f",
+      "correctAnswer": "Historical events unfold from the perspective of an Alabama man with an IQ of 75.",
       "incorrectAnswers": [
-        "Tango",
-        "Flamenco",
-        "Salsa"
+        "A thief who steals secrets through dreams must plant an idea into the mind of a C.E.O.",
+        "The son of a city's mastermind falls in love with a working-class prophet.",
+        "An insomniac and a soap maker form an underground organisation that evolves into much more."
       ],
       "question": {
-        "text": "What is the name of the ceremonial war dance of the Maori people of New Zealand?"
+        "text": "What is the plot of the movie Forrest Gump?"
       },
       "tags": [
-        "society_and_culture",
-        "dance",
-        "new_zealand"
+        "film",
+        "film_and_tv"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -419,20 +350,20 @@
     },
     {
       "category": "music",
-      "id": "622a1c357cc59eab6f94fd70",
-      "correctAnswer": "Cher",
+      "id": "622a1c397cc59eab6f950d4b",
+      "correctAnswer": "One Direction",
       "incorrectAnswers": [
-        "Lady Gaga",
-        "Sia",
-        "Madonna"
+        "The Beatles",
+        "NWA",
+        "Oasis"
       ],
       "question": {
-        "text": "Whose Real Name Is 'Cherilyn Sarkisian La Pier'?"
+        "text": "Which band was Niall Horan a member of?"
       },
       "tags": [
-        "pseudonyms",
-        "people",
-        "music"
+        "music",
+        "pop_music",
+        "bands"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -440,86 +371,22 @@
       "isNiche": false
     },
     {
-      "category": "film_and_tv",
-      "id": "622a1c347cc59eab6f94fc10",
-      "correctAnswer": "\"Elementary, my dear Watson.\"",
+      "category": "geography",
+      "id": "62602d214b176d54800e3c81",
+      "correctAnswer": "Austria",
       "incorrectAnswers": [
-        "\"Keep your friends close, but your enemies closer.\"",
-        "\"My mother thanks you. My father thanks you. My sister thanks you. And I thank you.\"",
-        "\"My precious.\""
+        "Bulgaria",
+        "Sweden",
+        "Ireland"
       ],
       "question": {
-        "text": "Which of these quotes is from the film 'The Adventures of Sherlock Holmes'?"
+        "text": "Where would you find the city of Vienna?"
       },
       "tags": [
-        "quotes",
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c60c095b12387e142c79b",
-      "correctAnswer": "Ramen",
-      "incorrectAnswers": [
-        "Ceviche",
-        "Plov",
-        "Chilli Crab"
-      ],
-      "question": {
-        "text": "Which of these dishes would you most expect to find in Japan?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "645c9f1642ea81e2554c5ef3",
-      "correctAnswer": "Kiwi",
-      "incorrectAnswers": [
-        "Emu",
-        "Penguin",
-        "Ostrich"
-      ],
-      "question": {
-        "text": "What is the name of the strictly protected bird, about the size of a chicken, that is native to New Zealand?"
-      },
-      "tags": [
-        "animals",
-        "birds",
-        "new_zealand",
-        "conservation"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c60d550d1a5e051325a76",
-      "correctAnswer": "North Africa",
-      "incorrectAnswers": [
-        "Ghana",
-        "Belgium",
-        "South America"
-      ],
-      "question": {
-        "text": "Tagine is a dish that is most associated with which part of the world?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
+        "cities",
+        "europe",
+        "general_knowledge",
+        "geography"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -528,61 +395,17 @@
     },
     {
       "category": "science",
-      "id": "63e13a18106de6ffa7d4a792",
-      "correctAnswer": "Triangle",
+      "id": "622a1c3a7cc59eab6f951048",
+      "correctAnswer": "Acidity Or Alkalinity",
       "incorrectAnswers": [
-        "Square",
-        "Parallelogram",
-        "Trapezoid"
+        "Radiation",
+        "Wind Speed",
+        "Gravity"
       ],
       "question": {
-        "text": "What is the name of a shape with three sides?"
+        "text": "What Is PH A Measure Of"
       },
       "tags": [
-        "science",
-        "mathematics",
-        "shapes"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "film_and_tv",
-      "id": "625741379da29df7b05f740e",
-      "correctAnswer": "Pirates of the Caribbean: The Curse of the Black Pearl",
-      "incorrectAnswers": [
-        "Die Hard",
-        "The Departed",
-        "The Truman Show"
-      ],
-      "question": {
-        "text": "Name the movie that matches the following plot summary: 'A blacksmith teams up with an eccentric pirate to save his love.'"
-      },
-      "tags": [
-        "film",
-        "film_and_tv"
-      ],
-      "type": "text_choice",
-      "difficulty": "easy",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "64824eb57778562fd76a9690",
-      "correctAnswer": "GPS",
-      "incorrectAnswers": [
-        "BPS",
-        "LPS",
-        "TPS"
-      ],
-      "question": {
-        "text": "Which technology was first developed for the U.S. military and is now used for navigation?"
-      },
-      "tags": [
-        "technology",
         "science"
       ],
       "type": "text_choice",
@@ -592,22 +415,131 @@
     },
     {
       "category": "society_and_culture",
-      "id": "622a1c367cc59eab6f95012a",
-      "correctAnswer": "Olympus",
+      "id": "62ab32c15202de619af28124",
+      "correctAnswer": "Ford",
       "incorrectAnswers": [
-        "Sinai",
-        "Everest",
-        "Marathon"
+        "Alfa Romeo",
+        "BMW",
+        "Austin"
       ],
       "question": {
-        "text": "Which Greek mountain was known as the home of the gods?"
+        "text": "Which car manufacturer makes the Mustang?"
       },
       "tags": [
-        "mythology",
-        "ancient_greece",
-        "classics",
-        "general_knowledge",
+        "motoring",
+        "business",
         "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3e7cc59eab6f95224c",
+      "correctAnswer": "Hot",
+      "incorrectAnswers": [
+        "Wet",
+        "Windy",
+        "Dark"
+      ],
+      "question": {
+        "text": "In what conditions do thermophilous plants thrive?"
+      },
+      "tags": [
+        "science",
+        "words",
+        "plants",
+        "biology"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c347cc59eab6f94fba7",
+      "correctAnswer": "\"I Will Survive\" by Gloria Gaynor",
+      "incorrectAnswers": [
+        "\"All Star\" by Smash Mouth",
+        "\"Man! I Feel Like a Woman!\" by Shania Twain",
+        "\"You're So Vain\" by Carly Simon"
+      ],
+      "question": {
+        "text": "Which song begins with the lyrics: \"At first I was afraid, I was petrified / Kept thinking I could never live without you by my side...\"?"
+      },
+      "tags": [
+        "songs",
+        "lyrics",
+        "general_knowledge",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3f7cc59eab6f95237c",
+      "correctAnswer": "Bulls",
+      "incorrectAnswers": [
+        "Fellas",
+        "Dogs",
+        "Blokes"
+      ],
+      "question": {
+        "text": "What are male cows called?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "649b45ba828109028d23623d",
+      "correctAnswer": "Celsius",
+      "incorrectAnswers": [
+        "Fahrenheit",
+        "Kelvin",
+        "Rankine"
+      ],
+      "question": {
+        "text": "On which scale is normal human body temperature approximately 37 degrees?"
+      },
+      "tags": [
+        "medicine",
+        "science",
+        "biology"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "64746b075a4c31088dd9d01d",
+      "correctAnswer": "Oysters",
+      "incorrectAnswers": [
+        "Lobsters",
+        "Crabs",
+        "Shrimps"
+      ],
+      "question": {
+        "text": "Which shellfish is said to be an aphrodisiac?"
+      },
+      "tags": [
+        "food",
+        "food_and_drink",
+        "seafood",
+        "love"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -616,18 +548,21 @@
     },
     {
       "category": "society_and_culture",
-      "id": "65056f247a97013de78b53de",
-      "correctAnswer": "Mausoleum",
+      "id": "6293ebd57f41d6338b96eec3",
+      "correctAnswer": "Greek philosopher",
       "incorrectAnswers": [
-        "Palace",
-        "Mosque",
-        "Tomb"
+        "Ottoman Emperor.",
+        "Roman General.",
+        "Spiritual teacher and central figure of Christianity."
       ],
       "question": {
-        "text": "What kind of structure is the Taj Mahal?"
+        "text": "Which of the following describes Aristotle?"
       },
       "tags": [
-        "society_and_culture"
+        "people",
+        "history",
+        "society_and_culture",
+        "general_knowledge"
       ],
       "type": "text_choice",
       "difficulty": "easy",
@@ -636,20 +571,85 @@
     },
     {
       "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950eab",
-      "correctAnswer": "J. K. Rowling",
+      "id": "648888d65dba6c873ef650b1",
+      "correctAnswer": "Oompa Loompas",
       "incorrectAnswers": [
-        "Christopher Tolkien",
-        "Philip Pullman",
-        "C. S. Lewis"
+        "Ongo Bongos",
+        "Oogie Boogies",
+        "Pogre Ogres"
       ],
       "question": {
-        "text": "Which author wrote 'Harry Potter and the Order of the Phoenix'?"
+        "text": "What are the name of the factory workers who love cacao beans in a classic children's book by Roald Dahl?"
       },
       "tags": [
-        "harry_potter",
+        "childrens_literature",
         "literature",
         "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "62573f009da29df7b05f7381",
+      "correctAnswer": "The Matrix",
+      "incorrectAnswers": [
+        "Pulp Fiction",
+        "Forrest Gump",
+        "Joker"
+      ],
+      "question": {
+        "text": "Name the movie that matches the following plot summary: 'A hacker discovers the life he knows is the elaborate deception of an evil cyber-intelligence.'"
+      },
+      "tags": [
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c357cc59eab6f94fd4f",
+      "correctAnswer": "Guitar",
+      "incorrectAnswers": [
+        "Piano",
+        "Drums",
+        "Saxophone"
+      ],
+      "question": {
+        "text": "With Which Instrument Is Les Paul Associated?"
+      },
+      "tags": [
+        "people",
+        "general_knowledge",
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f951042",
+      "correctAnswer": "Big Bang",
+      "incorrectAnswers": [
+        "Eternal Inflation",
+        "Steady State",
+        "Oscillating Model"
+      ],
+      "question": {
+        "text": "What is the most widely accepted theory for the creation of the universe?"
+      },
+      "tags": [
+        "physics",
+        "general_knowledge",
+        "science"
       ],
       "type": "text_choice",
       "difficulty": "easy",

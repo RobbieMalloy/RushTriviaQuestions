@@ -1,22 +1,147 @@
 {
-  "gameDate": "2026-01-16",
+  "gameDate": "2026-01-17",
   "difficulty": "medium",
   "results": [
     {
-      "category": "general_knowledge",
-      "id": "622a1c357cc59eab6f94fe31",
-      "correctAnswer": "Franc",
+      "category": "film_and_tv",
+      "id": "622a1c367cc59eab6f950291",
+      "correctAnswer": "Big Kahuna burger ",
       "incorrectAnswers": [
-        "Peso",
-        "Dollar",
-        "Gira"
+        "Royale With Cheese ",
+        "Dunkin' Donuts",
+        "KFC Family Bucket"
       ],
       "question": {
-        "text": "What is the basic unit of currency for Equatorial Guinea?"
+        "text": "What was Brett's last supper in the film Pulp Fiction?"
       },
       "tags": [
-        "currency",
-        "general_knowledge"
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c3c7cc59eab6f951b08",
+      "correctAnswer": "China",
+      "incorrectAnswers": [
+        "France",
+        "The USA",
+        "Greece"
+      ],
+      "question": {
+        "text": "In which country was paper money first used?"
+      },
+      "tags": [
+        "inventions",
+        "firsts",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "645c9fc342ea81e2554c5f72",
+      "correctAnswer": "Hades",
+      "incorrectAnswers": [
+        "Zeus",
+        "Poseidon",
+        "Apollo"
+      ],
+      "question": {
+        "text": "Which Greek god took Persephone to be his queen in the underworld after she ate his pomegranate seeds?"
+      },
+      "tags": [
+        "mythology",
+        "ancient_greece"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "6490c60158265893a0c86dbb",
+      "correctAnswer": "A tank",
+      "incorrectAnswers": [
+        "A helicopter",
+        "A submarine",
+        "A fighter plane"
+      ],
+      "question": {
+        "text": "What type of war vehicle is the M26 Pershing and the M4 Sherman?"
+      },
+      "tags": [
+        "military",
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "general_knowledge",
+      "id": "65056f537a97013de78b5420",
+      "correctAnswer": "Verb",
+      "incorrectAnswers": [
+        "Adjective",
+        "Noun",
+        "Preposition"
+      ],
+      "question": {
+        "text": "What type of word indicates an action?"
+      },
+      "tags": [
+        "language",
+        "words"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "622a1c367cc59eab6f950350",
+      "correctAnswer": "Neville Chamberlain",
+      "incorrectAnswers": [
+        "Winston Churchill",
+        "Anthony Eden",
+        "Clement Atlee"
+      ],
+      "question": {
+        "text": "Who was the British Prime Minister at the outbreak of the Second World War?"
+      },
+      "tags": [
+        "history"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "63bc3fb10e893d6e5a6a0fe0",
+      "correctAnswer": "Gothic",
+      "incorrectAnswers": [
+        "Grunge",
+        "Hippie",
+        "Preppy"
+      ],
+      "question": {
+        "text": "What is the name of the fashion trend popularized in the 1990s that involves wearing dark colours, plaid shirts, Doc Martens, and ripped jeans?"
+      },
+      "tags": [
+        "society_and_culture",
+        "fashion"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -25,15 +150,195 @@
     },
     {
       "category": "film_and_tv",
-      "id": "62573ffc9da29df7b05f73bb",
-      "correctAnswer": "Metropolis",
+      "id": "622a1c347cc59eab6f94fb5d",
+      "correctAnswer": "The Sound of Music",
       "incorrectAnswers": [
-        "The Lord of the Rings: The Fellowship of the Ring",
-        "The Lives of Others",
-        "The Departed"
+        "Darling",
+        "Doctor Zhivago",
+        "Ship of Fools"
       ],
       "question": {
-        "text": "Name the movie that matches the following plot summary: 'The son of a city's mastermind falls in love with a working-class prophet.'"
+        "text": "Which film won the Academy Award for Best Picture in 1965?"
+      },
+      "tags": [
+        "academy_awards",
+        "film",
+        "cult_films",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "64fb150b717513cb79190390",
+      "correctAnswer": "Neptune",
+      "incorrectAnswers": [
+        "Jupiter",
+        "Uranus",
+        "Saturn"
+      ],
+      "question": {
+        "text": "Which planet has the longest orbit around the sun?"
+      },
+      "tags": [
+        "astronomy",
+        "planets",
+        "space",
+        "science",
+        "the_solar_system"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f950294",
+      "correctAnswer": "Pancakes ",
+      "incorrectAnswers": [
+        "Lamb",
+        "Fish",
+        "Coconut"
+      ],
+      "question": {
+        "text": "What Type Of Foodstuff Is Traditionally Eaten On Shrove Tuesday?"
+      },
+      "tags": [
+        "food",
+        "christianity",
+        "general_knowledge",
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "625e9ffa796f721e95543fc5",
+      "correctAnswer": "Red with a yellow star in the center.",
+      "incorrectAnswers": [
+        "Blue with a yellow cross extending to the edges.",
+        "White with a large red disk in the center.",
+        "Three equal vertical bands of blue gold and red."
+      ],
+      "question": {
+        "text": "What does the flag of Vietnam look like?"
+      },
+      "tags": [
+        "flags",
+        "southeast_asia",
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "622a1c377cc59eab6f950450",
+      "correctAnswer": "Macbeth",
+      "incorrectAnswers": [
+        "Romeo & Juliette",
+        "Hamlet",
+        "King Lear"
+      ],
+      "question": {
+        "text": "Double, double toil and trouble, Fire burn, and cauldron bubble. Comes from which of Shakespeare's plays?"
+      },
+      "tags": [
+        "arts_and_literature"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6262af834b176d54800e3dcc",
+      "correctAnswer": "In Real Life",
+      "incorrectAnswers": [
+        "I Remember Losing",
+        "Idiots Receive Laughter",
+        "I Really Love"
+      ],
+      "question": {
+        "text": "What do people mean when type the letters 'IRL' in a message on the internet?"
+      },
+      "tags": [
+        "the_internet",
+        "initials",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fac4",
+      "correctAnswer": "Leonardo DiCaprio",
+      "incorrectAnswers": [
+        "Bryan Cranston",
+        "Matt Damon",
+        "Michael Fassbender"
+      ],
+      "question": {
+        "text": "Who won the 2015 Academy Award for Best Leading Actor for playing the role of Hugh Glass in The Revenant?"
+      },
+      "tags": [
+        "academy_awards",
+        "film",
+        "acting",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c3a7cc59eab6f951038",
+      "correctAnswer": "Voice box",
+      "incorrectAnswers": [
+        "Tongue",
+        "Tonsils",
+        "Throat"
+      ],
+      "question": {
+        "text": "What is the common name for the larynx?"
+      },
+      "tags": [
+        "anatomy",
+        "biology",
+        "names",
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "625740bc9da29df7b05f73f4",
+      "correctAnswer": "Warrior",
+      "incorrectAnswers": [
+        "No Country for Old Men",
+        "The Terminator",
+        "Lawrence of Arabia"
+      ],
+      "question": {
+        "text": "Name the movie that matches the following plot summary: 'The son of a former boxer is trained by his father for a mixed martial arts tournament.'"
       },
       "tags": [
         "film",
@@ -45,190 +350,16 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "6477bacc550bc819ad646b0c",
-      "correctAnswer": "Gasket",
-      "incorrectAnswers": [
-        "Circuit",
-        "Fuse",
-        "Bolt"
-      ],
-      "question": {
-        "text": "What is the name of the piece used to cover the intersection between two surfaces, usually to prevent leaking?"
-      },
-      "tags": [
-        "engineering",
-        "words",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6293ebf07f41d6338b96eecb",
-      "correctAnswer": "Roman Emperor who accepted the Christian religion.",
-      "incorrectAnswers": [
-        "Holy Roman Emperor who united Germany.",
-        "Ottoman Emperor who conquered Istanbul.",
-        "French King who expelled the British from mainland Europe."
-      ],
-      "question": {
-        "text": "Which of the following describes Constantine the Great?"
-      },
-      "tags": [
-        "people",
-        "history",
-        "leaders"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "arts_and_literature",
-      "id": "622a1c3b7cc59eab6f9513be",
-      "correctAnswer": "Little Women",
-      "incorrectAnswers": [
-        "Buddenbrooks",
-        "David Copperfield",
-        "Jane Eyre"
-      ],
-      "question": {
-        "text": "In which book does 'Beth March' appear?"
-      },
-      "tags": [
-        "arts_and_literature"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "64cfa1637f0714b9a0ca5e8d",
-      "correctAnswer": "Battered",
-      "incorrectAnswers": [
-        "Poached",
-        "Crumbled",
-        "Spatchcock"
-      ],
-      "question": {
-        "text": "What word is used when food is coated in a mixture of flour and eggs for frying?"
-      },
-      "tags": [
-        "cooking",
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6262881a4b176d54800e3d88",
-      "correctAnswer": "IMAX",
-      "incorrectAnswers": [
-        "Motorola",
-        "Nokia",
-        "Sony"
-      ],
-      "question": {
-        "text": "'Think big' is a slogan associated with which technology brand?"
-      },
-      "tags": [
-        "business",
-        "marketing",
-        "technology",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "64e6533a0b79e5bedd5494fe",
-      "correctAnswer": "Joseph Smith",
-      "incorrectAnswers": [
-        "Michael Kennedy",
-        "Abraham Lincoln",
-        "John the Baptist"
-      ],
-      "question": {
-        "text": "Which religious leader had a vision of God and Jesus in 1820, and then founded Mormonism?"
-      },
-      "tags": [
-        "religion",
-        "christianity",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "geography",
-      "id": "625e9dc7796f721e95543f2c",
-      "correctAnswer": "Three horizontal bands of sky blue, white, and sky blue, with a yellow sun in the center.",
-      "incorrectAnswers": [
-        "Red with a white cross that extends to the edges.",
-        "Two equal horizontal bands of white and red.",
-        "Red with a yellow sun having eight broadening rays extending to the edges."
-      ],
-      "question": {
-        "text": "What does the flag of Argentina look like?"
-      },
-      "tags": [
-        "flags",
-        "south_america",
-        "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "624c60e350d1a5e051325a7a",
-      "correctAnswer": "Kimchi",
-      "incorrectAnswers": [
-        "Verivorst",
-        "Fufu",
-        "Nasi Lemak"
-      ],
-      "question": {
-        "text": "Which of these dishes is most associated with Korea?"
-      },
-      "tags": [
-        "food",
-        "food_and_drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "music",
-      "id": "622a1c397cc59eab6f950d09",
-      "correctAnswer": "The Beatles",
+      "id": "622a1c397cc59eab6f950dc3",
+      "correctAnswer": "Green Day",
       "incorrectAnswers": [
-        "Deep Purple",
-        "Feeder",
-        "Uriah Heep"
+        "Mastodon",
+        "Animal Collective",
+        "Fall Out Boy"
       ],
       "question": {
-        "text": "Which English rock band released the song 'Get Back'?"
+        "text": "Which band includes 'Billie Joe Armstrong'?"
       },
       "tags": [
         "music"
@@ -239,22 +370,24 @@
       "isNiche": false
     },
     {
-      "category": "society_and_culture",
-      "id": "637162281bf863c45ca6c358",
-      "correctAnswer": "And you Brutus?",
+      "category": "geography",
+      "id": "6233892a0161109f922aaccf",
+      "correctAnswer": "The Bering Strait ",
       "incorrectAnswers": [
-        "Are you a brute?",
-        "Why be brutal?",
-        "Live laugh love"
+        "The Bosphorus Strait",
+        "The Channel Strait",
+        "The Magellan Strait"
       ],
       "question": {
-        "text": "How does that Latin phrase 'Et tu Brute?' translate into English?"
+        "text": "Which strait separates Alaska from Russia?"
       },
       "tags": [
-        "society_and_culture",
-        "language",
-        "the_romans",
-        "classics"
+        "geography",
+        "straits",
+        "bodies_of_water",
+        "usa",
+        "russia",
+        "alaska"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -262,19 +395,22 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "65056f237a97013de78b53dd",
-      "correctAnswer": "Mosque",
+      "category": "music",
+      "id": "622a1c357cc59eab6f94ff2b",
+      "correctAnswer": "Michael Jackson",
       "incorrectAnswers": [
-        "Temple",
-        "Castle",
-        "Mausoleum"
+        "Nicki Minaj",
+        "Neil Young",
+        "Eric Clapton"
       ],
       "question": {
-        "text": "Masjid Al-Haram is the world's largest …?"
+        "text": "Which musician released the song 'Man in the Mirror'?"
       },
       "tags": [
-        "arts_and_literature"
+        "songs",
+        "musicians",
+        "general_knowledge",
+        "music"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -283,107 +419,19 @@
     },
     {
       "category": "geography",
-      "id": "623735decfe13103f55eb579",
-      "correctAnswer": "Spain",
+      "id": "626030384b176d54800e3d15",
+      "correctAnswer": "Lahore",
       "incorrectAnswers": [
-        "Seychelles",
-        "Eswatini",
-        "Estonia"
+        "Lviv",
+        "Bishkek",
+        "Baku"
       ],
       "question": {
-        "text": "Which region of the world uses '.es' at the end of its web addresses?"
+        "text": "Which of these cities is in Pakistan?"
       },
       "tags": [
+        "cities",
         "geography"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "6471e4297206d7c314606f78",
-      "correctAnswer": "Gracias",
-      "incorrectAnswers": [
-        "Por favor",
-        "Adios",
-        "Hola"
-      ],
-      "question": {
-        "text": "What is the Spanish word for \"thank you\"?"
-      },
-      "tags": [
-        "words",
-        "general_knowledge",
-        "languages"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3a7cc59eab6f950ffc",
-      "correctAnswer": "Cirrhosis",
-      "incorrectAnswers": [
-        "Hepatitis",
-        "Scurvy",
-        "Meningitis"
-      ],
-      "question": {
-        "text": "Which Disease Of The Liver Is Associated With Alcoholism?"
-      },
-      "tags": [
-        "medicine",
-        "biology",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "history",
-      "id": "622a1c3c7cc59eab6f95198a",
-      "correctAnswer": "It Was Sold To The United States",
-      "incorrectAnswers": [
-        "It had the most deadly volcanic eruption in history",
-        "The first recorded meteor impact",
-        "It declared independence"
-      ],
-      "question": {
-        "text": "What Happened To Alaska In 1867?"
-      },
-      "tags": [
-        "us_states",
-        "history"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "64e6fd970b79e5bedd55c8b3",
-      "correctAnswer": "Gin",
-      "incorrectAnswers": [
-        "Tequila",
-        "Whiskey",
-        "Rum"
-      ],
-      "question": {
-        "text": "What liquor is popularly paired with tonic?"
-      },
-      "tags": [
-        "alcohol",
-        "drink",
-        "food_and_drink",
-        "liquor",
-        "spirits"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -392,17 +440,20 @@
     },
     {
       "category": "film_and_tv",
-      "id": "622a1c367cc59eab6f950305",
-      "correctAnswer": "Texas Chainsaw Massacre",
+      "id": "622a1c347cc59eab6f94fc04",
+      "correctAnswer": "\"Hasta la vista, baby.\"",
       "incorrectAnswers": [
-        "Halloween",
-        "Nightmare on Elm Street",
-        "The Blair Witch Project"
+        "\"With great power comes great responsiblity.\"",
+        "\"Made it, Ma! Top of the world!\"",
+        "\"Attica! Attica!\""
       ],
       "question": {
-        "text": "With Which Horror Film Would You Associate The Character Of Leatherface"
+        "text": "Which of these quotes is from the film 'Terminator 2: Judgment Day'?"
       },
       "tags": [
+        "quotes",
+        "film",
+        "general_knowledge",
         "film_and_tv"
       ],
       "type": "text_choice",
@@ -411,197 +462,22 @@
       "isNiche": false
     },
     {
-      "category": "science",
-      "id": "62433487cfaae40c1296144c",
-      "correctAnswer": "A Buck",
-      "incorrectAnswers": [
-        "A Stallion",
-        "A Ram",
-        "A Boar"
-      ],
-      "question": {
-        "text": "What is a male kangaroo known as?"
-      },
-      "tags": [
-        "animals",
-        "biology",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "622a1c3c7cc59eab6f9517de",
-      "correctAnswer": "January 6th",
-      "incorrectAnswers": [
-        "June 20th",
-        "December 1st",
-        "October 19th"
-      ],
-      "question": {
-        "text": "Which date on the Christian calendar marks The Epiphany, when Jesus, Mary and Joseph met The Three Wise Men?"
-      },
-      "tags": [
-        "religion",
-        "christianity",
-        "christmas",
-        "society_and_culture",
-        "traditions"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "645cb0e67d263fd509704394",
-      "correctAnswer": "Bazooka",
-      "incorrectAnswers": [
-        "Grenade",
-        "Mortar",
-        "HIMARS"
-      ],
-      "question": {
-        "text": "What is the name of the shoulder-held weapon used for firing armor-piercing rockets?"
-      },
-      "tags": [
-        "weapons",
-        "military"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
       "category": "history",
-      "id": "65056e727a97013de78b52e5",
-      "correctAnswer": "Carbine",
+      "id": "6477baa2550bc819ad646b06",
+      "correctAnswer": "The Roman Empire",
       "incorrectAnswers": [
-        "Falchion",
-        "Pike",
-        "Maul"
+        "The Byzantine Empire",
+        "The Greek Empire",
+        "The Ottoman Empire"
       ],
       "question": {
-        "text": "Which of these was NOT a weapon typically used during the medieval period?"
+        "text": "Which Republic, which later turned full-blown empire, gained dominance over Italy around 274 B.C.?"
       },
       "tags": [
         "history",
-        "medieval",
-        "weapons"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "food_and_drink",
-      "id": "639898485c9a75021f310472",
-      "correctAnswer": "Red wine",
-      "incorrectAnswers": [
-        "White wine",
-        "Rosé wine",
-        "Sparkling wine"
-      ],
-      "question": {
-        "text": "What type of wine is traditionally used to make sangria?"
-      },
-      "tags": [
-        "food_and_drink",
-        "wine",
-        "drink"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "general_knowledge",
-      "id": "6239f8219129041bf3925cc9",
-      "correctAnswer": "Mike",
-      "incorrectAnswers": [
-        "Mambo",
-        "Mauritius",
-        "Mendip"
-      ],
-      "question": {
-        "text": "What word is used in the NATO Phonetic Alphabet for the letter M?"
-      },
-      "tags": [
-        "general_knowledge"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "society_and_culture",
-      "id": "6498a3c00752843c0d8aadf4",
-      "correctAnswer": "Confucius",
-      "incorrectAnswers": [
-        "Laozi",
-        "Buddha",
-        "Sun Tzu"
-      ],
-      "question": {
-        "text": "Dating from the 5th century B.C., what is the name of the Asian philosopher who wrote 'The Analects'?"
-      },
-      "tags": [
-        "philosophy",
-        "literature",
-        "history",
-        "the_ancient_world",
-        "society_and_culture"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "science",
-      "id": "622a1c3e7cc59eab6f95231a",
-      "correctAnswer": "DNA",
-      "incorrectAnswers": [
-        "RNA",
-        "DRA",
-        "DA"
-      ],
-      "question": {
-        "text": "Deoxyribonucleic acid is better known as what?"
-      },
-      "tags": [
-        "initials",
-        "biology",
-        "science"
-      ],
-      "type": "text_choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
-    },
-    {
-      "category": "music",
-      "id": "622a1c387cc59eab6f950bcf",
-      "correctAnswer": "R.E.M.",
-      "incorrectAnswers": [
-        "Counting Crows",
-        "Three 6 Mafia",
-        "The Velvet Underground"
-      ],
-      "question": {
-        "text": "Which American alternative rock band released the album 'Automatic for the People'?"
-      },
-      "tags": [
-        "rock_music",
-        "music"
+        "empires",
+        "europe",
+        "italy"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -610,21 +486,18 @@
     },
     {
       "category": "sport_and_leisure",
-      "id": "6477bb1e550bc819ad646b77",
-      "correctAnswer": "26",
+      "id": "622a1c367cc59eab6f9500c1",
+      "correctAnswer": "Five",
       "incorrectAnswers": [
-        "40",
-        "50",
-        "12"
+        "Six",
+        "Seven",
+        "Eight"
       ],
       "question": {
-        "text": "To the nearest mile, how many miles are in a marathon?"
+        "text": "How Many Players Are In A Basketball Team?"
       },
       "tags": [
-        "sport",
-        "measurements",
-        "numbers",
-        "athletics"
+        "sport"
       ],
       "type": "text_choice",
       "difficulty": "medium",
@@ -632,19 +505,152 @@
       "isNiche": false
     },
     {
-      "category": "arts_and_literature",
-      "id": "622a1c397cc59eab6f950e81",
-      "correctAnswer": "Voltaire",
+      "category": "science",
+      "id": "622a1c377cc59eab6f950507",
+      "correctAnswer": "the Soviet Union",
       "incorrectAnswers": [
-        "Stendhal",
-        "Paulo Coelho",
-        "Isabel Allende"
+        "interactions between organisms and geomorphological processes",
+        "the study and design of machines at the molecular level",
+        "the structure of diseased tissues"
       ],
       "question": {
-        "text": "Which author wrote 'Complete Works of Voltaire'?"
+        "text": "What is Kremlinology the study of?"
       },
       "tags": [
-        "arts_and_literature"
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c377cc59eab6f9506db",
+      "correctAnswer": "Drew Barrymore",
+      "incorrectAnswers": [
+        "Penélope Cruz",
+        "Kirsten Dunst",
+        "Charlize Theron"
+      ],
+      "question": {
+        "text": "Which actress has starred in films including E.T. the Extra-Terrestrial and Donnie Darko?"
+      },
+      "tags": [
+        "film_and_tv",
+        "film",
+        "acting"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "645cb17f7d263fd5097043de",
+      "correctAnswer": "the Jehovah's Witnesses",
+      "incorrectAnswers": [
+        "the Mormons",
+        "the Catholics",
+        "the Methodists"
+      ],
+      "question": {
+        "text": "What is the name of the religious group with the print magazine \"The Watchtower\"?"
+      },
+      "tags": [
+        "religion",
+        "society_and_culture",
+        "print_media"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94fad4",
+      "correctAnswer": "Russell Crowe",
+      "incorrectAnswers": [
+        "Javier Bardem",
+        "Tom Hanks",
+        "Ed Harris"
+      ],
+      "question": {
+        "text": "Who won the 2000 Academy Award for Best Leading Actor for playing the role of Maximus Decimus Meridius in Gladiator?"
+      },
+      "tags": [
+        "academy_awards",
+        "acting",
+        "film",
+        "general_knowledge",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "geography",
+      "id": "622a1c387cc59eab6f9507f7",
+      "correctAnswer": "Europe",
+      "incorrectAnswers": [
+        "South America",
+        "Oceania",
+        "Asia"
+      ],
+      "question": {
+        "text": "The country of San Marino is on which continent?"
+      },
+      "tags": [
+        "geography"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "647f9ded3a4302a71927167f",
+      "correctAnswer": "CFCs",
+      "incorrectAnswers": [
+        "HFCs",
+        "NFCs",
+        "OFCs"
+      ],
+      "question": {
+        "text": "Which chemical compounds, responsible for breaking down the ozone layer, were the subject of a 1987 treaty?"
+      },
+      "tags": [
+        "chemistry",
+        "environment",
+        "science",
+        "treaties",
+        "1980's"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "6488889c5dba6c873ef65070",
+      "correctAnswer": "New Zealand",
+      "incorrectAnswers": [
+        "Japan",
+        "Canada",
+        "Brazil"
+      ],
+      "question": {
+        "text": "Which country's indigenous population is known as the Māori?"
+      },
+      "tags": [
+        "countries",
+        "society_and_culture"
       ],
       "type": "text_choice",
       "difficulty": "medium",
